@@ -1,11 +1,12 @@
 ---
 layout: splash
 read_time: false
-comments: true
-share: true
+comments: false
+share: false
 author_profile: true
 title: <br><br><br>Theses
 permalink: /thesis/
+---
 
 feature_row_phd:
   - image_path: /assets/images/phd.png
