@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: home
+author_profile: true
 classes: wide
 read_time: false
 comments: false
