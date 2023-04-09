@@ -6,6 +6,12 @@ share: true
 author_profile: true
 title: Projects
 permalink: /projects/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+
+intro: 
+  - excerpt: 'In the following the list of projects'
 
 feature_row_ldl:
   - image_path: /assets/images/ldl.png
@@ -208,11 +214,13 @@ feature_row_mediastudio:
 #     btn_class: "btn--inverse"
     
 ---
-
+{% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row_ldl" type="left" %}
-{% include feature_row id="feature_row_sava" type="left" %}
-{% include feature_row id="feature_row_ladstudio" type="left" %}
+{% include feature_row id="feature_row_sava" type="right" %}
+{% include feature_row id="feature_row_ladstudio" type="center" %}
 {% include feature_row id="feature_row_padlad" type="left" %}
-{% include feature_row id="feature_row_coreada" type="left" %}
-{% include feature_row id="feature_row_chm" type="left" %}
+{% include feature_row id="feature_row_coreada" type="right" %}
+{% include feature_row id="feature_row_chm" type="center" %}
 {% include feature_row id="feature_row_mediastudio" type="left" %}
+
+
