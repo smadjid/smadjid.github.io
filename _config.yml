@@ -119,15 +119,7 @@ author:
     - label: "LinkedIn"
       icon: "fa fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/smadjid/"
-    - label: "ResearchGate"
-      icon: "ai ai-researchgate"
-      url: "https://www.researchgate.net/profile/Madjid-Sadallah"
-    - label: "OrcID"
-      icon: "ai ai-orcid"
-      url: "https://orcid.org/0000-0001-9118-0235"
-    - label: "Google Scholar"
-      icon: "ai ai-fw ai-google-scholar-square"
-      url: "https://scholar.google.com/citations?user=A8So5p8AAAAJ"
+    
       
 # Site Footer
 footer:
