@@ -5,7 +5,7 @@ classes: wide
 read_time: false
 comments: false
 share: false
-title: <br><br>Madjid Sadallah
+title: <br><br>Welcome to my homepage
 permalink: /
 
 ---
@@ -15,10 +15,15 @@ I'm a PhD holder in Computer Sciences from the  [University Abderrahmane Mira](h
 
 Currently, I am a research engineer at [IMT Atlantique](https://www.imt-atlantique.fr/fr) (Brest, France), working in the team [MOTEL](https://labsticc.fr/fr/equipes/motel) where my research aims to propose analytical tools for a better understanding of digital learning practices. Previously, I worked as a full-time permanent researcher (Maître de Recherche B) at the [Algerian Research Center on Scientific and Technical Information CERIST](https://www.cerist.dz/).
 
-My research interests are in Learning Analytics, Educational Data Mining, and Artificial Intelligence in Education.
-<div id='featured'></div>
-
-
-
+## Research topics 
+My research interests are in Learning Analytics, Educational Data Mining, and Artificial Intelligence in Education. Specifically, I am interested in the following areas:
+* Human-Computer Interaction
+* Technology-Enhanced Learning
+* Learning Analytics
+* Design and CoDesign (participatory design) of analytics tools
+* Knowledge Engineering
+* Artificial Intelligence in Education (AIED)
+* Digital & Multimedia Document and Reengineering
+* Hypermedia and Hypervideo Systems
 
 ---
