@@ -3,7 +3,7 @@ layout: splash
 read_time: false
 comments: true
 share: true
-author_profile: false
+author_profile: true
 title: Projects
 permalink: /projects/
 
