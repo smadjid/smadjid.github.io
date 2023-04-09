@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Madjid SADALLAH"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/smadjid.png"
   bio              : "Research enginee."
   location         : "Brest, France"
   email            :
@@ -259,16 +259,11 @@ compress_html:
     envs: development
 
 
-# Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
