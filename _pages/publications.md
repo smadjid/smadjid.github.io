@@ -7,9 +7,6 @@ share: false
 author_profile: true
 title: Publications
 permalink: /publications/
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
 ---
 
 For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=A8So5p8AAAAJ" itemprop="sameAs"><i class="ai ai-fw ai-google-scholar-square" aria-hidden="true"></i>Google Scholar</a>.

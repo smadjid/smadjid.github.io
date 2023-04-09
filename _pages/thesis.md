@@ -6,9 +6,6 @@ share: true
 author_profile: false
 title: <br><br><br>Theses
 permalink: /thesis/
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
 
 feature_row_phd:
   - image_path: /assets/images/phd.png

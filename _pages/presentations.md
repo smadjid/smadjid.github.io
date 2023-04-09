@@ -6,9 +6,6 @@ share: true
 author_profile: false
 title: Presentations & slides
 permalink: /presentations/
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
 
 feature_row_csedu:
   - image_path: /assets/images/csedu2023.png

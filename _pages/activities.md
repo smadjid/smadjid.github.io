@@ -7,9 +7,6 @@ share: false
 author_profile: true
 title: Activities
 permalink: /activities/
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
 ---
 
 # Event organization
