@@ -10,7 +10,7 @@ permalink: /thesis/
 ---
 
 # PhD Thesis (University of Bejaia - Algeria, 2019)
-![fishy](/assets/images/phd.png)
+![PhD](/assets/images/phd.png)
 
 * Topic: Models and Tools for Usage based e-Learning Documents Reengineering 
 * Supervisor: Pr. Yannick Prié & Dr. Benoît Encelle"
@@ -22,6 +22,7 @@ permalink: /thesis/
 
 ---
 # Magister Thesis (University of Bejaia - Algeria, 2011)
+![MSc](/assets/images/magister.png)
 * Topic: Models and Documentary Tools for Hypervideos on the Web. 
 * Supervisor: Pr. Yannick Prié & Dr. Olivier Aubert"
   [Download](/media/papers/sadallah2011magister.pdf)
