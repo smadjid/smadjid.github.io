@@ -216,11 +216,11 @@ feature_row_mediastudio:
 ---
 {% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row_ldl" type="left" %}
-{% include feature_row id="feature_row_sava" type="right" %}
+{% include feature_row id="feature_row_sava" type="left" %}
 {% include feature_row id="feature_row_ladstudio" type="left" %}
-{% include feature_row id="feature_row_padlad" type="right" %}
+{% include feature_row id="feature_row_padlad" type="left" %}
 {% include feature_row id="feature_row_coreada" type="left" %}
-{% include feature_row id="feature_row_chm" type="right" %}
+{% include feature_row id="feature_row_chm" type="left" %}
 {% include feature_row id="feature_row_mediastudio" type="center" %}
 
 
