@@ -13,6 +13,9 @@ permalink: /activities/
 ### Co-chair of the Workshop session -  11th Conference "Environnements Informatiques pour l'Apprentissage Humain"  @EIAH 2023
 The [workshop session](https://eiah2023.sciencesconf.org/resource/page/id/17)  is to organized during the 11th Conference on Technology Enhanced Lerning ([EIAH 2023](https://eiah2023.sciencesconf.org)) which will take place in Brest from June 12 to 16, 2023. 
 
+### Chair of the session "Virtual and Augmented Learning Environments" -   15th International Conference on Computer Supported Education (CSEDU2023)
+As the Chair of the [Virtual and Augmented Learning Environments](https://www.insticc.org/node/TechnicalProgram/csedu/2023/session/P21938) session at the [15th International Conference on Computer Supported Education (CSEDU2023)](https://csedu.scitevents.org/?y=2023), I was responsible for overseeing the presentation of four papers that explored the use of technology in education. Through this role, I had the opportunity to facilitate discussion and promote the exchange of ideas among scholars and practitioners in the field of computer-supported education.
+
 ### Co-Organization of the Workshop "Design and evaluation of learning dashboards"  @RJC-EIAH 2022 Conference
 The workshop [Design and evaluation of learning dashboards](https://padlad.github.io/RJC-EIAH2022/) is organized during the 9th young researchers meeting in EIAH ([RJC EIAH 2022](https://rjc-eiah-2022.univ-lille.fr/)) which took place in Lille from May 9 to 11, 2022. 
 
