@@ -108,17 +108,17 @@ author:
   avatar           : "/assets/images/smadjid.png"
   bio              : "Research engineer."
   location         : "Brest, France"
-  email            :
+  twitter          : "smadjid"
   linkedin         : "smadjid"
-  orcid            :  "0000000"
-  googlescholar    : "OOOOOOOO"
   email            : "madjid.sadallah@imt-atlantique.fr"
-  researchgate     :  https://www.researchgate.net/profile/Valentin-Kilian
   links:
-    - label: "Twitter"
+    - label: "Researchgate"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/smadjid"
-    - label: "GitHub"
+    - label: "Google scholar"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/smadjid"
+    - label: "ORCID"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/smadjid"
     
