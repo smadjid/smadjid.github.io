@@ -110,6 +110,10 @@ author:
   location         : "Brest, France"
   email            :
   linkedin         : "smadjid"
+  orcid            :  "0000000"
+  googlescholar    : "OOOOOOOO"
+  email            : "madjid.sadallah@imt-atlantique.fr"
+  researchgate     :  https://www.researchgate.net/profile/Valentin-Kilian
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
