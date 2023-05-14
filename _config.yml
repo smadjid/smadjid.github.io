@@ -109,6 +109,7 @@ author:
   bio              : "Research engineer."
   location         : "Brest, France"
   email            :
+  linkedin         : "smadjid"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -116,9 +117,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/smadjid"
-    - label: "LinkedIn"
-      icon: "fa fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/smadjid/"
+    
     
       
 # Site Footer
