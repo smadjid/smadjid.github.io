@@ -113,7 +113,7 @@ author:
   email            : "madjid.sadallah@imt-atlantique.fr"
   links:
     - label: "Researchgate"
-      icon: "fab fa-researchgate"
+      icon: "ai-researchgate"
       url: "https://twitter.com/smadjid"
     - label: "Google scholar"
       icon: "fab fa-fw fa-scholar"
