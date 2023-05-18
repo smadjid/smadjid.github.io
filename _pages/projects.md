@@ -1,5 +1,6 @@
 ---
-layout: splash
+layout: single
+class: wide
 read_time: false
 comments: true
 share: true
