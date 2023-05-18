@@ -5,7 +5,7 @@ classes: wide
 read_time: false
 comments: false
 share: false
-title: <b>Madjid SADALLAH academic pages </b>
+title:<br/> <b>Welcome to my academic pages </b>
 permalink: /
 
 ---
