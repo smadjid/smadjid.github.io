@@ -4,14 +4,11 @@ read_time: false
 comments: true
 share: true
 author_profile: true
-title: Projects
+title: Selected projects
 permalink: /projects/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-
-intro: 
-  - excerpt: 'In the following the list of projects'
 
 feature_row_ldl:
   - image_path: /assets/images/ldl.png
