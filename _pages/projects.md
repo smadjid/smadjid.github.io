@@ -7,9 +7,6 @@ share: true
 author_profile: true
 title: Selected projects
 permalink: /projects/
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
 
 feature_row_ldl:
   - image_path: /assets/images/ldl.png
