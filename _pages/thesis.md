@@ -15,6 +15,7 @@ permalink: /thesis/
 * Topic: Models and Tools for Usage based e-Learning Documents Reengineering 
 * Supervisor: Pr. Yannick Prié & Dr. Benoît Encelle"
 [Download](../media/papers/sadallah2019phd.pdf)
+<a style="color:white;cursor: pointer; cursor: hand;" href="/phd" class="btn btn--info">Details</a>
 [Details](/phd)
 
 ---
