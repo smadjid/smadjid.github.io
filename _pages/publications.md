@@ -79,17 +79,21 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </code></pre></div></small>
 </div>
 
-  > Azze-eddine Maredj and Madjid Sadallah. "A set of rhetorical relationships for educational multimedia document." Revue de l'Information Scientifique et Technique<br>
+  > Azze-eddine Maredj and Madjid Sadallah. A set of rhetorical relationships for educational multimedia document. Revue de l'Information Scientifique et Technique, 27(1), 1-7.<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2023set');" class="btn btn--info">Bibtex</a>
-        <a href="https://www.asjp.cerist.dz/en/PresentationRevue/134" style="color:white" class="btn btn--warning">Listed to appear</a>
+        <a href="/media/papers/maredj2023set.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 
 <div id="maredj2023set" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
 <code>@article{maredj2023set,
   title={A set of rhetorical relationships for educational multimedia document},
-  author={Maredj, Azze-eddine and Sadallah, Madjid},
+  author={Maredj, Azze-eddine and Sadallaha, Madjid},
   journal={Revue de l'Information Scientifique et Technique},
-  year={2023}
+  volume={27},
+  number={1},
+  pages={1--7},
+  year={2023},
+  publisher={ASJP}
 }
 </code></pre></div></small>
 </div>
