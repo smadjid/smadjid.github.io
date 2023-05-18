@@ -29,6 +29,38 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </code></pre></div></small>
 </div>
 
+ > Madjid Sadallah and Jean-Marie Gilliot. "Outiller la conception participative et générative de tableaux de bord d'apprentissage." In Actes de la 11e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain EIAH 2023<br>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023outiller');" class="btn btn--info">Bibtex</a>
+        <a href="/media/papers/sadallah2023outiller.pdf" style="color:white" class="btn btn--warning">Pre-print</a>
+
+<div id="sadallah2023outiller" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@inproceedings{sadallah2023outiller,
+  title={Outiller la conception participative et générative de tableaux de bord d'apprentissage},
+  author={Sadallah, Madjid and Gilliot, Jean-Marie},
+  booktitle={Actes de la 11e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain EIAH 2023},
+  year={2023},
+  organization={ATIEF}
+}
+</code></pre></div></small>
+</div>
+
+ > Madjid Sadallah, Maria Teresa Segarra, Jean-Marie Gilliot and Issam Rebai. "Un dispositif de suivi des apprentissages pour soutenir l'orchestration de la classe." In Actes de la 11e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain EIAH 2023<br>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023dispositif');" class="btn btn--info">Bibtex</a>
+        <a href="/media/papers/sadallah2023dispositif.pdf" style="color:white" class="btn btn--warning">Pre-print</a>
+
+<div id="sadallah2023outiller" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@inproceedings{sadallah2023dispositif,
+  title={Un dispositif de suivi des apprentissages pour soutenir l'orchestration de la classe},
+  author={Sadallah, Madjid and Segarra, Maria Teresa and Gilliot, Jean-Marie and Rebai, Issam},
+  booktitle={Actes de la 11e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain EIAH 2023},
+  year={2023},
+  organization={ATIEF}
+}
+</code></pre></div></small>
+</div>
+
   > Madjid Sadallah and Jean-Marie Gilliot. "Generating LADs that make sense." In Proceedings of the 15th International Conference on Computer Supported Education CSEDU 2023, pages 35-46<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023generating');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/sadallah2023generating.pdf" style="color:white" class="btn btn--warning">Pre-print</a>
