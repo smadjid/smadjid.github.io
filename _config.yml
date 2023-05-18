@@ -116,11 +116,14 @@ author:
       icon: "fab fa-researchgate"
       url: "https://twitter.com/smadjid"
     - label: "Google scholar"
-      icon: "fab fa-fw fa-scholar"
+      icon: "fab fa-google"
       url: "https://github.com/smadjid"
     - label: "ORCID"
-      icon: "fa-brands fa-orcid"
-      url: "https://github.com/smadjid"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0001-9118-0235"
+    - label: "HAL"
+      icon: "fas fa-archive"
+      url: "https://cv.hal.science/madjid-sadallah"
     
     
       
