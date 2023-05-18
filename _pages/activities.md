@@ -5,11 +5,11 @@ read_time: false
 comments: false
 share: false
 author_profile: true
-title: Activities
+title: Academic activities
 permalink: /activities/
 ---
 
-# Event organization
+## Event organization
 ### Co-chair of the Workshop session -  11th Conference "Environnements Informatiques pour l'Apprentissage Humain"  @EIAH 2023
 I am actively involved in organizing the 11th Conference on Computer Environments for Human Learning ([EIAH 2023](https://eiah2023.sciencesconf.org)) , which will take place from June 12th to 16th, 2023, at IMT Atlantique in Brest. This French-speaking event brings together researchers and practitioners from various disciplines who are interested in digital research in education. I am a member of the program committee and the organizing committee for this conference.
 
@@ -41,7 +41,7 @@ I participated as the President (General Chair) in the first and second editions
 <br/>
 <hr/>
 
-# Participation in scientific activities
+## Participation in scientific activities
 ### PADLAD Working group
 *Research, Design, Development. Member*
 
