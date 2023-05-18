@@ -5,10 +5,6 @@ comments: false
 share: false
 title: <br><br>Madjid SADALLAH
 permalink: /
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-excerpt: "Research Engineer at LAB-STICC / IMT Atlantique; former Permanent Researchet et CERIST (DZ)<br><br>"
 ---
 
 ## Short Bio
