@@ -14,17 +14,21 @@ permalink: /thesis/
 
 * Topic: Models and Tools for Usage based e-Learning Documents Reengineering 
 * Supervisor: Pr. Yannick Prié & Dr. Benoît Encelle"
-[Download](../media/papers/sadallah2019phd.pdf)
+
 <a style="color:white;cursor: pointer; cursor: hand;" href="/phd" class="btn btn--info">Details</a>
-[Details](/phd)
+
+<a style="color:white;cursor: pointer; cursor: hand;" href="../media/papers/sadallah2019phd.pdf" class="btn btn--info">Download</a>
 
 ---
 # Magister Thesis (University of Bejaia - Algeria, 2011)
 ![MSc](../assets/images/magister.png)
 * Topic: Models and Documentary Tools for Hypervideos on the Web. 
 * Supervisor: Pr. Yannick Prié & Dr. Olivier Aubert"
-  [Download](../media/papers/sadallah2011magister.pdf)
-[Details](/magister)
+
+<a style="color:white;cursor: pointer; cursor: hand;" href="/magister" class="btn btn--info">Details</a>
+
+<a style="color:white;cursor: pointer; cursor: hand;" href="../media/papers/sadallah2011magister.pdf" class="btn btn--info">Download</a>
+
 
 ---
 # Engineer Thesis (USTHB - Algeria, 2004)
