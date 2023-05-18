@@ -114,10 +114,10 @@ author:
   links:
     - label: "Researchgate"
       icon: "fab fa-researchgate"
-      url: "https://twitter.com/smadjid"
+      url: "https://www.researchgate.net/profile/Madjid-Sadallah"
     - label: "Google scholar"
       icon: "fab fa-google"
-      url: "https://github.com/smadjid"
+      url: "https://scholar.google.com/citations?user=A8So5p8AAAAJ"
     - label: "ORCID"
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0001-9118-0235"
