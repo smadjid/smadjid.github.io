@@ -5,7 +5,7 @@ classes: wide
 read_time: false
 comments: false
 share: false
-title:<b>Welcome to my academic pages </b>
+title:<br><br>Welcome to my academic pages
 permalink: /
 
 ---
