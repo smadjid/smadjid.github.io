@@ -5,7 +5,7 @@ classes: wide
 read_time: false
 comments: false
 share: false
-title: <br><br>Welcome to my homepage
+title: 
 permalink: /
 
 ---
