@@ -13,6 +13,8 @@ I'm a PhD holder in Computer Sciences from the  [University Abderrahmane Mira](h
 
 Currently, I am a research engineer at [IMT Atlantique](https://www.imt-atlantique.fr/fr) (Brest, France), working in the team [MOTEL](https://labsticc.fr/fr/equipes/motel) where my research aims to propose analytical tools for a better understanding of digital learning practices. Previously, I worked as a full-time permanent researcher (Maître de Recherche B) at the [Algerian Research Center on Scientific and Technical Information CERIST](https://www.cerist.dz/).
 
+<a style="color:white;cursor: pointer; cursor: hand;" href="../media/papers/sadallah2011magister.pdf" class="btn btn--secondary">View my academic CV (in French)</a>
+
 ## Research topics 
 My research interests are in Learning Analytics, Educational Data Mining, and Artificial Intelligence in Education. Specifically, I am interested in the following areas:
 * Human-Computer Interaction
