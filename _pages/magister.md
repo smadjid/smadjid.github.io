@@ -18,3 +18,8 @@ Usually defined from a conventional hypermedia perspective, the underlying conce
 
 The proposed model serves as a basis for a Web-oriented implementation used as a proof of principles and a means to provide a basis for more elaborated practices of online video implementation since the features of hypervideo are grafted to wider video-based Web documents in a simple yet powerful and Web standards-compliant manner.
 
+<a style="color:white;cursor: pointer; cursor: hand;" href="../media/papers/sadallah2011magister.pdf" class="btn btn--info">Download the manuscript</a>
+
+## Slides
+{% include video id="y5DidihkSfw" provider="youtube" %}
+
