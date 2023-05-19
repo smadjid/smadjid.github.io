@@ -20,3 +20,6 @@ In this thesis, we focus on an educational context, where reading is a fundament
 We model reading activity using the concept of a "reading session" and propose a new session identification method. Using learners' reading sessions, a set of indicators related to different aspects of the reading process is computed and used to detect comprehension issues and suggest corrective content revisions. The results of the analytics process are presented to authors through a dashboard empowered with assistive features.
 
 We instantiate our proposals using the logs of a major European e-learning platform and validate it through a series of studies. The results show the effectiveness of the approach and related dashboards to enhance authors' awareness of learners' needs and provide them with guidance in improving their courses accordingly.
+
+<a style="color:white;cursor: pointer; cursor: hand;" href="../media/papers/sadallah2019phd.pdf" class="btn btn--info">Download the thesis manuscript</a>
+{% include video id="Rym6TmFB9aA" provider="youtube" %}
