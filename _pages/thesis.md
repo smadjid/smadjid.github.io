@@ -17,8 +17,6 @@ permalink: /thesis/
 
 <a style="color:white;cursor: pointer; cursor: hand;" href="/phd" class="btn btn--info">Details</a>
 
-<a style="color:white;cursor: pointer; cursor: hand;" href="../media/papers/sadallah2019phd.pdf" class="btn btn--info">Download</a>
-
 ---
 # Magister Thesis (University of Bejaia - Algeria, 2011)
 ![MSc](../assets/images/magister.png)
@@ -27,7 +25,7 @@ permalink: /thesis/
 
 <a style="color:white;cursor: pointer; cursor: hand;" href="/magister" class="btn btn--info">Details</a>
 
-<a style="color:white;cursor: pointer; cursor: hand;" href="../media/papers/sadallah2011magister.pdf" class="btn btn--info">Download</a>
+
 
 
 ---
