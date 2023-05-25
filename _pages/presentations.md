@@ -5,7 +5,7 @@ read_time: false
 comments: true
 share: true
 author_profile: true
-title: Presentations & slides
+title: Talks & slides
 permalink: /talks/
 
 feature_row_csedu:
