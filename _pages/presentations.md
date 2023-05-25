@@ -6,7 +6,7 @@ comments: true
 share: true
 author_profile: true
 title: Presentations & slides
-permalink: /presentations/
+permalink: /talks/
 
 feature_row_csedu:
   - image_path: /assets/images/csedu2023.png
