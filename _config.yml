@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "<Madjid SADALLAH />"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Madjid SADALLAH"
+name                     : ""
 description              : "Research Website and Blog."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
