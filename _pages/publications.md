@@ -26,7 +26,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 <code>@inproceedings{sadallah2023learning,
   title={Designing LADs That Promote Sensemaking: A Participatory Tool},
   author={Sadallah, Madjid and Smits, Gregory},
-  booktitle={18th European Conference on Technology Enhanced Learning, EC-TEL 2025, AVeiro, Portugal, September 4--8, 2023},
+  booktitle={18th European Conference on Technology Enhanced Learning, EC-TEL 2023, AVeiro, Portugal, September 4--8, 2023},
   year={2023}
 }
 </code></pre></div></small>
