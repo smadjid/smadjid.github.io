@@ -18,7 +18,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('gilliot2023framework');" class="btn btn--info">Bibtex</a>
         
 <div id="gilliot2023framework_abstract" style="display:none;">
-  <p class="highlight"> abstract of the paper</p>
+  <p class="notice--info"><strong>Absract. </strong> This paragraph of text has been <a href="#">emphasized</a> with the <code class="language-plaintext highlighter-rouge">{: .notice--info}</code> class.</p>
 </div>
 
 <div id="gilliot2023framework" style="display:none;">
