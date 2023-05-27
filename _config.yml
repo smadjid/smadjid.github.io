@@ -128,13 +128,7 @@ author:
       
 # Site Footer
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/smadjid"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/smadjid"
+ 
     
 
 
@@ -274,5 +268,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: false
       related: true
