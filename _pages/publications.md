@@ -13,7 +13,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 ---
 # 2023
-  > Madjid Sadallah and Gregory Smits. "Learning Path Recommendation from an Inferred Learning Space." (accepted)  18th European Conference on Technology Enhanced Learning, EC-TEL 2023, Aveiro, Portugal,  4--8 September 2023<br>
+  > Madjid Sadallah and Grégory Smits. "Learning Path Recommendation from an Inferred Learning Space." (accepted)  18th European Conference on Technology Enhanced Learning, EC-TEL 2023, Aveiro, Portugal,  4--8 September 2023<br>
    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023learning_abstract');" class="btn btn--primary">Abstract</a>
    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023learning');" class="btn btn--info">Bibtex</a>
         
@@ -25,7 +25,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 <small><div class="highlighter-rouge"><pre class="highlight">
 <code>@inproceedings{sadallah2023learning,
   title={Designing LADs That Promote Sensemaking: A Participatory Tool},
-  author={Sadallah, Madjid and Smits, Gregory},
+  author={Sadallah, Madjid and Smits, Grégory},
   booktitle={18th European Conference on Technology Enhanced Learning, EC-TEL 2023, AVeiro, Portugal, September 4--8, 2023},
   year={2023}
 }
