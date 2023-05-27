@@ -8,8 +8,10 @@ author_profile: true
 title: Publications
 permalink: /publications_by_type/
 ---
+(<a href="../publications">Display by date</a>)
 
 For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=A8So5p8AAAAJ" itemprop="sameAs">Google Scholar</a>.
+
 
 ---
 # Journal publications
