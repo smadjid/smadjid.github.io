@@ -55,14 +55,14 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </div>
 
  > Madjid Sadallah, Maria Teresa Segarra, Jean-Marie Gilliot and Issam Rebai. "Un dispositif de suivi des apprentissages pour soutenir l'orchestration de la classe." In Actes de la 11e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain EIAH 2023<br>
-    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023outiller_abstract');" class="btn btn--primary">Abstract</a>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023dispositif_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023dispositif');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/sadallah2023dispositif.pdf" style="color:white" class="btn btn--warning">Pre-print</a>
-<div id="sadallah2023outiller_abstract" style="display:none;">
+<div id="sadallah2023dispositif_abstract" style="display:none;">
   <p class="notice--info"><strong>Absract. </strong> Le concept d'orchestration de la classe vise à saisir la complexité associée à la gestion des activités d'apprentissage synchrones (où apprenants et enseignants se retrouvent pour réaliser les activités). Notre objectif est de construire un dispositif permettant d'assister l'enseignant dans ses tâches d'orchestration, en explorant les notions de scénarisation, de suivi et de rétroaction. Dans cet article, nous présentons SAVAStudio, un outil permettant à l'enseignant de planifier le déroulement d'activités synchrones et de récupérer les traces du déroulement réel de celles-ci.</p>
 </div>
 
-<div id="sadallah2023outiller" style="display:none;">
+<div id="sadallah2023dispositif" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
 <code>@inproceedings{sadallah2023dispositif,
   title={Un dispositif de suivi des apprentissages pour soutenir l'orchestration de la classe},
