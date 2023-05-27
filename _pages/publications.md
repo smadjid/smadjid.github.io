@@ -18,7 +18,8 @@ For a complete list of publications, please refer to <a href="https://scholar.go
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('gilliot2023framework');" class="btn btn--info">Bibtex</a>
         
 <div id="gilliot2023framework_abstract" style="display:none;">
-  <p class="notice--info"><strong>Absract. </strong> This.</p>
+  <p class="notice--info"><strong>Absract. </strong> Learning Analytics Dashboards (LAD) deserve increasing attention, yet their adoption remains limited. Designing effective LAD is a difficult process, and LADs often fail in turning insights into action. We argue that providing explicit decision-making features in a participatory design process may help to develop LADs supporting action. We first examine how the decision-making process is reflected on LADs. Second, we review the literature to identify major design space dimensions and examine how to include decision-making features. Secondly, we propose the DEFLAD design framework to synthesise this review which provides explicit decision-making features in three dimensions:  Goal expression as a situation awareness level, Visualisation and related  Interactions, as support of decision-making process. Third, we consider how this framework is involved through every stage of a Human-Centred Design (HCD) process to express and manage such features. The main contribution of this paper is to provide a framework integrating the decision-making features in a participatory design process of LADs.
+Furthermore, we demonstrate the implementation of our proposals through the development of a card-based toolkit to assist in the ideation phase of participatory design, and present feedback from participants of a workshop utilizing this tool as a proof of concept.</p>
 </div>
 
 <div id="gilliot2023framework" style="display:none;">
@@ -38,7 +39,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023outiller');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/sadallah2023outiller.pdf" style="color:white" class="btn btn--warning">Pre-print</a>
 <div id="sadallah2023outiller_abstract" style="display:none;">
-  <p class="notice--info"><strong>Absract. </strong> This.</p>
+  <p class="notice--info"><strong>Absract. </strong> Les tableaux de bord d'apprentissage visent à soutenir la prise de décision au cours du processus d'apprentissage. Cependant, leur adoption à grande échelle reste limitée. Si ce constat peut s'expliquer par leur apparition relativement récente, la recherche montre que ceci est également dû au manque de participation des parties prenantes au processus de conception. Afin de soutenir ce processus tout en impliquant les utilisateurs, nous proposons d'articuler autour d'un espace de conception partagé un outil de conception participative pour la phase d'idéation et un outil génératif pour la phase de prototypage. Nous analysons ces outils en termes de facilité d'utilisation, de soutien à la participation ou d'expérience utilisateur, suivant les phases. L'analyse des retours obtenus montrent que ces outils sont utilisables et apportent un soutien tant à la participation des utilisateurs finaux qu'à l'expérience utilisateur des développeurs.</p>
 </div>
 
 <div id="sadallah2023outiller" style="display:none;">
@@ -58,7 +59,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023dispositif');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/sadallah2023dispositif.pdf" style="color:white" class="btn btn--warning">Pre-print</a>
 <div id="sadallah2023outiller_abstract" style="display:none;">
-  <p class="notice--info"><strong>Absract. </strong> This.</p>
+  <p class="notice--info"><strong>Absract. </strong> Le concept d'orchestration de la classe vise à saisir la complexité associée à la gestion des activités d'apprentissage synchrones (où apprenants et enseignants se retrouvent pour réaliser les activités). Notre objectif est de construire un dispositif permettant d'assister l'enseignant dans ses tâches d'orchestration, en explorant les notions de scénarisation, de suivi et de rétroaction. Dans cet article, nous présentons SAVAStudio, un outil permettant à l'enseignant de planifier le déroulement d'activités synchrones et de récupérer les traces du déroulement réel de celles-ci.</p>
 </div>
 
 <div id="sadallah2023outiller" style="display:none;">
@@ -78,7 +79,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023generating');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/sadallah2023generating.pdf" style="color:white" class="btn btn--warning">Pre-print</a>
 <div id="sadallah2023generating_abstract" style="display:none;">
-  <p class="notice--info"><strong>Absract. </strong> This.</p>
+  <p class="notice--info"><strong>Absract. </strong> Learning Analytics Dashboards (LADs)  deliver rich and actionable representations of learning data to support meaningful and insightful decisions that ultimately leverage the learning process. Yet, because of their limited large-scale adoption, their design is still a major area of inquiry in education research. In this paper, we propose to expand LAD codesign approaches. We first investigate how the user makes sense of the data delivered by LADs and how to support this sensemaking process during the design. Second, we propose a generative tool, supporting sensemaking and decision making process, that extends end-users participation during the prototyping phase and empowers LAD designers. A qualitative evaluation of the tool including usability and user experience is provided.</p>
 </div>
 
 <div id="sadallah2023generating" style="display:none;">
