@@ -14,8 +14,12 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 ---
 # 2023
  > Jean-Marie Gilliot and Madjid Sadallah. "A framework for co-designing effective LADs supporting sensemaking and decision making." International Journal of Learning Technology<br>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('gilliot2023framework_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('gilliot2023framework');" class="btn btn--info">Bibtex</a>
         
+<div id="gilliot2023framework_abstract" style="display:none;">
+  <p class="highlight"> abstract of the paper</p>
+</div>
 
 <div id="gilliot2023framework" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
