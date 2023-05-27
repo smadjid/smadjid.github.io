@@ -26,7 +26,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 <code>@inproceedings{sadallah2023learning,
   title={Learning Path Recommendation from an Inferred Learning Space},
   author={Sadallah, Madjid and Smits, Grégory},
-  booktitle={18th European Conference on Technology Enhanced Learning, EC-TEL 2023, AVeiro, Portugal, September 4--8, 2023},
+  booktitle={18th European Conference on Technology Enhanced Learning, EC-TEL 2023, AVeiro, Portugal, September 4--8},
   year={2023}
 }
 </code></pre></div></small>
