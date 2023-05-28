@@ -166,7 +166,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 
 
 # 2021
-  > MAREDJ, Azze-Eddine and Madjid, Sadallah and Lamia, Hamouche. "Une cinquième dimension pour les documents multimédia: La dimension annotation." Revue de l'Information Scientifique et Technique 24.1 (2021): 12-20<br>
+  > Azze-Eddine Maredj and Madjid Sadallah and Lamia Hamouche. "Une cinquième dimension pour les documents multimédia: La dimension annotation." Revue de l'Information Scientifique et Technique 24.1 (2021): 12-20<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2021cinquieme_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2021cinquieme');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/maredj2021cinquieme.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -190,7 +190,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </div>
 
 # 2020
-  > Sadallah, Madjid and Encelle, Benoît and Maredj, Azze-Eddine and Prié, Yannick. "Leveraging Learners' Activity Logs for Course Reading Analytics Using Session-Based Indicators." International Journal of Technology Enhanced Learning (IJTEL) 12.1 (2020): 53-78<br>
+  > Madjid Sadallah, Benoît Encelle, Azze-Eddine Maredj and Yannick Prié. "Leveraging Learners' Activity Logs for Course Reading Analytics Using Session-Based Indicators." International Journal of Technology Enhanced Learning (IJTEL) 12.1 (2020): 53-78<br>
    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2020leveraging_abstract');" class="btn btn--primary">Abstract</a>
    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2020leveraging');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/sadallah2020laveraging.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -279,7 +279,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 
 
 # 2014
-> Sadallah, M., Aubert, O., & Prié, Y. (2014). CHM: an annotation-and component-based hypervideo model for the Web. Multimedia tools and applications, 70, 869-903. <br>
+> Madjid Sadallah, Olivier Aubert and Yannick Prié, Y. (2014). CHM: an annotation-and component-based hypervideo model for the Web. Multimedia tools and applications, 70, 869-903. <br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2014chm_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2014chm');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/sadallah2014chm.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -367,7 +367,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </div>
 
 # 2010
-> Azze-Eddine Maredj, Nourreddine Tonkin et Madjid Sadallah. "MediaStudio: Un systeme d'edition et de presentation de documents multimedia interactifs." Revue d'Information Scientifique & Technique 18 (2010): 25-47<br>
+> Azze-Eddine Maredj, Nourreddine Tonkin and Madjid Sadallah. "MediaStudio: Un systeme d'edition et de presentation de documents multimedia interactifs." Revue d'Information Scientifique & Technique 18 (2010): 25-47<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2010mediastudio_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2010mediastudio');" class="btn btn--info">Bibtex</a>
     <a href="/media/papers/maredj2010mediastudio.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -389,7 +389,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </div>
 
 # 2008
-> A-E Maredj, T Nourreddine, M Sadallah et Z Alimazighi. "A flexible distance for the spatial placement in a multimedia document." Dans ICTTA’08:International Conference on Information & Communication Technologies : From theory to Applications., pages 1-4. IEEE, 2008<br>
+> Azze-Eddine Maredj, Nourreddine Tonkin, Mandid Sadallah and Zaia Alimazighi. "A flexible distance for the spatial placement in a multimedia document." Dans ICTTA’08:International Conference on Information & Communication Technologies : From theory to Applications., pages 1-4. IEEE, 2008<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2008flexible_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2008flexible');" class="btn btn--info">Bibtex</a>
     <a href="/media/papers/maredj2008flexible.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -413,7 +413,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 
 
 # 2007
-  > Azze-Eddine MAREDJ, Zaia ALIMAZIGHI and Madjid SADALLAH. "Extension of the Wahl-Rothermel temporal model for the multimedia documents." In ICTA’07, April 12-14, Hammamet, Tunisia, pages 257-261, 2007<br>
+  > Azze-Eddine Maredj, Zaia Alimazighi and Madjid Sadallah. "Extension of the Wahl-Rothermel temporal model for the multimedia documents." In ICTA’07, April 12-14, Hammamet, Tunisia, pages 257-261, 2007<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2007extension_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2007extension');" class="btn btn--info">Bibtex</a>
     <a href="/media/papers/maredj2007extension.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
