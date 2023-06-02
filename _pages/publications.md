@@ -235,6 +235,28 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </code></pre></div></small>
 </div>
 
+ > Madjid Sadallah. "Enhancing Course Revision: Introducing CoReaDa - an Advanced Reading Analytics Dashboard." CERIST Internal Report (2020)<br>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2020pp');" class="btn btn--primary">Abstract</a>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2020pp');" class="btn btn--info">Bibtex</a>
+        <a href="/media/papers/sadallah2020pp.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<div id="sadallah2020towards_abstract" style="display:none;">
+  <p class="notice--info"><strong>Absract. </strong> Providing high-quality courses that facilitate successful learning outcomes is an imperative goal in education. To achieve this, course authors are tasked with the ongoing responsibility of continuously reviewing and revising their course content to meet the ever-evolving needs of learners. However, identifying and addressing the reading barriers that learners encounter, as well as determining how courses can be effectively improved, pose significant challenges for course authors. In this paper, we propose a novel learning analytics approach aimed at assisting course authors in overcoming these challenges and optimizing the course revision process. Our approach leverages the wealth of information captured in learners’ activity logs to derive valuable insights into course reading activity. We compute a comprehensive set of indicators that specifically capture relevant aspects of learners’ reading behavior, allowing us to detect potential issues and suggest targeted content revisions. The utilization of learning analytics provides course authors with valuable data-driven feedback, enabling them to make informed decisions in enhancing their courses to better meet the requirements of the learners. To facilitate the effective utilization of our proposed approach, we introduce CoReaDa—an advanced learning analytics dashboard that acts as a central hub for presenting the computed indicators, offering intuitive visualizations, and providing assistive features. CoReaDa empowers course authors with a holistic view of the course reading activity, enabling them to gain actionable insights into learners’ engagement, comprehension, and potential difficulties. With its user-friendly interface and customizable functionalities, CoReaDa serves as a valuable tool in guiding course authors throughout the revision process. To validate the efficacy of our approach, we instantiate our proposals using the extensive logs gathered from a major European e-learning platform. We conduct a comprehensive study to assess the impact of our approach on course authors’ decision-making processes and the overall improvement of courses. The study results reveal that our approach significantly enhances authors’ awareness and guidance, leading to tangible improvements in course content and alignment with learners’ evolving requirements. In summary, this paper introduces a pioneering learning analytics approach for supporting course authors in the continuous process of course revision. By utilizing learners’ activity logs and presenting valuable insights through the CoReaDa dashboard, we empower course authors to detect reading barriers, identify areas for improvement, and optimize their courses to better meet the needs of the learners. The study validates the effectiveness of our approach, highlighting its potential to revolutionize course revision practices and foster enhanced learning experiences.</p>
+</div>
+
+<div id="sadallah2020pp" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@misc{sadallah2020pp,
+ title={Enhancing Course Revision: Introducing CoReaDa - an Advanced Reading Analytics Dashboard},
+ url={edarxiv.org/9bkad},
+ DOI={10.35542/osf.io/9bkad},
+ publisher={EdArXiv},
+ author={Sadallah, Madjid},
+ year={2020},
+ month={June}
+}
+</code></pre></div></small>
+</div>
+
 # 2019
   > Madjid Sadallah. "Models and Tools for Usage-based e-Learning Documents Reengineering." PhD thesis, University of Bejaia - Algeria, 2019<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2019models_abstract');" class="btn btn--primary">Abstract</a>
