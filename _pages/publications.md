@@ -14,7 +14,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 ---
 # 2023
-  > Madjid Sadallah and Grégory Smits. "Learning Path Recommendation from an Inferred Learning Space." (accepted)  18th European Conference on Technology Enhanced Learning, EC-TEL 2023, Aveiro, Portugal,  4--8 September 2023<br>
+  > Madjid Sadallah and Grégory Smits (accepted) "Learning Path Recommendation from an Inferred Learning Space."   18th European Conference on Technology Enhanced Learning, EC-TEL 2023, Aveiro, Portugal,  4--8 September 2023<br>
    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023learning_abstract');" class="btn btn--primary">Abstract</a>
    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023learning');" class="btn btn--info">Bibtex</a>
         
@@ -33,7 +33,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </code></pre></div></small>
 </div>
 
- > Jean-Marie Gilliot and Madjid Sadallah. "A framework for co-designing effective LADs supporting sensemaking and decision making." International Journal of Learning Technology<br>
+ > Jean-Marie Gilliot and Madjid Sadallah (in press) "A framework for co-designing effective LADs supporting sensemaking and decision making." International Journal of Learning Technology<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('gilliot2023framework_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('gilliot2023framework');" class="btn btn--info">Bibtex</a>
         
