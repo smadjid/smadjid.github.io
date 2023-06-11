@@ -78,7 +78,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023dispositif_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023dispositif');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/sadallah2023dispositif.pdf" style="color:white" class="btn btn--warning">Pre-print</a>
-        <a href="/media/papers/poster_eiah2023.pdf" style="color:white" class="btn btn--warning">Poster</a>
+        <a href="/media/presentations/poster_eiah2023.pdf" style="color:white" class="btn btn--warning">Poster</a>
 <div id="sadallah2023dispositif_abstract" style="display:none;">
   <p class="notice--info"><strong>Absract. </strong> Le concept d'orchestration de la classe vise à saisir la complexité associée à la gestion des activités d'apprentissage synchrones (où apprenants et enseignants se retrouvent pour réaliser les activités). Notre objectif est de construire un dispositif permettant d'assister l'enseignant dans ses tâches d'orchestration, en explorant les notions de scénarisation, de suivi et de rétroaction. Dans cet article, nous présentons SAVAStudio, un outil permettant à l'enseignant de planifier le déroulement d'activités synchrones et de récupérer les traces du déroulement réel de celles-ci.</p>
 </div>
@@ -147,7 +147,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2022designing_abstract');" class="btn btn--primary">Abstract</a>
    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2022designing');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/sadallah2022designing.pdf" style="color:white" class="btn btn--warning">Accepted version</a>
-        <a href="/media/papers/poster_ectel2022.pdf" style="color:white" class="btn btn--warning">Poster</a>
+        <a href="/media/presentations/poster_ectel2022.pdf" style="color:white" class="btn btn--warning">Poster</a>
 <div id="sadallah2022designing_abstract" style="display:none;">
   <p class="notice--info"><strong>Absract. </strong> Learning Analytics Dashboards (LADs) are data visualization tools built to empower teachers and learners to make purposeful decisions that impact the learning process. Due to their relatively recent emergence and the scarcity of studies on their design principles, dashboard design remains a major area of investigation in learning analytics research, and large scale diffusion to their stakeholders remains limited. We promote human-centered approaches for LADs design since their success in terms of acceptance and adoption greatly depends on the level of stakeholder involvement in their design. In this paper, we present a tool to support the participatory design of LADs. First experiments during a pilot study with teachers demonstrate that the proposed tool encourages group work, and in-depth exploration of LADs use.</p>
 </div>
