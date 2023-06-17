@@ -8,7 +8,7 @@ author_profile: true
 title: Talks & slides
 permalink: /talks/
 
-feature_row_eiah23:
+feature_row_eiah:
   - image_path: /assets/images/eiah2023.png
     alt: "CSEDU 2023"
     title: 'CSEDU 2023, June 2023.'
@@ -209,6 +209,7 @@ feature_row_perse:
     
 ---
 
+{% include feature_row id="feature_row_eiah" type="left" %}
 {% include feature_row id="feature_row_csedu" type="left" %}
 {% include feature_row id="feature_row_rjceiah2022ws" type="left" %}
 {% include feature_row id="feature_row_eiah2021ws" type="left" %}
