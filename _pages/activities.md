@@ -12,6 +12,7 @@ permalink: /activities/
 ## Event organization
 ### Co-chair of the Workshop session -  11th Conference "Environnements Informatiques pour l'Apprentissage Humain"  @EIAH 2023
 I am actively involved in organizing the 11th Conference on Computer Environments for Human Learning ([EIAH 2023](https://eiah2023.sciencesconf.org)) , which will take place from June 12th to 16th, 2023, at IMT Atlantique in Brest. This French-speaking event brings together researchers and practitioners from various disciplines who are interested in digital research in education. I am a member of the program committee and the organizing committee for this conference.
+I also had the privilege of chairing the "Pedagogy and ludicization" session.
 
 Additionally, I co-chair the EIAH 2023 Workshops, which will be held prior to the main conference. Our mission is to issue a call for workshops, evaluate and select innovative and relevant thematic workshop proposals, assist organizers in preparing and promoting their workshops, facilitate interactions between facilitators and participants during the sessions, and ensure overall coherence of the workshops with the conference's objectives and theme.
 
