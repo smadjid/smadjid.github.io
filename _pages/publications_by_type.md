@@ -404,9 +404,33 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </div>
 
 # Preprints
+> Madjid Sadallah and Jean-Marie Gilliot. "Fostering Collaborative and Creative Design of Learning Dashboards: An Empowered Participatory Approach and Tools." EdArXiv. <a href="https://doi.org/10.35542/osf.io/q78yn">https://doi.org/10.35542/osf.io/q78yn</a><br>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023edarxiv_abstract');" class="btn btn--primary">Abstract</a>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023edarxiv');" class="btn btn--info">Bibtex</a>
+    <a href="/media/papers/padlad_ladstudio_arxiv.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+        
+<div id="sadallah2023edarxiv_abstract" style="display:none;">
+  <p class="notice--info"><strong>Absract. </strong> Learning dashboards aim to support decision-making throughout the learning process. However, their widespread adoption remains limited. While this observation can be attributed to their relatively recent emergence, research indicates that it is also due to a lack of stakeholder participation in the design process. To address this issue and involve users, we propose an integrated approach using a participatory design tool for the ideation phase and a generative tool for prototyping. We analyze these tools in terms of usability, support for participation, and user experience across the different phases. The analysis of feedback received demonstrates that these tools facilitate both end-user participation and developer user experience.</p>
+</div>
+
+<div id="sadallah2023edarxiv" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@misc{sadallah2023edarxiv,
+ title={Fostering Collaborative and Creative Design of Learning Dashboards: An Empowered Participatory Approach and Tools},
+ url={edarxiv.org/q78yn},
+ DOI={10.35542/osf.io/q78yn},
+ publisher={EdArXiv},
+ author={Sadallah, Madjid},
+ year={2023},
+ month={June}
+}
+</code></pre></div></small>
+</div>
+
 > Madjid Sadallah. "Enhancing Course Revision: Introducing CoReaDa - an Advanced Reading Analytics Dashboard." EdArXiv. <a href="https://doi.org/10.35542/osf.io/9bkad">https://doi.org/10.35542/osf.io/9bkad</a><br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2020coreada_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2020coreada');" class="btn btn--info">Bibtex</a>
+    <a href="/media/papers/coreada_arxiv.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
         
 <div id="sadallah2020coreada_abstract" style="display:none;">
   <p class="notice--info"><strong>Absract. </strong> Ensuring the delivery of high-quality courses that foster successful learning outcomes is crucial. Course authors are faced with the ongoing challenge of revising their content to meet the ever-evolving needs of learners. However, detecting barriers that hinder learners' reading experience and identifying effective strategies for course improvement remains a daunting task. In this paper, we present a learning analytics approach designed to assist course authors in tackling these challenges. Leveraging learners' activity logs, we employ a set of indicators that specifically capture course reading activity, enabling the detection of issues and offering suggestions for content revisions. Our approach culminates in CoReaDa, an innovative learning dashboard equipped with assistive features. To validate our proposals, we instantiate our approach using the logs from a prominent European e-learning platform and conduct a comprehensive study. The study's results unequivocally demonstrate the efficacy of our approach, equipping course authors with heightened awareness and precise guidance in enhancing their courses to better align with learners' evolving requirements.</p>
@@ -425,9 +449,6 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 }
 </code></pre></div></small>
 </div>
-
-
-
 
 <script type="text/javascript">
    function toggle_visibility(block_id) {
