@@ -403,6 +403,29 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </code></pre></div></small>
 </div>
 
+# Preprints
+> Madjid Sadallah. "Enhancing Course Revision: Introducing CoReaDa - an Advanced Reading Analytics Dashboard." EdArXiv. <a href="https://doi.org/10.35542/osf.io/9bkad">https://doi.org/10.35542/osf.io/9bkad</a><br>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2020coreada_abstract');" class="btn btn--primary">Abstract</a>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2020coreada');" class="btn btn--info">Bibtex</a>
+        
+<div id="sadallah2020coreada_abstract" style="display:none;">
+  <p class="notice--info"><strong>Absract. </strong> Ensuring the delivery of high-quality courses that foster successful learning outcomes is crucial. Course authors are faced with the ongoing challenge of revising their content to meet the ever-evolving needs of learners. However, detecting barriers that hinder learners' reading experience and identifying effective strategies for course improvement remains a daunting task. In this paper, we present a learning analytics approach designed to assist course authors in tackling these challenges. Leveraging learners' activity logs, we employ a set of indicators that specifically capture course reading activity, enabling the detection of issues and offering suggestions for content revisions. Our approach culminates in CoReaDa, an innovative learning dashboard equipped with assistive features. To validate our proposals, we instantiate our approach using the logs from a prominent European e-learning platform and conduct a comprehensive study. The study's results unequivocally demonstrate the efficacy of our approach, equipping course authors with heightened awareness and precise guidance in enhancing their courses to better align with learners' evolving requirements.</p>
+</div>
+
+<div id="sadallah2020coreada" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@misc{sadallah2020coreada,
+ title={Enhancing Course Revision: Introducing CoReaDa - an Advanced Reading Analytics Dashboard},
+ url={edarxiv.org/9bkad},
+ DOI={10.35542/osf.io/9bkad},
+ publisher={EdArXiv},
+ author={Sadallah, Madjid},
+ year={2023},
+ month={May}
+}
+</code></pre></div></small>
+</div>
+
 
 
 
