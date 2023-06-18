@@ -54,6 +54,30 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </code></pre></div></small>
 </div>
 
+
+> Madjid Sadallah and Jean-Marie Gilliot. "Fostering Collaborative and Creative Design of Learning Dashboards: An Empowered Participatory Approach and Tools." EdArXiv. <a href="https://doi.org/10.35542/osf.io/q78yn">https://doi.org/10.35542/osf.io/q78yn</a><br>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023edarxiv_abstract');" class="btn btn--primary">Abstract</a>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023edarxiv');" class="btn btn--info">Bibtex</a>
+    <a href="/media/papers/padlad_ladstudio_arxiv.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+        
+<div id="sadallah2023edarxiv_abstract" style="display:none;">
+  <p class="notice--info"><strong>Absract. </strong> Learning dashboards aim to support decision-making throughout the learning process. However, their widespread adoption remains limited. While this observation can be attributed to their relatively recent emergence, research indicates that it is also due to a lack of stakeholder participation in the design process. To address this issue and involve users, we propose an integrated approach using a participatory design tool for the ideation phase and a generative tool for prototyping. We analyze these tools in terms of usability, support for participation, and user experience across the different phases. The analysis of feedback received demonstrates that these tools facilitate both end-user participation and developer user experience.</p>
+</div>
+
+<div id="sadallah2023edarxiv" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@misc{sadallah2023edarxiv,
+ title={Fostering Collaborative and Creative Design of Learning Dashboards: An Empowered Participatory Approach and Tools},
+ url={edarxiv.org/q78yn},
+ DOI={10.35542/osf.io/q78yn},
+ publisher={EdArXiv},
+ author={Sadallah, Madjid},
+ year={2023},
+ month={June}
+}
+</code></pre></div></small>
+</div>
+
  > Madjid Sadallah and Jean-Marie Gilliot. "Outiller la conception participative et générative de tableaux de bord d'apprentissage." In Actes de la 11e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain EIAH 2023<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023outiller_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023outiller');" class="btn btn--info">Bibtex</a>
