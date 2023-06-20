@@ -71,7 +71,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
  url={edarxiv.org/q78yn},
  DOI={10.35542/osf.io/q78yn},
  publisher={EdArXiv},
- author={Sadallah, Madjid},
+ author={Sadallah, Madjid and Gilliot, Jean-Marie},
  year={2023},
  month={June}
 }
