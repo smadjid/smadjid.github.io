@@ -10,8 +10,8 @@ permalink: /talks/
 
 feature_row_eiah:
   - image_path: /assets/images/eiah2023.png
-    alt: "CSEDU 2023"
-    title: 'CSEDU 2023, June 2023.'
+    alt: "EIAH 2023"
+    title: 'EIAH 2023, June 2023.'
     excerpt: "Slides of the presentation of the paper 'Outiller la conception participative et générative de tableaux de bord d'apprentissage' at EIAH2023."
     url: "/media/presentations/eiah2023.pdf"
     btn_label: "Presentation (.pdf)"
