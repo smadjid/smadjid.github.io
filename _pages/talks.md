@@ -20,7 +20,7 @@ feature_row_eiah:
 feature_row_csedu:
   - image_path: /assets/images/csedu2023.png
     alt: "CSEDU 2023"
-    title: 'CSEDU 2023, June 2023.'
+    title: 'CSEDU 2023, April 2023.'
     excerpt: "Slides of the presentation of the paper 'Generating LADs that make sense'."
     url: "/media/presentations/csedu2023.pdf"
     btn_label: "Presentation (.pdf)"
