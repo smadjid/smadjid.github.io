@@ -9,9 +9,13 @@ permalink: /
 ---
 
 ## Short Bio
-I'm a PhD holder in Computer Sciences from the  [University Abderrahmane Mira](http://univ-bejaia.dz/) (Bejaia, Algeria), with an Engineer degree in Computer Sciences from the [University of Science and Technology USTHB](https://www.usthb.dz/) (Algiers, Algeria) and a Magister degree in Computer Sciences from the [University Abderrahmane Mira](http://univ-bejaia.dz/). 
+I hold a PhD in Computer Sciences from the  [University Abderrahmane Mira](http://univ-bejaia.dz/) (Bejaia, Algeria), as well as an Engineer degree in Computer Sciences from the [University of Science and Technology USTHB](https://www.usthb.dz/) (Algiers, Algeria) and a Magister degree in Computer Sciences from the [University Abderrahmane Mira](http://univ-bejaia.dz/). 
 
-Currently, I am a research engineer at [IMT Atlantique](https://www.imt-atlantique.fr/fr) (Brest, France), working in the team [MOTEL](https://labsticc.fr/fr/equipes/motel) where my research aims to propose analytical tools for a better understanding of digital learning practices. Previously, I worked as a full-time permanent researcher (Maître de Recherche B) at the [Algerian Research Center on Scientific and Technical Information CERIST](https://www.cerist.dz/).
+Currently, I serve as a research engineer at [IMT Atlantique](https://www.imt-atlantique.fr/fr) (Brest, France), where I am part of the  [MOTEL](https://labsticc.fr/fr/equipes/motel) team. My research focuses on developing analytical tools to gain a comprehensive understanding of digital learning practices. The goal is to provide insights that enhance the learning experience. Previously, I worked as a full-time permanent researcher (Maître de Recherche B) at the [Algerian Research Center on Scientific and Technical Information CERIST](https://www.cerist.dz/).
+
+With a strong academic foundation, I am dedicated to advancing the field of Computer Sciences. By bridging the gap between theory and practice, I aim to shape the future of digital learning. Feel free to explore my website further to discover more about my research and professional accomplishments.
+
+Thank you for visiting, and please don't hesitate to reach out if you have any questions or inquiries.
 
 <a style="color:white;cursor: pointer; cursor: hand;" href="./media/cv_madjid_sadallah_fr.pdf" class="btn btn--info">View my academic CV (in French)</a>
 
