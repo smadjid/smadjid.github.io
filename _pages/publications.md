@@ -350,7 +350,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </div>
 
 # 2013
-  > Madjid Sadallah, Benoît Encelle, Azze-Eddine Mared and Yannick Prié. "A framework for usage-based document reengineering." In Proceedings of the 2013 ACM symposium on Document engineering, pages 99-102, 2013<br>
+  > Madjid Sadallah, Benoît Encelle, Azze-Eddine Maredj and Yannick Prié. "A framework for usage-based document reengineering." In Proceedings of the 2013 ACM symposium on Document engineering, pages 99-102, 2013<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2013framework_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2013framework');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/sadallah2013framework.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -366,6 +366,26 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
   booktitle={Proceedings of the 2013 ACM symposium on Document engineering},
   pages={99--102},
   year={2013}
+}
+</code></pre></div></small>
+</div>
+
+> Madjid Sadallah, Azze-Eddine Maredj, Benoît Encelle and Yannick Prié. "Vers une Expérience Audiovisuelle Interactive sur le Web : Un Modèle à Base de Composants et un Langage de Spécification Déclaratif pour l'Hypervidéo." Rapport de recherche, CERIST, 2013<br>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2013chm_rist_abstract');" class="btn btn--primary">Abstract</a>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2013chm_rist');" class="btn btn--info">Bibtex</a>
+        <a href="/media/papers/sadallah2013chm_rist.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<div id="sadallah2013chm_rist_abstract" style="display:none;">
+  <p class="notice--info"><strong>Absract. </strong> Defined as a specialization of hypermedia focusing on interactive video, hypervideo is an attractive technology that promises non-conventional and powerful features. It aims to bring more powerful capabilities for video-centric documents and to offer novel user experiences with more elaborated practices and advanced interaction alternatives. Usually considered from a conventional hypermedia perspective, the underlying concepts and representations are too general to qualify   hypervideos, preventing this kind of documents from being broadly investigated. The need for theoretical foundations for hypervideos motivates the present work. With the aim to provide a formal data model that considers hypervideo beyond the very general and conventional hypermedia ones, CHM - Component-based Hypervideo Model - is an attempt to theorize hypervidéos using a component-based modeling and an annotation-driven document description. The proposed model serves as a basis for a Web-oriented implementation used as a proof of principles and a means to provide a basis for more elaborated practices of online video implementation since the features of hypervideo are grafted to wider video-based Web documents in a simple yet powerful and Web standards-compliant manner.</p>
+</div>
+
+<div id="sadallah2013chm_rist" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@misc{sadallah2013chm_rist,
+ title={Vers une Expérience Audiovisuelle Interactive sur le Web : Un Modèle à Base de Composants et un Langage de Spécification Déclaratif pour l'Hypervidéo},
+ publisher={CERIST},
+ author={Sadallah, Madjid and MaredJ, Azze-Eddine and Encelle, Beno{\^\i}t and Pri{\'e}, Yannick},
+ year={2013},
+ month={December}
 }
 </code></pre></div></small>
 </div>
