@@ -25,7 +25,14 @@ feature_row_csedu:
     url: "/media/presentations/csedu2023.pdf"
     btn_label: "Presentation (.pdf)"
     btn_class: "btn--inverse"
-
+feature_row_surf:
+  - image_path: /assets/images/surf2022.png
+    alt: "SURF"
+    title: 'SURF, November 2022.'
+    excerpt: "Slides of the presentation of the the PaDLAD toolkit for members of the SURF, Netherlands."
+    url: "/media/presentations/surf2022.pdf"
+    btn_label: "Presentation (.pdf)"
+    btn_class: "btn--inverse"
 feature_row_rjceiah2022ws:
   - image_path: /assets/images/rjceiah2022ws.png
     alt: "Workshop Learning analytics dashboard @ RJC EIAH 2022"
@@ -211,6 +218,7 @@ feature_row_perse:
 
 {% include feature_row id="feature_row_eiah" type="left" %}
 {% include feature_row id="feature_row_csedu" type="left" %}
+{% include feature_row id="feature_row_surf" type="left" %}
 {% include feature_row id="feature_row_rjceiah2022ws" type="left" %}
 {% include feature_row id="feature_row_eiah2021ws" type="left" %}
 {% include feature_row id="feature_row_phd" type="left" %}
