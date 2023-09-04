@@ -25,7 +25,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 <div id="maredj2024" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
-<code>@article{maredj2023set,
+<code>@article{maredj2024,
   title={A set of rhetorical relationships for educational multimedia document},
    author={Maredj, Azze-eddine and Sadallah, Madjid and Tonkin, Nourreddine},
   journal={Knowledge and Information Systems},
