@@ -13,7 +13,31 @@ permalink: /publications/
 For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=A8So5p8AAAAJ" itemprop="sameAs">Google Scholar</a>.
 
 ---
+
 # 2023
+   > Azze-eddine Maredj, Madjid Sadallah and Nourreddine Tonkin. Enhancing Multimedia Document Modeling through Extended Orbits-Based Rhetorical Structure: An Approach to Media Weighting for Importance Determination. Knowledge and Information Systems, (accepted).<br>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2024_abstract');" class="btn btn--primary">Abstract</a>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2024');" class="btn btn--info">Bibtex</a>
+        <a href="/media/papers/maredj2024.pdf" style="color:white" class="btn btn--warning">Preprint</a>
+<div id="maredj2024_abstract" style="display:none;">
+  <p class="notice--info"><strong>Absract. </strong> (TODO).</p>
+</div>
+
+<div id="maredj2024" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@article{maredj2023set,
+  title={A set of rhetorical relationships for educational multimedia document},
+   author={Maredj, Azze-eddine and Sadallah, Madjid and Tonkin, Nourreddine},
+  journal={Knowledge and Information Systems},
+  volume={},
+  number={},
+  pages={},
+  year={2024},
+  publisher={Springer}
+}
+</code></pre></div></small>
+</div>
+
   > Madjid Sadallah and Grégory Smits (accepted) "Learning Path Recommendation from an Inferred Learning Space."   18th European Conference on Technology Enhanced Learning, EC-TEL 2023, Aveiro, Portugal,  4--8 September 2023<br>
    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023learning_abstract');" class="btn btn--primary">Abstract</a>
    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023learning');" class="btn btn--info">Bibtex</a>
