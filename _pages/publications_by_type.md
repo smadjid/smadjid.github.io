@@ -15,6 +15,29 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 ---
 # Journal publications
+ > Azze-eddine Maredj, Madjid Sadallah and Nourreddine Tonkin. Enhancing Multimedia Document Modeling through Extended Orbits-Based Rhetorical Structure: An Approach to Media Weighting for Importance Determination. Knowledge and Information Systems, (accepted).<br>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2024_abstract');" class="btn btn--primary">Abstract</a>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2024');" class="btn btn--info">Bibtex</a>
+        <a href="/media/papers/maredj2023set.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<div id="maredj2024_abstract" style="display:none;">
+  <p class="notice--info"><strong>Absract. </strong> (TODO).</p>
+</div>
+
+<div id="maredj2024" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@article{maredj2023set,
+  title={A set of rhetorical relationships for educational multimedia document},
+   author={Maredj, Azze-eddine and Sadallah, Madjid and Tonkin, Nourreddine},
+  journal={Knowledge and Information Systems},
+  volume={},
+  number={},
+  pages={},
+  year={2024},
+  publisher={Springer}
+}
+</code></pre></div></small>
+</div>
+
 > Jean-Marie Gilliot and Madjid Sadallah. "A framework for co-designing effective LADs supporting sensemaking and decision making." International Journal of Learning Technology<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('gilliot2023framework_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('gilliot2023framework');" class="btn btn--info">Bibtex</a>
