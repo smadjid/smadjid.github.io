@@ -15,7 +15,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 ---
 # Journal publications
- > Azze-eddine Maredj, Madjid Sadallah and Nourreddine Tonkin. Enhancing Multimedia Document Modeling through Extended Orbits-Based Rhetorical Structure: An Approach to Media Weighting for Importance Determination. Knowledge and Information Systems, (accepted).<br>
+ > Azze-eddine Maredj, Madjid Sadallah and Nourreddine Tonkin (accepted) Enhancing Multimedia Document Modeling through Extended Orbits-Based Rhetorical Structure: An Approach to Media Weighting for Importance Determination. Knowledge and Information Systems, Springer.<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2024_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2024');" class="btn btn--info">Bibtex</a>
     
@@ -38,7 +38,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </code></pre></div></small>
 </div>
 
-> Jean-Marie Gilliot and Madjid Sadallah. "A framework for co-designing effective LADs supporting sensemaking and decision making." International Journal of Learning Technology<br>
+> Jean-Marie Gilliot and Madjid Sadallah (in press). "A framework for co-designing effective LADs supporting sensemaking and decision making." International Journal of Learning Technology<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('gilliot2023framework_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('gilliot2023framework');" class="btn btn--info">Bibtex</a>
         
@@ -59,7 +59,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </code></pre></div></small>
 </div>
 
- > Azze-eddine Maredj and Madjid Sadallah. A set of rhetorical relationships for educational multimedia document. Revue de l'Information Scientifique et Technique, 27(1), 1-7.<br>
+ > Azze-eddine Maredj and Madjid Sadallah (2023). A set of rhetorical relationships for educational multimedia document. Revue de l'Information Scientifique et Technique, 27(1), 1-7.<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2023set_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2023set');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/maredj2023set.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -82,7 +82,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </code></pre></div></small>
 </div>
 
-> MAREDJ, Azze-Eddine and Madjid, Sadallah and Lamia, Hamouche. "Une cinquième dimension pour les documents multimédia: La dimension annotation." Revue de l'Information Scientifique et Technique 24.1 (2021): 12-20<br>
+> MAREDJ, Azze-Eddine and Madjid, Sadallah and Lamia, Hamouche (2021). "Une cinquième dimension pour les documents multimédia: La dimension annotation." Revue de l'Information Scientifique et Technique 24.1, pp. 12-20<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2021cinquieme_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2021cinquieme');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/maredj2021cinquieme.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -129,7 +129,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </code></pre></div></small>
 </div>
 
-  > Madjid Sadallah, Benoît Encelle, Azze-Eddine Maredj and Yannick Prié. "Towards fine-grained reading dashboards for online course revision." Educational Technology Research and Development 68 (2020): 3165-3186<br>
+  > Madjid Sadallah, Benoît Encelle, Azze-Eddine Maredj and Yannick Prié  (2020). "Towards fine-grained reading dashboards for online course revision." Educational Technology Research and Development 68, pp. 3165-3186<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2020towards_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2020towards');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/sadallah2020towards.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -173,7 +173,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </code></pre></div></small>
 </div>
 
-> Azze-Eddine Maredj, Nourreddine Tonkin and Madjid Sadallah. "MediaStudio: Un systeme d'edition et de presentation de documents multimedia interactifs." Revue d'Information Scientifique & Technique 18 (2010): 25-47<br>
+> Azze-Eddine Maredj, Nourreddine Tonkin and Madjid Sadallah  (2010). "MediaStudio: Un systeme d'edition et de presentation de documents multimedia interactifs." Revue d'Information Scientifique & Technique 18, pp. 25-47<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2010mediastudio_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2010mediastudio');" class="btn btn--info">Bibtex</a>
     <a href="/media/papers/maredj2010mediastudio.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -195,7 +195,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </div>
 
 # Conference publications
-  > Madjid Sadallah and Grégory Smits. "Learning Path Recommendation from an Inferred Learning Space."  In: Viberg, O., Jivet, I., Muñoz-Merino, P., Perifanou, M., Papathoma, T. (eds) Responsive and Sustainable Educational Futures. EC-TEL 2023. Lecture Notes in Computer Science, vol 14200. Springer, Cham.<br>
+  > Madjid Sadallah and Grégory Smits  (2023). "Learning Path Recommendation from an Inferred Learning Space."  In: Viberg, O., Jivet, I., Muñoz-Merino, P., Perifanou, M., Papathoma, T. (eds) Responsive and Sustainable Educational Futures. EC-TEL 2023. Lecture Notes in Computer Science, vol 14200. Springer, Cham.<br>
    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023learning_abstract');" class="btn btn--primary">Abstract</a>
    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023learning');" class="btn btn--info">Bibtex</a>
         
@@ -218,7 +218,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </div>
 
  
- > Madjid Sadallah and Jean-Marie Gilliot. "Outiller la conception participative et générative de tableaux de bord d'apprentissage." In Actes de la 11e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain EIAH 2023<br>
+ > Madjid Sadallah and Jean-Marie Gilliot  (2023). "Outiller la conception participative et générative de tableaux de bord d'apprentissage." In Actes de la 11e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain EIAH 2023<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023outiller_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023outiller');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/sadallah2023outiller.pdf" style="color:white" class="btn btn--warning">Pre-print</a>
@@ -238,7 +238,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </code></pre></div></small>
 </div>
 
- > Madjid Sadallah, Maria Teresa Segarra, Jean-Marie Gilliot and Issam Rebai. "Un dispositif de suivi des apprentissages pour soutenir l'orchestration de la classe." In Actes de la 11e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain EIAH 2023<br>
+ > Madjid Sadallah, Maria Teresa Segarra, Jean-Marie Gilliot and Issam Rebai  (2023). "Un dispositif de suivi des apprentissages pour soutenir l'orchestration de la classe." In Actes de la 11e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain EIAH 2023<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023dispositif_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023dispositif');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/sadallah2023dispositif.pdf" style="color:white" class="btn btn--warning">Pre-print</a>
@@ -258,7 +258,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </code></pre></div></small>
 </div>
 
-  > Madjid Sadallah and Jean-Marie Gilliot. "Generating LADs that make sense." In Proceedings of the 15th International Conference on Computer Supported Education CSEDU 2023, pages 35-46<br>
+  > Madjid Sadallah and Jean-Marie Gilliot  (2023). "Generating LADs that make sense." In Proceedings of the 15th International Conference on Computer Supported Education CSEDU 2023, pages 35-46<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023generating_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023generating');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/sadallah2023generating.pdf" style="color:white" class="btn btn--warning">Pre-print</a>
@@ -281,7 +281,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </div>
 
  
-  > Madjid Sadallah, Jean-Marie Gilliot, Sébastien Iksal, Katia Quelennec, Mathieu Vermeulen, Laurent Neyssensas, Olivier Aubert and Rémi Venant. "Designing LADs That Promote Sensemaking: A Participatory Tool." In Educating for a New Future: Making Sense of Technology-Enhanced Learning Adoption: 17th European Conference on Technology Enhanced Learning, EC-TEL 2022, Toulouse, France, September 12--16, 2022, Proceedings. Springer International Publishing Cham, 2022. pp. 587--593<br>
+  > Madjid Sadallah, Jean-Marie Gilliot, Sébastien Iksal, Katia Quelennec, Mathieu Vermeulen, Laurent Neyssensas, Olivier Aubert and Rémi Venant  (2022). "Designing LADs That Promote Sensemaking: A Participatory Tool." In Educating for a New Future: Making Sense of Technology-Enhanced Learning Adoption: 17th European Conference on Technology Enhanced Learning, EC-TEL 2022, Toulouse, France, September 12--16, 2022, Proceedings. Springer International Publishing Cham, 2022. pp. 587--593<br>
    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2022designing_abstract');" class="btn btn--primary">Abstract</a>
    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2022designing');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/sadallah2022designing.pdf" style="color:white" class="btn btn--warning">Accepted version</a>
@@ -303,7 +303,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </div>
 
   
-  > Madjid Sadallah, Benoît Encelle, Azze-Eddine Maredj and Yannick Prié. "Towards reading session-based indicators in educational reading analytics." In Design for Teaching and Learning in a Networked World: 10th European Conference on Technology Enhanced Learning, EC-TEL 2015, Toledo, Spain, September 15-18, 2015, Proceedings 10, pages 297--310. Springer International Publishing, 2015<br>
+  > Madjid Sadallah, Benoît Encelle, Azze-Eddine Maredj and Yannick Prié  (2015). "Towards reading session-based indicators in educational reading analytics." In Design for Teaching and Learning in a Networked World: 10th European Conference on Technology Enhanced Learning, EC-TEL 2015, Toledo, Spain, September 15-18, 2015, Proceedings 10, pages 297--310. Springer International Publishing, 2015<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2015towards_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2015towards');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/sadallah2015towards.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -324,7 +324,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </code></pre></div></small>
 </div>
 
-  > Madjid Sadallah, Benoît Encelle, Azze-Eddine Mared and Yannick Prié. "A framework for usage-based document reengineering." In Proceedings of the 2013 ACM symposium on Document engineering, pages 99-102, 2013<br>
+  > Madjid Sadallah, Benoît Encelle, Azze-Eddine Mared and Yannick Prié  (2013). "A framework for usage-based document reengineering." In Proceedings of the 2013 ACM symposium on Document engineering, pages 99-102<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2013framework_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2013framework');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/sadallah2013framework.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -344,7 +344,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </code></pre></div></small>
 </div>
 
-  > Madjid Sadallah, Olivier Aubert and Yannick Prié. "Component-based hypervideo model: high-level operational specification of hypervideos." In Proceedings of the 11th ACM symposium on Document engineering, pages 53-56, 2011<br>
+  > Madjid Sadallah, Olivier Aubert and Yannick Prié  (2011). "Component-based hypervideo model: high-level operational specification of hypervideos." In Proceedings of the 11th ACM symposium on Document engineering, pages 53-56<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2011component_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2011component');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/sadallah2011component.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -364,7 +364,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </code></pre></div></small>
 </div>
 
-  > Madjid Sadallah, Olivier Aubert and Yannick Prié. "Hypervideo and Annotations on the Web." In 2011 Workshop on Multimedia on the Web, pages 10-15, IEEE, 2011<br>
+  > Madjid Sadallah, Olivier Aubert and Yannick Prié  (2011). "Hypervideo and Annotations on the Web." In 2011 Workshop on Multimedia on the Web, pages 10-15, IEEE<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2011hypervideo_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2011hypervideo');" class="btn btn--info">Bibtex</a>
     <a href="/media/papers/sadallah2011hypervideo.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -387,7 +387,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 
 
 
-> Azze-Eddine Maredj, Nourreddine Tonkin, Madjid Sadallah and Zaia Alimazighi. "A flexible distance for the spatial placement in a multimedia document." Dans ICTTA’08:International Conference on Information & Communication Technologies : From theory to Applications., pages 1-4. IEEE, 2008<br>
+> Azze-Eddine Maredj, Nourreddine Tonkin, Madjid Sadallah and Zaia Alimazighi  (2008). "A flexible distance for the spatial placement in a multimedia document." Dans ICTTA’08:International Conference on Information & Communication Technologies : From theory to Applications., pages 1-4. IEEE<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2008flexible_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2008flexible');" class="btn btn--info">Bibtex</a>
     <a href="/media/papers/maredj2008flexible.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -409,7 +409,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </div>
 
 
-  > Azze-Eddine Maredj, Zaia Alimazighi and Madjid Sadallah. "Extension of the Wahl-Rothermel temporal model for the multimedia documents." In ICTA’07, April 12-14, Hammamet, Tunisia, pages 257-261, 2007<br>
+  > Azze-Eddine Maredj, Zaia Alimazighi and Madjid Sadallah (2007). "Extension of the Wahl-Rothermel temporal model for the multimedia documents." In ICTA’07, April 12-14, Hammamet, Tunisia, pages 257-261<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2007extension_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2007extension');" class="btn btn--info">Bibtex</a>
     <a href="/media/papers/maredj2007extension.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -430,7 +430,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </div>
 
 # Preprints and misc
-> Madjid Sadallah and Jean-Marie Gilliot. "Fostering Collaborative and Creative Design of Learning Dashboards: An Empowered Participatory Approach and Tools." EdArXiv. <a href="https://doi.org/10.35542/osf.io/q78yn">https://doi.org/10.35542/osf.io/q78yn</a><br>
+> Madjid Sadallah and Jean-Marie Gilliot  (2023). "Fostering Collaborative and Creative Design of Learning Dashboards: An Empowered Participatory Approach and Tools." EdArXiv. <a href="https://doi.org/10.35542/osf.io/q78yn">https://doi.org/10.35542/osf.io/q78yn</a><br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023edarxiv_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023edarxiv');" class="btn btn--info">Bibtex</a>
     <a href="/media/papers/padlad_ladstudio_arxiv.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -453,7 +453,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </code></pre></div></small>
 </div>
 
-> Madjid Sadallah. "Enhancing Course Revision: Introducing CoReaDa - an Advanced Reading Analytics Dashboard." EdArXiv. <a href="https://doi.org/10.35542/osf.io/9bkad">https://doi.org/10.35542/osf.io/9bkad</a><br>
+> Madjid Sadallah  (2020). "Enhancing Course Revision: Introducing CoReaDa - an Advanced Reading Analytics Dashboard." EdArXiv. <a href="https://doi.org/10.35542/osf.io/9bkad">https://doi.org/10.35542/osf.io/9bkad</a><br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2020coreada_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2020coreada');" class="btn btn--info">Bibtex</a>
     <a href="/media/papers/coreada_arxiv.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -476,7 +476,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </code></pre></div></small>
 </div>
 
-> Madjid Sadallah, Azze-Eddine Maredj, Benoît Encelle and Yannick Prié. "Vers une Expérience Audiovisuelle Interactive sur le Web : Un Modèle à Base de Composants et un Langage de Spécification Déclaratif pour l'Hypervidéo." Rapport de recherche, CERIST, 2013<br>
+> Madjid Sadallah, Azze-Eddine Maredj, Benoît Encelle and Yannick Prié  (2013). "Vers une Expérience Audiovisuelle Interactive sur le Web : Un Modèle à Base de Composants et un Langage de Spécification Déclaratif pour l'Hypervidéo." Rapport de recherche, CERIST<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2013chm_rist_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2013chm_rist');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/sadallah2013chm_rist.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
