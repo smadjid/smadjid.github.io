@@ -37,7 +37,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </code></pre></div></small>
 </div>
 
-  > Madjid Sadallah and Grégory Smits (accepted) "Learning Path Recommendation from an Inferred Learning Space."  In: Viberg, O., Jivet, I., Muñoz-Merino, P., Perifanou, M., Papathoma, T. (eds) Responsive and Sustainable Educational Futures. EC-TEL 2023. Lecture Notes in Computer Science, vol 14200. Springer, Cham.<br>
+  > Madjid Sadallah and Grégory Smits. "Learning Path Recommendation from an Inferred Learning Space."  In: Viberg, O., Jivet, I., Muñoz-Merino, P., Perifanou, M., Papathoma, T. (eds) Responsive and Sustainable Educational Futures. EC-TEL 2023. Lecture Notes in Computer Science, vol 14200. Springer, Cham.<br>
    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023learning_abstract');" class="btn btn--primary">Abstract</a>
    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023learning');" class="btn btn--info">Bibtex</a>
         
