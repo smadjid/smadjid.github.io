@@ -18,7 +18,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
  > Azze-eddine Maredj, Madjid Sadallah and Nourreddine Tonkin. Enhancing Multimedia Document Modeling through Extended Orbits-Based Rhetorical Structure: An Approach to Media Weighting for Importance Determination. Knowledge and Information Systems, (accepted).<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2024_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2024');" class="btn btn--info">Bibtex</a>
-        <a href="/media/papers/maredj2024.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+    
 <div id="maredj2024_abstract" style="display:none;">
   <p class="notice--info"><strong>Absract. </strong> (TODO).</p>
 </div>
