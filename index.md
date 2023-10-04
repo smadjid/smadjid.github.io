@@ -11,8 +11,7 @@ permalink: /
 ## Short Bio
 I hold a PhD in Computer Sciences from the  [University Abderrahmane Mira](http://univ-bejaia.dz/) (Bejaia, Algeria), as well as an Engineer degree in Computer Sciences from the [University of Science and Technology USTHB](https://www.usthb.dz/) (Algiers, Algeria) and a Magister degree in Computer Sciences from the [University Abderrahmane Mira](http://univ-bejaia.dz/). 
 
-Currently, I serve as a research engineer at [IMT Atlantique](https://www.imt-atlantique.fr/fr) (Brest, France), where I am part of the  [MOTEL](https://labsticc.fr/fr/equipes/motel) team. My research focus is on developing advanced analytical tools to enhance digital learning practices and improve the overall learning experience. Before my current role, I served as a full-time permanent researcher (Maître de Recherche B) at  the [Algerian Research Center on Scientific and Technical Information CERIST](https://www.cerist.dz/).
-
+I am currently working as a postdoctoral researcher at [LIRIS](https://liris.cnrs.fr/), specifically within the [TWEAK](https://liris.cnrs.fr/equipe/tweak) team. Prior to this, I held the position of research engineer at [IMT Atlantique](https://www.imt-atlantique.fr/fr) in Brest, France, where I was an integral part of the [MOTEL](https://labsticc.fr/fr/equipes/motel) research team. My research is centered around the development of advanced analytical tools aimed at enhancing digital learning practices and improving the overall learning experience. Before my tenure at IMT Atlantique, I served as a full-time permanent researcher (Maître de Recherche B) at the [Algerian Research Center on Scientific and Technical Information CERIST](https://www.cerist.dz/).
 
 
 <a style="color:white;cursor: pointer; cursor: hand;" href="./media/cv_madjid_sadallah_fr.pdf" class="btn btn--info">View my academic CV (in French)</a>
