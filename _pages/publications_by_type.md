@@ -20,9 +20,9 @@ For a complete list of publications, please refer to <a href="https://scholar.go
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2024');" class="btn btn--info">Bibtex</a>
     
 <div id="maredj2024_abstract" style="display:none;">
-  <p class="notice--info"><strong>Absract. </strong> (TODO).</p>
+  <p class="notice--info"><strong>Absract. </strong> This paper proposes a graph-based approach to determine the importance of each media in a multimedia document by expanding the traditional four-dimensional model with a dimension that captures the rhetorical relations between different media types. The proposed approach utilizes an algorithm to weight the media types based on their significance. The use of rhetorical structure theory enables the determination of the significance of each media type, making it useful for document adaptation, automatic composition, and automatic generation of summaries. The approach utilizes an extended orbits-based rhetorical structure that is a novel method for determining the importance of media types in multimedia documents. The proposed approach is effective in capturing the importance of each media type and can be utilized in a wide range of applications, making it a potential solution to the limitations of the traditional model. This research has implications for a range of applications, including document adaptation, automatic composition, and automatic generation of summaries.</p>
 </div>
-
+ <a href="https://rdcu.be/dorje" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="maredj2024" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
 <code>@article{maredj2024,
