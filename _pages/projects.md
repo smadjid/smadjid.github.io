@@ -216,6 +216,7 @@ feature_row_mediastudio:
     
 ---
 {% include feature_row id="intro" type="center" %}
+{% include feature_row id="feature_row_mobiles" type="left" %}
 {% include feature_row id="feature_row_ldl" type="left" %}
 {% include feature_row id="feature_row_sava" type="left" %}
 {% include feature_row id="feature_row_ladstudio" type="left" %}
