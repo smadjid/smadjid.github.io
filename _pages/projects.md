@@ -7,6 +7,15 @@ author_profile: true
 title: Selected projects
 permalink: /projects/
 
+feature_row_mobiles:
+  - image_path: /assets/images/mobiles.png
+    alt: "Mobiles"
+    title: 'ANR MOBILES, 2023.'
+    excerpt: "The ANR MOBILES project in France aims to study and support international students' spatial practices and language learning using digital tools. My role involves enabling students to annotate locations, which helps enrich their experiences. Additionally, I work on utilizing these annotations to provide recommendations for diverse learning opportunities and to understand how these can benefit other students. "
+    url: "/projects/mobiles"
+    btn_label: "Details"
+    btn_class: "btn--inverse"
+    
 feature_row_ldl:
   - image_path: /assets/images/ldl.png
     alt: "LearningDataLab"
@@ -15,8 +24,6 @@ feature_row_ldl:
     url: "/projects/ldl"
     btn_label: "Details"
     btn_class: "btn--inverse"
-    
-
 
 feature_row_ladstudio:
   - image_path: /assets/images/ladstudio.png
