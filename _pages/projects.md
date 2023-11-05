@@ -12,7 +12,7 @@ feature_row_mobiles:
     alt: "Mobiles"
     title: 'ANR MOBILES, 2023.'
     excerpt: "The ANR MOBILES project in France aims to study and support international students' spatial practices and language learning using digital tools. My role involves enabling students to annotate locations, which helps enrich their experiences. Additionally, I work on utilizing these annotations to provide recommendations for diverse learning opportunities and to understand how these can benefit other students. "
-    url: "/projects/mobiles"
+    url: "/projects/mobiles/"
     btn_label: "Details"
     btn_class: "btn--inverse"
     
