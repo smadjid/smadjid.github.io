@@ -26,7 +26,15 @@ For a complete list of publications, please refer to <a href="https://scholar.go
  
 <div id="maredj2024" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
-<code>@article{Maredj2024, author = {Azze-Eddine Maredj and Madjid Sadallah and Nourreddine Tonkin}, title = {Enhancing multimedia document modeling through extended orbit-based rhetorical structure: an approach to media weighting for importance determination}, journal = {Knowledge and Information Systems}, volume = {66}, number = {3}, pages = {1683–1707}, year = {2024}, doi = {10.1007/s10115-023-01984-6} }
+<code>@article{Maredj2024, 
+  author = {Azze-Eddine Maredj and Madjid Sadallah and Nourreddine Tonkin}, 
+  title = {Enhancing multimedia document modeling through extended orbit-based rhetorical structure: an approach to media weighting for importance determination}, 
+  journal = {Knowledge and Information Systems}, 
+  volume = {66}, 
+  number = {3}, 
+  pages = {1683–1707}, 
+  year = {2024}, 
+  doi = {10.1007/s10115-023-01984-6} }
 </code></pre></div></small>
 </div>
 
