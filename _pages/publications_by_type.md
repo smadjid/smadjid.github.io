@@ -15,7 +15,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 ---
 # Journal publications
- > Azze-eddine Maredj, Madjid Sadallah and Nourreddine Tonkin (accepted) Enhancing Multimedia Document Modeling through Extended Orbits-Based Rhetorical Structure: An Approach to Media Weighting for Importance Determination. Knowledge and Information Systems, Springer.<br>
+ > Azze-eddine Maredj, Madjid Sadallah and Nourreddine Tonkin (2024) Enhancing Multimedia Document Modeling through Extended Orbits-Based Rhetorical Structure: An Approach to Media Weighting for Importance Determination. _Knowledge and Information Systems_, 66(3), 1683–1707. Springer.<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2024_abstract');" class="btn btn--primary">Abstract</a>
     <a href="https://rdcu.be/dorje" style="color:white" class="btn btn--warning">Fulltext</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2024');" class="btn btn--info">Bibtex</a>
@@ -26,16 +26,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
  
 <div id="maredj2024" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
-<code>@article{maredj2024,
-  title={A set of rhetorical relationships for educational multimedia document},
-   author={Maredj, Azze-eddine and Sadallah, Madjid and Tonkin, Nourreddine},
-  journal={Knowledge and Information Systems},
-  volume={},
-  number={},
-  pages={},
-  year={2024},
-  publisher={Springer}
-}
+<code>@article{Maredj2024, author = {Azze-Eddine Maredj and Madjid Sadallah and Nourreddine Tonkin}, title = {Enhancing multimedia document modeling through extended orbit-based rhetorical structure: an approach to media weighting for importance determination}, journal = {Knowledge and Information Systems}, volume = {66}, number = {3}, pages = {1683–1707}, year = {2024}, doi = {10.1007/s10115-023-01984-6} }
 </code></pre></div></small>
 </div>
 
