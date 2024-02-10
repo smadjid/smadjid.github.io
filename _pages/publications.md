@@ -14,13 +14,20 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 ---
 
-# 2023
-   > Azze-eddine Maredj, Madjid Sadallah and Nourreddine Tonkin. Enhancing Multimedia Document Modeling through Extended Orbits-Based Rhetorical Structure: An Approach to Media Weighting for Importance Determination. Knowledge and Information Systems, (accepted).<br>
+# 2024
+   > Azze-eddine Maredj, Madjid Sadallah and Nourreddine Tonkin (2024) Enhancing Multimedia Document Modeling through Extended Orbits-Based Rhetorical Structure: An Approach to Media Weighting for Importance Determination. _Knowledge and Information Systems_, 66(3), 1683–1707. Springer.<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2024_abstract');" class="btn btn--primary">Abstract</a>
     <a href="https://rdcu.be/dorje" style="color:white" class="btn btn--warning">Fulltext</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2024');" class="btn btn--info">Bibtex</a>
+    
 <div id="maredj2024_abstract" style="display:none;">
   <p class="notice--info"><strong>Absract. </strong> This paper proposes a graph-based approach to determine the importance of each media in a multimedia document by expanding the traditional four-dimensional model with a dimension that captures the rhetorical relations between different media types. The proposed approach utilizes an algorithm to weight the media types based on their significance. The use of rhetorical structure theory enables the determination of the significance of each media type, making it useful for document adaptation, automatic composition, and automatic generation of summaries. The approach utilizes an extended orbits-based rhetorical structure that is a novel method for determining the importance of media types in multimedia documents. The proposed approach is effective in capturing the importance of each media type and can be utilized in a wide range of applications, making it a potential solution to the limitations of the traditional model. This research has implications for a range of applications, including document adaptation, automatic composition, and automatic generation of summaries.</p>
+</div>
+ 
+<div id="maredj2024" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@article{Maredj2024, author = {Azze-Eddine Maredj and Madjid Sadallah and Nourreddine Tonkin}, title = {Enhancing multimedia document modeling through extended orbit-based rhetorical structure: an approach to media weighting for importance determination}, journal = {Knowledge and Information Systems}, volume = {66}, number = {3}, pages = {1683–1707}, year = {2024}, doi = {10.1007/s10115-023-01984-6} }
+</code></pre></div></small>
 </div>
 
 <div id="maredj2024" style="display:none;">
@@ -38,6 +45,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </code></pre></div></small>
 </div>
 
+# 2023
   > Madjid Sadallah and Grégory Smits. "Learning Path Recommendation from an Inferred Learning Space."  In: Viberg, O., Jivet, I., Muñoz-Merino, P., Perifanou, M., Papathoma, T. (eds) Responsive and Sustainable Educational Futures. EC-TEL 2023. Lecture Notes in Computer Science, vol 14200. Springer, Cham.<br>
    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023learning_abstract');" class="btn btn--primary">Abstract</a>
    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023learning');" class="btn btn--info">Bibtex</a>
