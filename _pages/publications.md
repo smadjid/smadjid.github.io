@@ -15,6 +15,30 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 ---
 
 # 2024
+> Jean-Marie Gilliot and Madjid Sadallah (2024) "A framework for co-designing effective LADs supporting sensemaking and decision making." International Journal of Learning Technology<br>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('gilliot2024framework_abstract');" class="btn btn--primary">Abstract</a>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('gilliot2024framework');" class="btn btn--info">Bibtex</a>
+        
+<div id="gilliot2024framework_abstract" style="display:none;">
+  <p class="notice--info"><strong>Absract. </strong> Learning Analytics Dashboards (LAD) deserve increasing attention, yet their adoption remains limited. Designing effective LAD is a difficult process, and LADs often fail in turning insights into action. We argue that providing explicit decision-making features in a participatory design process may help to develop LADs supporting action. We first examine how the decision-making process is reflected on LADs. Second, we review the literature to identify major design space dimensions and examine how to include decision-making features. Secondly, we propose the DEFLAD design framework to synthesise this review which provides explicit decision-making features in three dimensions:  Goal expression as a situation awareness level, Visualisation and related  Interactions, as support of decision-making process. Third, we consider how this framework is involved through every stage of a Human-Centred Design (HCD) process to express and manage such features. The main contribution of this paper is to provide a framework integrating the decision-making features in a participatory design process of LADs.
+Furthermore, we demonstrate the implementation of our proposals through the development of a card-based toolkit to assist in the ideation phase of participatory design, and present feedback from participants of a workshop utilizing this tool as a proof of concept.</p>
+</div>
+
+<div id="gilliot2024framework" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@article{gilliot2024framework,
+  title={A framework for co-designing effective LADs supporting sensemaking and decision making},
+  author={Gilliot, Jean-Marie and Sadallah, Madjid},
+  journal={International Journal of Learning Technology},
+  volume={19},
+  number={1},
+  pages={109--130},
+  year={2024},
+  publisher={Inderscience Publishers (IEL)}
+}
+</code></pre></div></small>
+</div>
+
    > Azze-eddine Maredj, Madjid Sadallah and Nourreddine Tonkin (2024) Enhancing Multimedia Document Modeling through Extended Orbits-Based Rhetorical Structure: An Approach to Media Weighting for Importance Determination. _Knowledge and Information Systems_, 66(3), 1683–1707. Springer.<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2024_abstract');" class="btn btn--primary">Abstract</a>
     <a href="https://rdcu.be/dorje" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -74,28 +98,6 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 }
 </code></pre></div></small>
 </div>
-
- > Jean-Marie Gilliot and Madjid Sadallah (in press) "A framework for co-designing effective LADs supporting sensemaking and decision making." International Journal of Learning Technology<br>
-    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('gilliot2023framework_abstract');" class="btn btn--primary">Abstract</a>
-    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('gilliot2023framework');" class="btn btn--info">Bibtex</a>
-        
-<div id="gilliot2023framework_abstract" style="display:none;">
-  <p class="notice--info"><strong>Absract. </strong> Learning Analytics Dashboards (LAD) deserve increasing attention, yet their adoption remains limited. Designing effective LAD is a difficult process, and LADs often fail in turning insights into action. We argue that providing explicit decision-making features in a participatory design process may help to develop LADs supporting action. We first examine how the decision-making process is reflected on LADs. Second, we review the literature to identify major design space dimensions and examine how to include decision-making features. Secondly, we propose the DEFLAD design framework to synthesise this review which provides explicit decision-making features in three dimensions:  Goal expression as a situation awareness level, Visualisation and related  Interactions, as support of decision-making process. Third, we consider how this framework is involved through every stage of a Human-Centred Design (HCD) process to express and manage such features. The main contribution of this paper is to provide a framework integrating the decision-making features in a participatory design process of LADs.
-Furthermore, we demonstrate the implementation of our proposals through the development of a card-based toolkit to assist in the ideation phase of participatory design, and present feedback from participants of a workshop utilizing this tool as a proof of concept.</p>
-</div>
-
-<div id="gilliot2023framework" style="display:none;">
-<small><div class="highlighter-rouge"><pre class="highlight">
-<code>@article{gilliot2023framework,
-  title={A framework for co-designing effective LADs supporting sensemaking and decision making},
-  author={Gilliot, Jean-Marie and Sadallah, Madjid},
-  journal={International Journal of Learning Technology},
-  year={2023},
-  publisher={Inderscience}
-}
-</code></pre></div></small>
-</div>
-
 
 > Madjid Sadallah and Jean-Marie Gilliot. "Fostering Collaborative and Creative Design of Learning Dashboards: An Empowered Participatory Approach and Tools." EdArXiv. <a href="https://doi.org/10.35542/osf.io/q78yn">https://doi.org/10.35542/osf.io/q78yn</a><br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023edarxiv_abstract');" class="btn btn--primary">Abstract</a>
