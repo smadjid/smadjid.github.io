@@ -15,6 +15,8 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 ---
 # Journal publications
+ > Madjid Sadallah and Jean-Marie Gilliot (accepted) "Modéliser et outiller la conception participative et générative de tableaux de bord d'apprentissage soutenant la création de sens". Sciences et Technologies de l'Information et de la Communication pour l'Education et la Formation (STICEF).<br>
+
  > Azze-eddine Maredj, Madjid Sadallah and Nourreddine Tonkin (2024) Enhancing Multimedia Document Modeling through Extended Orbits-Based Rhetorical Structure: An Approach to Media Weighting for Importance Determination. _Knowledge and Information Systems_, 66(3), 1683–1707. Springer.<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2024_abstract');" class="btn btn--primary">Abstract</a>
     <a href="https://rdcu.be/dorje" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -38,7 +40,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </code></pre></div></small>
 </div>
 
-> Jean-Marie Gilliot and Madjid Sadallah (2024). "A framework for co-designing effective LADs supporting sensemaking and decision making." International Journal of Learning Technology<br>
+> Jean-Marie Gilliot and Madjid Sadallah (2024). "A framework for co-designing effective LADs supporting sensemaking and decision making."  _International Journal of Learning Technology_, 19(1), 109-130<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('gilliot2024framework_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('gilliot2024framework');" class="btn btn--info">Bibtex</a>
         
