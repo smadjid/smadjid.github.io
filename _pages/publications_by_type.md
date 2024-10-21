@@ -15,7 +15,28 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 ---
 # Journal publications
- > Madjid Sadallah and Jean-Marie Gilliot (accepted) "Modéliser et outiller la conception participative et générative de tableaux de bord d'apprentissage soutenant la création de sens". Sciences et Technologies de l'Information et de la Communication pour l'Education et la Formation (STICEF).<br>
+ > Madjid Sadallah and Jean-Marie Gilliot (2024) "Modéliser et outiller la conception participative et générative de tableaux de bord d'apprentissage soutenant la création de sens". Sciences et Technologies de l'Information et de la Communication pour l'Education et la Formation (STICEF).<br>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2024outiller_abstract');" class="btn btn--primary">Abstract</a>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2024outiller');" class="btn btn--info">Bibtex</a>
+        
+<div id="sadallah2024outiller_abstract" style="display:none;">
+  <p class="notice--info"><strong>Absract. </strong> Les tableaux de bord d'apprentissage, dont le déploiement doit soutenir la prise de décision à toutes les étapes de la formation, continuent de faire face à des défis d'adoption. La littérature identifie plusieurs raisons à cette réticence, notamment l'absence de principes directeurs pour la conception et une participation insuffisante des parties prenantes. Pour y remédier, nous proposons un cadre de conception ainsi que deux outils pour supporter le processus de conception. Le cadre de conception, axé sur la création de sens pour étayer la prise de décision,  guide la conception au travers d'un espace de conception exhaustif. Le premier outil propose une phase d'idéation participative et encourage la collaboration des différentes parties prenantes. Le second outil propose de simplifier le travail du développeur et d'encourager sa collaboration avec les parties prenantes. L'évaluation de ces outils repose sur des critères tels que la facilité d'utilisation, le soutien à la participation et l'expérience utilisateur, éclairant chaque étape du processus de conception. Les résultats montrent que ces outils soutiennent significativement la participation des utilisateurs finaux et l'expérience des développeurs, soulignant leur pertinence et leur efficacité. En favorisant l'adoption des tableaux de bord d'apprentissage par une conception centrée sur l'utilisateur, cette contribution met en lumière le potentiel de ces outils et l'importance des approches participatives dans le développement des technologies éducatives.</p>
+</div>
+
+<div id="sadallah2024outiller" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@article{sadallah2024outiller,
+  title={Modéliser et outiller la conception participative et générative de tableaux de bord d’apprentissage soutenant la création de sens},
+  author={Sadallah, Madjid and Gilliot, Jean-Marie},
+  journal={Sciences et Technologies de l'Information et de la Communication pour l'Education et la Formation (STICEF)},
+  volume={31},
+  number={1},
+  pages={},
+  year={2024},
+  publisher={ATIEF}
+}
+</code></pre></div></small>
+</div>
 
  > Azze-eddine Maredj, Madjid Sadallah and Nourreddine Tonkin (2024) Enhancing Multimedia Document Modeling through Extended Orbits-Based Rhetorical Structure: An Approach to Media Weighting for Importance Determination. _Knowledge and Information Systems_, 66(3), 1683–1707. Springer.<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2024_abstract');" class="btn btn--primary">Abstract</a>
