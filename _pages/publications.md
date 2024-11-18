@@ -283,6 +283,25 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </code></pre></div></small>
 </div>
 
+> Madjid Sadallah. "User-Centered Course Reengineering: An Analytical Approach to Enhancing Reading Comprehension in Educational Content." PHD Research Report (2021)<br>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2021user');" class="btn btn--primary">Abstract</a>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2021user');" class="btn btn--info">Bibtex</a>
+        <a href="/media/papers/sadallah2021user.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<div id="sadallah2020towards_abstract" style="display:none;">
+  <p class="notice--info"><strong>Absract. </strong> The delivery of high-quality content is essential for effective reading comprehension and, by extension, successful learning. However, ensuring that educational materials are interpreted as intended by their authors remains a persistent challenge. This challenge is amplified in the digital age, where multimedia elements and interactivity add layers of complexity to content consumption. As a result, authors must continually revise their materials to meet the evolving needs of learners. Detecting comprehension barriers and identifying actionable improvements within documents is a complex task, particularly in the educational domain, where reading is a cornerstone of learning. This study presents an innovative analytical framework aimed at assisting course designers in enhancing educational content to better support learning outcomes. Grounded in a robust theoretical foundation that integrates learning analytics, reading comprehension, and content revision, our approach introduces the concept of "usage-based document reengineering". This methodology adapts the content and structure of documents based on insights gained from analyzing digital reading traces—interactions between readers and the content. We define ``reading sessions'' as a means to capture the nuances of these interactions and develop a set of indicators to detect comprehension challenges across various dimensions of the reading process. Our framework enables authors to receive tailored recommendations for content revision through an interactive dashboard. The dashboard presents actionable insights derived from reading activity, which authors can use to refine their materials and address specific comprehension barriers. The proposed approach was implemented and evaluated using data from a prominent European e-learning platform. Comprehensive evaluations validate the effectiveness of the framework, demonstrating its capacity to empower authors with data-driven insights that facilitate targeted revisions. The findings emphasize the framework’s ability to enhance the quality of educational content, ensuring it is more responsive to learners’ needs. This research offers a significant contribution to the fields of learning analytics and content optimization, providing practical tools that can improve educational outcomes and inform future developments in e-learning environments.</p>
+</div>
+
+<div id="sadallah2021user" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@misc{sadallah2020pp,
+ title={User-Centered Course Reengineering: An Analytical Approach to Enhancing Reading Comprehension in Educational Content},
+ author={Sadallah, Madjid},
+ year={2021},
+ month={January}
+}
+</code></pre></div></small>
+</div>
+
 # 2020
   > Madjid Sadallah, Benoît Encelle, Azze-Eddine Maredj and Yannick Prié. "Leveraging Learners' Activity Logs for Course Reading Analytics Using Session-Based Indicators." International Journal of Technology Enhanced Learning (IJTEL) 12.1 (2020): 53-78<br>
    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2020leveraging_abstract');" class="btn btn--primary">Abstract</a>
@@ -329,7 +348,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </code></pre></div></small>
 </div>
 
- > Madjid Sadallah. "Enhancing Course Revision: Introducing CoReaDa - an Advanced Reading Analytics Dashboard." CERIST Internal Report (2020)<br>
+ > Madjid Sadallah. "Enhancing Course Revision: Introducing CoReaDa - an Advanced Reading Analytics Dashboard." CERIST Research Report (2020)<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2020pp');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2020pp');" class="btn btn--info">Bibtex</a>
         <a href="/media/papers/sadallah2020pp.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
