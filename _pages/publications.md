@@ -16,7 +16,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 # 2024
 > Madjid Sadallah and Jean-Marie Gilliot (2024) "Modéliser et outiller la conception participative et générative de tableaux de bord d'apprentissage soutenant la création de sens". Sciences et Technologies de l'Information et de la Communication pour l'Education et la Formation (STICEF).<br>
-<span class="badge badge-info">Journal</span><br>
+<span class="fa fa-circle" style="color: #007bff;"> Journal</span><br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2024outiller_abstract');" class="btn btn--primary">Abstract</a>
     <a href="/media/papers/sadallah2024outiller.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2024outiller');" class="btn btn--info">Bibtex</a>
