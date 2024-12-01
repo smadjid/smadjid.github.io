@@ -10,8 +10,6 @@ permalink: /activities/
 ---
 
 ## Event organization
-### Participation in GT TBA Working Group
-I actively participate in the [GT TBA](http://www.atief.fr/content/gt-tba) (Groupe de Travail "Tableaux de Bord d'Apprentissage" or _Learning Analytics Dashboards_) working group, supported by the ATIEF (Association des Technologies de l’Information pour l’Education et la Formation). Our efforts focus on developing and refining learning dashboards to enhance the documentation and reflective practices of international students. We address key research questions related to the quality of indicators and user comprehension, aiming to improve the overall effectiveness of educational tools and technologies. Through regular workshops and collaborative sessions, we strive to overcome challenges and provide valuable insights into the design and implementation of these dashboards.
 
 ### Co-chair of the Workshop session -  11th Conference "Environnements Informatiques pour l'Apprentissage Humain"  @EIAH 2023
 I am actively involved in organizing the 11th Conference on Computer Environments for Human Learning ([EIAH 2023](https://eiah2023.sciencesconf.org)) , which will take place from June 12th to 16th, 2023, at IMT Atlantique in Brest. This French-speaking event brings together researchers and practitioners from various disciplines who are interested in digital research in education. I am a member of the program committee and the organizing committee for this conference.
@@ -46,6 +44,9 @@ I participated as the President (General Chair) in the first and second editions
 <hr/>
 
 ## Participation in scientific activities
+### GT TBA Working Group
+I actively participate in the [GT TBA](http://www.atief.fr/content/gt-tba) (Groupe de Travail "Tableaux de Bord d'Apprentissage" or _Learning Analytics Dashboards_) working group, supported by the ATIEF (Association des Technologies de l’Information pour l’Education et la Formation). Our efforts focus on developing and refining learning dashboards to enhance the documentation and reflective practices of international students. We address key research questions related to the quality of indicators and user comprehension, aiming to improve the overall effectiveness of educational tools and technologies. Through regular workshops and collaborative sessions, we strive to overcome challenges and provide valuable insights into the design and implementation of these dashboards.
+
 ### PADLAD Working group
 *Research, Design, Development. Member*
 
