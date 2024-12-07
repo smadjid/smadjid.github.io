@@ -72,6 +72,8 @@ feature_row_ectel2015:
     btn_label: "Presentation (.pdf)"
     btn_class: "btn--inverse"
 
+
+    
 feature_row_doceng2013:
   - image_path: /assets/images/doceng2013.png
     alt: "ACM DocEng 2013"
@@ -81,6 +83,15 @@ feature_row_doceng2013:
     btn_label: "Presentation (.pdf)"
     btn_class: "btn--inverse"
 
+feature_row_nantes2013:
+  - image_path: /assets/images/nantes2013.png
+    alt: "Nantes 2013"
+    title: 'Présentation au sein de l'équipe DUKE, Juillet 2013.'
+    excerpt: "Slides of the presentation of the paper 'A framework for Usage-based Document Renngineering'."
+    url: "/media/presentations/nantes/index"
+    btn_label: "Presentation (.html)"
+    btn_class: "btn--inverse"
+    
 feature_row_doceng2011:
   - image_path: /assets/images/doceng2011.png
     alt: "ACM DocEng 2011"
@@ -224,4 +235,5 @@ feature_row_perse:
 {% include feature_row id="feature_row_phd" type="left" %}
 {% include feature_row id="feature_row_ectel2015" type="left" %}
 {% include feature_row id="feature_row_doceng2013" type="left" %}
+{% include feature_row id="feature_row_nantes2013" type="left" %}
 {% include feature_row id="feature_row_doceng2011" type="left" %}
