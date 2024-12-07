@@ -87,8 +87,8 @@ feature_row_nantes2013:
   - image_path: /assets/images/nantes2013.png
     alt: "Nantes 2013"
     title: 'Présentation au sein de l'équipe DUKE, Juillet 2013.'
-    excerpt: "Slides of the presentation of the paper 'A framework for Usage-based Document Renngineering'."
-    url: "/media/presentations/nantes/index"
+    excerpt: "Slides of the presentation 'Réingénierie de cours en ligne à base de l'analytique des usages de lecture'."
+    url: "/media/presentations/nantes/index.html"
     btn_label: "Presentation (.html)"
     btn_class: "btn--inverse"
     
