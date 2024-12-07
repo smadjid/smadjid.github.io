@@ -84,7 +84,7 @@ feature_row_doceng2013:
     btn_class: "btn--inverse"
 
 feature_row_nantes2013:
-  - image_path: /assets/images/nantes2013.png
+  - image_path: /assets/images/doceng2013.png
     alt: "Nantes 2013"
     title: 'Présentation au sein de l'équipe DUKE, Juillet 2013.'
     excerpt: "Slides of the presentation 'Réingénierie de cours en ligne à base de l'analytique des usages de lecture'."
