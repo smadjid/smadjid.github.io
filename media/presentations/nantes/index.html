@@ -1,1 +1,1488 @@
+<!DOCTYPE html>
 
+<meta charset="ISO-8859-1">
+<title>Models and Tools for Usage-based Document Reengineering</title>
+
+
+
+<section>
+    <!-- This is the first slide -->
+<table class="logo">
+<tr>
+<th><a href="http://www.cerist.dz"><img src="cerist.png" height="60px" /></a></th>
+<th><a href="http://www.univ-lyon1.fr/"><img src="ucbl.png" height="60"/></th>
+<th><a href="http://www.univ-nantes.fr/"><img src="unantes.png" height="60" /></th>
+</tr>
+</table>
+    <h1>Réingénierie de cours en ligne à base de l'analytique des usages de lecture</h1>
+
+
+<author>
+<table class="author"> 
+
+  <tr> 
+ <th> <a  style="color:#660" href="mailto:msadallah@cerist.dz">Madjid SADALLAH</a> <br/>msadallah@cerist.dz --- <i>CERIST, Algérie</i>  </th> 
+ 
+  </tr> 
+ 
+</table>
+
+</author>
+
+</section>
+
+<footer>Réingénierie documentaire à base des usage de lecture - Madjid SADALLAH, CERIST - <a style="color:grey" href="mailto:msadallah@cerist.dz">msadallah@cerist.dz</a></footer>
+
+<section>
+<header>Bonjour!</header>
+<br/>
+<ul  style="font-size:28px">
+<li>Attaché de recherche. CERIST - Alger
+<li> Équipe "Systèmes Multimédia et Documents Structurés" (SMDS). 
+<li>Projet de recherche: <b>CEMADoM</b> -- "Chaîne Éditoriale pour une Meilleure Appropriation des contenus de Documents Multimédia". 
+<li>En thèse à l'université de Béjaia: &laquo;Modèles et Outils pour la Reconception et L'Évolution de la Structure d'un Document Multimédia en Fonction des Usages&raquo; <br/> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<span style="font-size:24px"><b>Adv.</b>: Yannick Prié (LINA, U. Nantes)- Benoît Encelle (LIRIS, U. Lyon1)</span>
+<li>Partenaire : <b>OpenClassrooms</b> (ex: SdZ) depuis le projet <b>Claire</b> (Community Learning through Adaptive and Interactive multichannel Resources for Education)
+<li><u>Keywords</u> : (Ré-)Ingénierie documentaire ; Lecture et écriture numériques ;  Learning Analytics ; Document multimédia
+</ul>
+</section>
+
+<section>
+    <sectionTitle>Outline</sectionTitle>
+    <bullet>
+      <li>1. Réingénierie documentaire à base d'usages : contexte / motivations
+      <li>2. Framework technique
+	  <li>3. Analyse des données OpenClassrooms suivant l'approche "Grounded Theory"
+      <li>4. Tableau de bord à destination des auteurs
+	  <li>5. Conclusion
+    </bullet>
+
+</section>
+
+<!--===================================== 1/ Introduction ===================================== -->
+<section>
+<mark>1</mark>
+ <partTitle>Réingénierie documentaire à base d'usages : contexte / motivations</partTitle>
+</section>
+
+
+
+<section>
+<header>Contexte / Motivations</header>
+<ul  >
+<li>La <b>lecture</b>  = l'usage documentaire le plus usuel. Il est aussi le plus difficile à appréhender/étudier
+<li>Concevoir des documents qui sont reçus et appropriés tel que voulu par l'auteur a tojours été un souci.  C'est principalement du à:
+<br/>  <br/>   <img src="readingissues.png" style="left:10%; height:250px; width:auto">
+
+<li style="list-style-type:none;font-weight:bold;color:red">Comment l'auteur peut être assisté pour mieux concevoir/réviser ses documents, prenant en compte son lectorat ?
+
+</section>
+
+<section>
+<header>Contexte / Motivations</header>
+<ul   style="width:80%;">
+<li>Documents numériques d'aujourd'hui: <i>no longer single-version with static content; they are "live": multimedia, multiuser, dynamic and thus multi-version*</i>
+<div class="ref">
+*<b>H. Balinsky and S. J. Simske</b>. Secure document engineering. In <i>Proceedings of the 11th ACM symposium on Document engineering</i>, p.269-272. ACM, 2011<br/>
+</div>
+<li>Implications intéressantes :
+<ul class="second_ul" style="margin:0px;">
+<li>Communication persistante et bidirectionnelle auteur &harr; lecteurs
+<br/> &rarr; L'auteur peut recevoir <span style="color:red">des feedbacks directs ou indirects</span> de ses lecteurs
+<li>Les documents facilement éditables / modifiables</i>
+<br/> &rarr; La <span style="color:red">réingénierie </span> est applicable 
+</ul>
+<li style="width:70%;"><u>Idée</u> : L'auteur peut utiliser ce canal bidirectionnel pour considérer les retours d'usages dans ses tâches de révision de documents (reconception)
+<li style="width:70%;">Valable surtout dans l'apprentissage organisé en sessions, permettant à l'auteur de reconsidérer son cours moyennant les usages des sessions précédentes.
+</ul>
+     <img src="communication.png" style="position:absolute;top:40%; right:1%; height:40%; width:auto">
+</section>
+
+<section>
+<header>Contexte / Motivations</header>
+<ul >
+<li>
+<u>Notre objectif: développer des outils qui</u> 
+<ul class="second_ul">
+<li>... permettent à l'auteur de comprendre “ses lecteurs” et de prendre compte “leurs lectures” au moment de revoir ses contenu  
+<li>... assistent l’auteur dans les tâches de révision tenant en compte les données d’usages.
+</ul>
+<li>Retmobée principale pour l'auteur</li>
+<ul class="second_ul">
+<li>Monitoring de l'utilisation de son cours : activité globale, par groupe, individuelle, ou anonyme
+<li>Reconception assistée : suggestions de modification à plusieurs niveaux
+</ul>
+<li>Retombées supplémentaires éventuelles
+<ul>
+<li>Pour le lecteur :
+<ul class="second_ul">
+<li>Disposer de moyens d'interaction directs avec l'auteur (commentaires, annotations,...) et indirects (ses traces et parcours)
+<li>Auto-monitoring (mirroring)
+<li>Accès à des cours personnalisés en fonction des usages précédents
+</ul>
+<li>Pour les admins: 
+<ul class="second_ul">
+<li>Exploiter l'activité des auteurs/lecteurs pour l'amélioration du système
+</ul>
+</ul>
+</section>
+
+<section>
+<header>Contexte / Motivations</header>
+<article>
+<h3>Concepts</h3>
+<ul   style="width:90%;">
+
+<li><u><em>Reengineering</em></u> : "... is the examination and alteration of a subject system to reconstitute it in a new form and the subsequent implementation of the new form"*
+<div class="ref">
+* <b>E. J. Chikofsky, J. H. Cross, et al</b>. Reverse engineering and design recovery: A taxonomy. <i>Software, IEEE</i>, 7(1):13-17, 1990
+</div>
+<li><u><em>Reconception documentaire</em></u> : Réingénierie appliquée sur le contenu et les structures d'un document
+<li><u><em>Reconception documentaires à base d'usages</em></u> : reconception de documents basée sur les retours (feedbacks) directs ou indirects des lecteurs
+<li><u><em>Retour d'usages </em></u>: feedback direct ou indirect résultant des usages documentaires qu'a eus le lectorat
+<br/><br/>
+<!--
+<h2>Our Goals</h2>
+<p style="font-size:28px">
+ &rarr;  Offer means to enable usage-based document reengineering
+<br/> &rarr;  Assist authors during the reengineering tasks which are tedious
+</p>
+-->
+</ul>
+</article>
+</section>
+
+
+<!--===================================== 3/ Technical Framework ===================================== -->
+<section>
+<mark>2</mark>
+ <partTitle>Framework technique</partTitle>
+</section>
+
+<section>
+<header>Framework pour la reconception documentaire à base d'usages</header>
+
+<article>
+ <figure> 
+     <img src="techfram.png" style="top:0%; left:0%; height:90%; width:90%">
+    <figcaption>Technical framework  for Usage-based document reengineering</figcaption>
+    </figure>
+</article>
+<!------------------------------------NOTES------------------------------------------------>
+<div role="note">
+<ul>
+<li>Our proposal is briefly described in the following figure
+<li>We can isolate 4 main components that we describe now
+</ul>
+</div>
+<!----------------------------------------------------------------------------------------->
+</section>
+
+
+
+<section>
+<header>Framework pour la reconception documentaire à base d'usages</header>
+<article>
+<h2> &#x2160;. Authoring tool</h2>
+<figure> <img src="authoring.png" style="top: 10%;right: 20px;width:40%;height:40%"> </figure>
+
+<ul style="width:60%">
+<li>Outil pour concevoir et reconcevoir les documents
+<li>Usages + Reconceptions &rarr; Contenu + structures documentaires (logique, spatiale, temporelle, navigationnelle)*
+<div class="ref">* <b>C. Roisin</b>. Authoring structured multimedia documents. In <i>Proceedings of the 25th Conference on Current Trends in Theory and Practice of Informatics: Theory and Practice of Informatics</i>, SOFSEM'98, pp. 222-239, London, UK, 1998. Springer-Verlag</span></div>
+</ul>
+<br/>
+</article>
+<article >
+<ul style="width:100%">
+<img src="docmodel.png" style="width:60%;height:auto">
+<br/><li><b>Document</b> est composé d'éléments documentaires (docels)
+<li><b>Docel</b> =  building block. Attributs: physiques, temporelles, navigationnels (liens)
+<li><b>Fragment</b> = Partie d'un docel 
+</ul>
+</article>
+<!------------------------------------NOTES------------------------------------------------>
+<div role="note">
+<ul>
+<li>User interaction and document reconception may target and affect both document content and its structures(spatial adjustment, temporal synchronization, etc.)
+<li>To well describe such the document features and structures that may be directly or indirectly involved in an interaction or a reconception, documents are generally described following models
+<li>Here, we introduce a very general model that describes a document as a nesting and composition, at different levels of granularity, of components called document elements docels
+<li> a document element docel is a building block that represents a formal information and composition unit
+<li>A fragment is a logical part of a docel, generally defined using spatio-temporal coordinates
+</ul>
+</div>
+<!----------------------------------------------------------------------------------------->
+</section>
+
+
+<section>
+<header>Framework pour la reconception documentaire à base d'usages</header>
+<article>
+<h2>&#x2161;. Reading tool</h2>
+<figure> <img src="reading.png" style="top: 5%;right: 20px;width:38%;height:auto"> </figure>
+<img src="docannotmodel.png" style="position:absolute;top: 45%;right: 10px;width:40%;height:auto"> 
+<p><b>1. Permet la lecture avtive :  Annotation</b> </p>
+<ul style="width:55%;">
+<li>Cible d'une annotation : <b>annotable element</b> = 1 or + of: docel et/ou fragment et/ou annotation
+<li>Une annotation a un ID, un contenu, un type et une visibilité
+<li><b>Claire</b> : <br/><span style="font-size:22px; width:70%">
+- <u>Types</u> : <i>Question, Erreur de forme, Erreur de contenu, Commentaire, J'ai compris, Je n'ai pas compris, Notes de lecture</i> (notes personnelles) et <i>Autres</i> + 
+<i>Highlight</i>   + <i>Annotations liées</i> (annoter an annotation)<br/>
+- <u>Visibilité</u> : <i>privée, auteur/reviewer, groupe</i> et <i>publique</i>
+</span>
+</ul>
+</article>
+<!------------------------------------NOTES------------------------------------------------>
+<div role="note">
+<ul>
+<li>The reading tool has active-reading capabilities and contains a source collector to collect the data (obsels, primary trace) resulted from the active-reading
+<li>An annotation is any information provided by a user and is associated with a whole document or a part of it
+<li>An annotation target can be one or more document elements and/or fragments and/or annotations, all of these referred as "annotable element"
+<li>Each annotation has one and only one type
+<li>visibility: control annotation availability to users
+</ul>
+</div>
+<!----------------------------------------------------------------------------------------->
+</section>
+
+<section>
+<header>Framework pour la reconception documentaire à base d'usages</header>
+<article>
+<h2>&#x2161;. Reading tool</h2>
+<figure> <img src="reading.png" style="top: 5%;right: 20px;width:38%;height:auto"> </figure>
+
+<figure> <img src="usages.png" style="top: 40%;right: 20px;width:50%;height:auto"> </figure>
+
+<p><b>2. Source Collector</b> : collecte les données d'usage des lecteurs.<br/>
+Usages = Interactions + Annotations<br/>
+Ces données sont sauvegardées &rarr; Traces de lecture</p>
+
+</article>
+<article  >
+
+
+<h3>Modèle de Trace</h3>
+<ul style="width:45%">
+<li>Trace = Séquence temporelle d'éléments observés (tracks = obsels) enregistrés suite à des interactions entre le lecteur et le document via l'outil de lecture
+<li>Données collectées plutôt brutes &rarr; Trace primaire
+</ul>
+
+</article>
+<!------------------------------------NOTES------------------------------------------------>
+<div role="note">
+<ul>
+<li>
+</ul>
+</div>
+</section>
+
+
+<section>
+<header>Framework pour la reconception documentaire à base d'usages</header>
+<article>
+<h2>&#x2161;. Reading tool</h2>
+<figure> <img src="reading.png" style="top: 5%;right: 20px;width:38%;height:auto"> </figure>
+
+<h3>Types d'actions (d'Obsels)</h3>
+<ul>
+<li  style="width:60%"><b>Navigation.</b> <u>Ex:</u> <span style="font-size:18px"> suivre un lien, visiter une certaine URLS, défilement (spatial ou temporel),  retour en arrière, avancer</span>
+<li  style="width:55%"><b>Manipulation.</b> Sur le contenu documentaire (<u>Ex:</u> <span style="font-size:18px"> sélectionner, chercher, imprimer, zoomer, copier, ajouter aux signets+ media controls: play/pause/stop, etc.</span>) et sur son Contexte (<u>Ex:</u> <span style="font-size:18px"> activer une élément de l'UI pour ouvrir/fermer/télécharger le document</span>)
+<li  style="width:55%"><b>Active participation.</b> <u>Ex:</u> <span style="font-size:18px"> ajouter/modifier/supprimer une annotation, annoter/ouvrir/fermer une annotation, mettre en surbrillance (highlight)</span>
+<li><b>IDLERead.</b> Lecture passive, aucune interaction,<br/> peut être due à une inactivité ou une absence
+</ul>
+<figure> <img src="tracemodel.png" style="top: 45%;right: 20px;width:50%;height:auto"> </figure>
+
+</article>
+<article  >
+</section>
+
+<section>
+<header>Framework pour la reconception documentaire à base d'usages</header>
+<article>
+<h2>&#x2162;. TBMS : Trace-Based Management System</h2>
+<figure> <img src="tbms.png" style="top: 10%;right: 20px;width:40%;height:auto"> </figure>
+<p>Enregistre et traite les données collectées (traces primaires) </p>
+
+<h3>Résultats de traitement de la trace primaire :</h3>
+</article>
+<article  style="width:60%"> 
+<h4>1. Trace de haut niveau</h4> 
+<p>Résultat d'un <i>processus de transformation</i> sur la trace primaire pour l'interpréter ou l'abstraire <br/>Ex: <i>filtrage</i>,
+<i>réécriture</i>, <i>agrégation, ...</i> </p>
+
+<h4>2. Indicateurs</h4> 
+<p>Variable calculées, représentant des phénomènes ou des événement d'intérêt<br/>
+Ex: <i>sections lues/non lues, liens visités/non visités, niveau d'interaction</i>, <i>temps de lecture global/par partie/par classe de lecteurs</i>, etc<br/>
+</p>
+</section>
+
+
+<section>
+<header>Framework pour la reconception documentaire à base d'usages</header>
+<article>
+<h2>&#x2163;. Assistance engine</h2>
+<p style="width:50%">Analyse les données du TBMS &rarr; assister l'auteur pour déterminer et réaliser les reconceptions appropriées.
+<br/>- <u>Source de données</u> : ensemble arbitraires de données d'usage, provenant d'un seul lecteur, d'un groupe de lecteurs ou de tout le lectorat<br/>
+- <u>Résultat final</u> : une nouvelle version de document qui sera éventuellement objet d'autres révisions</p>
+
+<figure> <img src="assistance.png" style="position:absolute;top: 10%;right: 27px;width:40%;height:auto"> </figure>
+</article>
+<article   >
+
+<p><b>4</b> niveaux d'assistance. <br/>Niveau <<b>N</b>> utilise les données fournies par le niveau<<b>N - 1</b>></p>
+
+
+</article>
+</section>
+
+
+<section>
+<header>Framework pour la reconception documentaire à base d'usages</header>
+<article>
+<h2>&#x2163;. Assistance engine</h2>
+
+<figure> <img src="assistance.png" style="position:absolute;top: 10%;right: 30px;width:40%;height:auto"> </figure>
+</article>
+
+<ul >
+<li style="width:50%">Level 0 : <b>Indications de lecture</b> . AE calcule des indications à présenter à l'auteur <br/>
+<u>Ex</u>: présenter à l'auteur le taux de lecteurs qui ont suivi un certain lien pourrait l'aider à estimer la pertinence de ce lien
+
+<li style="width:50%">Level 1 : <b>Détection de problèmes</b> . AE détecte des problèmes dans l'activité de lecture, sans pouvoir suggérer aucune action<br/>
+<u>Ex</u>: Une vidéo n'ayant jamais été vu plus que la moitie  &rarr; AE rapporte cela à l'auteur comment étant un comportement inattendu
+</ul>
+</article>
+</section>
+
+<section>
+<header>Framework pour la reconception documentaire à base d'usages</header>
+<article>
+<h2>&#x2163;. Assistance engine</h2>
+
+<figure> <img src="assistance.png" style="position:absolute;top: 10%;right: 30px;width:40%;height:auto"> </figure>
+</article>
+
+<ul >
+
+<li style="width:50%">Level 2 : <b> Suggestion de reconception</b> . AE détecte des problèmes, arrive à suggérer des solutions mais ne peut les réaliser par lui-même<br/>
+<u>Ex</u>: Si plusieurs lecteurs d'un document de cours se réfèrent au chapitre 3 à partir du chapitre 5, l'AE peut suggérer d'inclure un rappel des concepts du chapitre 3 en lien avec le chapitre 5.
+<li style="width:60%">Level 3 : <b> Proposition de reconception automatique</b> . AE détecte des problèmes et sait à priori comment les résoudre. La validation de l'auteur est toutefois requise.<br/>
+<u>Ex</u>: Beaucoup de zooms sur une partie d'un document &rarr; l'AE peut ajuster automatiquement la taille de la partie.
+</ul>
+</article>
+</section>
+
+
+<!--===================================== 3/ OC ===================================== -->
+<section>
+<mark>3</mark>
+ <partTitle>Analyse des données OpenClassrooms suivant l'approche "Grounded Theory"</partTitle>
+</section>
+
+<section>
+<header>Analyse des données OpenClassrooms</header>
+<article>
+
+<h3>Corpus OC</h3>
+<ul style="width:60%">
+<li><b>OpenClassrooms</b> : 2,4 millions de visiteurs uniques par mois ; 650 000 membres inscrits
+<li>Corpus: 75 jours, ~40 millions de records, CSV ~2,5 Go
+<li>Données côté serveur uniquement : Quelques incertitudes (durées, longueur de sessions)
+</ul>
+<h3>Stats  </h3>
+<ul class="second_ul" style="width:60%">
+<li>Nombre de cours: 870 
+<li>Nombre d’observations : 38 189 751
+<li>Nombre de lecteurs : 82 489
+<li>Obsels de lecteurs authentifiés : 1 965 016  = 6 %
+<li>Obsels de lecteurs anonymes : 36 224 735   = 94 %
+<li>Nombre de sessions distinctes : 3 370 311 
+</ul>
+<h3>Modèle de données OC</h3>
+<ul class="second_ul" style="width:60%">
+<li><i>Figure en face</i>
+</ul>
+
+<figure> <img src="oc.png" style="top: 1%;right: 30px;width:8%;height:7%"> </figure>
+<figure> <img src="champs.png" style="top: 10%;right: 30px;width:35%;height:40%"> </figure>
+<figure> <img src="OCModel.png" style="top: 55%;right: 30px;width:45%;height:40%;border:solid;"> </figure>
+</article>
+</section>
+<section>
+<header>Analyse des données OpenClassrooms</header>
+<article>
+
+<h3>L'approche "Grounded Theory"*</h3>
+<ul>
+<li>Notre besoin : Identifier les concepts et les modèles permettant de mieux caractériser la lecture, à partir de données qui existent.
+<li><i>Grounded Theory</i> : Méthode théorisée en 1967 par deux sociologues (voir Réf)
+<li>&ldquo; Au lieu de commencer par la construction d'une hypothèse dans un champ et un cadre théoriques déjà fixés pour ensuite appliquer ce modèle au phénomène étudié, le chercheur commence par la collecte de données, sans a priori (dans la mesure du possible) pour ensuite y chercher ce qui <i> fait sens</i>. &rdquo;<b>**</b>
+<li>On procède par étape : chaque résultat d'une étape guide celle qui la suit.
+</ul>
+<h3>Analyse sur le corpus </h3>
+<ul>
+<li>Analyse globale (cours / parties / lecteurs / lectures / ...)
+<li>Analyse décisionnelle : Cours visés 
+<li>Analyse pour définir les différents concepts et phénomènes documentaires
+</ul>
+</article>
+
+<div class="ref">* <b>B. G. Glaser and A. L. Strauss</b>. The discovery of grounded theory: Strategies for qualitative research. <i> Chicago: Aldine de Gruyter</i>, 1967</span> <br/>
+<span>** <b>Strauss A and Corbin J</b>. Basics of qualitative research : grounded theory procedures and techniques. <i>Newbury Park, Calif.: Sage Publications</i>,1990</span> </div>
+</div>
+</section>
+
+<section>
+<header>Analyse des données OpenClassrooms</header>
+<article>
+<h3>Analyse globale </h3>
+<figure> <img src="stats.png" style="top: 2%;left: 20%;width:60%;height:40%"> </figure>
+
+<ul class="second_ul" style="position:absolute; top: 45%;">
+<li>Cours : 75% des cours détiennent 5 % d’observations. Trop grande dispersion des données. Écart-type trop important. Moyenne = 5 X médiane
+<li>Nombre de parties : Le nombre de partie diffère d’un cours à un autre d’une façon remarquable. La moyenne = 28 parties, 75% des cours n’ont pas plus de 31 parties. Dans les 25% restant, certains cours cumulent jusqu’à 225 parties.
+<li>Lecteurs authentifiés par cours : Grande dispersion. Cours à grand succès vs cours sans succès. 50 % des cours n’accède pas 200 lecteurs. 25% dépasse 20 000.
+<li>Sessions par cours : comme pour les lecteurs, grande dispersion.
+<li><b>PS :</b> 94% de sessions sont anonymes 
+</ul>
+
+</article>
+</section>
+
+<section>
+<header>Analyse des données OpenClassrooms</header>
+<article>
+<h3>Analyse décisionnelle </h3>
+<figure> 
+<img src="corr.png" style="top:5%; right:5%; width:35%; height:25%">
+<img src="stats2.png" style="top: 40%;right:3%; width:50%;height:50%"> 
+
+</figure>
+
+
+<ul style="width:45%">
+<li>Matrice de corrélation : Une relation plus ou moins forte (lien modéré) existe pratiquement entre toutes les variables. Cette relation est directe car tous les coefficients sont positifs.
+
+<li>Cours étudiés : les plus représentatifs -- proches de la médiane -- en termes de nombre de : parts ,  paragraphes (taille) , observations , lecteurs authentifiés ,  sessions , sessions anonymes. 
+<li>Cours sélectionnés : en gris sur le tableau.
+
+</ul>
+</article>
+</section>
+
+<section>
+<header>Analyse des données OpenClassrooms</header>
+<article>
+<h3>Concept de séances</h3>
+
+<ul>
+<li>Les indicateurs peuvent se situer sur plusieurs niveaux : plate-forme , Cours , Parts (parties / chapitres / sous-chapitres) , Lecteurs , Sessions et Séances
+<li><b>Séance (Reading Session)</b>: "est une session Web ou une partie d'une session Web dont la durée n'excède pas un seuil représentant une activité réelle et continue de lecture (pouvant être légèrement interrompue,  e.g. lecture d'émail, etc.)."
+<ul   class="second_ul">
+<li><b>Impl.</b>: Un lecteur consacrant 1 heure effective sur un cours va réaliser une séance d’une heure.
+<li>Calcul : une séance est délimitée par (1) un gap temporel dépassant la durée maximale calculée de lecture+relecture de la dernière partie ;(2) fin de la session Web
+<li>Le 2e point n'est pas consistant &rarr; de brèves interruptions de sessions Web peuvent survenir sans que la lecture ne soit réellement interrompues. <b>Impl</b> : On éliminé ce cas. 
+<li><b>Mieux</b> : On peut agréger les sessions Web tant que le temps max n'est pas dépassé.
+</ul>
+</ul>
+<figure> <img src="RS.png" style="top: 80%;right: 15%;width:70%;height:15%"> </figure>
+</article>
+</section>
+
+<section>
+<header>Analyse des données OpenClassrooms : Indicateurs</header>
+<article>
+<h3>Analyse globale du cours </h3>
+<ul>
+<li>Intéressement/Popularité : nombre de visites, de sessions, de lecteurs, etc. Taux d'achèvement, taux moyen de cours lu, etc.
+<lI>Temporalité globale: fréquence de consultation, temps moyen nécessaire pour une lecture de bout en bout, etc
+<li>Temporalité des parties : parties de fixation, superflues, toujours lues, jamais lues, distribution du temps de lecture sur les parties, etc.
+<li>Popularité des parties : parties toujours lues, parties très lues, parties très peu lues, parties jamais lues, etc.
+<li>Parcours : parcours-type, formes les plus redondantes, déviance par rapport au parcours linéaire, etc.
+<li> Transitions : séquences redondantes, parties absorbantes, classes de parties, etc. 
+<li>Relectures : dans les mêmes séances, dans des séances distinctes, etc.
+<li>Arrêts, ruptures et reprises : Parts causant abandon total, parts causant fin de séances, etc.
+</ul>
+</article>
+</section>
+
+<section>
+<header>Analyse des données OpenClassrooms : Indicateurs</header>
+<article>
+<h3>Analyse par structure (parts) </h3>
+<ul>
+<li>Stats sur la partie, comparés avec le reste des parties : popularité, lectorat, taille,  durée et fréquence de consultation, arrêts, relectures
+<li>Provenances, destinations et leurs taux de linéarité. Parties en relation.
+<li>Taux de rupture, avec ou sans reprise, sur la partie.  Rupture dans la hiérarchie
+<li>Taux des types de reprise : sur la même partie, la partie juste après, parties antérieures, parties plus en avant
+</ul>
+<h3>Analyse par lecture (séances : RS) </h3>
+<ul>
+<li>Distribution des RS : nombre de RS total/par lecteur/par session, taille et durées des RS. Nombre de parties
+<li>Séances type / récurrentes en termes de parties (avec/sans ordre)
+<li>Taux de linéarité des séances
+<li>Distribution de la relecture dans les séances
+<li>Début, rupture et reprise dans les séances
+</ul>
+</article>
+</section>
+
+<section>
+<header>Analyse des données OpenClassrooms</header>
+<article>
+<h3>Présentation des données </h3>
+<ul>
+<li>Le calcul des indicateurs résulte soit de la trace première (ex: nombre de sessions) ou de la trace après transformation (ex: séances de lecture)
+<li>Certains de ces indicateurs = indications de lecture (<b>Assistance Niveau 0</b>)
+<li>Les indications doivent être présentées sous un format facile à appréhender par l'auteur &rarr; représentation graphique
+<li><u>Dashboard</u> : permet une vue d'ensemble ou détaillée (mieux overview+detail) des indicateurs et phénomènes étudiés
+<li>Il doit pouvoir aussi offrir une assistance de plus haut niveau
+<li>Notre objectif : tableau de bord + dynamique (possibilité d'agir sur les indicateurs) + possibilités d'agir sur les documents (contenu/structure)
+<li>En cours : début d'implémentation (Calcul : <b>R</b> + application interactive avec R: package  <b>Shiny</b> + publication sur le Web : <b><a href="http://shinyapps.io">https://shinyapps.io</a></b>). Partiellement : <b>NIVEAU 0 + NIVEAU 1 </b>
+
+</ul>
+</article>
+</section>
+
+
+<!--===================================== 4/ Conclusion ===================================== -->
+<section>
+<mark>4</mark>
+ <partTitle>Tableau de bord à destination des auteurs<br/>
+ <span style="font-size:20px">Version ~0.01</span></partTitle>
+</section>
+
+
+<section>
+<header>Tableau de bord</header>
+<article>
+<h3>Vue d'ensemble </h3>
+<figure> <img src="shot1.png" style="top: 10%;left: 1%;width:95%;height:80%; border:solid"> </figure>
+</article>
+</section>
+
+
+<section>
+<header>Tableau de bord</header>
+<article>
+<h3>Assistance Niveau 0 sur tout le cours </h3>
+<figure> <img src="shot4.png" style="top: 10%;left: 1%;width:95%;height:80%; border:solid"> </figure>
+</article>
+</section>
+
+<section>
+<header>Tableau de bord</header>
+<article>
+<h3>Assistance Niveau 1 sur tout le cours</h3>
+<figure> <img src="shot2.png" style="top: 10%;left: 1%;width:95%;height:20%; border:solid"> </figure>
+<figure> <img src="shot3.png" style="top: 35%;left: 1%;width:95%;height:30%; border:solid"> </figure>
+</article>
+</section>
+
+
+<section>
+<header>Tableau de bord</header>
+<article>
+<h3>Analyse par partie</h3>
+<figure> <img src="shot5.png" style="top: 10%;left: 1%;width:95%;height:80%; border:solid"> </figure>
+</article>
+</section>
+
+<section>
+<header>Tableau de bord</header>
+<article>
+<h3>Assistance Niveau 0 sur la partie </h3>
+<figure> <img src="shot7.png" style="top: 10%;left: 1%;width:95%;height:80%; border:solid"> </figure>
+</article>
+</section>
+
+<section>
+<header>Tableau de bord</header>
+<article>
+<h3>Assistance Niveau 0 sur la partie</h3>
+<figure> <img src="shot8.png" style="top: 10%;left: 1%;width:95%;height:80%; border:solid"> </figure>
+</article>
+</section>
+
+
+<section>
+<header>Tableau de bord</header>
+<article>
+<h3>Assistance Niveau 1 sur la partie</h3>
+<figure> <img src="shot6.png" style="top: 10%;left: 1%;width:95%;height:30%; border:solid"> </figure>
+</article>
+</section>
+
+
+
+<section>
+<header>Tableau de bord</header>
+<article>
+<h3>Assistance Niveau 0 sur les RS</h3>
+<figure> <img src="RS_distr.png" style="top: 10%;left: 1%;width:40%;height:40%; border:solid"> </figure>
+<figure> <img src="RSView.png" style="top: 55%;left: 1%;width:40%;height:40%; border:solid"> </figure>
+<figure> <img src="PathView.png" style="top: 10%;right: 10%;width:40%;height:40%; border:solid"> </figure>
+<figure> <img src="user_path.png" style="top: 55%;right: 10%;width:40%;height:40%; border:solid"> </figure>
+</article>
+</section>
+
+<!--===================================== 4/ Conclusion ===================================== -->
+<section>
+<mark>5</mark>
+ <partTitle>Conclusion</partTitle>
+</section>
+
+
+<section>
+<header>Pour conclure</header>
+<article>
+<h3>Tableau de bord </h3>
+<ul>
+<li>D'autres indicateurs Niveau 0 et 1 sont en cours de définition et d'implémentation
+<li>Niveau 2 (suggestion de reconception) : plusieurs suggestions peuvent être facilement inférées à partir des indicateurs actuels. C'est insuffisant.
+<li>Humaniser les observés (et enrichir la taxonomie d'indicateurs) : <br/><<b>Traces</b>> &harr; <<b> Modèles théoriques </b>> &harr; <<b>Phénomènes réels</b>>
+</ul>
+<h3>Validation </h3>
+<ul> 
+<li>Concept de séance et son calcul
+<li>Indicateurs et leurs algos. Ex: quand est-ce qu'un saut de partie est réellement un problème?
+<li>Utilité réelle pour la reconception : avis des auteurs important!
+</ul>
+<ul> 
+<li>(Ré)intégrer concrètement les annotations : moyen d'avoir un feedback réel ; ça permet aussi d'évaluer la pertinence des indicateurs.
+<li>Réfléchir à la reconception (semi-)automatique
+<li>D'autres pistes : intégrer le profil, interroger les lecteurs, ...
+</ul>
+</article>
+</section>
+
+<section>
+<header>Pour conclure</header>
+<article>
+<h3>La suite </h3>
+<ul>
+<li>2e étude OpenClassrooms : 
+<ul class="second_ul">
+<li> Indicateurs dans le contexte MOOC
+<li>Considérer entre autres l'aspect multimédia (lecture audiovisuelle)
+</ul>
+<li>Tableau de bord : 
+<ul class="second_ul">
+<li>Etude IHM de l'interface
+<li>Implémentation  des niveaux 2 et 3
+<li>Dasboard : intégrer un outil d'authoring ou intégrer le tableau dans un outil d'authoring
+</ul>
+<li>Recherche : 
+<ul class="second_ul">
+<li>Comment appréhender la compréhension ? 
+<li>Quelles sont les modèles/théories mathématiques ou autres qui peuvent rendre compte du comportement humain ?
+</ul>
+
+
+</ul>
+</article>
+</section>
+
+<section>
+    <partTitle>Merci !</partTitle>
+	
+<img src="cerist.png" height="50px" style="position:absolute;margin:10px;left:68%; bottom:40%"/>
+<img src="ucbl.png" height="50px" style="position:absolute;margin:10px;left:80%; bottom:40%"/>
+<img src="unantes.png" height="50px" style="position:absolute;margin:10px;left:90%; bottom:40%"/>
+
+</section>
+
+
+<!-- Maybe a font from http://www.google.com/webfonts ? -->
+<!--<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet'>-->
+
+
+
+<style>
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oswald Regular'), local('Oswald-Regular'), url(Oswald.woff) format('woff');
+}
+
+  html, .view body { background-color: black; counter-reset: slideidx; }
+  body, .view section { background-color: white; border-radius: 12px }
+  /* A section is a slide. It's size is 800x600, and this will never change */
+  section, .view head > title {
+      /* The font from Google */
+      font-family: 'Oswald', arial, serif;
+      font-size: 25px;
+  }
+
+  .view section:after {
+    counter-increment: slideidx;
+    content: counter(slideidx, decimal-leading-zero);
+    position: absolute; bottom: -80px; right: 100px;
+    color: white;
+  }
+
+  .view head > title {
+    color: white;
+    text-align: center;
+    margin: 1em 0 1em 0;
+  }
+
+  h1 {
+    margin-top: 0%;
+	padding:10%;
+    text-align: center;
+    font-size: 65px;
+  }
+
+ h2 {
+	color:red;
+	margin-top: 0px;
+   
+  }
+
+bullet {
+      margin: 50px 200px;
+      font-size: 35px;
+      text-align: left;
+      border-left: 5px solid black;
+      padding-left: 40px;
+      min-width: 310px;
+      margin-right: 50px;
+      display: inline-block;
+}
+
+article {
+      margin: 0px 00px;
+      font-size: 20px;
+      text-align: left;
+      padding-left: 20px;
+      min-width: 310px;
+      margin-right: 20px;
+      display: inline-block;
+}
+  ul {
+   
+     margin: 0px 0px 0px 30px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 25px;
+  }
+  
+ .second_ul {
+    margin: 0px 0px 0px 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 22px;
+  }
+ 
+
+  li > ul {
+      margin: 15px 20px;
+  }
+li > bullet {
+      margin: 15px 50px;
+  }
+ bullet li {list-style-type: none}
+
+  p {
+    margin: 10px;
+    margin-left: 20px;
+    font-size: 22px;
+  }
+
+  blockquote {
+    height: 100%;
+    background-color: black;
+    color: white;
+    font-size: 60px;
+    padding: 50px;
+  }
+  blockquote:before {
+    content: open-quote;
+  }
+  blockquote:after {
+    content: close-quote;
+  }
+
+  /* Figures are displayed full-page, with the caption
+     on top of the image/video */
+  figure {
+
+    position: absolute;
+    width: 100%;
+    top:30px;
+    bottom: 30px;
+  }
+  figure > * {
+    position: absolute;
+  }
+  figure > img, figure > video {
+top:0px;
+    width: 100%; height: 90%;
+  }
+  figcaption {
+font-size: 20px;
+text-align:center;
+padding-left:10px;padding-right:10px;
+bottom: 10px;  color:red;
+left:25%;
+background-color:#E4E7D5;
+border-radius: 12px;
+  }
+
+  author {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 20px;
+    text-align: right;
+    background-color: white;
+    z-index:555;
+  }
+
+   footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+    font-size: 17px;
+    font-family: 'Oswald', arial, serif;
+    letter-spacing:1px;
+    color:grey;
+    background-color: #F3F4F8;
+    border-top: 1px solid #CCC;
+  }
+
+  header {
+    top: 0;
+    width: 100%;
+    padding: 5px;
+    padding-right: 50px;
+    text-align: right;
+    font-size: 15px;
+    font-weight:bold;
+   letter-spacing:1px;
+    color:#505050 ;
+   background-color: #F3F4F8;
+    border-bottom: 1px solid #CCC;
+  }
+
+
+  .ref {
+    position: absolute;
+    bottom: 50px;
+    width: 95%;
+    left:20px;
+    padding: 0px;
+    text-align: left;
+    font-size: 12px;
+    font-family: times, serif;
+    letter-spacing:1px;
+    color:black;
+
+    border-top: 1px dotted  #CCC;
+  }
+
+.author {color:#666;
+	font-size:24px;
+	text-shadow: 1px 1px 0px #fff;
+	text-align: center;
+	background:#eaebec;
+        width:100%;
+	border:#ccc 1px solid;
+
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+
+	-moz-box-shadow: 0 1px 2px #d1d1d1;
+	-webkit-box-shadow: 0 1px 2px #d1d1d1;
+	box-shadow: 0 1px 2px #d1d1d1;
+
+}
+
+.author th {
+	padding:11px;
+	border-top:1px solid #fafafa;
+	border-bottom:1px solid #e0e0e0;
+	border-left:1px solid #e0e0e0;
+	background: #ededed;
+	background: -webkit-gradient(linear, left top, left bottom, from(#ededed), to(#ebebeb));
+	background: -moz-linear-gradient(top,  #ededed,  #ebebeb);
+}
+
+th a {color:#666;}
+
+.logo {
+        text-shadow: 1px 1px 0px #fff;
+	text-align: center;	
+        width:100%;
+	border:#ccc 1px solid;
+
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+
+	-moz-box-shadow: 0 1px 2px #d1d1d1;
+	-webkit-box-shadow: 0 1px 2px #d1d1d1;
+	box-shadow: 0 1px 2px #d1d1d1;
+}
+
+.logo th { border-left:1px solid #e0e0e0;}
+
+ mark {
+    position: absolute;
+    top: 0px; 
+    display: block;
+    height: 120px;
+    width: 120px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    font-size: 90px;
+  }
+partTitle {
+ position: absolute;
+   top: 25%;
+   width: 100%;
+   padding:5px;
+   display: block;
+   background-color: black;
+   color: white;
+   text-align: center;
+   font-size: 80px;
+  }
+
+  /* Transition effect */
+  /* Feel free to change the transition effect for original
+     animations. See here:
+     https://developer.mozilla.org/en/CSS/CSS_transitions
+     How to use CSS3 Transitions: */
+  section {
+    -moz-transition: all 400ms ease-in ;
+    -webkit-transition: all 400ms ease-in;
+    -ms-transition: all 400ms ease-in ;
+    transition: all 400ms ease-in ;
+
+  }
+  .view section {
+    -moz-transition: none;
+    -webkit-transition: none;
+    -ms-transition: none;
+    transition: none;
+  }
+
+  .view section[aria-selected] {
+    border: 5px red solid;
+  }
+
+  /* Before */
+  section { opacity: 0;}
+  /* Now */
+  section[aria-selected] { left: 0; opacity: 1;}
+  /* After */
+  section[aria-selected] ~ section { opacity: 0;}
+
+sectionTitle {
+    position: absolute;
+    top: 0;
+    margin: 10px 0 10px 40px;
+    text-align: left;
+    font-size: 50px;
+  }
+
+  /* Incremental elements */
+
+  /* By default, visible */
+  .incremental > * { opacity:1; }
+
+  /* The current item */
+  .incremental > *[aria-selected] { opacity: 1; }
+
+  /* The items to-be-selected */
+  .incremental > *[aria-selected] ~ * { opacity: 0; }
+
+  /* The progressbar, at the bottom of the slides, show the global
+     progress of the presentation. */
+  #progress-bar {
+    height: 3px;
+    background: #660;
+  }
+</style>
+
+<!-- {{{{ dzslides core
+#
+#
+#     __  __  __       .  __   ___  __
+#    |  \  / /__` |    | |  \ |__  /__`
+#    |__/ /_ .__/ |___ | |__/ |___ .__/ core :â‚¬
+#
+#
+# The following block of code is not supposed to be edited.
+# But if you want to change the behavior of these slides,
+# feel free to hack it!
+#
+-->
+
+<div id="progress-bar"></div>
+
+<!-- Default Style -->
+<style>
+  * { margin: 0; padding: 0; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+  [role="note"] { display: none; }
+  body {
+    width: 1000px; height: 600px;
+    margin-left: -500px; margin-top: -300px;
+    position: absolute; top: 50%; left: 50%;
+    overflow: hidden;
+    display: none;
+  }
+  .view body {
+    position: static;
+    margin: 0; padding: 0;
+    width: 100%; height: 100%;
+    display: inline-block;
+    overflow: visible; overflow-x: hidden;
+    /* undo Dz.onresize */
+    transform: none !important;
+    -moz-transform: none !important;
+    -webkit-transform: none !important;
+    -o-transform: none !important;
+    -ms-transform: none !important;
+  }
+  .view head, .view head > title { display: block }
+  section {
+    position: absolute;
+    pointer-events: none;
+    width: 100%; height: 100%;
+  }
+  .view section {
+    pointer-events: auto;
+    position: static;
+    width: 1000px; height: 600px;
+    margin: -150px -200px;
+    float: left;
+    transform: scale(.4);
+    -moz-transform: scale(.4);
+    -webkit-transform: scale(.4);
+    -o-transform: scale(.4);
+    -ms-transform: scale(.4);
+  }
+  .view section > * { pointer-events: none; }
+  section[aria-selected] { pointer-events: auto; }
+  html { overflow: hidden; }
+  html.view { overflow: visible; }
+  body.loaded { display: block; }
+  .incremental {visibility: hidden; }
+  .incremental[active] {visibility: visible; }
+  #progress-bar{
+    bottom: 0;
+    position: absolute;
+    -moz-transition: width 400ms linear 0s;
+    -webkit-transition: width 400ms linear 0s;
+    -ms-transition: width 400ms linear 0s;
+    transition: width 400ms linear 0s;
+  }
+  .view #progress-bar {
+    display: none;
+  }
+</style>
+
+<script>
+  var Dz = {
+    remoteWindows: [],
+    idx: -1,
+    step: 0,
+    html: null,
+    slides: null,
+    progressBar : null,
+    params: {
+      autoplay: "1"
+    }
+  };
+
+  Dz.init = function() {
+    document.body.className = "loaded";
+    this.slides = Array.prototype.slice.call($$("body > section"));
+    this.progressBar = $("#progress-bar");
+    this.html = document.body.parentNode;
+    this.setupParams();
+    this.onhashchange();
+    this.setupTouchEvents();
+    this.onresize();
+    this.setupView();
+  }
+
+  Dz.setupParams = function() {
+    var p = window.location.search.substr(1).split('&');
+    p.forEach(function(e, i, a) {
+      var keyVal = e.split('=');
+      Dz.params[keyVal[0]] = decodeURIComponent(keyVal[1]);
+    });
+  // Specific params handling
+    if (!+this.params.autoplay)
+      $$.forEach($$("video"), function(v){ v.controls = true });
+  }
+
+  Dz.onkeydown = function(aEvent) {
+    // Don't intercept keyboard shortcuts
+    if (aEvent.altKey
+      || aEvent.ctrlKey
+      || aEvent.metaKey
+      || aEvent.shiftKey) {
+      return;
+    }
+    if ( aEvent.keyCode == 37 // left arrow
+      || aEvent.keyCode == 38 // up arrow
+      || aEvent.keyCode == 33 // page up
+    ) {
+      aEvent.preventDefault();
+      this.back();
+    }
+    if ( aEvent.keyCode == 39 // right arrow
+      || aEvent.keyCode == 40 // down arrow
+      || aEvent.keyCode == 34 // page down
+    ) {
+      aEvent.preventDefault();
+      this.forward();
+    }
+    if (aEvent.keyCode == 35) { // end
+      aEvent.preventDefault();
+      this.goEnd();
+    }
+    if (aEvent.keyCode == 36) { // home
+      aEvent.preventDefault();
+      this.goStart();
+    }
+    if (aEvent.keyCode == 32) { // space
+      aEvent.preventDefault();
+      this.toggleContent();
+    }
+    if (aEvent.keyCode == 70) { // f
+      aEvent.preventDefault();
+      this.goFullscreen();
+    }
+    if (aEvent.keyCode == 79) { // o
+      aEvent.preventDefault();
+      this.toggleView();
+    }
+  }
+
+  /* Touch Events */
+
+  Dz.setupTouchEvents = function() {
+    var orgX, newX;
+    var tracking = false;
+
+    var db = document.body;
+    db.addEventListener("touchstart", start.bind(this), false);
+    db.addEventListener("touchmove", move.bind(this), false);
+
+    function start(aEvent) {
+      aEvent.preventDefault();
+      tracking = true;
+      orgX = aEvent.changedTouches[0].pageX;
+    }
+
+    function move(aEvent) {
+      if (!tracking) return;
+      newX = aEvent.changedTouches[0].pageX;
+      if (orgX - newX > 100) {
+        tracking = false;
+        this.forward();
+      } else {
+        if (orgX - newX < -100) {
+          tracking = false;
+          this.back();
+        }
+      }
+    }
+  }
+
+  Dz.setupView = function() {
+    document.body.addEventListener("click", function ( e ) {
+      if (!Dz.html.classList.contains("view")) return;
+      if (!e.target || e.target.nodeName != "SECTION") return;
+
+      Dz.html.classList.remove("view");
+      Dz.setCursor(Dz.slides.indexOf(e.target) + 1);
+    }, false);
+  }
+
+  /* Adapt the size of the slides to the window */
+
+  Dz.onresize = function() {
+    var db = document.body;
+    var sx = db.clientWidth / window.innerWidth;
+    var sy = db.clientHeight / window.innerHeight;
+    var transform = "scale(" + (1/Math.max(sx, sy)) + ")";
+
+    db.style.MozTransform = transform;
+    db.style.WebkitTransform = transform;
+    db.style.OTransform = transform;
+    db.style.msTransform = transform;
+    db.style.transform = transform;
+  }
+
+
+  Dz.getNotes = function(aIdx) {
+    var s = $("section:nth-of-type(" + aIdx + ")");
+    var d = s.$("[role='note']");
+    return d ? d.innerHTML : "";
+  }
+
+  Dz.onmessage = function(aEvent) {
+    var argv = aEvent.data.split(" "), argc = argv.length;
+    argv.forEach(function(e, i, a) { a[i] = decodeURIComponent(e) });
+    var win = aEvent.source;
+    if (argv[0] === "REGISTER" && argc === 1) {
+      this.remoteWindows.push(win);
+      this.postMsg(win, "REGISTERED", document.title, this.slides.length);
+      this.postMsg(win, "CURSOR", this.idx + "." + this.step);
+      return;
+    }
+    if (argv[0] === "BACK" && argc === 1)
+      this.back();
+    if (argv[0] === "FORWARD" && argc === 1)
+      this.forward();
+    if (argv[0] === "START" && argc === 1)
+      this.goStart();
+    if (argv[0] === "END" && argc === 1)
+      this.goEnd();
+    if (argv[0] === "TOGGLE_CONTENT" && argc === 1)
+      this.toggleContent();
+    if (argv[0] === "SET_CURSOR" && argc === 2)
+      window.location.hash = "#" + argv[1];
+    if (argv[0] === "GET_CURSOR" && argc === 1)
+      this.postMsg(win, "CURSOR", this.idx + "." + this.step);
+    if (argv[0] === "GET_NOTES" && argc === 1)
+      this.postMsg(win, "NOTES", this.getNotes(this.idx));
+  }
+
+  Dz.toggleContent = function() {
+    // If a Video is present in this new slide, play it.
+    // If a Video is present in the previous slide, stop it.
+    var s = $("section[aria-selected]");
+    if (s) {
+      var video = s.$("video");
+      if (video) {
+        if (video.ended || video.paused) {
+          video.play();
+        } else {
+          video.pause();
+        }
+      }
+    }
+  }
+
+  Dz.setCursor = function(aIdx, aStep) {
+    // If the user change the slide number in the URL bar, jump
+    // to this slide.
+    aStep = (aStep != 0 && typeof aStep !== "undefined") ? "." + aStep : ".0";
+    window.location.hash = "#" + aIdx + aStep;
+  }
+
+  Dz.onhashchange = function() {
+    var cursor = window.location.hash.split("#"),
+        newidx = 1,
+        newstep = 0;
+    if (cursor.length == 2) {
+      newidx = ~~cursor[1].split(".")[0];
+      newstep = ~~cursor[1].split(".")[1];
+      if (newstep > Dz.slides[newidx - 1].$$('.incremental > *').length) {
+        newstep = 0;
+        newidx++;
+      }
+    }
+    this.setProgress(newidx, newstep);
+    if (newidx != this.idx) {
+      this.setSlide(newidx);
+    }
+    if (newstep != this.step) {
+      this.setIncremental(newstep);
+    }
+    for (var i = 0; i < this.remoteWindows.length; i++) {
+      this.postMsg(this.remoteWindows[i], "CURSOR", this.idx + "." + this.step);
+    }
+  }
+
+  Dz.back = function() {
+    if (this.idx == 1 && this.step == 0) {
+      return;
+    }
+    if (this.step == 0) {
+      this.setCursor(this.idx - 1,
+                     this.slides[this.idx - 2].$$('.incremental > *').length);
+    } else {
+      this.setCursor(this.idx, this.step - 1);
+    }
+  }
+
+  Dz.forward = function() {
+    if (this.idx >= this.slides.length &&
+        this.step >= this.slides[this.idx - 1].$$('.incremental > *').length) {
+        return;
+    }
+    if (this.step >= this.slides[this.idx - 1].$$('.incremental > *').length) {
+      this.setCursor(this.idx + 1, 0);
+    } else {
+      this.setCursor(this.idx, this.step + 1);
+    }
+  }
+
+  Dz.goStart = function() {
+    this.setCursor(1, 0);
+  }
+
+  Dz.goEnd = function() {
+    var lastIdx = this.slides.length;
+    var lastStep = this.slides[lastIdx - 1].$$('.incremental > *').length;
+    this.setCursor(lastIdx, lastStep);
+  }
+
+  Dz.toggleView = function() {
+    this.html.classList.toggle("view");
+
+    if (this.html.classList.contains("view")) {
+      $("section[aria-selected]").scrollIntoView(true);
+    }
+  }
+
+  Dz.setSlide = function(aIdx) {
+    this.idx = aIdx;
+    var old = $("section[aria-selected]");
+    var next = $("section:nth-of-type("+ this.idx +")");
+    if (old) {
+      old.removeAttribute("aria-selected");
+      var video = old.$("video");
+      if (video) {
+        video.pause();
+      }
+    }
+    if (next) {
+      next.setAttribute("aria-selected", "true");
+      if (this.html.classList.contains("view")) {
+        next.scrollIntoView();
+      }
+      var video = next.$("video");
+      if (video && !!+this.params.autoplay) {
+        video.play();
+      }
+    } else {
+      // That should not happen
+      this.idx = -1;
+      // console.warn("Slide doesn't exist.");
+    }
+  }
+
+  Dz.setIncremental = function(aStep) {
+    this.step = aStep;
+    var old = this.slides[this.idx - 1].$('.incremental > *[aria-selected]');
+    if (old) {
+      old.removeAttribute('aria-selected');
+    }
+    var incrementals = $$('.incremental');
+    if (this.step <= 0) {
+      $$.forEach(incrementals, function(aNode) {
+        aNode.removeAttribute('active');
+      });
+      return;
+    }
+    var next = this.slides[this.idx - 1].$$('.incremental > *')[this.step - 1];
+    if (next) {
+      next.setAttribute('aria-selected', true);
+      next.parentNode.setAttribute('active', true);
+      var found = false;
+      $$.forEach(incrementals, function(aNode) {
+        if (aNode != next.parentNode)
+          if (found)
+            aNode.removeAttribute('active');
+          else
+            aNode.setAttribute('active', true);
+        else
+          found = true;
+      });
+    } else {
+      setCursor(this.idx, 0);
+    }
+    return next;
+  }
+
+  Dz.goFullscreen = function() {
+    var html = $('html'),
+        requestFullscreen = html.requestFullscreen || html.requestFullScreen || html.mozRequestFullScreen || html.webkitRequestFullScreen;
+    if (requestFullscreen) {
+      requestFullscreen.apply(html);
+    }
+  }
+  
+  Dz.setProgress = function(aIdx, aStep) {
+    var slide = $("section:nth-of-type("+ aIdx +")");
+    if (!slide)
+      return;
+    var steps = slide.$$('.incremental > *').length + 1,
+        slideSize = 100 / (this.slides.length - 1),
+        stepSize = slideSize / steps;
+    this.progressBar.style.width = ((aIdx - 1) * slideSize + aStep * stepSize) + '%';
+  }
+  
+  Dz.postMsg = function(aWin, aMsg) { // [arg0, [arg1...]]
+    aMsg = [aMsg];
+    for (var i = 2; i < arguments.length; i++)
+      aMsg.push(encodeURIComponent(arguments[i]));
+    aWin.postMessage(aMsg.join(" "), "*");
+  }
+  
+  function init() {
+    Dz.init();
+    window.onkeydown = Dz.onkeydown.bind(Dz);
+    window.onresize = Dz.onresize.bind(Dz);
+    window.onhashchange = Dz.onhashchange.bind(Dz);
+    window.onmessage = Dz.onmessage.bind(Dz);
+  }
+
+  window.onload = init;
+</script>
+
+<script> // Helpers
+  if (!Function.prototype.bind) {
+    Function.prototype.bind = function (oThis) {
+
+      // closest thing possible to the ECMAScript 5 internal IsCallable
+      // function 
+      if (typeof this !== "function")
+      throw new TypeError(
+        "Function.prototype.bind - what is trying to be fBound is not callable"
+      );
+
+      var aArgs = Array.prototype.slice.call(arguments, 1),
+          fToBind = this,
+          fNOP = function () {},
+          fBound = function () {
+            return fToBind.apply( this instanceof fNOP ? this : oThis || window,
+                   aArgs.concat(Array.prototype.slice.call(arguments)));
+          };
+
+      fNOP.prototype = this.prototype;
+      fBound.prototype = new fNOP();
+
+      return fBound;
+    };
+  }
+
+  var $ = (HTMLElement.prototype.$ = function(aQuery) {
+    return this.querySelector(aQuery);
+  }).bind(document);
+
+  var $$ = (HTMLElement.prototype.$$ = function(aQuery) {
+    return this.querySelectorAll(aQuery);
+  }).bind(document);
+
+  $$.forEach = function(nodeList, fun) {
+    Array.prototype.forEach.call(nodeList, fun);
+  }
+
+</script>
+<!-- vim: set fdm=marker: }}} -->
