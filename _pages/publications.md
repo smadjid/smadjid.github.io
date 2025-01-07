@@ -13,6 +13,15 @@ permalink: /publications/
 For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=A8So5p8AAAAJ" itemprop="sameAs">Google Scholar</a>.
 
 ---
+# 2025
+> Madjid Sadallah and Marie Lefevre (2025) "Personalized Recommender System for Improving Urban Exploration and Experience Documentation of International Students". (CSEDU 2025 - Accepted).<br>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2025personalized_abstract');" class="btn btn--primary">Abstract</a>
+    <a href="[https://hal.science/hal-04771226](https://csedu.scitevents.org/)" style="color:white" class="btn btn--warning">Link</a>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2024sadallah2025personalized');" class="btn btn--info">Bibtex</a>
+        
+<div id="sadallah2024mobilesrecsys_abstract" style="display:none;">
+  <p class="notice--info"><strong>Absract. </strong></p>
+</div>
 
 # 2024
 > Madjid Sadallah and Marie Lefevre (2024) "MOBILES RecSys: A Personalized Recommendation System for Enhancing the Urban and Social Experiences of International Students". (Software).<br>
