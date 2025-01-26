@@ -6,7 +6,7 @@ comments: false
 share: false
 author_profile: true
 title: Publications
-permalink: /publications/
+permalink: /publications/ 
 ---
 (<a href="../publications_by_type">Display by type</a>)
 
