@@ -17,10 +17,12 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 > Madjid Sadallah and Marie Lefevre (2025) "Personalized Recommender System for Improving Urban Exploration and Experience Documentation of International Students". (CSEDU 2025 - Accepted).<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2025personalized_abstract');" class="btn btn--primary">Abstract</a>
     <a href="https://csedu.scitevents.org/" style="color:white" class="btn btn--warning">Link</a>
-    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2024sadallah2025personalized');" class="btn btn--info">Bibtex</a>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2025personalized');" class="btn btn--info">Bibtex</a>
         
-<div id="sadallah2024mobilesrecsys_abstract" style="display:none;">
-  <p class="notice--info"><strong>Absract. </strong></p>
+<div id="sadallah2025personalized_abstract" style="display:none;">
+  <p class="notice--info"><strong>Absract. </strong>
+  International students face significant integration challenges in new urban environments. Documenting their experiences is crucial for reflection and adaptation; however, linguistic and cultural barriers often hinder effective documentation. This study introduces a personalized recommender system designed to facilitate this process, enhancing social engagement. The system provides targeted prompts that guide students towards richer, more reflective annotations. Utilizing a mixed-methods approach—quantitative analysis of user interactions and qualitative feedback—we evaluated its impact. Our analysis demonstrates that the recommender system substantially enriches student documentation, fostering deeper connections with new surroundings, enhancing textual and emotional expression, and promoting diverse and reflective perspectives. These findings highlight the system's potential to accelerate international student adaptation and offer insights for future technologies aimed at improving their global integration and well-being.
+  </p>
 </div>
 
 # 2024
