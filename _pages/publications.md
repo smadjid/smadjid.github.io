@@ -14,9 +14,10 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 ---
 # 2025
-> Madjid Sadallah and Marie Lefevre (2025) "Personalized Recommender System for Improving Urban Exploration and Experience Documentation of International Students". (CSEDU 2025 - Accepted).<br>
+> Madjid Sadallah and Marie Lefevre (2025) "Personalized Recommender System for Improving Urban Exploration and Experience Documentation of International Students".
+In Proceedings of the 17th International Conference on Computer Supported Education - Volume 2: CSEDU 2025; ISBN 978-989-758-746-7; ISSN 2184-5026, SciTePress, pages 923-930. DOI: 10.5220/0013202800003932<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2025personalized_abstract');" class="btn btn--primary">Abstract</a>
-    <a href="https://csedu.scitevents.org/" style="color:white" class="btn btn--warning">Link</a>
+    <a href="/media/papers/sadallah2025personalized.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2025personalized');" class="btn btn--info">Bibtex</a>
         
 <div id="sadallah2025personalized_abstract" style="display:none;">
