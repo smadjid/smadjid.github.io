@@ -14,6 +14,39 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 ---
 # 2025
+> Madjid Sadallah and Marie Lefevre (2025) "Recommander pour Soutenir l'Exploration Urbaines et le Partage d'Expériences entre Étudiants Internationaux".
+In Actes de la 12e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain EIAH 2025<br>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2025recommander_abstract');" class="btn btn--primary">Abstract</a>
+    <a href="/media/papers/sadallah2025recommander.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2025recommander');" class="btn btn--info">Bibtex</a>
+        
+<div id="sadallah2025recommander_abstract" style="display:none;">
+  <p class="notice--info"><strong>Absract. </strong>
+  L'intégration des étudiants internationaux, essentielle à leur inclusion sociale et à leur apprentissage, est souvent freinée par divers obstacles. Si les outils numériques, notamment les applications de découver-te et de documentation, peuvent soutenir ce processus, leur efficacité dépend d'une appropriation réfléchie. Cet article présente un système de recommandation personnalisé, conçu pour accompagner les étudiants internationaux dans l'utilisation d'une application d'exploration urbaine et de partage d'expériences. En offrant des suggestions contextuelles, ce système encourage une exploration active et une meilleure compréhension de l'environnement local, renforçant ainsi leur intégration sociale et culturelle. Une évaluation empirique a révélé une amélioration de la qualité narrative, de la compréhension du contexte local ainsi que de l'expression émotionnelle des étudiants. Ces résultats soulignent le rôle des systèmes de recommandation pour enrichir l'apprentissage contextuel et faciliter une intégration réussie, éléments fondamentaux pour le bien-être et la réussite académique des étudiants internationaux.
+  </p>
+</div>
+
+> Madjid Sadallah and Marie Lefevre (2025) "L'application MOBILES : favoriser le partage d'expériences urbaines entre étudiants internationaux".
+In Actes de la 12e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain EIAH 2025<br>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2025application _abstract');" class="btn btn--primary">Abstract</a>
+    <a href="/media/papers/sadallah2025application.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2025application ');" class="btn btn--info">Bibtex</a>
+        
+<div id="sadallah2025application_abstract" style="display:none;">
+  <p class="notice--info"><strong>Absract. </strong>
+L'intégration des étudiants internationaux, enjeu majeur pour leur réussite académique, est fréquemment compromise par des difficultés telles que le choc culturel – se manifestant, par exemple, par des normes sociales déroutantes –, l'isolement social, intensifié par un manque de réseaux de soutien, et les barrières linguistiques, limitant leurs interactions et leurs apprentissages. Afin de favoriser leur engagement et leurs apprentissage, nous avons conçu MOBILES, une application innovante transformant l'exploration urbaine en un outil pédagogique. Elle incite les étudiants à explorer activement leur environnement et à partager leurs expériences, facilitant ainsi leur adaptation socioculturelle. Par des recommandations personnalisées, fondées sur leurs intérêts, MOBILES offre une expérience immersive qui renforce leur sentiment d'appartenance et établit un lien significatif entre intégration sociale et réussite académique, redéfinissant leur rapport à la communauté d'accueil.  </p>
+</div>
+
+> Camille Scheffler, Dominique Chevalier, Claire Cunty, Jean-François Grassin, Thierry Joliveau, Marie Lefevre, Hélène Mathian, and Madjid Sadallah (2025) "Approche géomatique des expériences des lieux avec une application contributive : Discussion à partir d’une expérimentation auprès des étudiant·es internationaux. ". In Actes de la Conférence Spatial Analysis and GEOmatics (SAGEO2025)<br>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('scheffler2025approche_abstract');" class="btn btn--primary">Abstract</a>
+    <a href="/media/papers/scheffler2025approche.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('scheffler2025approche ');" class="btn btn--info">Bibtex</a>
+        
+<div id="scheffler2025approche_abstract" style="display:none;">
+  <p class="notice--info"><strong>Absract. </strong>
+The question of ‘place’ remains a topical one in the field of Geographic Information Sciences, where ‘space’ is still predominant. This issue is explored here in the context of an experiment involving international students who have been asked to share their located experiences via a dedicated mobile application. We present the objectives, design and implementation of this application and discuss the issues associated with these observations in the field of Geographic Information Sciences</p>
+</div>
+
 > Madjid Sadallah and Marie Lefevre (2025) "Personalized Recommender System for Improving Urban Exploration and Experience Documentation of International Students".
 In Proceedings of the 17th International Conference on Computer Supported Education - Volume 2: CSEDU 2025; ISBN 978-989-758-746-7; ISSN 2184-5026, SciTePress, pages 923-930. DOI: 10.5220/0013202800003932<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2025personalized_abstract');" class="btn btn--primary">Abstract</a>
