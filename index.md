@@ -11,7 +11,7 @@ permalink: /
 ## Short Bio
 I am a computer scientist specializing in the intersection of artificial intelligence and education (AIEd), with expertise spanning both theoretical foundations and practical applications. I hold a PhD and a Magister degree in Computer Science from the [University Abderrahmane Mira](http://univ-bejaia.dz/), as well as an Engineer’s degree from the [University of Science and Technology USTHB](https://www.usthb.dz/). I am currently a contract researcher at [LIRIS](https://liris.cnrs.fr/), focusing on AI-driven approaches to learning and teaching. Previously, I worked as a research engineer at [IMT Atlantique](https://www.imt-atlantique.fr) in Brest, France, where I developed analytical tools and models to study digital learning practices. Before that, I was a full-time researcher at the Algerian [Research Center on Scientific and Technical Information (CERIST)](https://www.cerist.dz/). 
 
-<a style="color:white;cursor: pointer; cursor: hand;" href="./media/cv_madjid_sadallah_fr.pdf" class="btn btn--info">View Academic CV (French)</a>
+<a style="color:white;cursor: pointer; cursor: hand;" href="./media/cv_madjid_sadallah_fr.pdf" class="btn btn--info">My Academic CV (French)</a>
 
 ## Research Interests
 
