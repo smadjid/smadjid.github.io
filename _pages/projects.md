@@ -19,7 +19,7 @@ feature_row_coobra:
 feature_row_mobiles:
   - image_path: /assets/images/mobiles.png
     alt: "Mobiles"
-    title: 'ANR MOBILES, 2023.'
+    title: 'ANR MOBILES, 2023 -- 2025.'
     excerpt: "The ANR MOBILES project seeks to document, understand, and support the spatial practices and language learning experiences of international students in French higher education institutions, emphasizing learning opportunities from immersive stays enhanced by digital tools. Its objectives include analyzing students' spatial practices to uncover contextual learning opportunities, designing a city mapping interface for quantitative and qualitative data exploration, and implementing user-participation-based recommendation systems to support learning goals, while developing methods for collecting, modeling, analyzing, and visualizing geolocated activity traces from sources like photographs and social networks. My role involves developing a prototype smartphone application to collect digital data such as geographic traces and annotations, provide cartographic visualizations and discussions, enable students to annotate traces for sharing integration-facilitating locations, and utilize enriched traces to generate interpretable recommendations for diversifying practices based on individual factors, ultimately aiding social integration and awareness of learning through spatial practices."
     url: "/projects/mobiles/"
     btn_label: "Details"
