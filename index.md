@@ -10,20 +10,30 @@ permalink: /
 
 ## Short Bio
 
-I am a computer scientist specializing in the intersection of artificial intelligence and education (AIEd), with expertise spanning both theoretical foundations and practical applications. I hold a PhD and a Magister degree in Computer Science from the [University Abderrahmane Mira](http://univ-bejaia.dz/), as well as an Engineer’s degree from the [University of Science and Technology USTHB](https://www.usthb.dz/). I am currently a contract researcher in the ANR COOBRA project at [SICAL/LIRIS](https://liris.cnrs.fr/) (CNRS UMR 5205), focusing on human-computer interaction (HCI), multimodality, and digital accessibility to support collaborative learning and working between sighted individuals and visually impaired Braille users. This role builds on my previous experiences in AI-driven educational tools and extends my expertise to inclusive technologies for visual impairment. Previously, I worked as a contract researcher at [TWEAK, LIRIS](https://liris.cnrs.fr/), focusing on AI-driven approaches to learning and teaching; as a research engineer at [IMT Atlantique](https://www.imt-atlantique.fr) in Brest, France, where I developed analytical tools and models to study digital learning practices; and as a full-time researcher at the Algerian [Research Center on Scientific and Technical Information (CERIST)](https://www.cerist.dz/).
+I am a computer scientist working at the intersection of **Artificial Intelligence and Education (AIEd)**, with a focus on the design of intelligent, human-centered, and inclusive learning systems.
 
-[My Academic CV (French)](./media/cv_madjid_sadallah_fr.pdf)
+I hold a PhD in Computer Science. I am currently a researcher on the **ANR COOBRA project** at SICAL/LIRIS (CNRS UMR 5205), where my work examines multimodal interaction, accessibility, and collaborative practices involving visually impaired Braille users.
+
+My research develops computational, interactional, and epistemic frameworks for AI-mediated learning — spanning adaptive systems, collaborative environments, and accessibility-driven design.
+
+[Academic CV (French)](./media/cv_madjid_sadallah_fr.pdf)
+
+---
 
 ## Research Interests
 
-My research lies at the intersection of Artificial Intelligence and Education, with a focus on data-driven and human-centered approaches to enhance teaching and learning. Key areas include:
+My work investigates how AI reshapes learning, collaboration, and knowledge mediation in situated contexts.
 
-* **Artificial Intelligence in Education (AIEd)**: Adaptive, personalized, and ethical AI-driven learning systems.
-* **Learning Analytics & Educational Data Mining**: Data-informed methods for understanding and improving learning processes.
-* **Human–Computer Interaction for Learning**: Design and evaluation of interactive, engaging, and accessible educational technologies, including multimodal interfaces for diverse users.
-* **Technology-Enhanced Learning (TEL)**: Supporting inclusive, sustainable, and effective learning environments, with emphasis on digital accessibility and visual impairment.
-* **Knowledge Representation & Engineering**: Structuring and leveraging knowledge to build intelligent educational systems, including document engineering for collaborative contexts.
-* **Computer-Supported Collaborative Work/Learning (CSCW/CSCL)**: Facilitating cooperation between sighted and visually impaired individuals on scientific and technical content.
+**Primary areas**
 
-  
----
+- Artificial Intelligence in Education (AIEd)  
+- Human–Computer Interaction for Learning  
+- Learning Analytics & Educational Data Mining  
+- Accessibility & Multimodal Interaction  
+- Technology-Enhanced Learning
+
+**Associated themes**
+
+- Knowledge Representation  
+- Document & Interaction Engineering  
+- Computer-Supported Collaborative Learning & Work (CSCL / CSCW)
