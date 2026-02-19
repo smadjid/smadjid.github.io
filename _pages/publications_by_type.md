@@ -222,6 +222,14 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </div>
 
 # Conference publications
+  > Sadallah, M., & Encelle, B. (_accepted_). The verification gap in AI accessibility: A meta-analysis of architectural paradigms and agency deficits. In Proceedings of the 23rd International Web for All Conference (W4A'26) . Dubai, United Arab Emirates: ACM. <br>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2025web4all_abstract');" class="btn btn--primary">Abstract</a>
+
+<div id="sadallah2025web4all_abstract" style="display:none;">
+  <p class="notice--info"><strong>Absract. </strong>
+AI-powered accessibility systems have shifted from transcription to interpretation, creating a verification paradox: blind and low-vision (BLV) users, who most rely on AI-generated narratives, lack perceptual redundancy to detect errors such as hallucinations or semantic drift, resulting in an agency deficit. Through a systematic meta-analysis of 17 empirically evaluated AI accessibility systems (2019--2025), we examine how architectural choices shape verification affordances. We introduce the Verification-Cognition Balance Index (VCBI), a composite metric quantifying trade-offs between validation rigor, user agency, complexity, and risk. Our analysis uncovers weak overall balance across the field, with transformer-based systems showing higher risk density than classical computer vision despite negligible validation improvements. Only hybrid specialized architectures—constraining AI to narrow semantic subtasks—achieve good balance. We argue for a necessary paradigm shift in evaluation from system accuracy to user verifiability. Our findings suggest that for high-stakes accessibility, task-specific constrained AI outperforms general-purpose models in epistemic safety and user empowerment.</p>
+</div>
+
   > Jean-François Grassin, Dominique Chevalier, Claire Cunty, Hélène Mathian, Camille Scheffler, Marie Lefevre, and Madjid Sadallah (2025) "Approche géomatique des expériences des lieux avec une application contributive : Discussion à partir d'une expérimentation auprès des étudiant·es internationaux. ". In Des images et des mots, des mots sur les images de la mobilité académique. Université de Fribourg, Suisse <br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('grassin2025approche_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('grassin2025approche ');" class="btn btn--info">Bibtex</a>
