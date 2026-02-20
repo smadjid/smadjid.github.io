@@ -14,6 +14,14 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 ---
 # 2026
+> Sadallah, M., & Encelle, B. (_accepted_). Beyond Additive Design: An Empirical Taxonomy of Multimodal STEM Accessibility Systems. In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI ’26). Barcelona, Spain: ACM, April 13–17, 2026.
+  <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2025chi_abstract');" class="btn btn--primary">Abstract</a>
+
+<div id="sadallah2025chi_abstract" style="display:none;">
+  <p class="notice--info"><strong>Absract. </strong>
+Multimodal systems combining audio, haptic, and tactile channels are prevalent in STEM accessibility for blind and visually impaired users, yet real-world feedback reports high cognitive load despite technological advances. Through analysis of 66 systems (2015--2025), we identify three design regimes: additive (channel stacking), augmentative (partial coordination), and integrative (orchestrated fusion). We reveal a critical evaluation gap: while architectural quality varies dramatically, conventional performance metrics show no regime variation, indicating current metrics miss the cognitive cost of poorly integrated designs. We contribute: (1) a diagnostic framework with high reliability; (2) evidence of a performance-architecture decoupling where cognitive costs diverge despite similar task performance; and (3) design thresholds for creating perceptually integrated experiences. Our work calls for shifting from interface engineering to perceptual integration engineering. </p>
+</div>
+
 > Sadallah, M., & Encelle, B. (_accepted_). The verification gap in AI accessibility: A meta-analysis of architectural paradigms and agency deficits. In Proceedings of the 23rd International Web for All Conference (W4A'26) . Dubai, United Arab Emirates: ACM. <br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2025web4all_abstract');" class="btn btn--primary">Abstract</a>
 
