@@ -222,7 +222,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </div>
 
 # Conference publications
-  > Sadallah, M., & Encelle, B. (_accepted_). Beyond Additive Design: An Empirical Taxonomy of Multimodal STEM Accessibility Systems. In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI ’26). Barcelona, Spain: ACM, April 13–17, 2026.
+> Sadallah, M., & Encelle, B. (_accepted_). Beyond Additive Design: An Empirical Taxonomy of Multimodal STEM Accessibility Systems. In Extended abstracts of the CHI conference on human factors in computing systems (CHI ’26). Barcelona, Spain: ACM, April 13–17, 2026.
   <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2025chi_abstract');" class="btn btn--primary">Abstract</a>
 
 <div id="sadallah2025chi_abstract" style="display:none;">
