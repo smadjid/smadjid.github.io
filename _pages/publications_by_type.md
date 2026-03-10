@@ -525,6 +525,28 @@ In Proceedings of the 17th International Conference on Computer Supported Educat
 </div>
 
 # Preprints, softwares and misc
+> Sadallah M.(2026). "Exploration Space Theory: Formal Foundations for Prerequisite-Aware Location-Based Recommendation." ArXiv. <a href="https://doi.org/10.48550/arXiv.2603.06624">https://doi.org/10.48550/arXiv.2603.06624</a><br>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2026ESTarxiv_abstract');" class="btn btn--primary">Abstract</a>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2026ESTarxiv');" class="btn btn--info">Bibtex</a>
+    <a href="/media/papers/est_arxiv.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+        
+<div id="sadallah2026ESTarxiv_abstract" style="display:none;">
+  <p class="notice--info"><strong>Absract. </strong> Location-based recommender systems have achieved considerable sophistication, yet none provides a formal, lattice-theoretic representation of prerequisite dependencies among points of interest -- the semantic reality that meaningfully experiencing certain locations presupposes contextual knowledge gained from others -- nor the structural guarantees that such a representation entails. We introduce Exploration Space Theory (EST), a formal framework that transposes Knowledge Space Theory into location-based recommendation. We prove that the valid user exploration states -- the order ideals of a surmise partial order on points of interest -- form a finite distributive lattice and a well-graded learning space; Birkhoff's representation theorem, combined with the structural isomorphism between lattices of order ideals and concept lattices, connects the exploration space canonically to Formal Concept Analysis. These structural results yield four direct consequences: linear-time fringe computation, a validity certificate guaranteeing that every fringe-guided recommendation is a structurally sound next step, sub-path optimality for dynamic-programming path generation, and provably existing structural explanations for every recommendation. Building on these foundations, we specify the Exploration Space Recommender System (ESRS) -- a memoized dynamic program over the exploration lattice, a Bayesian state estimator with beam approximation and EM parameter learning, an online feedback loop enforcing the downward-closure invariant, an incremental surmise-relation inference pipeline, and three cold-start strategies, the structural one being the only approach in the literature to provide a formal validity guarantee conditional on the correctness of the inferred surmise relation. All results are established through proof and illustrated on a fully traced five-POI numerical example.</p>
+</div>
+
+<div id="sadallah2026ESTarxiv" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@misc{sadallah2026explorationspacetheoryformal,
+      title={Exploration Space Theory: Formal Foundations for Prerequisite-Aware Location-Based Recommendation}, 
+      author={Madjid Sadallah},
+      year={2026},
+      eprint={2603.06624},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2603.06624}, 
+}</code></pre></div></small>
+</div>
+
 > Madjid Sadallah and Marie Lefevre (2024) "MOBILES RecSys: A Personalized Recommendation System for Enhancing the Urban and Social Experiences of International Students". (Software).<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2024mobilesrecsys_abstract');" class="btn btn--primary">Abstract</a>
     <a href="https://hal.science/hal-04771226" style="color:white" class="btn btn--warning">Link</a>
