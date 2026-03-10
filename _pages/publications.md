@@ -30,6 +30,28 @@ Multimodal systems combining audio, haptic, and tactile channels are prevalent i
 AI-powered accessibility systems have shifted from transcription to interpretation, creating a verification paradox: blind and low-vision (BLV) users, who most rely on AI-generated narratives, lack perceptual redundancy to detect errors such as hallucinations or semantic drift, resulting in an agency deficit. Through a systematic meta-analysis of 17 empirically evaluated AI accessibility systems (2019--2025), we examine how architectural choices shape verification affordances. We introduce the Verification-Cognition Balance Index (VCBI), a composite metric quantifying trade-offs between validation rigor, user agency, complexity, and risk. Our analysis uncovers weak overall balance across the field, with transformer-based systems showing higher risk density than classical computer vision despite negligible validation improvements. Only hybrid specialized architectures—constraining AI to narrow semantic subtasks—achieve good balance. We argue for a necessary paradigm shift in evaluation from system accuracy to user verifiability. Our findings suggest that for high-stakes accessibility, task-specific constrained AI outperforms general-purpose models in epistemic safety and user empowerment.</p>
 </div>
 
+> Sadallah M.(2026). "Exploration Space Theory: Formal Foundations for Prerequisite-Aware Location-Based Recommendation." ArXiv. <a href="https://doi.org/10.48550/arXiv.2603.06624">https://doi.org/10.48550/arXiv.2603.06624</a><br>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2026ESTarxiv_abstract');" class="btn btn--primary">Abstract</a>
+    <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2026ESTarxiv');" class="btn btn--info">Bibtex</a>
+    <a href="/media/papers/est_arxiv.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+        
+<div id="sadallah2026ESTarxiv_abstract" style="display:none;">
+  <p class="notice--info"><strong>Absract. </strong> Location-based recommender systems have achieved considerable sophistication, yet none provides a formal, lattice-theoretic representation of prerequisite dependencies among points of interest -- the semantic reality that meaningfully experiencing certain locations presupposes contextual knowledge gained from others -- nor the structural guarantees that such a representation entails. We introduce Exploration Space Theory (EST), a formal framework that transposes Knowledge Space Theory into location-based recommendation. We prove that the valid user exploration states -- the order ideals of a surmise partial order on points of interest -- form a finite distributive lattice and a well-graded learning space; Birkhoff's representation theorem, combined with the structural isomorphism between lattices of order ideals and concept lattices, connects the exploration space canonically to Formal Concept Analysis. These structural results yield four direct consequences: linear-time fringe computation, a validity certificate guaranteeing that every fringe-guided recommendation is a structurally sound next step, sub-path optimality for dynamic-programming path generation, and provably existing structural explanations for every recommendation. Building on these foundations, we specify the Exploration Space Recommender System (ESRS) -- a memoized dynamic program over the exploration lattice, a Bayesian state estimator with beam approximation and EM parameter learning, an online feedback loop enforcing the downward-closure invariant, an incremental surmise-relation inference pipeline, and three cold-start strategies, the structural one being the only approach in the literature to provide a formal validity guarantee conditional on the correctness of the inferred surmise relation. All results are established through proof and illustrated on a fully traced five-POI numerical example.</p>
+</div>
+
+<div id="sadallah2026ESTarxiv" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@misc{sadallah2026explorationspacetheoryformal,
+      title={Exploration Space Theory: Formal Foundations for Prerequisite-Aware Location-Based Recommendation}, 
+      author={Madjid Sadallah},
+      year={2026},
+      eprint={2603.06624},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2603.06624}, 
+}</code></pre></div></small>
+</div>
+
 # 2025
 > Jean-François Grassin, Dominique Chevalier, Claire Cunty, Hélène Mathian, Camille Scheffler, Marie Lefevre, and Madjid Sadallah (2025) "Approche géomatique des expériences des lieux avec une application contributive : Discussion à partir d'une expérimentation auprès des étudiant·es internationaux. ". In Des images et des mots, des mots sur les images de la mobilité académique. Université de Fribourg, Suisse <br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('grassin2025approche_abstract');" class="btn btn--primary">Abstract</a>
