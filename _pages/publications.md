@@ -53,7 +53,7 @@ AI-powered accessibility systems have shifted from transcription to interpretati
 </div>
 
 # 2025
-> Jean-François Grassin, Dominique Chevalier, Claire Cunty, Hélène Mathian, Camille Scheffler, Marie Lefevre, and Madjid Sadallah (2025) "Approche géomatique des expériences des lieux avec une application contributive : Discussion à partir d'une expérimentation auprès des étudiant·es internationaux. ". In Des images et des mots, des mots sur les images de la mobilité académique. Université de Fribourg, Suisse <br>
+> Jean-François Grassin, Dominique Chevalier, Claire Cunty, Hélène Mathian, Camille Scheffler, Marie Lefevre, and Madjid Sadallah (2025) "Mobiles : cartographie sensible et récits multimodaux". In Des images et des mots, des mots sur les images de la mobilité académique. Université de Fribourg, Suisse <br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('grassin2025approche_abstract');" class="btn btn--primary">Abstract</a>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('grassin2025approche ');" class="btn btn--info">Bibtex</a>
         
