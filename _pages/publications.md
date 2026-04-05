@@ -4,11 +4,13 @@ title: Publications
 permalink: /publications/ 
 ---
 <div class="page">
-(<a href="../publications_by_type">Display by type</a>)
+<p>(<a href="../publications_by_type">Display by type</a>)</p>
 
-For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=A8So5p8AAAAJ" itemprop="sameAs">Google Scholar</a>.
+<p>For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=A8So5p8AAAAJ" itemprop="sameAs">Google Scholar</a>.</p>
 
----
+<hr>
+
+<div class="pub-container">
 <div class="pub-year">2026</div>
 > Sadallah, M., & Encelle, B. (_accepted_). Beyond Additive Design: An Empirical Taxonomy of Multimodal STEM Accessibility Systems. In Extended abstracts of the CHI conference on human factors in computing systems (CHI ’26). Barcelona, Spain: ACM, April 13–17, 2026.
   <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2025chi_abstract');" class="btn btn--primary">Abstract</a>
@@ -706,6 +708,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </div>
 
 
+</div>
 </div>
 <script type="text/javascript">
    function toggle_visibility(block_id) {

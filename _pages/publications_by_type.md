@@ -4,13 +4,14 @@ title: Publications
 permalink: /publications_by_type/
 ---
 <div class="page">
-(<a href="../publications">Display by date</a>)
+<p>(<a href="../publications">Display by type</a>)</p>
 
-For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=A8So5p8AAAAJ" itemprop="sameAs">Google Scholar</a>.
+<p>For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=A8So5p8AAAAJ" itemprop="sameAs">Google Scholar</a>.</p>
 
+<hr>
 
----
-# Journal publications
+<h2>Journal publications</h2>
+<div class="pub-container">
  > Madjid Sadallah and Jean-Marie Gilliot (2024) "Modéliser et outiller la conception participative et générative de tableaux de bord d'apprentissage soutenant la création de sens". Sciences et Technologies de l'Information et de la Communication pour l'Education et la Formation (STICEF).<br>
     <a style="color:white;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2024outiller_abstract');" class="btn btn--primary">Abstract</a>
     <a href="/media/papers/sadallah2024outiller.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -635,6 +636,7 @@ In Proceedings of the 17th International Conference on Computer Supported Educat
 </code></pre></div></small>
 </div>
 
+</div>
 </div>
 <script type="text/javascript">
    function toggle_visibility(block_id) {
