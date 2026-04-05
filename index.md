@@ -1,39 +1,63 @@
 ---
-layout: single
-classes: wide
-read_time: false
-comments: false
-share: false
-title: <br><br>Madjid SADALLAH
-permalink: /
+layout: default
+title: Home
 ---
+<div class="hero">
+  <h1 class="hero__name">Madjid Sadallah</h1>
+  <p class="hero__tagline">Computer scientist · AI &amp; Education · Accessibility</p>
+</div>
 
-## Short Bio
+<div class="page">
+  <div class="author-profile animate-in">
+    <img src="/assets/images/smdj.jpg" alt="Madjid Sadallah" class="author-profile__avatar">
+    <div>
+      <div class="author-profile__name">Madjid Sadallah</div>
+      <div class="author-profile__bio">Ph.D., Researcher — Engineer</div>
+      <div class="author-profile__location"><i class="fas fa-map-marker-alt"></i> Lyon, France</div>
+      <div class="author-profile__social">
+        <a href="https://scholar.google.com/citations?user=A8So5p8AAAAJ"><i class="ai ai-google-scholar"></i> Scholar</a>
+        <a href="https://orcid.org/0000-0001-9118-0235"><i class="ai ai-orcid"></i> ORCID</a>
+        <a href="https://cv.hal.science/madjid-sadallah"><i class="fas fa-archive"></i> HAL</a>
+        <a href="https://www.researchgate.net/profile/Madjid-Sadallah"><i class="ai ai-researchgate"></i> RG</a>
+      </div>
+    </div>
+  </div>
 
-I am a computer scientist working at the intersection of **Artificial Intelligence and Education (AIEd)**, with a focus on the design of intelligent, human-centered, and inclusive learning systems.
+  <div class="animate-in">
+    <h2>About</h2>
 
-I hold a PhD in Computer Science. I am currently a researcher on the **ANR COOBRA project** at SICAL/LIRIS (CNRS UMR 5205), where my work examines multimodal interaction, accessibility, and collaborative practices involving visually impaired Braille users.
+    <p>I am a computer scientist working at the intersection of <strong>Artificial Intelligence and Education (AIEd)</strong>, with a focus on the design of intelligent, human-centered, and inclusive learning systems.</p>
 
-My research develops computational, interactional, and epistemic frameworks for AI-mediated learning — spanning adaptive systems, collaborative environments, and accessibility-driven design.
+    <p>I hold a PhD in Computer Science. I am currently a researcher on the <strong>ANR COOBRA project</strong> at SICAL/LIRIS (CNRS UMR 5205), where my work examines multimodal interaction, accessibility, and collaborative practices involving visually impaired Braille users.</p>
 
-[Academic CV (French)](./media/cv_madjid_sadallah_fr.pdf)
+    <p>My research develops computational, interactional, and epistemic frameworks for AI-mediated learning — spanning adaptive systems, collaborative environments, and accessibility-driven design.</p>
 
----
+    <p><a href="./media/cv_madjid_sadallah_fr.pdf">Academic CV (French)</a></p>
+  </div>
 
-## Research Interests
+  <div class="animate-in">
+    <hr>
 
-My work investigates how AI reshapes learning, collaboration, and knowledge mediation in situated contexts.
+    <h2>Research Interests</h2>
 
-**Primary areas**
+    <p>My work investigates how AI reshapes learning, collaboration, and knowledge mediation in situated contexts.</p>
 
-- Artificial Intelligence in Education (AIEd)  
-- Human–Computer Interaction for Learning  
-- Learning Analytics & Educational Data Mining  
-- Accessibility & Multimodal Interaction  
-- Technology-Enhanced Learning
+    <p><strong>Primary areas</strong></p>
 
-**Associated themes**
+    <ul>
+      <li>Artificial Intelligence in Education (AIEd)</li>
+      <li>Human–Computer Interaction for Learning</li>
+      <li>Learning Analytics &amp; Educational Data Mining</li>
+      <li>Accessibility &amp; Multimodal Interaction</li>
+      <li>Technology-Enhanced Learning</li>
+    </ul>
 
-- Knowledge Representation  
-- Document & Interaction Engineering  
-- Computer-Supported Collaborative Learning & Work (CSCL / CSCW)
+    <p><strong>Associated themes</strong></p>
+
+    <ul>
+      <li>Knowledge Representation</li>
+      <li>Document &amp; Interaction Engineering</li>
+      <li>Computer-Supported Collaborative Learning &amp; Work (CSCL / CSCW)</li>
+    </ul>
+  </div>
+</div>

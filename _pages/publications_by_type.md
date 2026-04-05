@@ -1,10 +1,5 @@
 ---
-layout: single
-classes: wide
-read_time: false
-comments: false
-share: false
-author_profile: true
+layout: page
 title: Publications
 permalink: /publications_by_type/
 ---

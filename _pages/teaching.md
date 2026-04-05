@@ -1,87 +1,67 @@
 ---
-layout: single
-classes: wide
-read_time: false
-comments: false
-share: false
-author_profile: true
+layout: page
 title: Teaching
 permalink: /teaching/
 ---
+<div class="page">
+  <h1>Teaching</h1>
 
-## Information Systems & Computer Applications  
-*Ecole Nationale d’Administration — Algiers*  
-**2014–2017 · Undergraduate (2nd year)**
+  <div class="teaching-entry">
+    <h3 class="teaching-entry__title">Information Systems &amp; Computer Applications</h3>
+    <div class="teaching-entry__meta">Ecole Nationale d'Administration — Algiers · 2014–2017 · Undergraduate (2nd year) · 135 hours</div>
+    <p>Introduction to information systems, administrative computing, and digital infrastructures for public institutions.</p>
+    <p>Teaching covered:</p>
+    <ul>
+      <li>Foundations of information systems</li>
+      <li>Software and application design principles</li>
+      <li>Database modeling and management</li>
+      <li>Administrative data processing tools</li>
+    </ul>
+    <p>Format: lectures, seminars, practical sessions.</p>
+    <p><a href="https://drive.google.com/drive/folders/1AhJ-UJB6zgA_m7LFfsuKqDDETvHjKYOg?usp=sharing" class="btn btn--outline btn--large">Course material</a></p>
+  </div>
 
-Introduction to information systems, administrative computing, and digital infrastructures for public institutions.
+  <div class="teaching-entry">
+    <h3 class="teaching-entry__title">GNU/Linux Operating Systems — IT Security Program</h3>
+    <div class="teaching-entry__meta">CERIST — Algiers · 2015–2020 · Graduate (PGS) · 150 hours</div>
+    <p>System administration and security management in GNU/Linux environments.</p>
+    <p>Main topics:</p>
+    <ul>
+      <li>UNIX system architecture</li>
+      <li>Process and service management</li>
+      <li>Access control and permissions</li>
+      <li>Network filtering and system hardening</li>
+      <li>Encryption and account security</li>
+    </ul>
+    <p><a href="https://drive.google.com/drive/folders/18cCSpGF52AiyKM0Jo6EpkAxr6B20RgtO" class="btn btn--outline btn--large">Course material</a></p>
+  </div>
 
-Teaching covered:
+  <div class="teaching-entry">
+    <h3 class="teaching-entry__title">GNU/Linux Operating Systems — HPC &amp; Big Data Program</h3>
+    <div class="teaching-entry__meta">CERIST — Algiers · 2017–2020 · Graduate (PGS) · 90 hours</div>
+    <p>Administration and scripting practices for high-performance and data-intensive computing environments.</p>
+    <p>Focus areas:</p>
+    <ul>
+      <li>Advanced shell usage and automation</li>
+      <li>Remote system management</li>
+      <li>Package and resource management</li>
+      <li>Infrastructure support for data analysis workflows</li>
+    </ul>
+    <p><a href="https://drive.google.com/drive/folders/18cCSpGF52AiyKM0Jo6EpkAxr6B20RgtO" class="btn btn--outline btn--large">Course material</a></p>
+  </div>
 
-- Foundations of information systems  
-- Software and application design principles  
-- Database modeling and management  
-- Administrative data processing tools  
-
-Format: lectures, seminars, practical sessions.  
-Total teaching volume: 135 hours.
-
-[Course material](https://drive.google.com/drive/folders/1AhJ-UJB6zgA_m7LFfsuKqDDETvHjKYOg?usp=sharing){: .btn .btn--warning .btn--large}
-
----
-
-## GNU/Linux Operating Systems — IT Security Program  
-*CERIST — Algiers*  
-**2015–2020 · Graduate (PGS)**
-
-System administration and security management in GNU/Linux environments.
-
-Main topics:
-
-- UNIX system architecture  
-- Process and service management  
-- Access control and permissions  
-- Network filtering and system hardening  
-- Encryption and account security  
-
-Total teaching volume: 150 hours.
-
-[Course material](https://drive.google.com/drive/folders/18cCSpGF52AiyKM0Jo6EpkAxr6B20RgtO){: .btn .btn--warning .btn--large}
-
----
-
-## GNU/Linux Operating Systems — HPC & Big Data Program  
-*CERIST — Algiers*  
-**2017–2020 · Graduate (PGS)**
-
-Administration and scripting practices for high-performance and data-intensive computing environments.
-
-Focus areas:
-
-- Advanced shell usage and automation  
-- Remote system management  
-- Package and resource management  
-- Infrastructure support for data analysis workflows  
-
-Total teaching volume: 90 hours.
-
-[Course material](https://drive.google.com/drive/folders/18cCSpGF52AiyKM0Jo6EpkAxr6B20RgtO){: .btn .btn--warning .btn--large}
-
----
-
-## Big Data Languages — R  
-*CERIST — Algiers*  
-**2017–2020 · Graduate (PGS)**
-
-Statistical computing and data analysis using R.
-
-Coverage included:
-
-- Data structures and processing  
-- Statistical modeling  
-- Simulation and hypothesis testing  
-- Data visualization  
-
-Project-based teaching using real datasets.  
-Total teaching volume: 60 hours.
-
-[Course material](https://drive.google.com/drive/folders/1jwVhRBgYKHYfBSdIeb_5Udt4f0KoGiUd){: .btn .btn--warning .btn--large}
+  <div class="teaching-entry">
+    <h3 class="teaching-entry__title">Big Data Languages — R</h3>
+    <div class="teaching-entry__meta">CERIST — Algiers · 2017–2020 · Graduate (PGS) · 60 hours</div>
+    <p>Statistical computing and data analysis using R.</p>
+    <p>Coverage included:</p>
+    <ul>
+      <li>Data structures and processing</li>
+      <li>Statistical modeling</li>
+      <li>Simulation and hypothesis testing</li>
+      <li>Data visualization</li>
+    </ul>
+    <p>Project-based teaching using real datasets.</p>
+    <p><a href="https://drive.google.com/drive/folders/1jwVhRBgYKHYfBSdIeb_5Udt4f0KoGiUd" class="btn btn--outline btn--large">Course material</a></p>
+  </div>
+</div>
