@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/ 
 ---
+<div class="page page--wide">
 (<a href="../publications_by_type">Display by type</a>)
 
 For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=A8So5p8AAAAJ" itemprop="sameAs">Google Scholar</a>.
@@ -705,6 +706,7 @@ Furthermore, we demonstrate the implementation of our proposals through the deve
 </div>
 
 
+</div>
 <script type="text/javascript">
    function toggle_visibility(block_id) {
        var e = document.getElementById(block_id);

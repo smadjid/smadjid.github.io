@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /publications_by_type/
 ---
+<div class="page page--wide">
 (<a href="../publications">Display by date</a>)
 
 For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=A8So5p8AAAAJ" itemprop="sameAs">Google Scholar</a>.
@@ -634,6 +635,7 @@ In Proceedings of the 17th International Conference on Computer Supported Educat
 </code></pre></div></small>
 </div>
 
+</div>
 <script type="text/javascript">
    function toggle_visibility(block_id) {
        var e = document.getElementById(block_id);
