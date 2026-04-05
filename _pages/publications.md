@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/ 
 ---
-<div class="page page--wide">
+<div class="page">
 (<a href="../publications_by_type">Display by type</a>)
 
 For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=A8So5p8AAAAJ" itemprop="sameAs">Google Scholar</a>.
