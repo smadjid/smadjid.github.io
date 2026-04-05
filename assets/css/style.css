@@ -168,65 +168,76 @@ hr { border: none; border-top: 1px solid var(--border); margin: 3.5rem 0; }
 
 /* ---- PUBLICATIONS ---- */
 .pub-year {
-  font-family: var(--sans); font-size: 0.6875rem; font-weight: 700;
+  font-family: var(--sans); font-size: 0.8rem; font-weight: 600;
   text-transform: uppercase; letter-spacing: 0.1em;
-  color: var(--text-faint); margin-top: 2.5rem; margin-bottom: 1rem;
+  color: var(--accent);
+  margin-top: 2.5rem; margin-bottom: 1rem;
+  padding-bottom: 0.5rem; padding-left: 0;
+  border-bottom: 2px solid var(--accent);
+  display: block;
 }
 .pub-year:first-child { margin-top: 0; }
 
-/* Publications wrapped in a container */
-.pub-container > blockquote,
-.pub-container > div > blockquote {
-  border: none;
-  background: none;
-  padding: 0;
+.pub-item {
+  padding: 1rem 0;
   margin: 0;
-  font-size: 0.9rem;
+  border-bottom: 1px solid var(--border-light);
+}
+.pub-item:first-of-type { padding-top: 0; }
+
+.pub-item:last-child { border-bottom: none; }
+
+.pub-item p {
+  margin-bottom: 0.5rem;
+  font-size: 0.9375rem;
   line-height: 1.7;
   color: var(--text);
 }
 
-/* Add separator line BEFORE each blockquote that follows another */
-.pub-container > blockquote + blockquote,
-.pub-container > div > blockquote + blockquote {
-  border-top: 1px solid var(--border-light);
-  padding-top: 1.25rem;
-  margin-top: 1.25rem;
+/* Bold authors, normal title */
+.pub-item p:first-child strong {
+  font-weight: 600;
 }
 
-/* Also handle abstract divs that come between blockquotes */
-.pub-container > blockquote + div[id*="_abstract"],
-.pub-container > blockquote + div[id*="_bibtex"] + blockquote {
-  border-top: 1px solid var(--border-light);
-  padding-top: 1.25rem;
-  margin-top: 1.25rem;
+.pub-item p:first-child em {
+  font-style: italic;
+  font-weight: 400;
 }
 
-.pub-container blockquote p {
-  margin-bottom: 0.375rem;
-}
-
-.pub-container blockquote p:last-child {
-  margin-bottom: 0.25rem;
-}
-
-/* Buttons in publications */
-.pub-container blockquote .btn {
+/* Buttons */
+.pub-item .btn {
   margin-top: 0.25rem;
-  margin-right: 0.25rem;
+  margin-right: 0.375rem;
+  font-size: 0.75rem;
+  padding: 0.3rem 0.65rem;
 }
 
-/* Abstract and bibtex toggle divs */
+/* Abstract/Bibtex toggle boxes */
+.pub-abstract, .pub-bibtex {
+  margin-top: 0.75rem;
+  padding: 0.875rem 1rem;
+  background: var(--bg-alt);
+  border-left: 3px solid var(--accent);
+  font-size: 0.875rem;
+  line-height: 1.6;
+}
+.pub-abstract p { margin-bottom: 0; }
+.pub-abstract strong { color: var(--accent); }
+.pub-bibtex { background: #f4f4f4; }
+.pub-bibtex pre { margin: 0; background: transparent; }
+
+/* Abstract toggle divs */
 .pub-container div[id*="_abstract"],
 .pub-container div[id*="_bibtex"] {
   display: none;
-  margin-top: 0.75rem;
-  padding: 1rem 1.25rem;
-  background: var(--bg-alt);
+  margin: 0.5rem 0 0.5rem 0;
+  padding: 0.875rem 1rem;
+  background: #f8f8fa;
   border-radius: 6px;
-  border: 1px solid var(--border-light);
+  border: 1px solid #eee;
   font-size: 0.85rem;
-  line-height: 1.75;
+  line-height: 1.7;
+}
 }
 
 .pub-container div[id*="_abstract"] .notice--info,

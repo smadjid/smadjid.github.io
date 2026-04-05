@@ -3,7 +3,7 @@ layout: page
 title: Talks & Slides
 permalink: /talks/
 ---
-<div class="page page--wide">
+<div class="page">
   <h1>Talks &amp; Slides</h1>
 
   <div class="talks-list">
