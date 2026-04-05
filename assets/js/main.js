@@ -9,6 +9,11 @@ function toggleVisibility(id) {
   }
 }
 
+// Alias snake_case for compatibility
+function toggle_visibility(block_id) {
+  toggleVisibility(block_id);
+}
+
 /* Scroll-triggered fade-in animations */
 document.addEventListener('DOMContentLoaded', function() {
   var observer = new IntersectionObserver(function(entries) {
