@@ -170,19 +170,18 @@ hr { border: none; border-top: 1px solid var(--border); margin: 3.5rem 0; }
 .pub-year {
   font-family: var(--sans); font-size: 0.6875rem; font-weight: 700;
   text-transform: uppercase; letter-spacing: 0.1em;
-  color: var(--text-faint); margin-top: 3rem; margin-bottom: 1.5rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 1px solid var(--border-light);
+  color: var(--text-faint); margin-top: 3rem; margin-bottom: 1.25rem;
 }
 .pub-year:first-child { margin-top: 0; }
 
-/* Publication entries (blockquote) */
+/* Publication entries — each one is a blockquote in markdown */
 blockquote {
   border: none;
-  padding: 0;
-  margin: 0 0 1.75rem 0;
+  padding: 0 0 1.25rem 0;
+  margin: 0 0 1.25rem 0;
   background: none;
   border-radius: 0;
+  border-bottom: 1px solid var(--border-light);
   font-size: 0.9rem;
   line-height: 1.7;
   color: var(--text);
@@ -197,11 +196,11 @@ blockquote .btn {
   margin-right: 0.25rem;
 }
 
-/* Abstract/BibTeX content divs */
+/* Abstract/BibTeX content divs — sit between pub entries */
 div[id*="_abstract"],
 div[id*="_bibtex"] {
   display: none;
-  margin: 0 0 1.75rem 0;
+  margin: 0 0 1.25rem 0;
   padding: 1rem 1.25rem;
   background: var(--bg-alt);
   border-radius: 6px;
