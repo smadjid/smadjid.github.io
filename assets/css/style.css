@@ -110,7 +110,6 @@ img { max-width: 100%; height: auto; display: block; }
   max-width: var(--content);
   margin: 0 auto;
   padding: 4rem 2rem 6rem;
-  animation: fadeIn 0.4s ease both;
 }
 .page--wide { max-width: var(--wide); }
 
@@ -500,9 +499,8 @@ pre code { background: none; padding: 0; font-size: 0.775rem; line-height: 1.75;
 .hero {
   padding: 7rem 2rem 3.5rem;
   max-width: var(--content);
-  margin: 0 auto;
+  margin:0 auto;
   text-align: center;
-  animation: fadeUp 0.8s ease both;
 }
 .hero__name {
   font-family: var(--sans); font-size: 2.75rem; font-weight: 700;
