@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-<div class="page">
+<div class="page page--wide">
   <h1>Selected Projects</h1>
 
   <div class="projects-grid">
