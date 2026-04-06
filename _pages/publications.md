@@ -64,30 +64,45 @@ permalink: /publications/
 <div class="pub-item">
 <p><strong>Grassin, J-F., Chevalier, D., Cunty, C., Mathian, H., Scheffler, C., Lefevre, M., & Sadallah, M.</strong> (2025). Mobiles: cartographie sensible et récits multimodaux. In <em>Des images et des mots, des mots sur les images de la mobilité académique</em>. Université de Fribourg, Suisse.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('grassin2025_abstract');" class="btn btn--primary">Abstract</a>
+<div id="grassin2025_abstract" style="display:none;" class="pub-abstract">
+<p><strong>Abstract.</strong> Notre proposition s'appuie sur le projet Mobiles qui s'attache à analyser la socialisation langagière d'étudiants internationaux en séjour d'immersion en France. L'hypothèse forte de cette recherche est qu'il convient de s'intéresser à l'hétérogénéité des pratiques socio-spatiales urbaines pour comprendre les processus de socialisation langagière. La socialisation des étudiants internationaux, immergés dans un nouveau contexte à la fois social et langagier est au cœur de notre problématique et nous cherchons à comprendre et analyser la matérialité et la spatialité de ces divers processus. La socialité s'instaure à travers les expériences partagées par les individus au sein d'espaces communs (Lussault, 2007), de communautés discursives et de pratiques (Duff, 2007). Considérant que l'espace est une performance collective (Besse, 2018), nous avons mis en place des formes et des situations collectives d'enquête pour comprendre les expériences des lieux et la manière dont la socialisation y était liée (Danos & Grassin, 2024). De plus, tout espace est l'espace d'une enaction identitaire (Moje, 2004) et celui d'un apprentissage expérientiel (Lovett, 2020). Ces situations d'enquête nous ont permis de recueillir des « small stories » (Bamberg & Georgakopoulou, 2008), récits courts, fragmentés et interactifs, qui mettent en évidence des orientations narratives vers le monde sensibles aux interactions avec l'environnement. Après avoir présenté ces situations d'enquête socio-spatiale, nous présentons les ressources pédagogiques créées par le projet : 1/ des ateliers de cartographie ont été conçus pour la classe de langue. Ils se déroulent autour de grandes cartes de la ville de Lyon (format A1) et proposent différentes activités permettant aux étudiants et étudiantes de conscientiser leurs rapports à la ville et à leurs stratégies d'apprentissage expérientiel. 2/ une application de cartographie participative qui s'entend comme un dispositif exploratoire de la ville (Mellot, 2016) qui, en donnant à voir la diversité et la potentielle (re)territorialisation des expériences, rend tangible la présence et la participation. L'application, fonctionnant comme un architexte propice au récit multimodal, permet l'écriture de l'expérience entre un « montrer » et un « raconter » (Grassin & Danos, 2024). Nous proposons un focus plus spécifique sur l'attachement aux lieux et la multimodalité des récits. Notre projet permet d'aborder ce cadre environnemental de l'apprentissage selon deux perspectives identifiées par Phil Benson : an ‘areal’ perspective in which the environment is viewed as a geographical area (e.g. a campus, a city or a region) and an ‘individual’ perspective in which the environment is viewed as a configuration of settings assembled by an individual learner (Benson, 2021, p. 91). En s'appuyant sur la participation et sur la dimension expérientielle de l'apprentissage (le vécu cognitif, langagier, social, affectif de l'apprenant), le dispositif relève d'une écologisation du design pédagogique (Paquelin, 2020) cherchant à favoriser l'engagement des sujets dans leur environnement et leur agentivité.</p>
+</div>
 </div>
 
 <div class="pub-item">
 <p><strong>Sadallah, M., & Lefevre, M.</strong> (2025). Recommander pour Soutenir l'Exploration Urbaines et le Partage d'Expériences entre Étudiants Internationaux. In <em>Actes de la 12e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain (EIAH 2025)</em>.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2025recommander_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2025recommander.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<div id="sadallah2025recommander_abstract" style="display:none;" class="pub-abstract">
+<p><strong>Abstract.</strong> L'intégration des étudiants internationaux, cruciale pour leur inclusion sociale et leur apprentissage, rencontre souvent divers obstacles. Bien que les outils numériques, telles les applications de découverte et de documentation, puissent soutenir ce processus, leur efficacité repose sur une appropriation réfléchie. Cet article présente un système de recommandations personnalisées conçu pour guider les étudiants internationaux dans l'utilisation d'une application d'exploration urbaine et de partage d'expériences. En offrant des suggestions contextuelles, ce système encourage une exploration active et une meilleure compréhension de l'environnement local, renforçant leur intégration sociale et culturelle. Une évaluation empirique a révélé une amélioration de la qualité narrative, de la compréhension du contexte local et de l'expression émotionnelle des étudiants. Ces résultats soulignent le potentiel des systèmes de recommandations pour enrichir l'apprentissage contextuel et faciliter l'intégration, facteurs clés du bien-être et de la réussite académique des étudiants internationaux.</p>
+</div>
 </div>
 
 <div class="pub-item">
 <p><strong>Sadallah, M., & Lefevre, M.</strong> (2025). L'application MOBILES: favoriser le partage d'expériences urbaines entre étudiants internationaux. In <em>Actes de la 12e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain (EIAH 2025)</em>.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2025application_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2025application.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<div id="sadallah2025application_abstract" style="display:none;" class="pub-abstract">
+<p><strong>Abstract.</strong> L'intégration des étudiants internationaux, cruciale pour leur réussite, se heurte souvent à des défis majeurs : isolement social dû au manque de repères et de réseaux, difficultés de progression linguistique limitant les interactions, et besoin d'engagement actif dans leur nouvel environnement. Pour tenter d'y répondre, nous présentons MOBILES, une application transformant l'exploration urbaine en un outil d'apprentissage et d'intégration. Elle incite les étudiants à explorer activement leur ville, à documenter et partager leurs expériences via des annotations géolocalisées, facilitant ainsi leur adaptation socioculturelle et linguistique informelle. Grâce à des recommandations personnalisées basées sur leurs intérêts et activités, MOBILES vise à renforcer leur sentiment d'appartenance et à stimuler leur engagement, créant un lien entre intégration et apprentissage situé. Cette démonstration présente les fonctionnalités clés de l'application.</p>
+</div>
 </div>
 
 <div class="pub-item">
-<p><strong>Scheffler, C., Chevalier, D., Cunty, C., Grassin, J-F., Joliveau, T., Lefevre, M., Mathian, H., & Sadallah, M.</strong> (2025). Approche géomatique des expériences des lieux avec une application contributive. In <em>Actes de la Conférence Spatial Analysis and GEOmatics (SAGEO 2025)</em>.</p>
+<p><strong>Scheffler, C., Chevalier, D., Cunty, C., Grassin, J-F., Joliveau, T., Lefevre, M., & Sadallah, M.</strong> (2025). Approche géomatique des expériences des lieux avec une application contributive. In <em>Actes de la Conférence Spatial Analysis and GEOmatics (SAGEO 2025)</em>.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('scheffler2025_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/scheffler2025approche.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<div id="scheffler2025_abstract" style="display:none;" class="pub-abstract">
+<p><strong>Abstract.</strong> The question of ‘place’ remains a topical one in the field of Geographic Information Sciences, where ‘space’ is still predominant. This issue is explored here in the context of an experiment involving international students who have been asked to share their located experiences via a dedicated mobile application. We present the objectives, design and implementation of this application and discuss the issues associated with these observations in the field of Geographic Information Sciences.</p>
+</div>
 </div>
 
 <div class="pub-item">
 <p><strong>Sadallah, M., & Lefevre, M.</strong> (2025). Personalized Recommender System for Improving Urban Exploration and Experience Documentation of International Students. In <em>Proceedings of the 17th International Conference on Computer Supported Education (CSEDU 2025)</em>, pages 923-930. DOI: 10.5220/0013202800003932</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2025personalized_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2025personalized.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<div id="sadallah2025personalized_abstract" style="display:none;" class="pub-abstract">
+<p><strong>Abstract.</strong> The integration of international students, crucial for their social inclusion and learning, often faces various obstacles. While digital tools, such as discovery and documentation applications, can support this process, their effectiveness depends on thoughtful adoption. This article introduces a personalized recommendation system designed to guide international students in using an urban exploration and experience-sharing application. By offering contextual suggestions, this system encourages active exploration and a deeper understanding of the local environment, thereby enhancing their social and cultural integration. An empirical evaluation revealed improvements in students' narrative quality, local context comprehension, and emotional expression. These findings highlight the potential of recommendation systems to enrich contextual learning and facilitate integration, key factors for the well-being and academic success of international students.</p>
+</div>
 </div>
 
 <div class="pub-year">2024</div>
@@ -95,11 +110,17 @@ permalink: /publications/
 <div class="pub-item">
 <p><strong>Sadallah, M., & Lefevre, M.</strong> (2024). MOBILES RecSys: A Personalized Recommendation System for Enhancing the Urban and Social Experiences of International Students. (Software). <a href="https://hal.science/hal-04771226">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2024recsys_abstract');" class="btn btn--primary">Abstract</a>
+<div id="sadallah2024recsys_abstract" style="display:none;" class="pub-abstract">
+<p><strong>Abstract.</strong> The MOBILES RecSys system is an autonomous recommendation application designed to enhance the experience of international students using the MOBILES app. The app enables users to explore the city and enrich annotations based on their own experiences, offering a user-friendly interface for navigating urban routes and collecting geolocated data.</p>
+</div>
 </div>
 
 <div class="pub-item">
 <p><strong>Lefevre, M., Benedetto, R., Sadallah, M., Chevalier, D., Cunty, C., Grassin, J-F., Joliveau, T., Mathian, H., & Scheffler, C.</strong> (2024). MOBILES: A Mobile Application for Documenting the Urban and Social Experiences of International Students. (Software). <a href="https://hal.science/hal-04771100">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('lefevre2024mobiles_abstract');" class="btn btn--primary">Abstract</a>
+<div id="lefevre2024mobiles_abstract" style="display:none;" class="pub-abstract">
+<p><strong>Abstract.</strong> The MOBILES project focuses on studying the spatial experiences and socialization of international students through their digital practices, combining sociolinguistics, geography, and computer science. The application allows international students to create rich geolocated annotations (text, photos, icons, moods) and share them.</p>
+</div>
 </div>
 
 <div class="pub-item">
@@ -160,6 +181,9 @@ permalink: /publications/
 <p><strong>Sadallah, M., Gilliot, J-M., Iksal, S., Quelennec, K., Vermeulen, M., Neyssensas, L., Aubert, O., & Venant, R.</strong> (2022). Designing LADs That Promote Sensemaking: A Participatory Tool. In <em>17th European Conference on Technology Enhanced Learning (EC-TEL 2022)</em>, pp. 587-593. Springer.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2022designing_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2022designing.pdf" style="color:white" class="btn btn--warning">Accepted version</a>
+<div id="sadallah2022designing_abstract" style="display:none;" class="pub-abstract">
+<p><strong>Abstract.</strong> Learning Analytics Dashboards (LADs) are data visualization tools built to empower teachers and learners to make purposeful decisions that impact the learning process. Due to their relatively recent emergence and the scarcity of studies on their design principles, dashboard design remains a major area of investigation in learning analytics research, and large scale diffusion to their stakeholders remains limited. We promote human-centered approaches for LADs design since their success in terms of acceptance and adoption greatly depends on the level of stakeholder involvement in their design. In this paper, we present a tool to support the participatory design of LADs. First experiments during a pilot study with teachers demonstrate that the proposed tool encourages group work, and in-depth exploration of LADs use.</p>
+</div>
 </div>
 
 <div class="pub-item">
@@ -179,12 +203,18 @@ permalink: /publications/
 <div class="pub-item">
 <p><strong>Sadallah, M., Encelle, B., Maredj, A-E., & Prié, Y.</strong> (2020). Leveraging Learners' Activity Logs for Course Reading Analytics Using Session-Based Indicators. <em>International Journal of Technology Enhanced Learning (IJTEL)</em>, 12(1), 53-78.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2020leveraging_abstract');" class="btn btn--primary">Abstract</a>
+<div id="sadallah2020leveraging_abstract" style="display:none;" class="pub-abstract">
+<p><strong>Abstract.</strong> It is a challenging task to identify eLearning courses parts that have to be revised to best suit learners' requirements. Reading being one of the most salient learning activities, one way of doing so is to study how learners consume courses. We intend to support course authors (e.g. teachers) during courses revision by providing them with reading indicators. We use the concept of reading session to denote a learner's active reading period, and we provide several associated reading indicators. In our server-side approach, reading sessions and indicators are calculated using web server logs. We evaluate the relevance of our proposals using logs from a major French eLearning platform. Results are promising: calculated reading sessions are theoretically more precise than other best applicable approaches, and course authors consider suggested indicators to be appropriate to courses revision. Using reading sessions and associated indicators could facilitate authors' work of course reengineering.</p>
+</div>
 </div>
 
 <div class="pub-item">
 <p><strong>Sadallah, M., Encelle, B., Maredj, A-E., & Prié, Y.</strong> (2020). Towards fine-grained reading dashboards for online course revision. <em>Educational Technology Research and Development</em>, 68, 3165-3186.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2020towards_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2020towards.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<div id="sadallah2020towards_abstract" style="display:none;" class="pub-abstract">
+<p><strong>Abstract.</strong> Providing high-quality courses is of utmost importance to drive successful learning. This compels course authors to continuously review their contents to meet learners' needs. However, it is challenging for them to detect the reading barriers that learners face with content, and to identify how their courses can be improved accordingly. In this paper, we propose a learning analytics approach for assisting course authors performing these tasks. Using logs of learners' activity, a set of indicators related to course reading activity are computed and used to detect issues and to suggest content revisions. The results are presented to authors through CoReaDa, a learning dashboard empowered with assistive features. We instantiate our proposals using the logs of a major European e-learning platform, and validate them through a study. Study results show the effectiveness of our approach providing authors with more awareness and guidance in improving their courses, to better suit learners' requirements.</p>
+</div>
 </div>
 
 <div class="pub-item">
@@ -203,6 +233,9 @@ permalink: /publications/
 <div class="pub-item">
 <p><strong>Sadallah, M., Encelle, B., Maredj, A-E., & Prié, Y.</strong> (2015). Towards reading session-based indicators in educational reading analytics. In <em>10th European Conference on Technology Enhanced Learning (EC-TEL 2015)</em>, pages 297-310. Springer.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2015towards_abstract');" class="btn btn--primary">Abstract</a>
+<div id="sadallah2015towards_abstract" style="display:none;" class="pub-abstract">
+<p><strong>Abstract.</strong> It is a challenging task to identify eLearning courses parts that have to be revised to best suit learners' requirements. Reading being one of the most salient learning activities, one way of doing so is to study how learners consume courses. We intend to support course authors (e.g. teachers) during courses revision by providing them with reading indicators. We use the concept of reading session to denote a learner's active reading period, and we provide several associated reading indicators. In our server-side approach, reading sessions and indicators are calculated using web server logs. We evaluate the relevance of our proposals using logs from a major French eLearning platform. Results are promising: calculated reading sessions are theoretically more precise than other best applicable approaches, and course authors consider suggested indicators to be appropriate to courses revision. Using reading sessions and associated indicators could facilitate authors' work of course reengineering.</p>
+</div>
 </div>
 
 <div class="pub-year">2014</div>
