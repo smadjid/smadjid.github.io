@@ -98,6 +98,31 @@ permalink: /publications_by_type/
 <div class="pub-year">Preprints</div>
 
 <div class="pub-item">
+<p><strong>Sadallah, M.</strong>, & Encelle, B. (2026). Systematic Review Protocol: Interactive Digital Technologies for Non-Visual Access to 2D STEM Content by Blind and Low-Vision Individuals. <em>Preprint</em>. <a href="https://doi.org/10.5281/zenodo.19461731">doi:10.5281/zenodo.19461731</a> (also registered on OSF: <a href="https://doi.org/10.17605/OSF.IO/TJ5QZ">10.17605/OSF.IO/TJ5QZ</a>)</p>
+
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026slr_abstract');" class="btn btn--primary">Abstract</a>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026slr_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="https://zenodo.org/records/19461731/files/bvi_stem_slr.pdf" style="color:white" class="btn btn--warning" target="_blank">PDF Protocol</a>
+<a href="https://zenodo.org/records/19461731/files/bvi_stem_slr.zip" style="color:white" class="btn btn--warning" target="_blank">Materials (zip)</a>
+
+<div id="sadallah2026slr_abstract" style="display:none;" class="pub-abstract">
+<p><strong>Abstract.</strong> This project registers the protocol for a systematic review investigating interactive digital technologies that enable blind and low-vision (BLV) individuals to access two-dimensional STEM content, including data visualizations, mathematical notation, diagrams, maps, and tables. The review aims to provide a comprehensive and structured synthesis while addressing methodological challenges specific to accessibility research. The protocol implements a novel integration of three frameworks: PRISMA 2020 for procedural transparency, SPIDER for conceptual organisation, and MMAT 2018 for quality assessment across five study typologies. Cognitive Load Theory and TAM/UTAUT provide theoretical perspectives for outcome interpretation. Key methodological contributions include: a hierarchical coding scheme with operational definitions; a dual-template extraction architecture; and an open-source validation infrastructure (Python/R). Pilot reliability testing on 24 studies yielded ICC = 0.92. All extraction templates, codebooks, and validation scripts are publicly released to support cumulative research in the field.</p>
+</div>
+
+<div id="sadallah2026slr_bibtex" style="display:none;" class="pub-bibtex">
+<pre><code>@misc{sadallah2026slr,
+  title        = {Systematic Review Protocol: Interactive Digital Technologies for Non-Visual Access to 2D STEM Content by Blind and Low-Vision Individuals},
+  author       = {Madjid Sadallah and Benoît Encelle},
+  year         = {2026},
+  month        = {April},
+  doi          = {10.5281/zenodo.19461731},
+  url          = {https://doi.org/10.5281/zenodo.19461731},
+  note         = {Also registered on OSF: https://doi.org/10.17605/OSF.IO/TJ5QZ}
+}</code></pre>
+</div>
+</div>
+
+<div class="pub-item">
 <p><strong>Sadallah, M.</strong> (2026). Exploration Space Theory: Formal Foundations for Prerequisite-Aware Location-Based Recommendation. <em>ArXiv</em>. <a href="https://doi.org/10.48550/arXiv.2603.06624">doi:10.48550/arXiv.2603.06624</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026est_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/est_arxiv.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
