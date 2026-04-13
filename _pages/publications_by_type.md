@@ -144,18 +144,30 @@ permalink: /publications_by_type/
 <div class="pub-year">Conference Publications</div>
 
 <div class="pub-item">
-<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>accepted</em>). Beyond Additive Design: An Empirical Taxonomy of Multimodal STEM Accessibility Systems. In <em>Extended abstracts of the CHI conference on human factors in computing systems (CHI '26)</em>. Barcelona, Spain: ACM, April 13-17, 2026.</p>
+<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>2026</em>). Beyond Additive Design: An Empirical Taxonomy of Multimodal STEM Accessibility Systems. In <em>Extended abstracts of the CHI conference on human factors in computing systems (CHI '26)</em>. Barcelona, Spain: ACM, April 13-17, 2026.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026chi_abstract');" class="btn btn--primary">Abstract</a>
+<a href="/media/papers/sadallah2026chi.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026chi_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="sadallah2026chi_abstract" style="display:none;" class="pub-abstract">
 <p><strong>Abstract.</strong> Multimodal systems combining audio, haptic, and tactile channels are prevalent in STEM accessibility for blind and visually impaired users, yet real-world feedback reports high cognitive load despite technological advances. Through analysis of 66 systems (2015-2025), we identify three design regimes: additive (channel stacking), augmentative (partial coordination), and integrative (orchestrated fusion). We reveal a critical evaluation gap: while architectural quality varies dramatically, conventional performance metrics show no regime variation, indicating current metrics miss the cognitive cost of poorly integrated designs. We contribute: (1) a diagnostic framework with high reliability; (2) evidence of a performance-architecture decoupling where cognitive costs diverge despite similar task performance; and (3) design thresholds for creating perceptually integrated experiences. Our work calls for shifting from interface engineering to perceptual integration engineering.</p>
 </div>
-</div>
 
-<div class="pub-item">
-<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>accepted</em>). The verification gap in AI accessibility: A meta-analysis of architectural paradigms and agency deficits. In <em>Proceedings of the 23rd International Web for All Conference (W4A'26)</em>. Dubai, United Arab Emirates: ACM.</p>
-<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026w4a_abstract');" class="btn btn--primary">Abstract</a>
-<div id="sadallah2026w4a_abstract" style="display:none;" class="pub-abstract">
-<p><strong>Abstract.</strong> AI-powered accessibility systems have shifted from transcription to interpretation, creating a verification paradox: blind and low-vision (BLV) users, who most rely on AI-generated narratives, lack perceptual redundancy to detect errors such as hallucinations or semantic drift, resulting in an agency deficit. Through a systematic meta-analysis of 17 empirically evaluated AI accessibility systems (2019-2025), we examine how architectural choices shape verification affordances. We introduce the Verification-Cognition Balance Index (VCBI), a composite metric quantifying trade-offs between validation rigor, user agency, complexity, and risk. Our analysis uncovers weak overall balance across the field, with transformer-based systems showing higher risk density than classical computer vision despite negligible validation improvements. Only hybrid specialized architectures-constraining AI to narrow semantic subtasks-achieve good balance. We argue for a necessary paradigm shift in evaluation from system accuracy to user verifiability.</p>
+  <div id="sadallah2026chi_bibtex" style="display:none;" class="pub-bibtex">
+<pre><code>@inproceedings{sadallah2026chi,
+author = {Sadallah, Madjid and Encelle, Beno\^{\i}t},
+title = {Beyond Additive Design: An Empirical Taxonomy of Multimodal STEM Accessibility Systems},
+year = {2026},
+isbn = {9798400722813},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3772363.3799343},
+doi = {10.1145/3772363.3799343},
+booktitle = {Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems},
+articleno = {119},
+numpages = {6},
+keywords = {Accessibility, Multimodality, STEM, Cognitive Engineering, Cognitive Load, Sensory Integration},
+series = {CHI EA '26}
+}</code></pre>
 </div>
 </div>
 
