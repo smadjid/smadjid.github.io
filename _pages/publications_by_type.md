@@ -94,51 +94,6 @@ permalink: /publications_by_type/
 </div>
 </div>
 
-<!-- ==================== PREPRINTS ==================== -->
-<div class="pub-year">Preprints</div>
-
-<div class="pub-item">
-<p><strong>Sadallah, M.</strong>, & Encelle, B. (2026). Systematic Review Protocol: Interactive Digital Technologies for Non-Visual Access to 2D STEM Content by Blind and Low-Vision Individuals. <em>Preprint</em>. <a href="https://doi.org/10.5281/zenodo.19461731">doi:10.5281/zenodo.19461731</a> (also registered on OSF: <a href="https://doi.org/10.17605/OSF.IO/TJ5QZ">10.17605/OSF.IO/TJ5QZ</a>)</p>
-
-<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026slr_abstract');" class="btn btn--primary">Abstract</a>
-<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026slr_bibtex');" class="btn btn--info">Bibtex</a>
-<a href="https://zenodo.org/records/19461731/files/bvi_stem_slr.pdf" style="color:white" class="btn btn--warning" target="_blank">PDF Protocol</a>
-<a href="https://zenodo.org/records/19461731/files/bvi_stem_slr.zip" style="color:white" class="btn btn--warning" target="_blank">Materials (zip)</a>
-
-<div id="sadallah2026slr_abstract" style="display:none;" class="pub-abstract">
-<p><strong>Abstract.</strong> This protocol presents a registered systematic review that aims to synthesize the landscape of interactive digital technologies enabling blind and low-vision (BLV) individuals to access two-dimensional STEM content — including data visualizations, mathematical notations, diagrams, maps, and tables — through non-visual modalities (tactile, auditory, haptic, or multimodal). Accessibility research in STEM faces persistent methodological challenges: small sample sizes, high heterogeneity of study designs, and the socio-technical complexity of interventions, which often render traditional frameworks such as PICO inadequate. To overcome these limitations, this protocol introduces a novel and coherent integration of three complementary frameworks: PRISMA 2020 for rigorous and transparent reporting, SPIDER for conceptually sound organization of diverse evidence (particularly qualitative and mixed-methods studies), and MMAT 2018 for non-hierarchical quality assessment across five study typologies. The review further adopts Cognitive Load Theory to analyze the cognitive demands imposed by different access solutions and the Technology Acceptance Model (TAM) extended by UTAUT to examine usability, acceptance, and adoption factors. Methodological innovations include a hierarchical coding scheme with precise operational definitions, a dual-template data extraction architecture (broad mapping + in-depth analysis), and a fully open validation infrastructure using Python and R scripts. Pilot testing on 24 studies achieved excellent inter-rater reliability (ICC = 0.92). All extraction templates, codebooks, and validation scripts are publicly released alongside the protocol to promote transparency, reproducibility, and cumulative science in the field of inclusive STEM technologies.</p>
-</div>
-
-<div id="sadallah2026slr_bibtex" style="display:none;" class="pub-bibtex">
-<pre><code>@misc{sadallah2026slr,
-  title        = {Systematic Review Protocol: Interactive Digital Technologies for Non-Visual Access to 2D STEM Content by Blind and Low-Vision Individuals},
-  author       = {Madjid Sadallah and Benoît Encelle},
-  year         = {2026},
-  month        = {April},
-  doi          = {10.5281/zenodo.19461731},
-  url          = {https://doi.org/10.5281/zenodo.19461731},
-  note         = {Also registered on OSF: https://doi.org/10.17605/OSF.IO/TJ5QZ}
-}</code></pre>
-</div>
-</div>
-
-<div class="pub-item">
-<p><strong>Sadallah, M.</strong> (2026). Exploration Space Theory: Formal Foundations for Prerequisite-Aware Location-Based Recommendation. <em>ArXiv</em>. <a href="https://doi.org/10.48550/arXiv.2603.06624">doi:10.48550/arXiv.2603.06624</a></p>
-<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026est_abstract');" class="btn btn--primary">Abstract</a>
-<a href="/media/papers/est_arxiv.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
-<div id="sadallah2026est_abstract" style="display:none;" class="pub-abstract">
-<p><strong>Abstract.</strong> Location-based recommender systems have achieved considerable sophistication, yet none provides a formal, lattice-theoretic representation of prerequisite dependencies among points of interest — the semantic reality that meaningfully experiencing certain locations presupposes contextual knowledge gained from others — nor the structural guarantees that such a representation entails. We introduce Exploration Space Theory (EST), a formal framework that transposes Knowledge Space Theory into location-based recommendation. We prove that the valid user exploration states — the order ideals of a surmise partial order on points of interest — form a finite distributive lattice and a well-graded learning space. These structural results yield four direct consequences: linear-time fringe computation, a validity certificate guaranteeing that every fringe-guided recommendation is a structurally sound next step, sub-path optimality for dynamic-programming path generation, and provably existing structural explanations for every recommendation. Building on these foundations, we specify the Exploration Space Recommender System (ESRS) — a memoized dynamic program over the exploration lattice, a Bayesian state estimator with beam approximation and EM parameter learning, an online feedback loop enforcing the downward-closure invariant, an incremental surmise-relation inference pipeline, and three cold-start strategies, the structural one being the only approach in the literature to provide a formal validity guarantee conditional on the correctness of the inferred surmise relation. All results are established through proof and illustrated on a fully traced five-POI numerical example.</p>
-</div>
-</div>
-
-<div class="pub-item">
-<p><strong>Sadallah, M., &amp; Gilliot, J-M.</strong> (2023). Fostering Collaborative and Creative Design of Learning Dashboards: An Empowered Participatory Approach and Tools. <em>EdArXiv</em>. <a href="https://doi.org/10.35542/osf.io/q78yn">doi:10.35542/osf.io/q78yn</a></p>
-<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023edarxiv_abstract');" class="btn btn--primary">Abstract</a>
-<a href="/media/papers/padlad_ladstudio_arxiv.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
-<div id="sadallah2023edarxiv_abstract" style="display:none;" class="pub-abstract">
-<p><strong>Abstract.</strong> Learning dashboards aim to support decision-making throughout the learning process. However, their widespread adoption remains limited. While this observation can be attributed to their relatively recent emergence, research indicates that it is also due to a lack of stakeholder participation in the design process. To address this issue and involve users, we propose an integrated approach using a participatory design tool for the ideation phase and a generative tool for prototyping. We analyze these tools in terms of usability, support for participation, and user experience across the different phases. The analysis of feedback received demonstrates that these tools facilitate both end-user participation and developer user experience.</p>
-</div>
-</div>
 
 <!-- ==================== CONFERENCE PUBLICATIONS ==================== -->
 <div class="pub-year">Conference Publications</div>
@@ -307,6 +262,52 @@ series = {CHI EA '26}
 
 <div class="pub-item">
 <p><strong>Maredj, A-E., Alimazighi, Z., &amp; Sadallah, M.</strong> (2007). Extension of the Wahl-Rothermel temporal model for multimedia documents. In <em>ICTA 2007</em>, pages 257-261.</p>
+</div>
+
+<!-- ==================== PREPRINTS ==================== -->
+<div class="pub-year">Preprints</div>
+
+<div class="pub-item">
+<p><strong>Sadallah, M.</strong>, & Encelle, B. (2026). Systematic Review Protocol: Interactive Digital Technologies for Non-Visual Access to 2D STEM Content by Blind and Low-Vision Individuals. <em>Preprint</em>. <a href="https://doi.org/10.5281/zenodo.19461731">doi:10.5281/zenodo.19461731</a> (also registered on OSF: <a href="https://doi.org/10.17605/OSF.IO/TJ5QZ">10.17605/OSF.IO/TJ5QZ</a>)</p>
+
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026slr_abstract');" class="btn btn--primary">Abstract</a>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026slr_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="https://zenodo.org/records/19461731/files/bvi_stem_slr.pdf" style="color:white" class="btn btn--warning" target="_blank">PDF Protocol</a>
+<a href="https://zenodo.org/records/19461731/files/bvi_stem_slr.zip" style="color:white" class="btn btn--warning" target="_blank">Materials (zip)</a>
+
+<div id="sadallah2026slr_abstract" style="display:none;" class="pub-abstract">
+<p><strong>Abstract.</strong> This protocol presents a registered systematic review that aims to synthesize the landscape of interactive digital technologies enabling blind and low-vision (BLV) individuals to access two-dimensional STEM content — including data visualizations, mathematical notations, diagrams, maps, and tables — through non-visual modalities (tactile, auditory, haptic, or multimodal). Accessibility research in STEM faces persistent methodological challenges: small sample sizes, high heterogeneity of study designs, and the socio-technical complexity of interventions, which often render traditional frameworks such as PICO inadequate. To overcome these limitations, this protocol introduces a novel and coherent integration of three complementary frameworks: PRISMA 2020 for rigorous and transparent reporting, SPIDER for conceptually sound organization of diverse evidence (particularly qualitative and mixed-methods studies), and MMAT 2018 for non-hierarchical quality assessment across five study typologies. The review further adopts Cognitive Load Theory to analyze the cognitive demands imposed by different access solutions and the Technology Acceptance Model (TAM) extended by UTAUT to examine usability, acceptance, and adoption factors. Methodological innovations include a hierarchical coding scheme with precise operational definitions, a dual-template data extraction architecture (broad mapping + in-depth analysis), and a fully open validation infrastructure using Python and R scripts. Pilot testing on 24 studies achieved excellent inter-rater reliability (ICC = 0.92). All extraction templates, codebooks, and validation scripts are publicly released alongside the protocol to promote transparency, reproducibility, and cumulative science in the field of inclusive STEM technologies.</p>
+</div>
+
+<div id="sadallah2026slr_bibtex" style="display:none;" class="pub-bibtex">
+<pre><code>@misc{sadallah2026slr,
+  title        = {Systematic Review Protocol: Interactive Digital Technologies for Non-Visual Access to 2D STEM Content by Blind and Low-Vision Individuals},
+  author       = {Madjid Sadallah and Benoît Encelle},
+  year         = {2026},
+  month        = {April},
+  doi          = {10.5281/zenodo.19461731},
+  url          = {https://doi.org/10.5281/zenodo.19461731},
+  note         = {Also registered on OSF: https://doi.org/10.17605/OSF.IO/TJ5QZ}
+}</code></pre>
+</div>
+</div>
+
+<div class="pub-item">
+<p><strong>Sadallah, M.</strong> (2026). Exploration Space Theory: Formal Foundations for Prerequisite-Aware Location-Based Recommendation. <em>ArXiv</em>. <a href="https://doi.org/10.48550/arXiv.2603.06624">doi:10.48550/arXiv.2603.06624</a></p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026est_abstract');" class="btn btn--primary">Abstract</a>
+<a href="/media/papers/est_arxiv.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<div id="sadallah2026est_abstract" style="display:none;" class="pub-abstract">
+<p><strong>Abstract.</strong> Location-based recommender systems have achieved considerable sophistication, yet none provides a formal, lattice-theoretic representation of prerequisite dependencies among points of interest — the semantic reality that meaningfully experiencing certain locations presupposes contextual knowledge gained from others — nor the structural guarantees that such a representation entails. We introduce Exploration Space Theory (EST), a formal framework that transposes Knowledge Space Theory into location-based recommendation. We prove that the valid user exploration states — the order ideals of a surmise partial order on points of interest — form a finite distributive lattice and a well-graded learning space. These structural results yield four direct consequences: linear-time fringe computation, a validity certificate guaranteeing that every fringe-guided recommendation is a structurally sound next step, sub-path optimality for dynamic-programming path generation, and provably existing structural explanations for every recommendation. Building on these foundations, we specify the Exploration Space Recommender System (ESRS) — a memoized dynamic program over the exploration lattice, a Bayesian state estimator with beam approximation and EM parameter learning, an online feedback loop enforcing the downward-closure invariant, an incremental surmise-relation inference pipeline, and three cold-start strategies, the structural one being the only approach in the literature to provide a formal validity guarantee conditional on the correctness of the inferred surmise relation. All results are established through proof and illustrated on a fully traced five-POI numerical example.</p>
+</div>
+</div>
+
+<div class="pub-item">
+<p><strong>Sadallah, M., &amp; Gilliot, J-M.</strong> (2023). Fostering Collaborative and Creative Design of Learning Dashboards: An Empowered Participatory Approach and Tools. <em>EdArXiv</em>. <a href="https://doi.org/10.35542/osf.io/q78yn">doi:10.35542/osf.io/q78yn</a></p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023edarxiv_abstract');" class="btn btn--primary">Abstract</a>
+<a href="/media/papers/padlad_ladstudio_arxiv.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<div id="sadallah2023edarxiv_abstract" style="display:none;" class="pub-abstract">
+<p><strong>Abstract.</strong> Learning dashboards aim to support decision-making throughout the learning process. However, their widespread adoption remains limited. While this observation can be attributed to their relatively recent emergence, research indicates that it is also due to a lack of stakeholder participation in the design process. To address this issue and involve users, we propose an integrated approach using a participatory design tool for the ideation phase and a generative tool for prototyping. We analyze these tools in terms of usability, support for participation, and user experience across the different phases. The analysis of feedback received demonstrates that these tools facilitate both end-user participation and developer user experience.</p>
+</div>
 </div>
 
 <!-- ==================== SOFTWARE ==================== -->
