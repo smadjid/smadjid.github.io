@@ -2,17 +2,13 @@
 layout: default
 title: Home
 ---
-<div class="hero">
-  <h1 class="hero__name">Madjid Sadallah</h1>
-  <p class="hero__tagline">Computer scientist · AI &amp; Education · Accessibility</p>
-</div>
 
 <div class="page">
   <div class="author-profile animate-in">
     <img src="/assets/images/smdj.jpg" alt="Madjid Sadallah" class="author-profile__avatar">
     <div>
-      <div class="author-profile__name">Madjid Sadallah</div>
-      <div class="author-profile__bio">Ph.D., Researcher — Engineer</div>
+      <div class="author-profile__name">Madjid Sadallah, Ph.D.</div>
+      <div class="author-profile__bio">Computer scientist · AI &amp; Education · Accessibility</div>
       <div class="author-profile__location"><i class="fas fa-map-marker-alt"></i> Lyon, France</div>
       <div class="author-profile__social">
         <a href="https://scholar.google.com/citations?user=A8So5p8AAAAJ"><i class="ai ai-google-scholar"></i> Scholar</a>
