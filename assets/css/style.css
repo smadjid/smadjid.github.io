@@ -166,7 +166,7 @@ hr { border: none; border-top: 1px solid var(--border); margin: 3.5rem 0; }
 .btn--large { font-size: 0.75rem; padding: 0.55em 1.5em; text-transform: none; }
 
 /* ---- PUBLICATIONS ---- */
-.pub-year {
+.publication-year {
   font-family: var(--sans); font-size: 0.8rem; font-weight: 600;
   text-transform: uppercase; letter-spacing: 0.1em;
   color: var(--accent);
@@ -175,18 +175,18 @@ hr { border: none; border-top: 1px solid var(--border); margin: 3.5rem 0; }
   border-bottom: 2px solid var(--accent);
   display: block;
 }
-.pub-year:first-child { margin-top: 0; }
+.publication-year:first-child { margin-top: 0; }
 
-.pub-item {
+.publication-item {
   padding: 1rem 0;
   margin: 0;
   border-bottom: 1px solid var(--border-light);
 }
-.pub-item:first-of-type { padding-top: 0; }
+.publication-item:first-of-type { padding-top: 0; }
 
-.pub-item:last-child { border-bottom: none; }
+.publication-item:last-child { border-bottom: none; }
 
-.pub-item p {
+.publication-item p {
   margin-bottom: 0.5rem;
   font-size: 0.9375rem;
   line-height: 1.7;
@@ -194,17 +194,17 @@ hr { border: none; border-top: 1px solid var(--border); margin: 3.5rem 0; }
 }
 
 /* Bold authors, normal title */
-.pub-item p:first-child strong {
+.publication-item p:first-child strong {
   font-weight: 600;
 }
 
-.pub-item p:first-child em {
+.publication-item p:first-child em {
   font-style: italic;
   font-weight: 400;
 }
 
 /* Buttons */
-.pub-item .btn {
+.publication-item .btn {
   margin-top: 0.25rem;
   margin-right: 0.375rem;
   font-size: 0.75rem;
@@ -212,7 +212,7 @@ hr { border: none; border-top: 1px solid var(--border); margin: 3.5rem 0; }
 }
 
 /* Abstract/Bibtex toggle boxes */
-.pub-abstract, .pub-bibtex {
+.publication-abstract, .publication-bibtex {
   margin-top: 0.75rem;
   padding: 0.875rem 1rem;
   background: var(--bg-alt);
@@ -220,14 +220,14 @@ hr { border: none; border-top: 1px solid var(--border); margin: 3.5rem 0; }
   font-size: 0.875rem;
   line-height: 1.6;
 }
-.pub-abstract p { margin-bottom: 0; }
-.pub-abstract strong { color: var(--accent); }
-.pub-bibtex { background: #f4f4f4; }
-.pub-bibtex pre { margin: 0; background: transparent; }
+.publication-abstract p { margin-bottom: 0; }
+.publication-abstract strong { color: var(--accent); }
+.publication-bibtex { background: #f4f4f4; }
+.publication-bibtex pre { margin: 0; background: transparent; }
 
 /* Abstract toggle divs */
-.pub-container div[id*="_abstract"],
-.pub-container div[id*="_bibtex"] {
+.publication-container div[id*="_abstract"],
+.publication-container div[id*="_bibtex"] {
   display: none;
   margin: 0.5rem 0 0.5rem 0;
   padding: 0.875rem 1rem;
@@ -239,13 +239,13 @@ hr { border: none; border-top: 1px solid var(--border); margin: 3.5rem 0; }
 }
 }
 
-.pub-container div[id*="_abstract"] .notice--info,
-.pub-container div[id*="_bibtex"] .notice--info {
+.publication-container div[id*="_abstract"] .notice--info,
+.publication-container div[id*="_bibtex"] .notice--info {
   padding: 0; margin: 0; background: none; border: none;
 }
 
-.pub-container div[id*="_abstract"] strong,
-.pub-container div[id*="_bibtex"] strong {
+.publication-container div[id*="_abstract"] strong,
+.publication-container div[id*="_bibtex"] strong {
   font-family: var(--sans); font-size: 0.65rem;
   text-transform: uppercase; letter-spacing: 0.08em;
   color: var(--accent); font-weight: 700;
