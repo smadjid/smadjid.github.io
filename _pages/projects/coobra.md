@@ -13,7 +13,7 @@ permalink: /projects/coobra/
 
   <p>The ANR COOBRA project (Cooperation between sighted individuals and visually impaired Braille users for learning and working together) is an ANR SAPS initiative that promotes participatory research to address key societal challenges in the inclusion of visually impaired (VI) individuals in education and work. By bridging scientific research with civil society, the project aims to improve access to scientific and technical content, with a focus on two-dimensional structures such as mathematical equations, tables, and graphs. The consortium comprises researchers from LIRIS (SICAL and TWEAK teams), the Lyon 1 University disability services office, the NatBraille Association (NBA), and the COEXISCIENCE association, supported by a committee of Braille and VI experts. Leveraging the NatBraille web-based editor—designed for both VI and sighted users—the project develops multimodal, open-source solutions through collaborative design to foster sustainable inclusion.</p>
 
-  <p><a href="https://coobra.cnrs.fr/">COOBRA Website</a></p>
+  <p><a href="https://coobra.liris.cnrs.fr/">COOBRA Website</a></p>
 
   <h2>My Role</h2>
 
