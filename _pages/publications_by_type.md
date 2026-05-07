@@ -135,6 +135,38 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item">
+  <p>
+    <strong>Sadallah, M., Encelle, B., Mille, A., &amp; Guillet, V.</strong>
+    (<em>2026</em>). L’Ancre et le Flux : complémentarité cognitive entre braille et interfaces interprétatives dans les domaines formels.
+    In <em>14ème édition de la conférence sur les recherches pluridisciplinaires pour l’autonomie des personnes en situation de handicap</em>.
+    Aubervilliers &amp; Paris, France : IFRATH.
+  </p>
+  <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ancree_abstract');" class="btn btn--primary">Abstract</a>
+  <div id="sadallah2026ancree_abstract" style="display:none;" class="publication-abstract">
+    <p>
+      <strong>Abstract.</strong> La marginalisation du braille dans l'accessibilité numérique repose sur un paradigme de substitution modale postulant l'équivalence cognitive entre audio et accès tactile. Or, dans les domaines formels (mathématiques, programmation, sciences), cette équivalence s'effondre : les exigences de navigation non linéaire, de vérification syntaxique et de manipulation symbolique révèlent une complémentarité structurelle irréductible. Nous développons le modèle de l'Ancre et du Flux : l'Ancre (braille) assure stabilisation cognitive et audit épistémique, tandis que le Flux (audio-IA) permet exploration contextuelle et interaction fluide. Face aux hallucinations des IA génératives, le braille s'impose comme infrastructure critique de vérification indépendante. Nous établissons quatre principes normatifs de conception d'interfaces accessibles et soutenons que cette complémentarité constitue une nécessité architecturale de la cognition distribuée. Le droit à l'audit épistémique, matérialisé par l'accès braille, fonde ainsi la souveraineté cognitive à l'ère algorithmique.
+    </p>
+  </div>
+</div>
+
+
+<div class="publication-item">
+  <p>
+    <strong>Sadallah, M., Encelle, B., Mille, A., Guillet, V., &amp; Virgo, J.</strong>
+    (<em>2026</em>). Partenariat épistémique et recherche participative : le projet COOBRA comme démonstrateur méthodologique.
+    In <em>14ème édition de la conférence sur les recherches pluridisciplinaires pour l’autonomie des personnes en situation de handicap</em>.
+    Aubervilliers &amp; Paris, France : IFRATH, Jun 2026. 
+  </p>
+  <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026coobra_abstract');" class="btn btn--primary">Abstract</a>
+  <div id="sadallah2026coobra_abstract" style="display:none;" class="publication-abstract">
+    <p>
+      <strong>Abstract.</strong> Les personnes déficientes visuelles (DV) restent marginalisées dans les parcours scientifiques, freinées par l'inaccessibilité des documents techniques et par l'absence de collaboration "équitable" avec les voyants. Si la conception participative est désormais une pratique courante, elle n'engage pas les utilisateurs DV comme co-chercheurs. Cet article présente l'application du partenariat épistémique (co-construction de savoirs) dans le cadre d'un projet ANR SAPS (Science Avec et Pour la Société) lié à l'accessibilité numérique. Notre contribution est méthodologique : nous opérationnalisons ce partenariat avec un niveau élevé d'exigence (constitution d'un collectif paritaire, gouvernance par non-dissensus, accessibilité intégrale du dispositif de recherche) ; nous démontrons la faisabilité de travaux empiriques rigoureux entièrement co-construits ; nous exploitons la réflexivité comme levier de conception, en transformant les difficultés d'awareness vécues dans le collectif en spécifications techniques. Cette approche renouvelle ainsi la recherche en accessibilité en répondant à l'ambition d'une science avec et pour la société.
+    </p>
+  </div>
+</div>
+
+
+<div class="publication-item">
 <p><strong>Grassin, J-F., Chevalier, D., Cunty, C., Mathian, H., Scheffler, C., Lefevre, M., &amp; Sadallah, M.</strong> (2025). Mobiles: cartographie sensible et récits multimodaux. In <em>Des images et des mots, des mots sur les images de la mobilité académique</em>. Université de Fribourg, Suisse.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('grassin2025_abstract');" class="btn btn--primary">Abstract</a>
 <div id="grassin2025_abstract" style="display:none;" class="publication-abstract">
