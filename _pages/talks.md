@@ -10,7 +10,7 @@ permalink: /talks/
   <div class="talk-card">
       <img src="/assets/images/web4all2026.png" alt="Web 4 ALL 2026" class="talk-card__image">
       <div>
-        <div class="talk-card__title">CHIA EA 2026</div>
+        <div class="talk-card__title">"Web 4 ALL 2026</div>
         <div class="talk-card__meta">JUNE 2026</div>
         <p class="talk-card__excerpt">Slides of the presentation of the paper "The verification gap in AI accessibility: A meta-analysis of architectural paradigms and agency deficits" at Web 4 ALL 2026.</p>
         <div class="talk-card__actions">
@@ -53,7 +53,7 @@ permalink: /talks/
         <div class="talk-card__meta">JUNE 2026</div>
         <p class="talk-card__excerpt">Slides of the presentation of the paper "L’Ancre et le Flux : complémentarité cognitive entre braille et interfaces interprétatives dans les domaines formels" at Handicap  2026.</p>
         <div class="talk-card__actions">
-          <a href="/media/presentations/handicap2026ancre.pdf" class="btn btn--outline">Presentation (.html)</a>
+          <a href="/media/presentations/handicap2026ancre.html" class="btn btn--outline">Presentation (.html)</a>
         </div>
       </div>
     </div>
@@ -65,7 +65,7 @@ permalink: /talks/
         <div class="talk-card__meta">JUNE 2026</div>
         <p class="talk-card__excerpt">Slides of the presentation of the paper "Partenariat épistémique et recherche participative : le projet COOBRA comme démonstrateur méthodologique" at Handicap  2026.</p>
         <div class="talk-card__actions">
-          <a href="/media/presentations/handicap2026coobra.pdf" class="btn btn--outline">Presentation (.html)</a>
+          <a href="/media/presentations/handicap2026coobra.html" class="btn btn--outline">Presentation (.html)</a>
         </div>
       </div>
     </div>
