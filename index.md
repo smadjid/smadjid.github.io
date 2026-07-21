@@ -1,14 +1,15 @@
 ---
+
 layout: default
 title: Home
----
+-----------
 
 <div class="page">
   <div class="author-profile animate-in">
     <img src="/assets/images/smdj.jpg" alt="Madjid Sadallah" class="author-profile__avatar">
     <div>
       <div class="author-profile__name">Madjid Sadallah, Ph.D.</div>
-      <div class="author-profile__bio">Computer scientist · AI &amp; Education · Accessibility</div>
+      <div class="author-profile__bio">Human-Centered Cognitive Systems · AI, Learning & Accessibility</div>
       <div class="author-profile__location"><i class="fas fa-map-marker-alt"></i> Lyon, France</div>
       <div class="author-profile__social">
         <a href="https://scholar.google.com/citations?user=A8So5p8AAAAJ"><i class="ai ai-google-scholar"></i> Scholar</a>
@@ -22,38 +23,63 @@ title: Home
   <div class="animate-in">
     <h2>About</h2>
 
-    <p>I am a computer scientist working at the intersection of <strong>Artificial Intelligence and Education (AIEd)</strong>, with a focus on the design of intelligent, human-centered, and inclusive learning systems.</p>
+```
+<p>I am a computer scientist studying how humans and intelligent systems can collaboratively explore, construct, and communicate knowledge.</p>
 
-    <p>I hold a PhD in Computer Science. I am currently a researcher on the <strong>ANR COOBRA project</strong> at SICAL/LIRIS (CNRS UMR 5205), where my work examines multimodal interaction, accessibility, and collaborative practices involving visually impaired Braille users.</p>
+<p>My research lies at the intersection of Artificial Intelligence, Learning Sciences, Human–Computer Interaction, and Accessibility. I design human-centered cognitive systems that support learning, collaboration, and knowledge exploration through adaptive, multimodal, and inclusive interactions.</p>
 
-    <p>My research develops computational, interactional, and epistemic frameworks for AI-mediated learning — spanning adaptive systems, collaborative environments, and accessibility-driven design.</p>
+<p>I hold a PhD in Computer Science and am currently involved in the <strong>ANR COOBRA project</strong> at SICAL/LIRIS (CNRS UMR 5205), where I investigate multimodal interaction, accessibility, and collaborative practices involving visually impaired Braille users.</p>
 
-    <p><a href="./media/cv_madjid_sadallah_fr.pdf">Academic CV (French)</a></p>
+<p>Across my work, I seek to understand how intelligent technologies can augment human cognitive activities while remaining accessible, explainable, and socially situated.</p>
+
+<p><a href="./media/cv_madjid_sadallah_fr.pdf">Academic CV (French)</a></p>
+```
+
   </div>
 
   <div class="animate-in">
     <hr>
 
-    <h2>Research Interests</h2>
+```
+<h2>Research Vision</h2>
 
-    <p>My work investigates how AI reshapes learning, collaboration, and knowledge mediation in situated contexts.</p>
+<p>I investigate how knowledge can be explored, represented, and shared in complex human-AI environments. My work combines computational models, interaction design, and learning sciences to build intelligent systems that adapt to human needs and capabilities.</p>
 
-    <p><strong>Primary areas</strong></p>
+<p>Three questions guide my research:</p>
 
-    <ul>
-      <li>Artificial Intelligence in Education (AIEd)</li>
-      <li>Human–Computer Interaction for Learning</li>
-      <li>Learning Analytics &amp; Educational Data Mining</li>
-      <li>Accessibility &amp; Multimodal Interaction</li>
-      <li>Technology-Enhanced Learning</li>
-    </ul>
+<ul>
+  <li>How can intelligent systems support meaningful and lifelong learning?</li>
+  <li>How can multimodal and accessible interactions foster knowledge exploration and collaboration?</li>
+  <li>How can human-centered AI augment cognitive activities while preserving inclusion, agency, and understanding?</li>
+</ul>
+```
 
-    <p><strong>Associated themes</strong></p>
+  </div>
 
-    <ul>
-      <li>Knowledge Representation</li>
-      <li>Document &amp; Interaction Engineering</li>
-      <li>Computer-Supported Collaborative Learning &amp; Work (CSCL / CSCW)</li>
-    </ul>
+  <div class="animate-in">
+    <hr>
+
+```
+<h2>Research Interests</h2>
+
+<p><strong>Human-Centered Cognitive Systems</strong></p>
+
+<ul>
+  <li>Artificial Intelligence in Education (AIEd)</li>
+  <li>Adaptive and Intelligent Learning Systems</li>
+  <li>Human–Computer Interaction for Learning</li>
+  <li>Learning Analytics &amp; Educational Data Mining</li>
+</ul>
+
+<p><strong>Knowledge Exploration &amp; Accessibility</strong></p>
+
+<ul>
+  <li>Accessibility and Multimodal Interaction</li>
+  <li>Technology-Enhanced Learning</li>
+  <li>Computer-Supported Collaborative Learning and Work (CSCL / CSCW)</li>
+  <li>Knowledge Representation and Interaction Design</li>
+</ul>
+```
+
   </div>
 </div>
