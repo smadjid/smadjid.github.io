@@ -1,5 +1,4 @@
 ---
-
 layout: default
 title: Home
 -----------
@@ -23,7 +22,7 @@ title: Home
   <div class="animate-in">
     <h2>About</h2>
 
-```
+
 <p>I am a computer scientist studying how humans and intelligent systems can collaboratively explore, construct, and communicate knowledge.</p>
 
 <p>My research lies at the intersection of Artificial Intelligence, Learning Sciences, Human–Computer Interaction, and Accessibility. I design human-centered cognitive systems that support learning, collaboration, and knowledge exploration through adaptive, multimodal, and inclusive interactions.</p>
@@ -33,14 +32,14 @@ title: Home
 <p>Across my work, I seek to understand how intelligent technologies can augment human cognitive activities while remaining accessible, explainable, and socially situated.</p>
 
 <p><a href="./media/cv_madjid_sadallah_fr.pdf">Academic CV (French)</a></p>
-```
+
 
   </div>
 
   <div class="animate-in">
     <hr>
 
-```
+
 <h2>Research Vision</h2>
 
 <p>I investigate how knowledge can be explored, represented, and shared in complex human-AI environments. My work combines computational models, interaction design, and learning sciences to build intelligent systems that adapt to human needs and capabilities.</p>
@@ -52,14 +51,14 @@ title: Home
   <li>How can multimodal and accessible interactions foster knowledge exploration and collaboration?</li>
   <li>How can human-centered AI augment cognitive activities while preserving inclusion, agency, and understanding?</li>
 </ul>
-```
+
 
   </div>
 
   <div class="animate-in">
     <hr>
 
-```
+
 <h2>Research Interests</h2>
 
 <p><strong>Human-Centered Cognitive Systems</strong></p>
@@ -79,7 +78,7 @@ title: Home
   <li>Computer-Supported Collaborative Learning and Work (CSCL / CSCW)</li>
   <li>Knowledge Representation and Interaction Design</li>
 </ul>
-```
+
 
   </div>
 </div>
