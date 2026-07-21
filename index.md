@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
------------
+---
 
 <div class="page">
   <div class="author-profile animate-in">
