@@ -15,6 +15,34 @@ permalink: /publications/
 
 <div class="publication-year">2026</div>
 <div class="publication-item">
+<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>accepted</em>). Concevoir pour l'agentivité épistémique : paradoxe de vérification et affordances de contrôle dans les systèmes d'accessibilité IA. In <em>37ème Conférence Internationale Francophone sur l'Interaction Humain-Machine(IHM '26)</em>. Lille, France.</p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ihm_vcbi_abstract');" class="btn btn--primary">Abstract</a>
+<a href="/media/papers/sadallah2026ihm_vcbi.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ihm_vcbi_bibtex');" class="btn btn--info">Bibtex</a>
+<div id="sadallah2026ihm_vcbi_abstract" style="display:none;" class="publication-abstract">
+<p><strong>Résumé.</strong> Les systèmes d'accessibilité fondés sur l'IA sont passés de la transcription (restituer tel quel le contenu visuel) à l'interprétation (descriptions sélectives, souvent conversationnelles). Ce changement, tout en enrichissant l'expérience, fait émerger un paradoxe de vérification : les déficients visuels (DV - aveugles ou malvoyants), qui dépendent le plus des descriptions de l'IA, n'ont plus d'accès perceptuel pour détecter des erreurs critiques (hallucinations, erreurs de classification, dérive sémantique). Cette asymétrie est consubstantielle au rôle d'intermédiaire épistémique de l'IA, qui façonne l'information tout en supprimant les moyens de la vérifier. À travers une revue systématique évaluant de manière comparative 17 systèmes, nous introduisons le Verification‑Cognition Balance Index (VCBI). Cette métrique composite évalue l'équilibre entre deux leviers de vérifiabilité que sont la rigueur de validation du système et l'agentivité épistémique (capacité des utilisateurs à détecter les erreurs du système), et deux sources de charge cognitive liée à la vérification : la complexité architecturale du système et la densité de risque documenté. Nos résultats montrent entre autres que les architectures basées sur les transformeurs présentent un risque documenté nettement supérieur à celui des pipelines de vision classique, sans amélioration correspondante de l'équilibre vérification‑cognition, et que les systèmes hybrides spécialisés, bien que rare, offrent une voie plus prometteuse. Surtout, les évaluations actuelles privilégient la mesure de la précision système au détriment de l'agentivité épistémique. Ancrés dans la théorie de l'agentivité épistémique, nous plaidons pour un recentrage de l'évaluation - de la précision système vers la vérifiabilité par l'utilisateur, et proposons trois schémas de conception actionnables—transparence de provenance, signalement non visuel de l'incertitude, et interactions de contestation—qui opérationnalisent ce principe pour les utilisateurs DV.</p>
+
+<p><strong>Abstract.</strong> AI-powered accessibility systems have shifted from transcription (rendering visual content as-is) to interpretation (generating selective, conversational narratives). While this evolution enriches user experience, it also introduces a verification paradox: blind and low-vision (BLV) users, who rely most heavily on AI descriptions, are the very people who lack the independent perceptual access needed to detect consequential errors—hallucinations, misclassifications, or semantic drift. This asymmetry is inherent whenever AI acts as an epistemic intermediary, shaping information while simultaneously removing the means to verify it. Through a systematic review with comparative analysis of 17 empirically evaluated systems, we introduce the Verification-Cognition Balance Index (VCBI). This composite metric quantifies the equilibrium between two enablers of verification (validation rigor and user agency) and two sources of epistemic burden (architectural complexity and documented risk density). Our findings reveal that transformer-based architectures exhibit substantially higher documented risk than classical computer-vision pipelines, yet they offer no corresponding improvement in verification balance. Specialized hybrid systems point toward a more promising, though presently rare, alternative. Most critically, current evaluations emphasize system accuracy while overlooking whether users can detect AI errors. Grounded in epistemic agency theory, we argue for a necessary shift from system accuracy to user verifiability and distill three actionable design patterns—provenance transparency, non-visual uncertainty signaling, and contestation interactions—that make this principle concrete for BLV users.</p>
+
+</div>
+
+  <div id="sadallah2026ihm_vcbi_bibtex" style="display:none;" class="publication-bibtex">
+<pre><code>@inproceedings{sadallah2026ihm_vcbi,
+author = {Sadallah, Madjid and Encelle, Beno\^{\i}t},
+title = {Concevoir pour l'agentivité épistémique : paradoxe de vérification et affordances de contrôle dans les systèmes d'accessibilité IA},
+year = {2026},
+isbn = {9798400722813},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3772363.3799343},
+doi = {10.1145/3772363.3799343},
+booktitle = {Actes de la 37ème Conférence Internationale Francophone sur l'Interaction Humain-Machine},
+series = {IHM '26}
+}</code></pre>
+</div>
+</div>
+
+<div class="publication-item">
 <p><strong>Sadallah, M.</strong>, & Encelle, B. (2026). Systematic Review Protocol: Interactive Digital Technologies for Non-Visual Access to 2D STEM Content by Blind and Low-Vision Individuals. <em>Preprint</em>. <a href="https://doi.org/10.5281/zenodo.19461731">doi:10.5281/zenodo.19461731</a> (also registered on OSF: <a href="https://doi.org/10.17605/OSF.IO/TJ5QZ">10.17605/OSF.IO/TJ5QZ</a>)</p>
 
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026slr_abstract');" class="btn btn--primary">Abstract</a>
@@ -68,7 +96,7 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item">
-<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>accepted</em>). The verification gap in AI accessibility: A meta-analysis of architectural paradigms and agency deficits. In <em>Proceedings of the 23rd International Web for All Conference (W4A'26)</em>. Dubai, United Arab Emirates: ACM.</p>
+<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>2026</em>). The verification gap in AI accessibility: A meta-analysis of architectural paradigms and agency deficits. In <em>Proceedings of the 23rd International Web for All Conference (W4A'26)</em>. Dubai, United Arab Emirates: ACM.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026w4a_abstract');" class="btn btn--primary">Abstract</a>
 <div id="sadallah2026w4a_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> AI-powered accessibility systems have shifted from transcription to interpretation, creating a verification paradox: blind and low-vision (BLV) users, who most rely on AI-generated narratives, lack perceptual redundancy to detect errors such as hallucinations or semantic drift, resulting in an agency deficit. Through a systematic meta-analysis of 17 empirically evaluated AI accessibility systems (2019-2025), we examine how architectural choices shape verification affordances. We introduce the Verification-Cognition Balance Index (VCBI), a composite metric quantifying trade-offs between validation rigor, user agency, complexity, and risk. Our analysis uncovers weak overall balance across the field, with transformer-based systems showing higher risk density than classical computer vision despite negligible validation improvements. Only hybrid specialized architectures-constraining AI to narrow semantic subtasks-achieve good balance. We argue for a necessary paradigm shift in evaluation from system accuracy to user verifiability.</p>
@@ -76,7 +104,7 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item">
-<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>accepted</em>). The Technical Capability Fallacy: A Case for Pedagogy-Centered Design in Assistive STEM Education. In <em>18th International Conference on Computer Supported Education (CSEDU 2026)</em>. Benidorm, Spain, May 18-20, 2026.</p>
+<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>2026</em>). The Technical Capability Fallacy: A Case for Pedagogy-Centered Design in Assistive STEM Education. In <em>18th International Conference on Computer Supported Education (CSEDU 2026)</em>. Benidorm, Spain, May 18-20, 2026.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026csedu_abstract');" class="btn btn--primary">Abstract</a>
 <div id="sadallah2026csedu_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> Assistive educational technologies for blind and visually impaired STEM learners perform well in controlled studies yet fail to achieve sustained classroom adoption. Analysis of 25 empirical studies reveals the cause: tools are designed and evaluated against technical metrics that do not predict pedagogical success. We term this the technical capability fallacy: the assumption that technical capability ensures pedagogical utility. To address this, we propose FOCAL (Framework for Objective-Context ALignment), which specifies what a tool must provide for each combination of learning objective and educational context.</p>
