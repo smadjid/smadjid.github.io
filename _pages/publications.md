@@ -15,6 +15,29 @@ permalink: /publications/
 
 <div class="publication-year">2026</div>
 <div class="publication-item">
+<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>accepted</em>). Orchestration multimodale en accessibilité STEM : du découplage architecture-performance au rendement cognitif différentiel. In <em>37ème Conférence Internationale Francophone sur l'Interaction Humain-Machine(IHM '26)</em>. Lille, France.</p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ihm_arc_abstract');" class="btn btn--primary">Abstract</a>
+<a href="/media/papers/sadallah2026ihm_arc.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ihm_arc_bibtex');" class="btn btn--info">Bibtex</a>
+<div id="sadallah2026ihm_arc_abstract" style="display:none;" class="publication-abstract">
+<p><strong>Résumé.</strong> L'accessibilité des contenus STEM pour les personnes aveugles ou malvoyantes se heurte à un paradoxe persistant : l'accroissement de la sophistication architecturale des interfaces multimodales ne réduit pas systématiquement la charge cognitive. Deux causes structurelles expliquent ce paradoxe. D'une part, une illusion additive traverse implicitement la conception~: accumuler des canaux sensoriels est confondu avec leur orchestration, c'est-à-dire la coordination temporelle et sémantique des flux d'information en vue d'une représentation mentale unifiée. D'autre part, l'évaluation repose sur des métriques de complétion de tâche insensibles aux coûts cognitifs sous-jacents. Nous introduisons ARC (Architectural Readiness for perceptual Convergence), un cadre diagnostique opérationnalisant la qualité de l'orchestration multimodale selon quatre dimensions architecturales - cohérence temporelle, cohérence informationnelle, préservation structurelle, pertinence modale - et une variable de performance externe. Appliqué à un corpus de 66 études empiriques (2015-2025) portant sur des interfaces STEM non visuelles, notre analyse descriptive identifie trois régimes de maturité architecturale qualitativement distincts. Malgré des écarts structurels majeurs entre régimes, les métriques de performance mesurées ne varient pas significativement, révélant un découplage systématique entre ces dernières et sophistication architecturale. Nous formalisons ce résultat sous l'hypothèse du Rendement Cognitif Différentiel : des systèmes architecturalement distincts produisent des performances équivalentes tout en imposant probablement des coûts cognitifs fondamentalement différents --- un construit théoriquement fondé, qui appelle une validation expérimentale par des protocoles multi-métriques.</p>
+
+<p><strong>Abstract.</strong> Multimodal STEM accessibility for blind and visually impaired users faces a persistent paradox: increasing architectural sophistication does not systematically reduce cognitive load. We argue that two structural causes underlie this gap. First, an additive illusion pervades design practice, equating the mere accumulation of sensory channels with their purposeful orchestration—that is, the temporal and semantic coordination of information streams into a unified mental representation. Second, evaluation relies predominantly on task-completion metrics that are insensitive to the underlying cognitive costs. We introduce ARC (Architectural Readiness for perceptual Convergence), a diagnostic framework operationalizing multimodal orchestration quality across four architectural dimensions—temporal synchrony, informational coherence, structural preservation, and modal relevance—plus one external performance variable. Applied to a corpus of 66 empirical studies (2015-2025) on non-visual STEM interfaces, our descriptive analysis identifies three qualitatively distinct regimes of architectural maturity. Despite large structural differences across regimes, performance metrics show no systematic variation, revealing a consistent decoupling between architectural sophistication and task success. We formalize this as the Differential Cognitive Yield (DCY) hypothesis: architecturally divergent systems yield equivalent observable performance while likely imposing fundamentally different cognitive costs—a construct requiring experimental validation with multi-metric protocols. ARC contributes a reproducible scoring protocol with codified inter-rater procedures, empirically derived classification thresholds, and hierarchical design guidelines.</p>
+
+</div>
+
+  <div id="sadallah2026ihm_arc_bibtex" style="display:none;" class="publication-bibtex">
+<pre><code>@inproceedings{sadallah2026ihm_arc,
+author = {Sadallah, Madjid and Encelle, Beno\^{\i}t},
+title = {Orchestration multimodale en accessibilité STEM : du découplage architecture-performance au rendement cognitif différentiel},
+year = {2026},
+booktitle = {Actes de la 37ème Conférence Internationale Francophone sur l'Interaction Humain-Machine},
+series = {IHM '26}
+}</code></pre>
+</div>
+</div>
+
+<div class="publication-item">
 <p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>accepted</em>). Concevoir pour l'agentivité épistémique : paradoxe de vérification et affordances de contrôle dans les systèmes d'accessibilité IA. In <em>37ème Conférence Internationale Francophone sur l'Interaction Humain-Machine(IHM '26)</em>. Lille, France.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ihm_vcbi_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2026ihm_vcbi.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -31,11 +54,6 @@ permalink: /publications/
 author = {Sadallah, Madjid and Encelle, Beno\^{\i}t},
 title = {Concevoir pour l'agentivité épistémique : paradoxe de vérification et affordances de contrôle dans les systèmes d'accessibilité IA},
 year = {2026},
-isbn = {9798400722813},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3772363.3799343},
-doi = {10.1145/3772363.3799343},
 booktitle = {Actes de la 37ème Conférence Internationale Francophone sur l'Interaction Humain-Machine},
 series = {IHM '26}
 }</code></pre>
