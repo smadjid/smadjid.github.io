@@ -99,6 +99,52 @@ permalink: /publications_by_type/
 <div class="publication-year">Conference Publications</div>
 
 <div class="publication-item">
+<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>accepted</em>). Orchestration multimodale en accessibilité STEM : du découplage architecture-performance au rendement cognitif différentiel. In <em>37ème Conférence Internationale Francophone sur l'Interaction Humain-Machine(IHM '26)</em>. Lille, France.</p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ihm_arc_abstract');" class="btn btn--primary">Abstract</a>
+<a href="/media/papers/sadallah2026ihm_arc.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ihm_arc_bibtex');" class="btn btn--info">Bibtex</a>
+<div id="sadallah2026ihm_arc_abstract" style="display:none;" class="publication-abstract">
+<p><strong>Résumé.</strong> L'accessibilité des contenus STEM pour les personnes aveugles ou malvoyantes se heurte à un paradoxe persistant : l'accroissement de la sophistication architecturale des interfaces multimodales ne réduit pas systématiquement la charge cognitive. Deux causes structurelles expliquent ce paradoxe. D'une part, une illusion additive traverse implicitement la conception~: accumuler des canaux sensoriels est confondu avec leur orchestration, c'est-à-dire la coordination temporelle et sémantique des flux d'information en vue d'une représentation mentale unifiée. D'autre part, l'évaluation repose sur des métriques de complétion de tâche insensibles aux coûts cognitifs sous-jacents. Nous introduisons ARC (Architectural Readiness for perceptual Convergence), un cadre diagnostique opérationnalisant la qualité de l'orchestration multimodale selon quatre dimensions architecturales - cohérence temporelle, cohérence informationnelle, préservation structurelle, pertinence modale - et une variable de performance externe. Appliqué à un corpus de 66 études empiriques (2015-2025) portant sur des interfaces STEM non visuelles, notre analyse descriptive identifie trois régimes de maturité architecturale qualitativement distincts. Malgré des écarts structurels majeurs entre régimes, les métriques de performance mesurées ne varient pas significativement, révélant un découplage systématique entre ces dernières et sophistication architecturale. Nous formalisons ce résultat sous l'hypothèse du Rendement Cognitif Différentiel : des systèmes architecturalement distincts produisent des performances équivalentes tout en imposant probablement des coûts cognitifs fondamentalement différents --- un construit théoriquement fondé, qui appelle une validation expérimentale par des protocoles multi-métriques.</p>
+
+<p><strong>Abstract.</strong> Multimodal STEM accessibility for blind and visually impaired users faces a persistent paradox: increasing architectural sophistication does not systematically reduce cognitive load. We argue that two structural causes underlie this gap. First, an additive illusion pervades design practice, equating the mere accumulation of sensory channels with their purposeful orchestration—that is, the temporal and semantic coordination of information streams into a unified mental representation. Second, evaluation relies predominantly on task-completion metrics that are insensitive to the underlying cognitive costs. We introduce ARC (Architectural Readiness for perceptual Convergence), a diagnostic framework operationalizing multimodal orchestration quality across four architectural dimensions—temporal synchrony, informational coherence, structural preservation, and modal relevance—plus one external performance variable. Applied to a corpus of 66 empirical studies (2015-2025) on non-visual STEM interfaces, our descriptive analysis identifies three qualitatively distinct regimes of architectural maturity. Despite large structural differences across regimes, performance metrics show no systematic variation, revealing a consistent decoupling between architectural sophistication and task success. We formalize this as the Differential Cognitive Yield (DCY) hypothesis: architecturally divergent systems yield equivalent observable performance while likely imposing fundamentally different cognitive costs—a construct requiring experimental validation with multi-metric protocols. ARC contributes a reproducible scoring protocol with codified inter-rater procedures, empirically derived classification thresholds, and hierarchical design guidelines.</p>
+
+</div>
+
+  <div id="sadallah2026ihm_arc_bibtex" style="display:none;" class="publication-bibtex">
+<pre><code>@inproceedings{sadallah2026ihm_arc,
+author = {Sadallah, Madjid and Encelle, Beno\^{\i}t},
+title = {Orchestration multimodale en accessibilité STEM : du découplage architecture-performance au rendement cognitif différentiel},
+year = {2026},
+booktitle = {Actes de la 37ème Conférence Internationale Francophone sur l'Interaction Humain-Machine},
+series = {IHM '26}
+}</code></pre>
+</div>
+</div>
+
+<div class="publication-item">
+<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>accepted</em>). Concevoir pour l'agentivité épistémique : paradoxe de vérification et affordances de contrôle dans les systèmes d'accessibilité IA. In <em>37ème Conférence Internationale Francophone sur l'Interaction Humain-Machine(IHM '26)</em>. Lille, France.</p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ihm_vcbi_abstract');" class="btn btn--primary">Abstract</a>
+<a href="/media/papers/sadallah2026ihm_vcbi.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ihm_vcbi_bibtex');" class="btn btn--info">Bibtex</a>
+<div id="sadallah2026ihm_vcbi_abstract" style="display:none;" class="publication-abstract">
+<p><strong>Résumé.</strong> Les systèmes d'accessibilité fondés sur l'IA sont passés de la transcription (restituer tel quel le contenu visuel) à l'interprétation (descriptions sélectives, souvent conversationnelles). Ce changement, tout en enrichissant l'expérience, fait émerger un paradoxe de vérification : les déficients visuels (DV - aveugles ou malvoyants), qui dépendent le plus des descriptions de l'IA, n'ont plus d'accès perceptuel pour détecter des erreurs critiques (hallucinations, erreurs de classification, dérive sémantique). Cette asymétrie est consubstantielle au rôle d'intermédiaire épistémique de l'IA, qui façonne l'information tout en supprimant les moyens de la vérifier. À travers une revue systématique évaluant de manière comparative 17 systèmes, nous introduisons le Verification‑Cognition Balance Index (VCBI). Cette métrique composite évalue l'équilibre entre deux leviers de vérifiabilité que sont la rigueur de validation du système et l'agentivité épistémique (capacité des utilisateurs à détecter les erreurs du système), et deux sources de charge cognitive liée à la vérification : la complexité architecturale du système et la densité de risque documenté. Nos résultats montrent entre autres que les architectures basées sur les transformeurs présentent un risque documenté nettement supérieur à celui des pipelines de vision classique, sans amélioration correspondante de l'équilibre vérification‑cognition, et que les systèmes hybrides spécialisés, bien que rare, offrent une voie plus prometteuse. Surtout, les évaluations actuelles privilégient la mesure de la précision système au détriment de l'agentivité épistémique. Ancrés dans la théorie de l'agentivité épistémique, nous plaidons pour un recentrage de l'évaluation - de la précision système vers la vérifiabilité par l'utilisateur, et proposons trois schémas de conception actionnables—transparence de provenance, signalement non visuel de l'incertitude, et interactions de contestation—qui opérationnalisent ce principe pour les utilisateurs DV.</p>
+
+<p><strong>Abstract.</strong> AI-powered accessibility systems have shifted from transcription (rendering visual content as-is) to interpretation (generating selective, conversational narratives). While this evolution enriches user experience, it also introduces a verification paradox: blind and low-vision (BLV) users, who rely most heavily on AI descriptions, are the very people who lack the independent perceptual access needed to detect consequential errors—hallucinations, misclassifications, or semantic drift. This asymmetry is inherent whenever AI acts as an epistemic intermediary, shaping information while simultaneously removing the means to verify it. Through a systematic review with comparative analysis of 17 empirically evaluated systems, we introduce the Verification-Cognition Balance Index (VCBI). This composite metric quantifies the equilibrium between two enablers of verification (validation rigor and user agency) and two sources of epistemic burden (architectural complexity and documented risk density). Our findings reveal that transformer-based architectures exhibit substantially higher documented risk than classical computer-vision pipelines, yet they offer no corresponding improvement in verification balance. Specialized hybrid systems point toward a more promising, though presently rare, alternative. Most critically, current evaluations emphasize system accuracy while overlooking whether users can detect AI errors. Grounded in epistemic agency theory, we argue for a necessary shift from system accuracy to user verifiability and distill three actionable design patterns—provenance transparency, non-visual uncertainty signaling, and contestation interactions—that make this principle concrete for BLV users.</p>
+
+</div>
+
+  <div id="sadallah2026ihm_vcbi_bibtex" style="display:none;" class="publication-bibtex">
+<pre><code>@inproceedings{sadallah2026ihm_vcbi,
+author = {Sadallah, Madjid and Encelle, Beno\^{\i}t},
+title = {Concevoir pour l'agentivité épistémique : paradoxe de vérification et affordances de contrôle dans les systèmes d'accessibilité IA},
+year = {2026},
+booktitle = {Actes de la 37ème Conférence Internationale Francophone sur l'Interaction Humain-Machine},
+series = {IHM '26}
+}</code></pre>
+</div>
+</div>
+
+<div class="publication-item">
 <p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>2026</em>). Beyond Additive Design: An Empirical Taxonomy of Multimodal STEM Accessibility Systems. In <em>Extended abstracts of the CHI conference on human factors in computing systems (CHI '26)</em>. Barcelona, Spain: ACM, April 13-17, 2026.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026chi_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2026chi.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -127,7 +173,7 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item">
-<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>accepted</em>). The Technical Capability Fallacy: A Case for Pedagogy-Centered Design in Assistive STEM Education. In <em>18th International Conference on Computer Supported Education (CSEDU 2026)</em>. Benidorm, Spain, May 18-20, 2026.</p>
+<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>2026</em>). The Technical Capability Fallacy: A Case for Pedagogy-Centered Design in Assistive STEM Education. In <em>18th International Conference on Computer Supported Education (CSEDU 2026)</em>. Benidorm, Spain, May 18-20, 2026.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026csedu_abstract');" class="btn btn--primary">Abstract</a>
 <div id="sadallah2026csedu_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> Assistive educational technologies for blind and visually impaired STEM learners perform well in controlled studies yet fail to achieve sustained classroom adoption. Analysis of 25 empirical studies reveals the cause: tools are designed and evaluated against technical metrics that do not predict pedagogical success. We term this the technical capability fallacy: the assumption that technical capability ensures pedagogical utility. To address this, we propose FOCAL (Framework for Objective-Context ALignment), which specifies what a tool must provide for each combination of learning objective and educational context.</p>
