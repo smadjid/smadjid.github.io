@@ -4,7 +4,7 @@ title: RhetConnect
 permalink: /projects/rhetconnect/
 ---
 <div class="page">
-  <h1>RhetConnect — 2026</h1>
+  <h1>RhetConnect</h1>
 
   <p>Independent research, extending earlier work on rhetorical structure for
   multimedia documents carried out at CERIST. RhetConnect addresses a
