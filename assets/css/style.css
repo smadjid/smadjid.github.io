@@ -526,6 +526,27 @@ pre code { background: none; padding: 0; font-size: 0.775rem; line-height: 1.75;
   color: var(--text-faint); text-transform: uppercase; letter-spacing: 0.05em;
 }
 
+/* Section titles on the Projects page (Funded projects / Other work) */
+
+.projects-section-title {
+  margin-top: 1.5rem;
+  margin-bottom: 0.25rem;
+  font-size: 1.25rem;
+}
+
+.projects-grid + .projects-section-title {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--color-border-light);
+}
+
+.projects-section-subtitle {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+}
+
 /* ---- UTILITY ---- */
 .text-muted { color: var(--text-faint); }
 .text-secondary { color: var(--text-secondary); }
