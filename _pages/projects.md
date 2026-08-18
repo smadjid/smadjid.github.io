@@ -92,7 +92,7 @@ permalink: /projects/
       <div>
         <div class="project-card__title"><a href="https://github.com/smadjid/RhetConnect">RhetConnect</a></div>
         <p class="project-card__excerpt">Independent research extending earlier work on rhetorical structure for multimedia documents. Formalizes rhetorical connectivity for multimedia adaptation, a coherence-preserving selection algorithm, and the RhetConnect Corpus v1.0.</p>
-        <a href="/projects/RhetConnect" class="project-card__link">Details →</a>
+        <a href="/projects/rhetconnect" class="project-card__link">Details →</a>
       </div>
     </div>
 
