@@ -6,6 +6,7 @@ permalink: /projects/
 <div class="page">
   <h1>Selected Projects</h1>
 
+  <h2 class="projects-section-title">Funded projects</h2>
   <div class="projects-grid">
 
     <div class="project-card">
@@ -77,6 +78,21 @@ permalink: /projects/
         <div class="project-card__title"><a href="/projects/chm/">CHM — 2010–2012</a></div>
         <p class="project-card__excerpt">Component-based hypervideo model for the formal description and design of interactive video documents and web-oriented hypermedia systems.</p>
         <a href="/projects/chm/" class="project-card__link">Details →</a>
+      </div>
+    </div>
+
+  </div>
+
+  <h2 class="projects-section-title">Other work</h2>
+  <p class="projects-section-subtitle">Independent research and internal projects, not tied to a specific funding programme.</p>
+  <div class="projects-grid">
+
+    <div class="project-card">
+      <img src="/assets/images/rhetconnect.png" alt="RhetConnect" class="project-card__image">
+      <div>
+        <div class="project-card__title"><a href="https://github.com/smadjid/RhetConnect">RhetConnect — 2026</a></div>
+        <p class="project-card__excerpt">Independent research extending earlier work on rhetorical structure for multimedia documents (CERIST). Formalizes rhetorical connectivity for multimedia adaptation, a coherence-preserving selection algorithm, and the RhetConnect Corpus v1.0 (40 annotated documents).</p>
+        <a href="https://github.com/smadjid/RhetConnect" class="project-card__link">Details →</a>
       </div>
     </div>
 
