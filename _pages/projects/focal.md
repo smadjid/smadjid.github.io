@@ -27,5 +27,5 @@ permalink: /projects/focal/
   <h2>Status</h2>
   <p>Version 1.0 is publicly available. The tool was calibrated on the four illustrative cases from <em>From Diagnosis to Instrument</em> (Sadallah &amp; Encelle, 2026). A phase 2, pending ethical approval, plans anonymous telemetry to empirically validate the matrix's theoretical [T] cells.</p>
 
-  <p class="mt-2"><a href="https://coobra.liris.cnrs.fr/production" class="btn btn--outline">Project page (COOBRA) →</a></p>
+  <p class="mt-2"><a href="/publications/#sadallah2026csedu" class="btn btn--outline">Related publication (CSEDU 2026) →</a></p>
 </div>

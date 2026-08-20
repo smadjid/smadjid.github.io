@@ -26,5 +26,8 @@ permalink: /projects/arckit/
   <h2>Status</h2>
   <p>ARCKit is an instrument of the ANR COOBRA project, documented in Sadallah &amp; Encelle (CHI EA '26, W4A '26). Online platform and source repository links are forthcoming.</p>
 
-  <p class="mt-2"><a href="https://coobra.liris.cnrs.fr/production" class="btn btn--outline">Project page (COOBRA) →</a></p>
+  <p class="mt-2">
+    <a href="/projects/coobra/" class="btn btn--outline">Part of ANR COOBRA →</a>
+    <a href="https://coobra.liris.cnrs.fr/production" class="btn btn--outline">Official project page (external) →</a>
+  </p>
 </div>
