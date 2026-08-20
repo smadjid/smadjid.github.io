@@ -26,5 +26,8 @@ permalink: /projects/coobratab/
   <h2>Status</h2>
   <p>Prototypes are under development. A multi-phase user evaluation protocol (formative, technical, cross-format comparative) is planned. Open-source repository and online demo links are forthcoming.</p>
 
-  <p class="mt-2"><a href="https://coobra.liris.cnrs.fr/production" class="btn btn--outline">Project page (COOBRA) →</a></p>
+  <p class="mt-2">
+    <a href="/projects/coobra/" class="btn btn--outline">Part of ANR COOBRA →</a>
+    <a href="https://coobra.liris.cnrs.fr/production" class="btn btn--outline">Official project page (external) →</a>
+  </p>
 </div>
