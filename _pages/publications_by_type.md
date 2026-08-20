@@ -3,9 +3,10 @@ layout: page
 title: Publications by Type
 permalink: /publications_by_type/
 ---
+
 <div class="page">
 <h1>Publications by Type</h1>
-<p>(<a href="../publications">Display by year</a>)</p>
+<p><a href="../publications" class="btn btn--outline">Display by year</a></p>
 
 <p>For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=A8So5p8AAAAJ" itemprop="sameAs">Google Scholar</a>.</p>
 
@@ -93,7 +94,6 @@ permalink: /publications_by_type/
 <p><strong>Abstract.</strong> Dans les standards et les systèmes multimédia actuels, le document est le plus souvent décrit selon une approche événementielle, d'où l'inadaptation de la programmation à la nature incrémentale du processus d'édition, la difficulté de la maintenance des documents ainsi produits et enfin les problèmes qu'ont les auteurs non-informaticiens pour les maîtriser. De plus, les travaux menés dans ce domaine se sont essentiellement focalisés sur la dimension temporelle, alors que le développement de tels systèmes devrait d'emblée considérer les quatre dimensions du document afin de mutualiser au mieux leur conception et leur implémentation. Par ailleurs, l'adaptation des documents à des profils de lecture particuliers n'est pas considérée, alors que pour certains domaines d'application, l'apprentissage par exemple, ceci reste un besoin important. En partant de ce constat, MediaStudio se veut une contribution au domaine de l'édition et de la présentation de documents multimédia interactifs à travers un ensemble de propositions pour pallier les insuffisances mentionnées.</p>
 </div>
 </div>
-
 
 <!-- ==================== CONFERENCE PUBLICATIONS ==================== -->
 <div class="publication-year">Conference Publications</div>
@@ -195,7 +195,6 @@ series = {CHI EA '26}
   </div>
 </div>
 
-
 <div class="publication-item">
   <p>
     <strong>Sadallah, M., Encelle, B., Mille, A., Guillet, V., &amp; Virgo, J.</strong>
@@ -210,7 +209,6 @@ series = {CHI EA '26}
     </p>
   </div>
 </div>
-
 
 <div class="publication-item">
 <p><strong>Grassin, J-F., Chevalier, D., Cunty, C., Mathian, H., Scheffler, C., Lefevre, M., &amp; Sadallah, M.</strong> (2025). Mobiles: cartographie sensible et récits multimodaux. In <em>Des images et des mots, des mots sur les images de la mobilité académique</em>. Université de Fribourg, Suisse.</p>

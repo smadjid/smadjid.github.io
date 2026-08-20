@@ -3,20 +3,42 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+
 <div class="page">
   <h1>Selected Projects</h1>
 
-  <h2 class="projects-section-title">Funded projects</h2>
+  <h2 class="projects-section-title">Research Programmes</h2>
+  <p class="projects-section-subtitle">Multi-year lines of work, each spanning several funded projects and prototypes built around a shared research question.</p>
   <div class="projects-grid">
 
     <div class="project-card">
       <img src="/assets/images/natbraille.png" alt="COOBRA" class="project-card__image">
       <div>
         <div class="project-card__title"><a href="/projects/coobra/">ANR COOBRA — 2025–ongoing</a></div>
-        <p class="project-card__excerpt">Participatory research project on accessible scientific content and collaboration between sighted users and visually impaired Braille readers. Focus on multimodal interaction, co-designed tools, and access to two-dimensional knowledge structures (equations, tables, graphs).</p>
+        <p class="project-card__excerpt">Participatory research on accessible scientific content and collaboration between sighted users and visually impaired Braille readers, focused on multimodal interaction and access to two-dimensional knowledge structures (equations, tables, graphs).</p>
+        <p class="project-card__excerpt">Current contributions include a taxonomy of multimodal braille interaction systems, the <strong>ARC</strong> diagnostic framework for multimodal orchestration, the <strong>VCBI</strong> indicator for comparing braille-content systems, the <strong>FOCAL</strong> framework for aligning learning objectives with STEM content modalities, the <strong>Ancre et Flux</strong> model of epistemic partnership, and <strong>CoobraTAB</strong>, a prototype for constrained generation of accessible tabular content.</p>
         <a href="/projects/coobra/" class="project-card__link">Details →</a>
       </div>
     </div>
+
+    <div class="project-card">
+      <img src="/assets/images/savastudio.png" alt="AT41" class="project-card__image">
+      <div>
+        <div class="project-card__title">AT41 — Learning Analytics Dashboards — 2018–2023</div>
+        <p class="project-card__excerpt">A programme on the participatory design of decision-oriented learning dashboards, structured around the <strong>DEFLAD</strong> model (sensemaking and situation awareness applied to learning analytics), with Techné (Poitiers), LIUM, and Lab-STICC.</p>
+        <ul class="link-list" style="flex-direction:column;gap:0.375rem;margin-top:0.75rem;">
+          <li><a href="/projects/padlad/"><strong>PADLAD</strong></a> (2020–2022) — participatory toolkit for co-designing dashboards with educators</li>
+          <li><a href="/projects/ladstudio/"><strong>LADStudio</strong></a> (2021–2022) — generative environment for specifying and prototyping dashboards</li>
+          <li><a href="/projects/savastudio/"><strong>SAVAStudio</strong></a> (2022–2023) — orchestration platform extending the toolchain to hybrid learning scenarios</li>
+        </ul>
+        <a href="/projects/savastudio/" class="project-card__link">Latest stage →</a>
+      </div>
+    </div>
+
+  </div>
+
+  <h2 class="projects-section-title">Funded projects</h2>
+  <div class="projects-grid">
 
     <div class="project-card">
       <img src="/assets/images/mobiles.png" alt="MOBILES" class="project-card__image">
@@ -37,37 +59,10 @@ permalink: /projects/
     </div>
 
     <div class="project-card">
-      <img src="/assets/images/savastudio.png" alt="SAVAStudio" class="project-card__image">
-      <div>
-        <div class="project-card__title"><a href="/projects/savastudio/">SAVAStudio — 2022–2023</a></div>
-        <p class="project-card__excerpt">Hybrid learning orchestration platform supporting scenario scripting, activity monitoring, and learner feedback across face-to-face and online settings.</p>
-        <a href="/projects/savastudio/" class="project-card__link">Details →</a>
-      </div>
-    </div>
-
-    <div class="project-card">
-      <img src="/assets/images/ladstudio.png" alt="LADStudio" class="project-card__image">
-      <div>
-        <div class="project-card__title"><a href="/projects/ladstudio/">LADStudio — 2021–2022</a></div>
-        <p class="project-card__excerpt">Generative environment for the specification and prototyping of decision-oriented learning analytics dashboards, supporting participatory design and indicator modeling.</p>
-        <a href="/projects/ladstudio/" class="project-card__link">Details →</a>
-      </div>
-    </div>
-
-    <div class="project-card">
-      <img src="/assets/images/padlad.png" alt="PADLAD" class="project-card__image">
-      <div>
-        <div class="project-card__title"><a href="/projects/padlad/">PADLAD — 2020–2022</a></div>
-        <p class="project-card__excerpt">Participatory design toolkit enabling educators to co-create learning analytics dashboards through collaborative specification and prototyping processes.</p>
-        <a href="/projects/padlad/" class="project-card__link">Details →</a>
-      </div>
-    </div>
-
-    <div class="project-card">
       <img src="/assets/images/coreada.png" alt="COREADA" class="project-card__image">
       <div>
         <div class="project-card__title"><a href="/projects/coreada/">COREADA — 2014–2019</a></div>
-        <p class="project-card__excerpt">Learning analytics project analyzing MOOC content-consumption traces to model reading sessions and support course redesign through behavioral insights.</p>
+        <p class="project-card__excerpt">Learning analytics project analyzing MOOC content-consumption traces to model reading sessions and support course redesign through behavioral insights. Doctoral work extended since in <a href="https://github.com/smadjid/RhetConnect">RhetConnect</a>.</p>
         <a href="/projects/coreada/" class="project-card__link">Details →</a>
       </div>
     </div>
@@ -91,13 +86,13 @@ permalink: /projects/
       <img src="/assets/images/rhetconnect.png" alt="RhetConnect" class="project-card__image">
       <div>
         <div class="project-card__title"><a href="https://github.com/smadjid/RhetConnect">RhetConnect</a></div>
-        <p class="project-card__excerpt">Independent research extending earlier work on rhetorical structure for multimedia documents. Formalizes rhetorical connectivity for multimedia adaptation, a coherence-preserving selection algorithm, and the RhetConnect Corpus v1.0.</p>
+        <p class="project-card__excerpt">Independent research extending earlier work on rhetorical structure for multimedia documents (from COREADA). Formalizes rhetorical connectivity for multimedia adaptation, a coherence-preserving selection algorithm, and the RhetConnect Corpus v1.0.</p>
         <a href="/projects/rhetconnect" class="project-card__link">Details →</a>
       </div>
     </div>
 
     <div class="project-card">
-      <div class="project-card__image" style="display:flex;align-items:center;justify-content:center;background:var(--color-border-light);border-radius:var(--radius-sm);">
+      <div class="project-card__image" style="display:flex;align-items:center;justify-content:center;background:var(--border-light);border-radius:5px;">
         <span style="font-size:0.75rem;color:var(--color-text-muted);">MediaStudio</span>
       </div>
       <div>

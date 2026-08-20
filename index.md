@@ -22,7 +22,6 @@ title: Home
   <div class="animate-in">
     <h2>About</h2>
 
-
 <p>I am a computer scientist studying how humans and intelligent systems can collaboratively explore, construct, and communicate knowledge.</p>
 
 <p>My research lies at the intersection of Artificial Intelligence, Learning Sciences, Human–Computer Interaction, and Accessibility. I design human-centered cognitive systems that support learning, collaboration, and knowledge exploration through adaptive, multimodal, and inclusive interactions.</p>
@@ -33,12 +32,21 @@ title: Home
 
 <p><a href="./media/cv_madjid_sadallah_fr.pdf">Academic CV (French)</a></p>
 
-
   </div>
 
   <div class="animate-in">
     <hr>
 
+<h2>Current Work</h2>
+
+<p>I am currently working on the <strong>ANR COOBRA project</strong> (2025–ongoing), on multimodal and Braille-based access to scientific content. Recent contributions include <strong>ARC</strong>, a diagnostic framework for multimodal orchestration quality; <strong>VCBI</strong>, an index for comparing braille-content systems; <strong>FOCAL</strong>, a framework aligning learning objectives with content modality; the <strong>Ancre et Flux</strong> model of epistemic partnership; and <strong>CoobraTAB</strong>, a prototype for accessible tabular content.</p>
+
+<p><a href="/projects/">See all projects →</a> · <a href="/publications/">Publications →</a> · <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#97;&#100;&#106;&#105;&#100;&#46;&#115;&#97;&#100;&#97;&#108;&#108;&#97;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">Get in touch →</a></p>
+
+  </div>
+
+  <div class="animate-in">
+    <hr>
 
 <h2>Research Vision</h2>
 
@@ -52,12 +60,10 @@ title: Home
   <li>How can human-centered AI augment cognitive activities while preserving inclusion, agency, and understanding?</li>
 </ul>
 
-
   </div>
 
   <div class="animate-in">
     <hr>
-
 
 <h2>Research Interests</h2>
 
@@ -78,7 +84,6 @@ title: Home
   <li>Computer-Supported Collaborative Learning and Work (CSCL / CSCW)</li>
   <li>Knowledge Representation and Interaction Design</li>
 </ul>
-
 
   </div>
 </div>

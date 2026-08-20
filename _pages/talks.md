@@ -3,6 +3,7 @@ layout: page
 title: Talks & Slides
 permalink: /talks/
 ---
+
 <div class="page">
   <h1>Talks &amp; Slides</h1>
 
@@ -10,24 +11,25 @@ permalink: /talks/
   <div class="talk-card">
       <img src="/assets/images/web4all2026.png" alt="Web 4 ALL 2026" class="talk-card__image">
       <div>
-        <div class="talk-card__title">"Web 4 ALL 2026</div>
+        <div class="talk-card__title">Web 4 ALL 2026</div>
         <div class="talk-card__meta">JUNE 2026</div>
         <p class="talk-card__excerpt">Slides of the presentation of the paper "The verification gap in AI accessibility: A meta-analysis of architectural paradigms and agency deficits" at Web 4 ALL 2026.</p>
         <div class="talk-card__actions">
           <a href="/media/presentations/web4all2026.pdf" class="btn btn--outline">Presentation (.pdf)</a>
+          <a href="/publications/#sadallah2026w4a" class="btn btn--outline">Publication →</a>
         </div>
       </div>
     </div>
 
-
   <div class="talk-card">
-      <img src="/assets/images/chiea2026.png" alt="CHIA EA 2026" class="talk-card__image">
+      <img src="/assets/images/chiea2026.png" alt="CHI EA 2026" class="talk-card__image">
       <div>
-        <div class="talk-card__title">CHIA EA 2026</div>
+        <div class="talk-card__title">CHI EA 2026</div>
         <div class="talk-card__meta">APRIL 2026</div>
         <p class="talk-card__excerpt">Slides of the presentation of the paper "Beyond Additive Design: An Empirical Taxonomy of Multimodal STEM Accessibility Systems" at CHI 2026.</p>
         <div class="talk-card__actions">
           <a href="/media/presentations/chiea2026.pdf" class="btn btn--outline">Presentation (.pdf)</a>
+          <a href="/publications/#sadallah2026chi" class="btn btn--outline">Publication →</a>
         </div>
       </div>
     </div>
@@ -40,11 +42,10 @@ permalink: /talks/
         <p class="talk-card__excerpt">Slides of the presentation of the paper "The Technical Capability Fallacy: A Case for Pedagogy-Centered Design in Assistive STEM Education."</p>
         <div class="talk-card__actions">
           <a href="/media/presentations/csedu2026.pdf" class="btn btn--outline">Presentation (.pdf)</a>
+          <a href="/publications/#sadallah2026csedu" class="btn btn--outline">Publication →</a>
         </div>
       </div>
     </div>
-
-
 
   <div class="talk-card">
       <img src="/assets/images/handicap2026ancre.png" alt="Handicap 2026" class="talk-card__image">
@@ -54,6 +55,7 @@ permalink: /talks/
         <p class="talk-card__excerpt">Slides of the presentation of the paper "L’Ancre et le Flux : complémentarité cognitive entre braille et interfaces interprétatives dans les domaines formels" at Handicap  2026.</p>
         <div class="talk-card__actions">
           <a href="/media/presentations/handicap2026ancre.html" class="btn btn--outline">Presentation (.html)</a>
+          <a href="/publications/#sadallah2026ancree" class="btn btn--outline">Publication →</a>
         </div>
       </div>
     </div>
@@ -66,11 +68,11 @@ permalink: /talks/
         <p class="talk-card__excerpt">Slides of the presentation of the paper "Partenariat épistémique et recherche participative : le projet COOBRA comme démonstrateur méthodologique" at Handicap  2026.</p>
         <div class="talk-card__actions">
           <a href="/media/presentations/handicap2026coobra.html" class="btn btn--outline">Presentation (.html)</a>
+          <a href="/publications/#sadallah2026coobra" class="btn btn--outline">Publication →</a>
         </div>
       </div>
     </div>
 
-  
   <div class="talk-card">
       <img src="/assets/images/eiah2025.png" alt="EIAH 2025" class="talk-card__image">
       <div>
@@ -79,6 +81,7 @@ permalink: /talks/
         <p class="talk-card__excerpt">Slides of the presentation of the paper "Outiller la conception participative et générative de tableaux de bord d'apprentissage" at EIAH 2025.</p>
         <div class="talk-card__actions">
           <a href="/media/presentations/eiah2025.pdf" class="btn btn--outline">Presentation (.pdf)</a>
+          <a href="/publications/#sadallah2025recommander" class="btn btn--outline">Publication →</a>
         </div>
       </div>
     </div>
@@ -91,10 +94,11 @@ permalink: /talks/
         <p class="talk-card__excerpt">Slides of the presentation of the paper "Generating LADs that make sense."</p>
         <div class="talk-card__actions">
           <a href="/media/presentations/csedu2025.pdf" class="btn btn--outline">Presentation (.pdf)</a>
+          <a href="/publications/#sadallah2025personalized" class="btn btn--outline">Publication →</a>
         </div>
       </div>
     </div>
-    
+
     <div class="talk-card">
       <img src="/assets/images/eiah2023.png" alt="EIAH 2023" class="talk-card__image">
       <div>
@@ -103,6 +107,7 @@ permalink: /talks/
         <p class="talk-card__excerpt">Slides of the presentation of the paper "Outiller la conception participative et générative de tableaux de bord d'apprentissage" at EIAH 2023.</p>
         <div class="talk-card__actions">
           <a href="/media/presentations/eiah2023.pdf" class="btn btn--outline">Presentation (.pdf)</a>
+          <a href="/publications/#sadallah2023outiller" class="btn btn--outline">Publication →</a>
         </div>
       </div>
     </div>
@@ -115,6 +120,7 @@ permalink: /talks/
         <p class="talk-card__excerpt">Slides of the presentation of the paper "Generating LADs that make sense."</p>
         <div class="talk-card__actions">
           <a href="/media/presentations/csedu2023.pdf" class="btn btn--outline">Presentation (.pdf)</a>
+          <a href="/publications/#sadallah2023generating" class="btn btn--outline">Publication →</a>
         </div>
       </div>
     </div>

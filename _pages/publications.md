@@ -3,18 +3,27 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+
 <div class="page">
 <h1>Publications</h1>
-<p>(<a href="../publications_by_type">Display by type</a>)</p>
+<p><a href="../publications_by_type" class="btn btn--outline">Display by type</a></p>
 
 <p>For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=A8So5p8AAAAJ" itemprop="sameAs">Google Scholar</a>.</p>
+
+<h2 class="projects-section-title">Highlights</h2>
+<ul class="link-list" style="flex-direction:column;gap:0.5rem;margin-bottom:2rem;">
+  <li><a href="#sadallah2026chi">Beyond Additive Design: An Empirical Taxonomy of Multimodal STEM Accessibility Systems</a> — CHI EA 2026</li>
+  <li><a href="#sadallah2024outiller">Modéliser et outiller la conception participative et générative de tableaux de bord d'apprentissage soutenant la création de sens</a> — STICEF 2024</li>
+  <li><a href="#sadallah2019models">Models and Tools for Usage-based e-Learning Documents Reengineering</a> — PhD thesis, 2019</li>
+  <li><a href="#sadallah2015towards">Towards reading session-based indicators in educational reading analytics</a> — EC-TEL 2015</li>
+</ul>
 
 <hr>
 
 <div class="publication-container">
 
 <div class="publication-year">2026</div>
-<div class="publication-item">
+<div class="publication-item" id="sadallah2026ihm_arc">
 <p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>accepted</em>). Orchestration multimodale en accessibilité STEM : du découplage architecture-performance au rendement cognitif différentiel. In <em>37ème Conférence Internationale Francophone sur l'Interaction Humain-Machine(IHM '26)</em>. Lille, France.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ihm_arc_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2026ihm_arc.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -37,7 +46,7 @@ series = {IHM '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2026ihm_vcbi">
 <p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>accepted</em>). Concevoir pour l'agentivité épistémique : paradoxe de vérification et affordances de contrôle dans les systèmes d'accessibilité IA. In <em>37ème Conférence Internationale Francophone sur l'Interaction Humain-Machine(IHM '26)</em>. Lille, France.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ihm_vcbi_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2026ihm_vcbi.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -60,7 +69,7 @@ series = {IHM '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2026slr">
 <p><strong>Sadallah, M.</strong>, & Encelle, B. (2026). Systematic Review Protocol: Interactive Digital Technologies for Non-Visual Access to 2D STEM Content by Blind and Low-Vision Individuals. <em>Preprint</em>. <a href="https://doi.org/10.5281/zenodo.19461731">doi:10.5281/zenodo.19461731</a> (also registered on OSF: <a href="https://doi.org/10.17605/OSF.IO/TJ5QZ">10.17605/OSF.IO/TJ5QZ</a>)</p>
 
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026slr_abstract');" class="btn btn--primary">Abstract</a>
@@ -85,7 +94,7 @@ series = {IHM '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2026chi">
 <p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>2026</em>). Beyond Additive Design: An Empirical Taxonomy of Multimodal STEM Accessibility Systems. In <em>Extended abstracts of the CHI conference on human factors in computing systems (CHI '26)</em>. Barcelona, Spain: ACM, April 13-17, 2026.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026chi_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2026chi.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -113,7 +122,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2026w4a">
 <p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>2026</em>). The verification gap in AI accessibility: A meta-analysis of architectural paradigms and agency deficits. In <em>Proceedings of the 23rd International Web for All Conference (W4A'26)</em>. Dubai, United Arab Emirates: ACM.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026w4a_abstract');" class="btn btn--primary">Abstract</a>
 <div id="sadallah2026w4a_abstract" style="display:none;" class="publication-abstract">
@@ -121,7 +130,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2026csedu">
 <p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>2026</em>). The Technical Capability Fallacy: A Case for Pedagogy-Centered Design in Assistive STEM Education. In <em>18th International Conference on Computer Supported Education (CSEDU 2026)</em>. Benidorm, Spain, May 18-20, 2026.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026csedu_abstract');" class="btn btn--primary">Abstract</a>
 <div id="sadallah2026csedu_abstract" style="display:none;" class="publication-abstract">
@@ -129,7 +138,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2026ancree">
   <p>
     <strong>Sadallah, M., Encelle, B., Mille, A., &amp; Guillet, V.</strong>
     (<em>2026</em>). L’Ancre et le Flux : complémentarité cognitive entre braille et interfaces interprétatives dans les domaines formels.
@@ -144,8 +153,7 @@ series = {CHI EA '26}
   </div>
 </div>
 
-
-<div class="publication-item">
+<div class="publication-item" id="sadallah2026coobra">
   <p>
     <strong>Sadallah, M., Encelle, B., Mille, A., Guillet, V., &amp; Virgo, J.</strong>
     (<em>2026</em>). Partenariat épistémique et recherche participative : le projet COOBRA comme démonstrateur méthodologique.
@@ -160,8 +168,7 @@ series = {CHI EA '26}
   </div>
 </div>
 
-
-<div class="publication-item">
+<div class="publication-item" id="sadallah2026est">
 <p><strong>Sadallah, M.</strong> (2026). Exploration Space Theory: Formal Foundations for Prerequisite-Aware Location-Based Recommendation. <em>ArXiv</em>. <a href="https://doi.org/10.48550/arXiv.2603.06624">doi:10.48550/arXiv.2603.06624</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026est_abstract');" class="btn btn--primary">Abstract</a>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026est_bibtex');" class="btn btn--info">Bibtex</a>
@@ -183,7 +190,7 @@ series = {CHI EA '26}
 
 <div class="publication-year">2025</div>
 
-<div class="publication-item">
+<div class="publication-item" id="grassin2025">
 <p><strong>Grassin, J-F., Chevalier, D., Cunty, C., Mathian, H., Scheffler, C., Lefevre, M., &amp; Sadallah, M.</strong> (2025). Mobiles: cartographie sensible et récits multimodaux. In <em>Des images et des mots, des mots sur les images de la mobilité académique</em>. Université de Fribourg, Suisse.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('grassin2025_abstract');" class="btn btn--primary">Abstract</a>
 <div id="grassin2025_abstract" style="display:none;" class="publication-abstract">
@@ -191,7 +198,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2025recommander">
 <p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2025). Recommander pour Soutenir l'Exploration Urbaines et le Partage d'Expériences entre Étudiants Internationaux. In <em>Actes de la 12e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain (EIAH 2025)</em>.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2025recommander_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2025recommander.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -200,7 +207,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2025application">
 <p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2025). L'application MOBILES: favoriser le partage d'expériences urbaines entre étudiants internationaux. In <em>Actes de la 12e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain (EIAH 2025)</em>.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2025application_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2025application.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -209,7 +216,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="scheffler2025">
 <p><strong>Scheffler, C., Chevalier, D., Cunty, C., Grassin, J-F., Joliveau, T., Lefevre, M., &amp; Sadallah, M.</strong> (2025). Approche géomatique des expériences des lieux avec une application contributive. In <em>Actes de la Conférence Spatial Analysis and GEOmatics (SAGEO 2025)</em>.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('scheffler2025_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/scheffler2025approche.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -218,7 +225,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2025personalized">
 <p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2025). Personalized Recommender System for Improving Urban Exploration and Experience Documentation of International Students. In <em>Proceedings of the 17th International Conference on Computer Supported Education (CSEDU 2025)</em>, pages 923-930. DOI: 10.5220/0013202800003932</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2025personalized_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2025personalized.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -229,7 +236,7 @@ series = {CHI EA '26}
 
 <div class="publication-year">2024</div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2024recsys">
 <p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2024). MOBILES RecSys: A Personalized Recommendation System for Enhancing the Urban and Social Experiences of International Students. (Software). <a href="https://hal.science/hal-04771226">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2024recsys_abstract');" class="btn btn--primary">Abstract</a>
 <div id="sadallah2024recsys_abstract" style="display:none;" class="publication-abstract">
@@ -237,7 +244,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="lefevre2024mobiles">
 <p><strong>Lefevre, M., Benedetto, R., Sadallah, M., Chevalier, D., Cunty, C., Grassin, J-F., Joliveau, T., Mathian, H., &amp; Scheffler, C.</strong> (2024). MOBILES: A Mobile Application for Documenting the Urban and Social Experiences of International Students. (Software). <a href="https://hal.science/hal-04771100">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('lefevre2024mobiles_abstract');" class="btn btn--primary">Abstract</a>
 <div id="lefevre2024mobiles_abstract" style="display:none;" class="publication-abstract">
@@ -245,7 +252,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2024outiller">
 <p><strong>Sadallah, M., &amp; Gilliot, J-M.</strong> (2024). Modéliser et outiller la conception participative et générative de tableaux de bord d'apprentissage soutenant la création de sens. <em>Sciences et Technologies de l'Information et de la Communication pour l'Education et la Formation (STICEF)</em>, 31(1). <a href="https://doi.org/10.23709/sticef.31.1.3">doi:10.23709/sticef.31.1.3</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2024outiller_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2024outiller.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -255,7 +262,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="gilliot2024">
 <p><strong>Gilliot, J-M., &amp; Sadallah, M.</strong> (2024). A framework for co-designing effective LADs supporting sensemaking and decision making. <em>International Journal of Learning Technology</em>, 19(1), 109-130. <a href="https://doi.org/10.1504/IJLT.2024.137899">doi:10.1504/IJLT.2024.137899</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('gilliot2024_abstract');" class="btn btn--primary">Abstract</a>
 <div id="gilliot2024_abstract" style="display:none;" class="publication-abstract">
@@ -263,7 +270,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="maredj2024">
 <p><strong>Maredj, A-E., Sadallah, M., &amp; Tonkin, N.</strong> (2024). Enhancing Multimedia Document Modeling through Extended Orbits-Based Rhetorical Structure. <em>Knowledge and Information Systems</em>, 66(3), 1683-1707. Springer. <a href="https://rdcu.be/dorje">doi:10.1007/s10115-023-01984-6</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2024_abstract');" class="btn btn--primary">Abstract</a>
 <div id="maredj2024_abstract" style="display:none;" class="publication-abstract">
@@ -273,7 +280,7 @@ series = {CHI EA '26}
 
 <div class="publication-year">2023</div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2023learning">
 <p><strong>Sadallah, M., &amp; Smits, G.</strong> (2023). Learning Path Recommendation from an Inferred Learning Space. In <em>EC-TEL 2023. Lecture Notes in Computer Science</em>, vol 14200, pp. 630-635. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-42682-7_53">doi:10.1007/978-3-031-42682-7_53</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023learning_abstract');" class="btn btn--primary">Abstract</a>
 <div id="sadallah2023learning_abstract" style="display:none;" class="publication-abstract">
@@ -281,7 +288,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2023edarxiv">
 <p><strong>Sadallah, M., &amp; Gilliot, J-M.</strong> (2023). Fostering Collaborative and Creative Design of Learning Dashboards: An Empowered Participatory Approach and Tools. <em>EdArXiv</em>. <a href="https://doi.org/10.35542/osf.io/q78yn">doi:10.35542/osf.io/q78yn</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023edarxiv_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/padlad_ladstudio_arxiv.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -290,7 +297,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2023outiller">
 <p><strong>Sadallah, M., &amp; Gilliot, J-M.</strong> (2023). Outiller la conception participative et générative de tableaux de bord d'apprentissage. In <em>Actes de la 11e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain (EIAH 2023)</em>.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023outiller_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2023outiller.pdf" style="color:white" class="btn btn--warning">Pre-print</a>
@@ -299,7 +306,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2023dispositif">
 <p><strong>Sadallah, M., Segarra, M.T., Gilliot, J-M., &amp; Rebai, I.</strong> (2023). Un dispositif de suivi des apprentissages pour soutenir l'orchestration de la classe. In <em>Actes de la 11e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain (EIAH 2023)</em>, pp. 356-359.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023dispositif_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2023dispositif.pdf" style="color:white" class="btn btn--warning">Pre-print</a>
@@ -309,7 +316,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2023generating">
 <p><strong>Sadallah, M., &amp; Gilliot, J-M.</strong> (2023). Generating LADs that make sense. In <em>Proceedings of the 15th International Conference on Computer Supported Education (CSEDU 2023)</em>, pages 35-46. <a href="https://doi.org/10.5220/0011839800003470">doi:10.5220/0011839800003470</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023generating_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2023generating.pdf" style="color:white" class="btn btn--warning">Pre-print</a>
@@ -318,7 +325,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="maredj2023set">
 <p><strong>Maredj, A-E., &amp; Sadallah, M.</strong> (2023). A set of rhetorical relationships for educational multimedia document. <em>Revue de l'Information Scientifique et Technique</em>, 27(1), 1-7.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2023set_abstract');" class="btn btn--primary">Abstract</a>
 <div id="maredj2023set_abstract" style="display:none;" class="publication-abstract">
@@ -328,7 +335,7 @@ series = {CHI EA '26}
 
 <div class="publication-year">2022</div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2022designing">
 <p><strong>Sadallah, M., Gilliot, J-M., Iksal, S., Quelennec, K., Vermeulen, M., Neyssensas, L., Aubert, O., &amp; Venant, R.</strong> (2022). Designing LADs That Promote Sensemaking: A Participatory Tool. In <em>17th European Conference on Technology Enhanced Learning (EC-TEL 2022)</em>, pp. 587-593. Springer. <a href="https://doi.org/10.1007/978-3-031-16290-9_54">doi:10.1007/978-3-031-16290-9_54</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2022designing_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2022designing.pdf" style="color:white" class="btn btn--warning">Accepted version</a>
@@ -337,7 +344,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2022user">
 <p><strong>Sadallah, M.</strong> (2022). User-Centered Course Reengineering: An Analytical Approach to Enhancing Reading Comprehension in Educational Content. <em>PhD Research Report</em>.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2022user_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2022user.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -348,7 +355,7 @@ series = {CHI EA '26}
 
 <div class="publication-year">2021</div>
 
-<div class="publication-item">
+<div class="publication-item" id="maredj2021">
 <p><strong>Maredj, A-E., Sadallah, M., &amp; Hamouche, L.</strong> (2021). Une cinquième dimension pour les documents multimédia: La dimension annotation. <em>Revue de l'Information Scientifique et Technique</em>, 24(1), 12-20.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2021_abstract');" class="btn btn--primary">Abstract</a>
 <div id="maredj2021_abstract" style="display:none;" class="publication-abstract">
@@ -358,7 +365,7 @@ series = {CHI EA '26}
 
 <div class="publication-year">2020</div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2020leveraging">
 <p><strong>Sadallah, M., Encelle, B., Maredj, A-E., &amp; Prié, Y.</strong> (2020). Leveraging Learners' Activity Logs for Course Reading Analytics Using Session-Based Indicators. <em>International Journal of Technology Enhanced Learning (IJTEL)</em>, 12(1), 53-78.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2020leveraging_abstract');" class="btn btn--primary">Abstract</a>
 <div id="sadallah2020leveraging_abstract" style="display:none;" class="publication-abstract">
@@ -366,7 +373,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2020towards">
 <p><strong>Sadallah, M., Encelle, B., Maredj, A-E., &amp; Prié, Y.</strong> (2020). Towards fine-grained reading dashboards for online course revision. <em>Educational Technology Research and Development</em>, 68, 3165-3186.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2020towards_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2020towards.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -381,7 +388,7 @@ series = {CHI EA '26}
 
 <div class="publication-year">2019</div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2019models">
 <p><strong>Sadallah, M.</strong> (2019). <em>Models and Tools for Usage-based e-Learning Documents Reengineering</em>. PhD thesis, University of Bejaia - Algeria.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2019models_abstract');" class="btn btn--primary">Abstract</a>
 <div id="sadallah2019models_abstract" style="display:none;" class="publication-abstract">
@@ -391,7 +398,7 @@ series = {CHI EA '26}
 
 <div class="publication-year">2015</div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2015towards">
 <p><strong>Sadallah, M., Encelle, B., Maredj, A-E., &amp; Prié, Y.</strong> (2015). Towards reading session-based indicators in educational reading analytics. In <em>10th European Conference on Technology Enhanced Learning (EC-TEL 2015)</em>, pages 297-310. Springer. <a href="https://doi.org/10.1007/978-3-319-24258-3_22">doi:10.1007/978-3-319-24258-3_22</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2015towards_abstract');" class="btn btn--primary">Abstract</a>
 <div id="sadallah2015towards_abstract" style="display:none;" class="publication-abstract">
@@ -401,7 +408,7 @@ series = {CHI EA '26}
 
 <div class="publication-year">2014</div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2014chm">
 <p><strong>Sadallah, M., Aubert, O., &amp; Prié, Y.</strong> (2014). CHM: an annotation-and component-based hypervideo model for the Web. <em>Multimedia tools and applications</em>, 70, 869-903. <a href="https://doi.org/10.1007/s11042-012-1177-y">doi:10.1007/s11042-012-1177-y</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2014chm_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2014chm.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -412,7 +419,7 @@ series = {CHI EA '26}
 
 <div class="publication-year">2013</div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2013framework">
 <p><strong>Sadallah, M., Encelle, B., Maredj, A-E., &amp; Prié, Y.</strong> (2013). A framework for usage-based document reengineering. In <em>Proceedings of the 2013 ACM symposium on Document engineering</em>, pages 99-102. <a href="https://doi.org/10.1145/2494266.2494290">doi:10.1145/2494266.2494290</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2013framework_abstract');" class="btn btn--primary">Abstract</a>
 <div id="sadallah2013framework_abstract" style="display:none;" class="publication-abstract">
@@ -426,7 +433,7 @@ series = {CHI EA '26}
 
 <div class="publication-year">2011</div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2011component">
 <p><strong>Sadallah, M., Aubert, O., &amp; Prié, Y.</strong> (2011). Component-based hypervideo model: high-level operational specification of hypervideos. In <em>Proceedings of the 11th ACM symposium on Document engineering</em>, pages 53-56. <a href="https://doi.org/10.1145/2034691.2034700">doi:10.1145/2034691.2034700</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2011component_abstract');" class="btn btn--primary">Abstract</a>
 <div id="sadallah2011component_abstract" style="display:none;" class="publication-abstract">
@@ -434,7 +441,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2011hypervideo">
 <p><strong>Sadallah, M., Aubert, O., &amp; Prié, Y.</strong> (2011). Hypervideo and Annotations on the Web. In <em>2011 Workshop on Multimedia on the Web</em>, pages 10-15. IEEE.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2011hypervideo_abstract');" class="btn btn--primary">Abstract</a>
 <div id="sadallah2011hypervideo_abstract" style="display:none;" class="publication-abstract">
@@ -444,7 +451,7 @@ series = {CHI EA '26}
 
 <div class="publication-year">2010</div>
 
-<div class="publication-item">
+<div class="publication-item" id="maredj2010">
 <p><strong>Maredj, A-E., Tonkin, N., &amp; Sadallah, M.</strong> (2010). MediaStudio: Un système d'édition et de présentation de documents multimédias interactifs. <em>Revue d'Information Scientifique &amp; Technique</em>, 18, 25-47.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2010_abstract');" class="btn btn--primary">Abstract</a>
 <div id="maredj2010_abstract" style="display:none;" class="publication-abstract">
