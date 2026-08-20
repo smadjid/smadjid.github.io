@@ -39,7 +39,7 @@ title: Home
 
 <h2>Current Work</h2>
 
-<p>I am currently working on the <strong>ANR COOBRA project</strong> (2025–ongoing), on multimodal and Braille-based access to scientific content. Recent contributions include <strong>ARC</strong>, a diagnostic framework for multimodal orchestration quality; <strong>VCBI</strong>, an index for comparing braille-content systems; <strong>FOCAL</strong>, a framework aligning learning objectives with content modality; the <strong>Ancre et Flux</strong> model of epistemic partnership; and <strong>CoobraTAB</strong>, a prototype for accessible tabular content.</p>
+<p>I am currently working on the <strong>ANR COOBRA project</strong> (2025–ongoing), on multimodal and Braille-based access to scientific content. Recent contributions include <strong>ARCKit</strong>, a diagnostic platform for multimodal accessibility systems; <strong>FOCAL</strong>, an instrument for objective-context alignment; <strong>CoobraTAB</strong>, a conversational agent for accessible data tables; the <strong>VCBI</strong> comparison indicator; and the <strong>Ancre et Flux</strong> model of epistemic partnership.</p>
 
 <p><a href="/projects/">See all projects →</a> · <a href="/publications/">Publications →</a> · <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#97;&#100;&#106;&#105;&#100;&#46;&#115;&#97;&#100;&#97;&#108;&#108;&#97;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">Get in touch →</a></p>
 

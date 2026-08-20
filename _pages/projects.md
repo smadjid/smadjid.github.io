@@ -16,7 +16,11 @@ permalink: /projects/
       <div>
         <div class="project-card__title"><a href="/projects/coobra/">ANR COOBRA — 2025–ongoing</a></div>
         <p class="project-card__excerpt">Participatory research on accessible scientific content and collaboration between sighted users and visually impaired Braille readers, focused on multimodal interaction and access to two-dimensional knowledge structures (equations, tables, graphs).</p>
-        <p class="project-card__excerpt">Current contributions include a taxonomy of multimodal braille interaction systems, the <strong>ARC</strong> diagnostic framework for multimodal orchestration, the <strong>VCBI</strong> indicator for comparing braille-content systems, the <strong>FOCAL</strong> framework for aligning learning objectives with STEM content modalities, the <strong>Ancre et Flux</strong> model of epistemic partnership, and <strong>CoobraTAB</strong>, a prototype for constrained generation of accessible tabular content.</p>
+        <ul class="link-list" style="flex-direction:column;gap:0.375rem;margin-top:0.75rem;">
+          <li><a href="/projects/arckit/"><strong>ARCKit</strong></a> — diagnostic &amp; discovery platform for multimodal STEM accessibility systems</li>
+          <li><a href="/projects/focal/"><strong>FOCAL</strong></a> — diagnostic instrument for objective-context alignment</li>
+          <li><a href="/projects/coobratab/"><strong>CoobraTAB</strong></a> — conversational agent for accessible data tables</li>
+        </ul>
         <a href="/projects/coobra/" class="project-card__link">Details →</a>
       </div>
     </div>

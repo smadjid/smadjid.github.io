@@ -34,16 +34,38 @@ permalink: /projects/coobra/
     <li><strong>Team Collaboration:</strong> Working closely with stakeholders to ground research in real-world contexts.</li>
   </ul>
 
-  <h2>Contributions</h2>
+  <h2>Tools &amp; Instruments</h2>
+  <p class="projects-section-subtitle">Distinct software instruments developed within COOBRA, each with its own page.</p>
+
+  <div class="projects-grid">
+    <div class="project-card">
+      <div>
+        <div class="project-card__title"><a href="/projects/arckit/">ARCKit</a></div>
+        <p class="project-card__excerpt">A diagnostic and discovery platform implementing the <strong>ARC</strong> framework, for evaluating multimodal STEM accessibility systems against a 66-system benchmark.</p>
+        <a href="/projects/arckit/" class="project-card__link">Details →</a>
+      </div>
+    </div>
+    <div class="project-card">
+      <div>
+        <div class="project-card__title"><a href="/projects/focal/">FOCAL</a></div>
+        <p class="project-card__excerpt">A diagnostic instrument for evaluating whether a STEM educational technology genuinely fits its intended learning objective and educational context.</p>
+        <a href="/projects/focal/" class="project-card__link">Details →</a>
+      </div>
+    </div>
+    <div class="project-card">
+      <div>
+        <div class="project-card__title"><a href="/projects/coobratab/">CoobraTAB</a></div>
+        <p class="project-card__excerpt">A conversational agent letting BVI users explore complex data tables through natural-language dialogue, grounded in the table's actual data.</p>
+        <a href="/projects/coobratab/" class="project-card__link">Details →</a>
+      </div>
+    </div>
+  </div>
+
+  <h2>Other Contributions</h2>
 
   <div class="activity-entry">
     <div class="activity-entry__title">A taxonomy of multimodal braille-content systems</div>
-    <p class="activity-entry__desc">A structured review of existing systems supporting braille access to two-dimensional content, used to identify recurring design choices and gaps that motivate the project's own tools.</p>
-  </div>
-
-  <div class="activity-entry">
-    <div class="activity-entry__title">ARC — a diagnostic framework for multimodal orchestration</div>
-    <p class="activity-entry__desc">A framework for assessing how well a multimodal accessibility system coordinates its sensory channels (audio, haptic, tactile) into a coherent whole, rather than merely stacking them — applied to the same corpus of 66 systems to identify three distinct regimes of architectural maturity.</p>
+    <p class="activity-entry__desc">A structured review of existing systems supporting braille access to two-dimensional content, used to identify recurring design choices and gaps that motivate the project's own tools — and forming the reference benchmark behind ARCKit.</p>
   </div>
 
   <div class="activity-entry">
@@ -52,18 +74,8 @@ permalink: /projects/coobra/
   </div>
 
   <div class="activity-entry">
-    <div class="activity-entry__title">FOCAL — aligning learning objectives with content modality</div>
-    <p class="activity-entry__desc">A framework, developed from the analysis of STEM multimodal-education studies, for aligning pedagogical objectives with the way content is presented across modalities — a step toward designing braille and multimodal materials that stay faithful to what they are meant to teach.</p>
-  </div>
-
-  <div class="activity-entry">
     <div class="activity-entry__title">Ancre et Flux — a model of epistemic partnership</div>
     <p class="activity-entry__desc">A conceptual model of how sighted and visually impaired collaborators can build shared understanding of two-dimensional content together, anchoring exploration around stable reference points while allowing flexible, negotiated interpretation.</p>
-  </div>
-
-  <div class="activity-entry">
-    <div class="activity-entry__title">CoobraTAB — accessible tabular content, in progress</div>
-    <p class="activity-entry__desc">A prototype that operationalizes these principles for tables specifically, using constrained generation to produce braille-accessible representations of tabular data.</p>
   </div>
 
   <p class="text-muted mt-2">Related publications (CHI EA 2026, W4A, CSEDU, Handicap 2026) are listed on the <a href="/publications/">Publications</a> page.</p>
