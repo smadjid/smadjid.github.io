@@ -9,17 +9,17 @@ permalink: /projects/
 
   <h2 class="projects-section-title">Research Programmes</h2>
   <p class="projects-section-subtitle">Multi-year lines of work, each spanning several funded projects and prototypes built around a shared research question.</p>
-  <div class="projects-grid">
+  <div class="projects-grid projects-grid--single">
 
     <div class="project-card">
       <img src="/assets/images/natbraille.png" alt="COOBRA" class="project-card__image">
       <div>
         <div class="project-card__title"><a href="/projects/coobra/">ANR COOBRA — 2025–ongoing</a></div>
         <p class="project-card__excerpt">Participatory research on accessible scientific content and collaboration between sighted users and visually impaired Braille readers, focused on multimodal interaction and access to two-dimensional knowledge structures (equations, tables, graphs).</p>
-        <ul class="link-list" style="flex-direction:column;gap:0.375rem;margin-top:0.75rem;">
-          <li><a href="/projects/arckit/"><strong>ARCKit</strong></a> — diagnostic &amp; discovery platform for multimodal STEM accessibility systems</li>
-          <li><a href="/projects/focal/"><strong>FOCAL</strong></a> — diagnostic instrument for objective-context alignment</li>
-          <li><a href="/projects/coobratab/"><strong>CoobraTAB</strong></a> — conversational agent for accessible data tables</li>
+        <ul class="project-card__sublist">
+          <li><a href="/projects/arckit/">ARCKit</a></li>
+          <li><a href="/projects/focal/">FOCAL</a></li>
+          <li><a href="/projects/coobratab/">CoobraTAB</a></li>
         </ul>
         <a href="/projects/coobra/" class="project-card__link">Details →</a>
       </div>
@@ -30,10 +30,10 @@ permalink: /projects/
       <div>
         <div class="project-card__title">AT41 — Learning Analytics Dashboards — 2018–2023</div>
         <p class="project-card__excerpt">A programme on the participatory design of decision-oriented learning dashboards, structured around the <strong>DEFLAD</strong> model (sensemaking and situation awareness applied to learning analytics), with Techné (Poitiers), LIUM, and Lab-STICC.</p>
-        <ul class="link-list" style="flex-direction:column;gap:0.375rem;margin-top:0.75rem;">
-          <li><a href="/projects/padlad/"><strong>PADLAD</strong></a> (2020–2022) — participatory toolkit for co-designing dashboards with educators</li>
-          <li><a href="/projects/ladstudio/"><strong>LADStudio</strong></a> (2021–2022) — generative environment for specifying and prototyping dashboards</li>
-          <li><a href="/projects/savastudio/"><strong>SAVAStudio</strong></a> (2022–2023) — orchestration platform extending the toolchain to hybrid learning scenarios</li>
+        <ul class="project-card__sublist">
+          <li><a href="/projects/padlad/">PADLAD</a> (2020–2022)</li>
+          <li><a href="/projects/ladstudio/">LADStudio</a> (2021–2022)</li>
+          <li><a href="/projects/savastudio/">SAVAStudio</a> (2022–2023)</li>
         </ul>
         <a href="/projects/savastudio/" class="project-card__link">Latest stage →</a>
       </div>
