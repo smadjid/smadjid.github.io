@@ -343,9 +343,22 @@ hr {
   padding-left: 0;
   border-bottom: 2px solid var(--accent);
   display: block;
+  scroll-margin-top: calc(var(--nav-h) + 1rem);
 }
 .publication-year:first-child {
   margin-top: 0;
+}
+
+/* Quick-jump nav for publications_by_type */
+.publication-type-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.25rem 0 1.5rem;
+}
+.publication-type-nav .btn {
+  font-size: 0.75rem;
+  padding: 0.375rem 0.875rem;
 }
 
 .publication-item {
@@ -366,6 +379,9 @@ hr {
   100% {
     background: transparent;
   }
+}
+.publication-year:target {
+  animation: targetFlash 2s ease;
 }
 .publication-item:first-of-type {
   padding-top: 0;

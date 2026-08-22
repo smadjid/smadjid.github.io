@@ -10,12 +10,20 @@ permalink: /publications_by_type/
 
 <p>For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=A8So5p8AAAAJ" itemprop="sameAs">Google Scholar</a>.</p>
 
+<div class="publication-type-nav">
+  <a href="#journal-articles" class="btn btn--outline">Journal Articles</a>
+  <a href="#conference-publications" class="btn btn--outline">Conference Publications</a>
+  <a href="#preprints" class="btn btn--outline">Preprints</a>
+  <a href="#software" class="btn btn--outline">Software</a>
+  <a href="#theses-and-reports" class="btn btn--outline">Theses &amp; Reports</a>
+</div>
+
 <hr>
 
 <div class="publication-container">
 
 <!-- ==================== JOURNAL ARTICLES ==================== -->
-<div class="publication-year">Journal Articles</div>
+<div class="publication-year" id="journal-articles">Journal Articles</div>
 
 <div class="publication-item">
 <p><strong>Sadallah, M., &amp; Gilliot, J-M.</strong> (2024). Modéliser et outiller la conception participative et générative de tableaux de bord d'apprentissage soutenant la création de sens. <em>Sciences et Technologies de l'Information et de la Communication pour l'Education et la Formation (STICEF)</em>, 31(1). <a href="https://doi.org/10.23709/sticef.31.1.3">doi:10.23709/sticef.31.1.3</a></p>
@@ -96,7 +104,7 @@ permalink: /publications_by_type/
 </div>
 
 <!-- ==================== CONFERENCE PUBLICATIONS ==================== -->
-<div class="publication-year">Conference Publications</div>
+<div class="publication-year" id="conference-publications">Conference Publications</div>
 
 <div class="publication-item">
 <p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>accepted</em>). Orchestration multimodale en accessibilité STEM : du découplage architecture-performance au rendement cognitif différentiel. In <em>37ème Conférence Internationale Francophone sur l'Interaction Humain-Machine(IHM '26)</em>. Lille, France.</p>
@@ -169,6 +177,14 @@ numpages = {6},
 keywords = {Accessibility, Multimodality, STEM, Cognitive Engineering, Cognitive Load, Sensory Integration},
 series = {CHI EA '26}
 }</code></pre>
+</div>
+</div>
+
+<div class="publication-item" id="sadallah2026w4a">
+<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>2026</em>). The verification gap in AI accessibility: A meta-analysis of architectural paradigms and agency deficits. In <em>Proceedings of the 23rd International Web for All Conference (W4A'26)</em>. Dubai, United Arab Emirates: ACM.</p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026w4a_abstract');" class="btn btn--primary">Abstract</a>
+<div id="sadallah2026w4a_abstract" style="display:none;" class="publication-abstract">
+<p><strong>Abstract.</strong> AI-powered accessibility systems have shifted from transcription to interpretation, creating a verification paradox: blind and low-vision (BLV) users, who most rely on AI-generated narratives, lack perceptual redundancy to detect errors such as hallucinations or semantic drift, resulting in an agency deficit. Through a systematic meta-analysis of 17 empirically evaluated AI accessibility systems (2019-2025), we examine how architectural choices shape verification affordances. We introduce the Verification-Cognition Balance Index (VCBI), a composite metric quantifying trade-offs between validation rigor, user agency, complexity, and risk. Our analysis uncovers weak overall balance across the field, with transformer-based systems showing higher risk density than classical computer vision despite negligible validation improvements. Only hybrid specialized architectures-constraining AI to narrow semantic subtasks-achieve good balance. We argue for a necessary paradigm shift in evaluation from system accuracy to user verifiability.</p>
 </div>
 </div>
 
@@ -341,7 +357,7 @@ series = {CHI EA '26}
 </div>
 
 <!-- ==================== PREPRINTS ==================== -->
-<div class="publication-year">Preprints</div>
+<div class="publication-year" id="preprints">Preprints</div>
 
 <div class="publication-item">
 <p><strong>Sadallah, M.</strong>, & Encelle, B. (2026). Systematic Review Protocol: Interactive Digital Technologies for Non-Visual Access to 2D STEM Content by Blind and Low-Vision Individuals. <em>Preprint</em>. <a href="https://doi.org/10.5281/zenodo.19461731">doi:10.5281/zenodo.19461731</a> (also registered on OSF: <a href="https://doi.org/10.17605/OSF.IO/TJ5QZ">10.17605/OSF.IO/TJ5QZ</a>)</p>
@@ -377,7 +393,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="sadallah2023edarxiv">
 <p><strong>Sadallah, M., &amp; Gilliot, J-M.</strong> (2023). Fostering Collaborative and Creative Design of Learning Dashboards: An Empowered Participatory Approach and Tools. <em>EdArXiv</em>. <a href="https://doi.org/10.35542/osf.io/q78yn">doi:10.35542/osf.io/q78yn</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023edarxiv_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/padlad_ladstudio_arxiv.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
@@ -386,8 +402,16 @@ series = {CHI EA '26}
 </div>
 </div>
 
+<div class="publication-item" id="sadallah2026constraint">
+<p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2026). A Constraint-First Framework for Ethical Location-Based Recommender Systems in Technology-Enhanced Learning. <em>Preprint</em>. <a href="https://hal.science/hal-05716768">HAL</a></p>
+</div>
+
+<div class="publication-item" id="sadallah2026viewing">
+<p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2026). The Viewing-Response Gap: Sequential Behavioral Trace Evidence for Social Scaffolding Failure in Technology-Enhanced Learning. <em>Preprint</em>. <a href="https://hal.science/hal-05716764">HAL</a></p>
+</div>
+
 <!-- ==================== SOFTWARE ==================== -->
-<div class="publication-year">Software</div>
+<div class="publication-year" id="software">Software</div>
 
 <div class="publication-item">
 <p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2024). MOBILES RecSys: A Personalized Recommendation System for Enhancing the Urban and Social Experiences of International Students. <a href="https://hal.science/hal-04771226">HAL</a></p>
@@ -397,7 +421,7 @@ series = {CHI EA '26}
 </div>
 </div>
 
-<div class="publication-item">
+<div class="publication-item" id="lefevre2024mobiles">
 <p><strong>Lefevre, M., Benedetto, R., Sadallah, M., Chevalier, D., Cunty, C., Grassin, J-F., Joliveau, T., Mathian, H., &amp; Scheffler, C.</strong> (2024). MOBILES: A Mobile Application for Documenting the Urban and Social Experiences of International Students. <a href="https://hal.science/hal-04771100">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('lefevre2024mobiles_abstract');" class="btn btn--primary">Abstract</a>
 <div id="lefevre2024mobiles_abstract" style="display:none;" class="publication-abstract">
@@ -405,8 +429,13 @@ series = {CHI EA '26}
 </div>
 </div>
 
+<div class="publication-item" id="garcia2025geomobiles">
+<p><strong>Garcia, C., Sadallah, M., Scheffler, C., Mathian, H., Cunty, C., et al.</strong> (2025). GéoMobiles : Une plateforme pour la visualisation et l'analyse exploratoire de données géospatiales participatives. <a href="https://hal.science/hal-05127583">HAL</a></p>
+<p class="publication-abstract" style="margin-top:0.5rem;"><strong>Description.</strong> A software platform for the visualization and exploratory analysis of participatory geospatial data collected within the MOBILES project, developed to help researchers browse and interpret students' geolocated annotations.</p>
+</div>
+
 <!-- ==================== THESES & REPORTS ==================== -->
-<div class="publication-year">Theses &amp; Reports</div>
+<div class="publication-year" id="theses-and-reports">Theses &amp; Reports</div>
 
 <div class="publication-item">
 <p><strong>Sadallah, M.</strong> (2019). <em>Models and Tools for Usage-based e-Learning Documents Reengineering</em>. PhD thesis, University of Bejaia - Algeria.</p>
@@ -431,6 +460,18 @@ series = {CHI EA '26}
 
 <div class="publication-item">
 <p><strong>Sadallah, M., Maredj, A-E., Encelle, B., &amp; Prié, Y.</strong> (2013). Vers une Expérience Audiovisuelle Interactive sur le Web. <em>CERIST Research Report</em>.</p>
+</div>
+
+<div class="publication-item" id="sadallah2024personnalisation">
+<p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2024). Personnalisation de l'expérience dans MOBILES : approche systématique et indicateurs de performance des recommandations. <em>Research Report</em>, LIRIS UMR 5205 CNRS/INSA de Lyon/Université Claude Bernard Lyon 1/Université Lumière Lyon 2/École Centrale de Lyon. <a href="https://hal.science/hal-05129483">HAL</a></p>
+</div>
+
+<div class="publication-item" id="sadallah2023metriques">
+<p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2023). Analyse exploratoire des métriques d'annotations dans MOBILES. <em>Research Report</em>, LIRIS UMR 5205 CNRS/INSA de Lyon/Université Claude Bernard Lyon 1/Université Lumière Lyon 2/École Centrale de Lyon. <a href="https://hal.science/hal-05129539">HAL</a></p>
+</div>
+
+<div class="publication-item" id="sadallah2023traces">
+<p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2023). Définition et caractérisation du modèle de traces utilisateur pour l'application d'exploration urbaine MOBILES. <em>Research Report</em>, LIRIS UMR 5205 CNRS/INSA de Lyon/Université Claude Bernard Lyon 1/Université Lumière Lyon 2/École Centrale de Lyon. <a href="https://hal.science/hal-05120659">HAL</a></p>
 </div>
 
 </div>

@@ -188,6 +188,14 @@ series = {CHI EA '26}
 </div>
 </div>
 
+<div class="publication-item" id="sadallah2026constraint">
+<p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2026). A Constraint-First Framework for Ethical Location-Based Recommender Systems in Technology-Enhanced Learning. <em>Preprint</em>. <a href="https://hal.science/hal-05716768">HAL</a></p>
+</div>
+
+<div class="publication-item" id="sadallah2026viewing">
+<p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2026). The Viewing-Response Gap: Sequential Behavioral Trace Evidence for Social Scaffolding Failure in Technology-Enhanced Learning. <em>Preprint</em>. <a href="https://hal.science/hal-05716764">HAL</a></p>
+</div>
+
 <div class="publication-year">2025</div>
 
 <div class="publication-item" id="grassin2025">
@@ -234,6 +242,10 @@ series = {CHI EA '26}
 </div>
 </div>
 
+<div class="publication-item" id="garcia2025geomobiles">
+<p><strong>Garcia, C., Sadallah, M., Scheffler, C., Mathian, H., Cunty, C., et al.</strong> (2025). GéoMobiles : Une plateforme pour la visualisation et l'analyse exploratoire de données géospatiales participatives. <em>Software</em>. <a href="https://hal.science/hal-05127583">HAL</a></p>
+</div>
+
 <div class="publication-year">2024</div>
 
 <div class="publication-item" id="sadallah2024recsys">
@@ -276,6 +288,10 @@ series = {CHI EA '26}
 <div id="maredj2024_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> This paper proposes a graph-based approach to determine the importance of each media in a multimedia document by expanding the traditional four-dimensional model with a dimension that captures the rhetorical relations between different media types. The proposed approach utilizes an algorithm to weight the media types based on their significance. The use of rhetorical structure theory enables the determination of the significance of each media type, making it useful for document adaptation, automatic composition, and automatic generation of summaries. The approach utilizes an extended orbits-based rhetorical structure that is a novel method for determining the importance of media types in multimedia documents. The proposed approach is effective in capturing the importance of each media type and can be utilized in a wide range of applications, making it a potential solution to the limitations of the traditional model. This research has implications for a range of applications, including document adaptation, automatic composition, and automatic generation of summaries.</p>
 </div>
+</div>
+
+<div class="publication-item" id="sadallah2024personnalisation">
+<p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2024). Personnalisation de l'expérience dans MOBILES : approche systématique et indicateurs de performance des recommandations. <em>Research Report</em>, LIRIS UMR 5205 CNRS/INSA de Lyon/Université Claude Bernard Lyon 1/Université Lumière Lyon 2/École Centrale de Lyon. <a href="https://hal.science/hal-05129483">HAL</a></p>
 </div>
 
 <div class="publication-year">2023</div>
@@ -331,6 +347,14 @@ series = {CHI EA '26}
 <div id="maredj2023set_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> In this paper, we propose a set of rhetorical relations to support applications such as automatic summary generation and content adaptation of a multimedia document. These relations have been proposed in the context of an educational environment. These rhetorical relations are integrated and handled as part of the logical dimension of the multimedia document. The proposal of these relations is motivated by the need to take into account the particularities inherent to: (1) the composition, editing and presentation of a multimedia document and (2) the educational context. Indeed, multimedia documents in an educational context are very different from textual documents, for which automatic analysis and generation have led to the proposal of a set of commonly used rhetorical relations, as described in the work of Mann and Thompson. The study of this now more common context allowed us to go beyond the body of existing work to develop a more appropriate set of rhetorical relationships related to educational multimedia documents.</p>
 </div>
+</div>
+
+<div class="publication-item" id="sadallah2023metriques">
+<p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2023). Analyse exploratoire des métriques d'annotations dans MOBILES. <em>Research Report</em>, LIRIS UMR 5205 CNRS/INSA de Lyon/Université Claude Bernard Lyon 1/Université Lumière Lyon 2/École Centrale de Lyon. <a href="https://hal.science/hal-05129539">HAL</a></p>
+</div>
+
+<div class="publication-item" id="sadallah2023traces">
+<p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2023). Définition et caractérisation du modèle de traces utilisateur pour l'application d'exploration urbaine MOBILES. <em>Research Report</em>, LIRIS UMR 5205 CNRS/INSA de Lyon/Université Claude Bernard Lyon 1/Université Lumière Lyon 2/École Centrale de Lyon. <a href="https://hal.science/hal-05120659">HAL</a></p>
 </div>
 
 <div class="publication-year">2022</div>
