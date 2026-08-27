@@ -69,9 +69,9 @@ permalink: /publications_by_type/
 </div>
 
 <div class="publication-item" id="maredj2024">
-<p><strong>Maredj, A-E., Sadallah, M., &amp; Tonkin, N.</strong> (2024). Enhancing Multimedia Document Modeling through Extended Orbits-Based Rhetorical Structure. <em>Knowledge and Information Systems</em>, 66(3), 1683-1707. Springer. <a href="https://rdcu.be/dorje">doi:10.1007/s10115-023-01984-6</a></p>
+<p><strong>Maredj, A-E., Sadallah, M., &amp; Tonkin, N.</strong> (2024). Enhancing Multimedia Document Modeling through Extended Orbits-Based Rhetorical Structure. <em>Knowledge and Information Systems</em>, 66(3), 1683-1707. Springer. <a href="http://doi.org/10.1007/s10115-023-01984-6">doi:10.1007/s10115-023-01984-6</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2024_abstract');" class="btn btn--primary">Abstract</a>
-<a href="https://rdcu.be/dorje" style="color:white" class="btn btn--warning">Fulltext</a>
+<a href="http://doi.org/10.1007/s10115-023-01984-6" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="maredj2024_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> This paper proposes a graph-based approach to determine the importance of each media in a multimedia document by expanding the traditional four-dimensional model with a dimension that captures the rhetorical relations between different media types. The proposed approach utilizes an algorithm to weight the media types based on their significance. The use of rhetorical structure theory enables the determination of the significance of each media type, making it useful for document adaptation, automatic composition, and automatic generation of summaries. The approach utilizes an extended orbits-based rhetorical structure that is a novel method for determining the importance of media types in multimedia documents. The proposed approach is effective in capturing the importance of each media type and can be utilized in a wide range of applications, making it a potential solution to the limitations of the traditional model. This research has implications for a range of applications, including document adaptation, automatic composition, and automatic generation of summaries.</p>
 </div>
