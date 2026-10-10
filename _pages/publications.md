@@ -23,87 +23,64 @@ permalink: /publications/
 <div class="publication-container">
 
 <div class="publication-year">2026</div>
+
 <div class="publication-item" id="sadallah2026ihm_arc">
-<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>accepted</em>). Orchestration multimodale en accessibilité STEM : du découplage architecture-performance au rendement cognitif différentiel. In <em>37ème Conférence Internationale Francophone sur l'Interaction Humain-Machine(IHM '26)</em>. Lille, France.</p>
+<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (2026). Orchestration multimodale en accessibilité STEM : du découplage architecture-performance au rendement cognitif différentiel. In <em>Proceedings of the 37th Conference on l'Interaction Humain-Machine (IHM '26)</em>, Villeneuve-d'Ascq, France, October 19-23, 2026. ACM, 16 pages. <a href="https://doi.org/10.1145/3845948.3845951">doi:10.1145/3845948.3845951</a> — <a href="https://hal.science/hal-05581185">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ihm_arc_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2026ihm_arc.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ihm_arc_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="sadallah2026ihm_arc_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Résumé.</strong> L'accessibilité des contenus STEM pour les personnes aveugles ou malvoyantes se heurte à un paradoxe persistant : l'accroissement de la sophistication architecturale des interfaces multimodales ne réduit pas systématiquement la charge cognitive. Deux causes structurelles expliquent ce paradoxe. D'une part, une illusion additive traverse implicitement la conception~: accumuler des canaux sensoriels est confondu avec leur orchestration, c'est-à-dire la coordination temporelle et sémantique des flux d'information en vue d'une représentation mentale unifiée. D'autre part, l'évaluation repose sur des métriques de complétion de tâche insensibles aux coûts cognitifs sous-jacents. Nous introduisons ARC (Architectural Readiness for perceptual Convergence), un cadre diagnostique opérationnalisant la qualité de l'orchestration multimodale selon quatre dimensions architecturales - cohérence temporelle, cohérence informationnelle, préservation structurelle, pertinence modale - et une variable de performance externe. Appliqué à un corpus de 66 études empiriques (2015-2025) portant sur des interfaces STEM non visuelles, notre analyse descriptive identifie trois régimes de maturité architecturale qualitativement distincts. Malgré des écarts structurels majeurs entre régimes, les métriques de performance mesurées ne varient pas significativement, révélant un découplage systématique entre ces dernières et sophistication architecturale. Nous formalisons ce résultat sous l'hypothèse du Rendement Cognitif Différentiel : des systèmes architecturalement distincts produisent des performances équivalentes tout en imposant probablement des coûts cognitifs fondamentalement différents --- un construit théoriquement fondé, qui appelle une validation expérimentale par des protocoles multi-métriques.</p>
-
 <p><strong>Abstract.</strong> Multimodal STEM accessibility for blind and visually impaired users faces a persistent paradox: increasing architectural sophistication does not systematically reduce cognitive load. We argue that two structural causes underlie this gap. First, an additive illusion pervades design practice, equating the mere accumulation of sensory channels with their purposeful orchestration—that is, the temporal and semantic coordination of information streams into a unified mental representation. Second, evaluation relies predominantly on task-completion metrics that are insensitive to the underlying cognitive costs. We introduce ARC (Architectural Readiness for perceptual Convergence), a diagnostic framework operationalizing multimodal orchestration quality across four architectural dimensions—temporal synchrony, informational coherence, structural preservation, and modal relevance—plus one external performance variable. Applied to a corpus of 66 empirical studies (2015-2025) on non-visual STEM interfaces, our descriptive analysis identifies three qualitatively distinct regimes of architectural maturity. Despite large structural differences across regimes, performance metrics show no systematic variation, revealing a consistent decoupling between architectural sophistication and task success. We formalize this as the Differential Cognitive Yield (DCY) hypothesis: architecturally divergent systems yield equivalent observable performance while likely imposing fundamentally different cognitive costs—a construct requiring experimental validation with multi-metric protocols. ARC contributes a reproducible scoring protocol with codified inter-rater procedures, empirically derived classification thresholds, and hierarchical design guidelines.</p>
-
 </div>
-
-  <div id="sadallah2026ihm_arc_bibtex" style="display:none;" class="publication-bibtex">
+<div id="sadallah2026ihm_arc_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{sadallah2026ihm_arc,
 author = {Sadallah, Madjid and Encelle, Beno\^{\i}t},
 title = {Orchestration multimodale en accessibilité STEM : du découplage architecture-performance au rendement cognitif différentiel},
 year = {2026},
-booktitle = {Actes de la 37ème Conférence Internationale Francophone sur l'Interaction Humain-Machine},
-series = {IHM '26}
+booktitle = {Proceedings of the 37th Conference on l'Interaction Humain-Machine (IHM '26)},
+series = {IHM '26},
+publisher = {ACM},
+address = {Villeneuve-d'Ascq, France},
+doi = {10.1145/3845948.3845951},
+pages = {16 pages}
 }</code></pre>
 </div>
 </div>
 
 <div class="publication-item" id="sadallah2026ihm_vcbi">
-<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>accepted</em>). Concevoir pour l'agentivité épistémique : paradoxe de vérification et affordances de contrôle dans les systèmes d'accessibilité IA. In <em>37ème Conférence Internationale Francophone sur l'Interaction Humain-Machine(IHM '26)</em>. Lille, France.</p>
+<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (2026). Concevoir pour l'agentivité épistémique : paradoxe de vérification et affordances de contrôle dans les systèmes d'accessibilité IA. In <em>Proceedings of the 37th Conference on l'Interaction Humain-Machine (IHM '26)</em>, Villeneuve-d'Ascq, France, October 19-23, 2026. ACM, 14 pages. <a href="https://doi.org/10.1145/3845948.3845954">doi:10.1145/3845948.3845954</a> — <a href="https://hal.science/hal-05581226">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ihm_vcbi_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2026ihm_vcbi.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ihm_vcbi_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="sadallah2026ihm_vcbi_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Résumé.</strong> Les systèmes d'accessibilité fondés sur l'IA sont passés de la transcription (restituer tel quel le contenu visuel) à l'interprétation (descriptions sélectives, souvent conversationnelles). Ce changement, tout en enrichissant l'expérience, fait émerger un paradoxe de vérification : les déficients visuels (DV - aveugles ou malvoyants), qui dépendent le plus des descriptions de l'IA, n'ont plus d'accès perceptuel pour détecter des erreurs critiques (hallucinations, erreurs de classification, dérive sémantique). Cette asymétrie est consubstantielle au rôle d'intermédiaire épistémique de l'IA, qui façonne l'information tout en supprimant les moyens de la vérifier. À travers une revue systématique évaluant de manière comparative 17 systèmes, nous introduisons le Verification‑Cognition Balance Index (VCBI). Cette métrique composite évalue l'équilibre entre deux leviers de vérifiabilité que sont la rigueur de validation du système et l'agentivité épistémique (capacité des utilisateurs à détecter les erreurs du système), et deux sources de charge cognitive liée à la vérification : la complexité architecturale du système et la densité de risque documenté. Nos résultats montrent entre autres que les architectures basées sur les transformeurs présentent un risque documenté nettement supérieur à celui des pipelines de vision classique, sans amélioration correspondante de l'équilibre vérification‑cognition, et que les systèmes hybrides spécialisés, bien que rare, offrent une voie plus prometteuse. Surtout, les évaluations actuelles privilégient la mesure de la précision système au détriment de l'agentivité épistémique. Ancrés dans la théorie de l'agentivité épistémique, nous plaidons pour un recentrage de l'évaluation - de la précision système vers la vérifiabilité par l'utilisateur, et proposons trois schémas de conception actionnables—transparence de provenance, signalement non visuel de l'incertitude, et interactions de contestation—qui opérationnalisent ce principe pour les utilisateurs DV.</p>
-
 <p><strong>Abstract.</strong> AI-powered accessibility systems have shifted from transcription (rendering visual content as-is) to interpretation (generating selective, conversational narratives). While this evolution enriches user experience, it also introduces a verification paradox: blind and low-vision (BLV) users, who rely most heavily on AI descriptions, are the very people who lack the independent perceptual access needed to detect consequential errors—hallucinations, misclassifications, or semantic drift. This asymmetry is inherent whenever AI acts as an epistemic intermediary, shaping information while simultaneously removing the means to verify it. Through a systematic review with comparative analysis of 17 empirically evaluated systems, we introduce the Verification-Cognition Balance Index (VCBI). This composite metric quantifies the equilibrium between two enablers of verification (validation rigor and user agency) and two sources of epistemic burden (architectural complexity and documented risk density). Our findings reveal that transformer-based architectures exhibit substantially higher documented risk than classical computer-vision pipelines, yet they offer no corresponding improvement in verification balance. Specialized hybrid systems point toward a more promising, though presently rare, alternative. Most critically, current evaluations emphasize system accuracy while overlooking whether users can detect AI errors. Grounded in epistemic agency theory, we argue for a necessary shift from system accuracy to user verifiability and distill three actionable design patterns—provenance transparency, non-visual uncertainty signaling, and contestation interactions—that make this principle concrete for BLV users.</p>
-
 </div>
-
-  <div id="sadallah2026ihm_vcbi_bibtex" style="display:none;" class="publication-bibtex">
+<div id="sadallah2026ihm_vcbi_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{sadallah2026ihm_vcbi,
 author = {Sadallah, Madjid and Encelle, Beno\^{\i}t},
 title = {Concevoir pour l'agentivité épistémique : paradoxe de vérification et affordances de contrôle dans les systèmes d'accessibilité IA},
 year = {2026},
-booktitle = {Actes de la 37ème Conférence Internationale Francophone sur l'Interaction Humain-Machine},
-series = {IHM '26}
-}</code></pre>
-</div>
-</div>
-
-<div class="publication-item" id="sadallah2026slr">
-<p><strong>Sadallah, M.</strong>, & Encelle, B. (2026). Systematic Review Protocol: Interactive Digital Technologies for Non-Visual Access to 2D STEM Content by Blind and Low-Vision Individuals. <em>Preprint</em>. <a href="https://doi.org/10.5281/zenodo.19461731">doi:10.5281/zenodo.19461731</a> (also registered on OSF: <a href="https://doi.org/10.17605/OSF.IO/TJ5QZ">10.17605/OSF.IO/TJ5QZ</a>)</p>
-
-<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026slr_abstract');" class="btn btn--primary">Abstract</a>
-<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026slr_bibtex');" class="btn btn--info">Bibtex</a>
-<a href="https://zenodo.org/records/19461731/files/bvi_stem_slr.pdf" style="color:white" class="btn btn--warning" target="_blank">PDF Protocol</a>
-<a href="https://zenodo.org/records/19461731/files/bvi_stem_slr.zip" style="color:white" class="btn btn--warning" target="_blank">Materials (zip)</a>
-
-<div id="sadallah2026slr_abstract" style="display:none;" class="publication-abstract">
-<p><strong>Abstract.</strong> This protocol presents a registered systematic review that aims to synthesize the landscape of interactive digital technologies enabling blind and low-vision (BLV) individuals to access two-dimensional STEM content — including data visualizations, mathematical notations, diagrams, maps, and tables — through non-visual modalities (tactile, auditory, haptic, or multimodal). Accessibility research in STEM faces persistent methodological challenges: small sample sizes, high heterogeneity of study designs, and the socio-technical complexity of interventions, which often render traditional frameworks such as PICO inadequate. To overcome these limitations, this protocol introduces a novel and coherent integration of three complementary frameworks: PRISMA 2020 for rigorous and transparent reporting, SPIDER for conceptually sound organization of diverse evidence (particularly qualitative and mixed-methods studies), and MMAT 2018 for non-hierarchical quality assessment across five study typologies. The review further adopts Cognitive Load Theory to analyze the cognitive demands imposed by different access solutions and the Technology Acceptance Model (TAM) extended by UTAUT to examine usability, acceptance, and adoption factors. Methodological innovations include a hierarchical coding scheme with precise operational definitions, a dual-template data extraction architecture (broad mapping + in-depth analysis), and a fully open validation infrastructure using Python and R scripts. Pilot testing on 24 studies achieved excellent inter-rater reliability (ICC = 0.92). All extraction templates, codebooks, and validation scripts are publicly released alongside the protocol to promote transparency, reproducibility, and cumulative science in the field of inclusive STEM technologies.</p>
-</div>
-
-<div id="sadallah2026slr_bibtex" style="display:none;" class="publication-bibtex">
-<pre><code>@misc{sadallah2026slr,
-  title        = {Systematic Review Protocol: Interactive Digital Technologies for Non-Visual Access to 2D STEM Content by Blind and Low-Vision Individuals},
-  author       = {Madjid Sadallah and Benoît Encelle},
-  year         = {2026},
-  month        = {April},
-  doi          = {10.5281/zenodo.19461731},
-  url          = {https://doi.org/10.5281/zenodo.19461731},
-  note         = {Also registered on OSF: https://doi.org/10.17605/OSF.IO/TJ5QZ}
+booktitle = {Proceedings of the 37th Conference on l'Interaction Humain-Machine (IHM '26)},
+series = {IHM '26},
+publisher = {ACM},
+address = {Villeneuve-d'Ascq, France},
+doi = {10.1145/3845948.3845954},
+pages = {14 pages}
 }</code></pre>
 </div>
 </div>
 
 <div class="publication-item" id="sadallah2026chi">
-<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>2026</em>). Beyond Additive Design: An Empirical Taxonomy of Multimodal STEM Accessibility Systems. In <em>Extended abstracts of the CHI conference on human factors in computing systems (CHI '26)</em>. Barcelona, Spain: ACM, April 13-17, 2026.</p>
+<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (2026). Beyond Additive Design: An Empirical Taxonomy of Multimodal STEM Accessibility Systems. In <em>Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '26)</em>. Barcelona, Spain: ACM, April 13-17, 2026. <a href="https://doi.org/10.1145/3772363.3799343">doi:10.1145/3772363.3799343</a> — <a href="https://hal.science/hal-05530653">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026chi_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2026chi.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026chi_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="sadallah2026chi_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> Multimodal systems combining audio, haptic, and tactile channels are prevalent in STEM accessibility for blind and visually impaired users, yet real-world feedback reports high cognitive load despite technological advances. Through analysis of 66 systems (2015-2025), we identify three design regimes: additive (channel stacking), augmentative (partial coordination), and integrative (orchestrated fusion). We reveal a critical evaluation gap: while architectural quality varies dramatically, conventional performance metrics show no regime variation, indicating current metrics miss the cognitive cost of poorly integrated designs. We contribute: (1) a diagnostic framework with high reliability; (2) evidence of a performance-architecture decoupling where cognitive costs diverge despite similar task performance; and (3) design thresholds for creating perceptually integrated experiences. Our work calls for shifting from interface engineering to perceptual integration engineering.</p>
 </div>
-
-  <div id="sadallah2026chi_bibtex" style="display:none;" class="publication-bibtex">
+<div id="sadallah2026chi_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{sadallah2026chi,
 author = {Sadallah, Madjid and Encelle, Beno\^{\i}t},
 title = {Beyond Additive Design: An Empirical Taxonomy of Multimodal STEM Accessibility Systems},
@@ -123,94 +100,102 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item" id="sadallah2026w4a">
-<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>2026</em>). The verification gap in AI accessibility: A meta-analysis of architectural paradigms and agency deficits. In <em>Proceedings of the 23rd International Web for All Conference (W4A'26)</em>. Dubai, United Arab Emirates: ACM.</p>
+<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (2026). The verification gap in AI accessibility: A meta-analysis of architectural paradigms and agency deficits. In <em>Proceedings of the 23rd International Web for All Conference (W4A '26)</em>, pages 211-221. Dubai, United Arab Emirates: ACM. <a href="https://doi.org/10.1145/3800424.3800451">doi:10.1145/3800424.3800451</a> — <a href="https://hal.science/hal-05530676">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026w4a_abstract');" class="btn btn--primary">Abstract</a>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026w4a_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="sadallah2026w4a_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> AI-powered accessibility systems have shifted from transcription to interpretation, creating a verification paradox: blind and low-vision (BLV) users, who most rely on AI-generated narratives, lack perceptual redundancy to detect errors such as hallucinations or semantic drift, resulting in an agency deficit. Through a systematic meta-analysis of 17 empirically evaluated AI accessibility systems (2019-2025), we examine how architectural choices shape verification affordances. We introduce the Verification-Cognition Balance Index (VCBI), a composite metric quantifying trade-offs between validation rigor, user agency, complexity, and risk. Our analysis uncovers weak overall balance across the field, with transformer-based systems showing higher risk density than classical computer vision despite negligible validation improvements. Only hybrid specialized architectures-constraining AI to narrow semantic subtasks-achieve good balance. We argue for a necessary paradigm shift in evaluation from system accuracy to user verifiability.</p>
-<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026w4a_bibtex');" class="btn btn--info">Bibtex</a>
+</div>
 <div id="sadallah2026w4a_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{sadallah2026w4a,
-  author = {Sadallah, Madjid and Encelle, Beno\^{\i}t},
-  title = {The Verification Gap in AI Accessibility: A Meta-Analysis of Architectural Paradigms and Agency Deficits},
-  year = {2026},
-  booktitle = {Proceedings of the 23rd International Web for All Conference (W4A'26)},
-  pages = {211--221},
-  publisher = {Association for Computing Machinery},
-  address = {Dubai, United Arab Emirates},
-  doi = {10.1145/3800424.3800451}
+author = {Sadallah, Madjid and Encelle, Beno\^{\i}t},
+title = {The Verification Gap in AI Accessibility: A Meta-Analysis of Architectural Paradigms and Agency Deficits},
+year = {2026},
+booktitle = {Proceedings of the 23rd International Web for All Conference (W4A '26)},
+pages = {211--221},
+publisher = {Association for Computing Machinery},
+address = {Dubai, United Arab Emirates},
+doi = {10.1145/3800424.3800451}
 }</code></pre>
-</div>
 </div>
 </div>
 
 <div class="publication-item" id="sadallah2026csedu">
-<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (<em>2026</em>). The Technical Capability Fallacy: A Case for Pedagogy-Centered Design in Assistive STEM Education. In <em>18th International Conference on Computer Supported Education (CSEDU 2026)</em>. Benidorm, Spain, May 18-20, 2026.</p>
+<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (2026). The Technical Capability Fallacy: A Case for Pedagogy-Centered Design in Assistive STEM Education. In <em>18th International Conference on Computer Supported Education (CSEDU 2026)</em>. Benidorm, Spain, May 18-20, 2026. <a href="https://hal.science/hal-05571785">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026csedu_abstract');" class="btn btn--primary">Abstract</a>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026csedu_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="sadallah2026csedu_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> Assistive educational technologies for blind and visually impaired STEM learners perform well in controlled studies yet fail to achieve sustained classroom adoption. Analysis of 25 empirical studies reveals the cause: tools are designed and evaluated against technical metrics that do not predict pedagogical success. We term this the technical capability fallacy: the assumption that technical capability ensures pedagogical utility. To address this, we propose FOCAL (Framework for Objective-Context ALignment), which specifies what a tool must provide for each combination of learning objective and educational context.</p>
-<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026csedu_bibtex');" class="btn btn--info">Bibtex</a>
+</div>
 <div id="sadallah2026csedu_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{sadallah2026csedu,
-  author = {Sadallah, Madjid and Encelle, Beno\^{\i}t},
-  title = {The Technical Capability Fallacy: A Case for Pedagogy-Centered Design in Assistive STEM Education},
-  year = {2026},
-  booktitle = {18th International Conference on Computer Supported Education (CSEDU 2026)},
-  address = {Benidorm, Spain}
+author = {Sadallah, Madjid and Encelle, Beno\^{\i}t},
+title = {The Technical Capability Fallacy: A Case for Pedagogy-Centered Design in Assistive STEM Education},
+year = {2026},
+booktitle = {18th International Conference on Computer Supported Education (CSEDU 2026)},
+address = {Benidorm, Spain}
 }</code></pre>
-</div>
 </div>
 </div>
 
 <div class="publication-item" id="sadallah2026ancree">
-  <p>
-    <strong>Sadallah, M., Encelle, B., Mille, A., &amp; Guillet, V.</strong>
-    (<em>2026</em>). L’Ancre et le Flux : complémentarité cognitive entre braille et interfaces interprétatives dans les domaines formels.
-    In <em>14ème édition de la conférence sur les recherches pluridisciplinaires pour l’autonomie des personnes en situation de handicap</em>.
-    Aubervilliers &amp; Paris, France : IFRATH.
-  </p>
-  <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ancree_abstract');" class="btn btn--primary">Abstract</a>
-  <div id="sadallah2026ancree_abstract" style="display:none;" class="publication-abstract">
-    <p>
-      <strong>Abstract.</strong> La marginalisation du braille dans l'accessibilité numérique repose sur un paradigme de substitution modale postulant l'équivalence cognitive entre audio et accès tactile. Or, dans les domaines formels (mathématiques, programmation, sciences), cette équivalence s'effondre : les exigences de navigation non linéaire, de vérification syntaxique et de manipulation symbolique révèlent une complémentarité structurelle irréductible. Nous développons le modèle de l'Ancre et du Flux : l'Ancre (braille) assure stabilisation cognitive et audit épistémique, tandis que le Flux (audio-IA) permet exploration contextuelle et interaction fluide. Face aux hallucinations des IA génératives, le braille s'impose comme infrastructure critique de vérification indépendante. Nous établissons quatre principes normatifs de conception d'interfaces accessibles et soutenons que cette complémentarité constitue une nécessité architecturale de la cognition distribuée. Le droit à l'audit épistémique, matérialisé par l'accès braille, fonde ainsi la souveraineté cognitive à l'ère algorithmique.
-    </p>
-  </div>
-  <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ancree_bibtex');" class="btn btn--info">Bibtex</a>
-  <div id="sadallah2026ancree_bibtex" style="display:none;" class="publication-bibtex">
+<p><strong>Sadallah, M., Encelle, B., Mille, A., &amp; Guillet, V.</strong> (2026). L'Ancre et le Flux : complémentarité cognitive entre braille et interfaces interprétatives dans les domaines formels. In <em>14ème édition de la conférence sur les recherches pluridisciplinaires pour l'autonomie des personnes en situation de handicap</em>. Aubervilliers &amp; Paris, France : IFRATH. <a href="https://hal.science/hal-05581093">HAL</a></p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ancree_abstract');" class="btn btn--primary">Abstract</a>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ancree_bibtex');" class="btn btn--info">Bibtex</a>
+<div id="sadallah2026ancree_abstract" style="display:none;" class="publication-abstract">
+<p><strong>Abstract.</strong> La marginalisation du braille dans l'accessibilité numérique repose sur un paradigme de substitution modale postulant l'équivalence cognitive entre audio et accès tactile. Or, dans les domaines formels (mathématiques, programmation, sciences), cette équivalence s'effondre : les exigences de navigation non linéaire, de vérification syntaxique et de manipulation symbolique révèlent une complémentarité structurelle irréductible. Nous développons le modèle de l'Ancre et du Flux : l'Ancre (braille) assure stabilisation cognitive et audit épistémique, tandis que le Flux (audio-IA) permet exploration contextuelle et interaction fluide. Face aux hallucinations des IA génératives, le braille s'impose comme infrastructure critique de vérification indépendante. Nous établissons quatre principes normatifs de conception d'interfaces accessibles et soutenons que cette complémentarité constitue une nécessité architecturale de la cognition distribuée. Le droit à l'audit épistémique, matérialisé par l'accès braille, fonde ainsi la souveraineté cognitive à l'ère algorithmique.</p>
+</div>
+<div id="sadallah2026ancree_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{sadallah2026ancree,
-  author = {Sadallah, Madjid and Encelle, Beno\^{\i}t and Mille, Alain and Guillet, Vivien},
-  title = {L'Ancre et le Flux : complémentarité cognitive entre braille et interfaces interprétatives dans les domaines formels},
-  year = {2026},
-  booktitle = {14ème édition de la conférence sur les recherches pluridisciplinaires pour l'autonomie des personnes en situation de handicap},
-  organization = {IFRATH},
-  address = {Aubervilliers \& Paris, France}
+author = {Sadallah, Madjid and Encelle, Beno\^{\i}t and Mille, Alain and Guillet, Vivien},
+title = {L'Ancre et le Flux : complémentarité cognitive entre braille et interfaces interprétatives dans les domaines formels},
+year = {2026},
+booktitle = {14ème édition de la conférence sur les recherches pluridisciplinaires pour l'autonomie des personnes en situation de handicap},
+organization = {IFRATH},
+address = {Aubervilliers \& Paris, France}
 }</code></pre>
-  </div>
+</div>
 </div>
 
 <div class="publication-item" id="sadallah2026coobra">
-  <p>
-    <strong>Sadallah, M., Encelle, B., Mille, A., Guillet, V., &amp; Virgo, J.</strong>
-    (<em>2026</em>). Partenariat épistémique et recherche participative : le projet COOBRA comme démonstrateur méthodologique.
-    In <em>14ème édition de la conférence sur les recherches pluridisciplinaires pour l’autonomie des personnes en situation de handicap</em>.
-    Aubervilliers &amp; Paris, France : IFRATH, Jun 2026. 
-  </p>
-  <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026coobra_abstract');" class="btn btn--primary">Abstract</a>
-  <div id="sadallah2026coobra_abstract" style="display:none;" class="publication-abstract">
-    <p>
-      <strong>Abstract.</strong> Les personnes déficientes visuelles (DV) restent marginalisées dans les parcours scientifiques, freinées par l'inaccessibilité des documents techniques et par l'absence de collaboration "équitable" avec les voyants. Si la conception participative est désormais une pratique courante, elle n'engage pas les utilisateurs DV comme co-chercheurs. Cet article présente l'application du partenariat épistémique (co-construction de savoirs) dans le cadre d'un projet ANR SAPS (Science Avec et Pour la Société) lié à l'accessibilité numérique. Notre contribution est méthodologique : nous opérationnalisons ce partenariat avec un niveau élevé d'exigence (constitution d'un collectif paritaire, gouvernance par non-dissensus, accessibilité intégrale du dispositif de recherche) ; nous démontrons la faisabilité de travaux empiriques rigoureux entièrement co-construits ; nous exploitons la réflexivité comme levier de conception, en transformant les difficultés d'awareness vécues dans le collectif en spécifications techniques. Cette approche renouvelle ainsi la recherche en accessibilité en répondant à l'ambition d'une science avec et pour la société.
-    </p>
-  </div>
-  <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026coobra_bibtex');" class="btn btn--info">Bibtex</a>
-  <div id="sadallah2026coobra_bibtex" style="display:none;" class="publication-bibtex">
+<p><strong>Sadallah, M., Encelle, B., Mille, A., Guillet, V., &amp; Virgo, J.</strong> (2026). Partenariat épistémique et recherche participative : le projet COOBRA comme démonstrateur méthodologique. In <em>14ème édition de la conférence sur les recherches pluridisciplinaires pour l'autonomie des personnes en situation de handicap</em>. Aubervilliers &amp; Paris, France : IFRATH, Jun 2026. <a href="https://hal.science/hal-05581094">HAL</a></p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026coobra_abstract');" class="btn btn--primary">Abstract</a>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026coobra_bibtex');" class="btn btn--info">Bibtex</a>
+<div id="sadallah2026coobra_abstract" style="display:none;" class="publication-abstract">
+<p><strong>Abstract.</strong> Les personnes déficientes visuelles (DV) restent marginalisées dans les parcours scientifiques, freinées par l'inaccessibilité des documents techniques et par l'absence de collaboration "équitable" avec les voyants. Si la conception participative est désormais une pratique courante, elle n'engage pas les utilisateurs DV comme co-chercheurs. Cet article présente l'application du partenariat épistémique (co-construction de savoirs) dans le cadre d'un projet ANR SAPS (Science Avec et Pour la Société) lié à l'accessibilité numérique. Notre contribution est méthodologique : nous opérationnalisons ce partenariat avec un niveau élevé d'exigence (constitution d'un collectif paritaire, gouvernance par non-dissensus, accessibilité intégrale du dispositif de recherche) ; nous démontrons la faisabilité de travaux empiriques rigoureux entièrement co-construits ; nous exploitons la réflexivité comme levier de conception, en transformant les difficultés d'awareness vécues dans le collectif en spécifications techniques. Cette approche renouvelle ainsi la recherche en accessibilité en répondant à l'ambition d'une science avec et pour la société.</p>
+</div>
+<div id="sadallah2026coobra_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{sadallah2026coobra,
-  author = {Sadallah, Madjid and Encelle, Beno\^{\i}t and Mille, Alain and Guillet, Vivien and Virgo, Jérémy},
-  title = {Partenariat épistémique et recherche participative : le projet COOBRA comme démonstrateur méthodologique},
-  year = {2026},
-  booktitle = {14ème édition de la conférence sur les recherches pluridisciplinaires pour l'autonomie des personnes en situation de handicap},
-  organization = {IFRATH},
-  address = {Aubervilliers \& Paris, France}
+author = {Sadallah, Madjid and Encelle, Beno\^{\i}t and Mille, Alain and Guillet, Vivien and Virgo, Jérémy},
+title = {Partenariat épistémique et recherche participative : le projet COOBRA comme démonstrateur méthodologique},
+year = {2026},
+booktitle = {14ème édition de la conférence sur les recherches pluridisciplinaires pour l'autonomie des personnes en situation de handicap},
+organization = {IFRATH},
+address = {Aubervilliers \& Paris, France}
 }</code></pre>
-  </div>
+</div>
+</div>
+
+<div class="publication-item" id="sadallah2026slr">
+<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (2026). Systematic Review Protocol: Interactive Digital Technologies for Non-Visual Access to 2D STEM Content by Blind and Low-Vision Individuals. <em>Preprint</em>. <a href="https://doi.org/10.5281/zenodo.19461731">doi:10.5281/zenodo.19461731</a> (also registered on OSF: <a href="https://doi.org/10.17605/OSF.IO/TJ5QZ">10.17605/OSF.IO/TJ5QZ</a> ; HAL: <a href="https://hal.science/hal-05583961">hal-05583961</a>)</p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026slr_abstract');" class="btn btn--primary">Abstract</a>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026slr_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="https://zenodo.org/records/19461731/files/bvi_stem_slr.pdf" style="color:white" class="btn btn--warning" target="_blank">PDF Protocol</a>
+<a href="https://zenodo.org/records/19461731/files/bvi_stem_slr.zip" style="color:white" class="btn btn--warning" target="_blank">Materials (zip)</a>
+<div id="sadallah2026slr_abstract" style="display:none;" class="publication-abstract">
+<p><strong>Abstract.</strong> This protocol presents a registered systematic review that aims to synthesize the landscape of interactive digital technologies enabling blind and low-vision (BLV) individuals to access two-dimensional STEM content — including data visualizations, mathematical notations, diagrams, maps, and tables — through non-visual modalities (tactile, auditory, haptic, or multimodal). Accessibility research in STEM faces persistent methodological challenges: small sample sizes, high heterogeneity of study designs, and the socio-technical complexity of interventions, which often render traditional frameworks such as PICO inadequate. To overcome these limitations, this protocol introduces a novel and coherent integration of three complementary frameworks: PRISMA 2020 for rigorous and transparent reporting, SPIDER for conceptually sound organization of diverse evidence (particularly qualitative and mixed-methods studies), and MMAT 2018 for non-hierarchical quality assessment across five study typologies. The review further adopts Cognitive Load Theory to analyze the cognitive demands imposed by different access solutions and the Technology Acceptance Model (TAM) extended by UTAUT to examine usability, acceptance, and adoption factors. Methodological innovations include a hierarchical coding scheme with precise operational definitions, a dual-template data extraction architecture (broad mapping + in-depth analysis), and a fully open validation infrastructure using Python and R scripts. Pilot testing on 24 studies achieved excellent inter-rater reliability (ICC = 0.92). All extraction templates, codebooks, and validation scripts are publicly released alongside the protocol to promote transparency, reproducibility, and cumulative science in the field of inclusive STEM technologies.</p>
+</div>
+<div id="sadallah2026slr_bibtex" style="display:none;" class="publication-bibtex">
+<pre><code>@misc{sadallah2026slr,
+  title        = {Systematic Review Protocol: Interactive Digital Technologies for Non-Visual Access to 2D STEM Content by Blind and Low-Vision Individuals},
+  author       = {Madjid Sadallah and Benoît Encelle},
+  year         = {2026},
+  month        = {April},
+  doi          = {10.5281/zenodo.19461731},
+  url          = {https://doi.org/10.5281/zenodo.19461731},
+  note         = {Also registered on OSF: https://doi.org/10.17605/OSF.IO/TJ5QZ}
+}</code></pre>
+</div>
 </div>
 
 <div class="publication-item" id="sadallah2026est">
@@ -261,13 +246,31 @@ series = {CHI EA '26}
 </div>
 </div>
 
+<div class="publication-item" id="sadallah2026focal">
+<p><strong>Sadallah, M., &amp; Encelle, B.</strong> (2026). FOCAL: a scored web application for objective–context alignment in assistive STEM technology. <em>Software</em>, version 1.0.0. <a href="https://hal.science/hal-05754052">HAL</a> — Repository: <a href="https://gitlab.liris.cnrs.fr/coobra/focal">GitLab LIRIS</a> (MIT License)</p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026focal_bibtex');" class="btn btn--info">Bibtex</a>
+<div id="sadallah2026focal_bibtex" style="display:none;" class="publication-bibtex">
+<pre><code>@softwareversion{sadallah2026focal,
+  author = {Sadallah, Madjid and Encelle, Beno\^{\i}t},
+  title = {FOCAL: a scored web application for objective--context alignment in assistive STEM technology},
+  year = {2026},
+  month = {July},
+  version = {1.0.0},
+  license = {MIT License},
+  repository = {https://gitlab.liris.cnrs.fr/coobra/focal},
+  howpublished = {\url{https://hal.science/hal-05754052}}
+}</code></pre>
+</div>
+</div>
+
 <div class="publication-year">2025</div>
 
 <div class="publication-item" id="grassin2025">
-<p><strong>Grassin, J-F., Chevalier, D., Cunty, C., Mathian, H., Scheffler, C., Lefevre, M., &amp; Sadallah, M.</strong> (2025). Mobiles: cartographie sensible et récits multimodaux. In <em>Des images et des mots, des mots sur les images de la mobilité académique</em>. Université de Fribourg, Suisse.</p>
+<p><strong>Grassin, J-F., Chevalier, D., Cunty, C., Mathian, H., Scheffler, C., Lefevre, M., &amp; Sadallah, M.</strong> (2025). Mobiles: cartographie sensible et récits multimodaux. In <em>Des images et des mots, des mots sur les images de la mobilité académique</em>. Université de Fribourg, Suisse. <a href="https://hal.science/hal-05488824">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('grassin2025_abstract');" class="btn btn--primary">Abstract</a>
 <div id="grassin2025_abstract" style="display:none;" class="publication-abstract">
-<p><strong>Abstract.</strong> Notre proposition s'appuie sur le projet Mobiles qui s'attache à analyser la socialisation langagière d'étudiants internationaux en séjour d'immersion en France. L'hypothèse forte de cette recherche est qu'il convient de s'intéresser à l'hétérogénéité des pratiques socio-spatiales urbaines pour comprendre les processus de socialisation langagière. La socialisation des étudiants internationaux, immergés dans un nouveau contexte à la fois social et langagier est au cœur de notre problématique et nous cherchons à comprendre et analyser la matérialité et la spatialité de ces divers processus. La socialité s'instaure à travers les expériences partagées par les individus au sein d'espaces communs (Lussault, 2007), de communautés discursives et de pratiques (Duff, 2007). Considérant que l'espace est une performance collective (Besse, 2018), nous avons mis en place des formes et des situations collectives d'enquête pour comprendre les expériences des lieux et la manière dont la socialisation y était liée (Danos &amp; Grassin, 2024). De plus, tout espace est l'espace d'une enaction identitaire (Moje, 2004) et celui d'un apprentissage expérientiel (Lovett, 2020). Ces situations d'enquête nous ont permis de recueillir des « small stories » (Bamberg &amp; Georgakopoulou, 2008), récits courts, fragmentés et interactifs, qui mettent en évidence des orientations narratives vers le monde sensibles aux interactions avec l'environnement. Après avoir présenté ces situations d'enquête socio-spatiale, nous présentons les ressources pédagogiques créées par le projet : 1/ des ateliers de cartographie ont été conçus pour la classe de langue. Ils se déroulent autour de grandes cartes de la ville de Lyon (format A1) et proposent différentes activités permettant aux étudiants et étudiantes de conscientiser leurs rapports à la ville et à leurs stratégies d'apprentissage expérientiel. 2/ une application de cartographie participative qui s'entend comme un dispositif exploratoire de la ville (Mellot, 2016) qui, en donnant à voir la diversité et la potentielle (re)territorialisation des expériences, rend tangible la présence et la participation. L'application, fonctionnant comme un architexte propice au récit multimodal, permet l'écriture de l'expérience entre un « montrer » et un « raconter » (Grassin &amp; Danos, 2024). Nous proposons un focus plus spécifique sur l'attachement aux lieux et la multimodalité des récits. Notre projet permet d'aborder ce cadre environnemental de l'apprentissage selon deux perspectives identifiées par Phil Benson : an 'areal' perspective in which the environment is viewed as a geographical area (e.g. a campus, a city or a region) and an 'individual' perspective in which the environment is viewed as a configuration of settings assembled by an individual learner (Benson, 2021, p. 91). En s'appuyant sur la participation et sur la dimension expérientielle de l'apprentissage (le vécu cognitif, langagier, social, affectif de l'apprenant), le dispositif relève d'une écologisation du design pédagogique (Paquelin, 2020) cherchant à favoriser l'engagement des sujets dans leur environnement et leur agentivité.</p>
+<p><strong>Abstract.</strong> Notre proposition s'appuie sur le projet Mobiles qui s'attache à analyser la socialisation langagière d'étudiants internationaux en séjour d'immersion en France. L'hypothèse forte de cette recherche est qu'il convient de s'intéresser à l'hétérogénéité des pratiques socio-spatiales urbaines pour comprendre les processus de socialisation langagière. La socialisation des étudiants internationaux, immergés dans un nouveau contexte à la fois social et langagier est au cœur de notre problématique et nous cherchons à comprendre et analyser la matérialité et la spatialité de ces divers processus. La socialité s'instaure à travers les expériences partagées par les individus au sein d'espaces communs (Lussault, 2007), de communautés discursives et de pratiques (Duff, 2007). Considérant que l'espace est une performance collective (Besse, 2018), nous avons mis en place des formes et des situations collectives d'enquête pour comprendre les expériences des lieux et la manière dont la socialisation y était liée (Danos &amp; Grassin, 2024). De plus, tout espace est l'espace d'une enaction identitaire (Moje, 2004) et celui d'un apprentissage expérientiel (Lovett, 2020). Ces situations d'enquête nous ont permis de recueillir des « small stories » (Bamberg &amp; Georgakopoulou, 2008), récits courts, fragmentés et interactifs, qui mettent en évidence des orientations narratives vers le monde sensibles aux interactions avec l'environnement.</p>
+</div>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('grassin2025_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="grassin2025_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{grassin2025,
@@ -280,10 +283,9 @@ series = {CHI EA '26}
 }</code></pre>
 </div>
 </div>
-</div>
 
 <div class="publication-item" id="sadallah2025recommander">
-<p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2025). Recommander pour Soutenir l'Exploration Urbaine et le Partage d'Expériences entre Étudiants Internationaux. In <em>Actes de la 12e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain (EIAH 2025)</em>.</p>
+<p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2025). Recommander pour Soutenir l'Exploration Urbaine et le Partage d'Expériences entre Étudiants Internationaux. In <em>Actes de la 12e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain (EIAH 2025)</em>, pages 308-323, Lille, France. <a href="https://hal.science/hal-05047692">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2025recommander_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2025recommander.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2025recommander_abstract" style="display:none;" class="publication-abstract">
@@ -303,7 +305,7 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item" id="sadallah2025application">
-<p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2025). L'application MOBILES: favoriser le partage d'expériences urbaines entre étudiants internationaux. In <em>Actes de la 12e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain (EIAH 2025)</em>.</p>
+<p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2025). L'application MOBILES: favoriser le partage d'expériences urbaines entre étudiants internationaux. In <em>Actes de la 12e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain (EIAH 2025)</em>, pages 582-588, Lille, France. <a href="https://hal.science/hal-05051159">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2025application_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2025application.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2025application_abstract" style="display:none;" class="publication-abstract">
@@ -323,7 +325,7 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item" id="scheffler2025">
-<p><strong>Scheffler, C., Chevalier, D., Cunty, C., Grassin, J-F., Joliveau, T., Lefevre, M., &amp; Sadallah, M.</strong> (2025). Approche géomatique des expériences des lieux avec une application contributive. In <em>Actes de la Conférence Spatial Analysis and GEOmatics (SAGEO 2025)</em>.</p>
+<p><strong>Scheffler, C., Cunty, C., Joliveau, T., Mathian, H., Chevalier, D., Grassin, J-F., Lefevre, M., &amp; Sadallah, M.</strong> (2025). Approche géomatique des expériences des lieux avec une application contributive. Discussion à partir d'une expérimentation auprès des étudiant×es internationaux×ales. In <em>Actes de la Conférence Spatial Analysis and GEOmatics (SAGEO 2025)</em>, Avignon, France. <a href="https://hal.science/hal-05484363">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('scheffler2025_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/scheffler2025approche.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="scheffler2025_abstract" style="display:none;" class="publication-abstract">
@@ -331,7 +333,7 @@ series = {CHI EA '26}
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('scheffler2025_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="scheffler2025_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{scheffler2025,
-  author = {Scheffler, Camille and Chevalier, Dominique and Cunty, Claire and Grassin, Jean-Fran\c{c}ois and Joliveau, Thierry and Lefevre, Marie and Sadallah, Madjid},
+  author = {Scheffler, Camille and Cunty, Claire and Joliveau, Thierry and Mathian, H\'{e}l\`{e}ne and Chevalier, Dominique and Grassin, Jean-Fran\c{c}ois and Lefevre, Marie and Sadallah, Madjid},
   title = {Approche g\'{e}omatique des exp\'{e}riences des lieux avec une application contributive},
   year = {2025},
   booktitle = {Actes de la Conf\'{e}rence Spatial Analysis and GEOmatics (SAGEO 2025)},
@@ -343,7 +345,7 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item" id="sadallah2025personalized">
-<p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2025). Personalized Recommender System for Improving Urban Exploration and Experience Documentation of International Students. In <em>Proceedings of the 17th International Conference on Computer Supported Education (CSEDU 2025)</em>, pages 923-930. DOI: 10.5220/0013202800003932</p>
+<p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2025). Personalized Recommender System for Improving Urban Exploration and Experience Documentation of International Students. In <em>Proceedings of the 17th International Conference on Computer Supported Education (CSEDU 2025)</em>, Vol. 2, pages 923-930, Porto, Portugal. <a href="https://doi.org/10.5220/0013202800003932">doi:10.5220/0013202800003932</a> — <a href="https://hal.science/hal-04930050">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2025personalized_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2025personalized.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2025personalized_abstract" style="display:none;" class="publication-abstract">
@@ -363,12 +365,27 @@ series = {CHI EA '26}
 </div>
 </div>
 
+<div class="publication-item" id="sadallah2025usercentered">
+<p><strong>Sadallah, M.</strong> (2025). User-Centered Course Reengineering: An Analytical Approach to Enhancing Reading Comprehension in Educational Content. <em>ArXiv</em>. <a href="https://doi.org/10.48550/arXiv.2505.12064">doi:10.48550/arXiv.2505.12064</a></p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2025usercentered_bibtex');" class="btn btn--info">Bibtex</a>
+<div id="sadallah2025usercentered_bibtex" style="display:none;" class="publication-bibtex">
+<pre><code>@misc{sadallah2025usercentered,
+  author = {Sadallah, Madjid},
+  title = {User-Centered Course Reengineering: An Analytical Approach to Enhancing Reading Comprehension in Educational Content},
+  year = {2025},
+  eprint = {2505.12064},
+  archivePrefix = {arXiv},
+  doi = {10.48550/arXiv.2505.12064}
+}</code></pre>
+</div>
+</div>
+
 <div class="publication-item" id="garcia2025geomobiles">
-<p><strong>Garcia, C., Sadallah, M., Scheffler, C., Mathian, H., Cunty, C., et al.</strong> (2025). GéoMobiles : Une plateforme pour la visualisation et l'analyse exploratoire de données géospatiales participatives. <em>Software</em>. <a href="https://hal.science/hal-05127583">HAL</a></p>
+<p><strong>Garcia, C., Sadallah, M., Scheffler, C., Mathian, H., Cunty, C., Lefevre, M., Delianov, C., Bouamama, Y., Joliveau, T., Grassin, J-F., &amp; Chevalier, D.</strong> (2025). GéoMobiles : Une plateforme pour la visualisation et l'analyse exploratoire de données géospatiales participatives. <em>Software</em>. <a href="https://hal.science/hal-05127583">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('garcia2025geomobiles_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="garcia2025geomobiles_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@misc{garcia2025geomobiles,
-  author = {Garcia, C\'{e}dric and Sadallah, Madjid and Scheffler, Camille and Mathian, H\'{e}l\`{e}ne and Cunty, Claire},
+  author = {Garcia, C\'{e}dric and Sadallah, Madjid and Scheffler, Camille and Mathian, H\'{e}l\`{e}ne and Cunty, Claire and Lefevre, Marie and Delianov, Clara and Bouamama, Youssef and Joliveau, Thierry and Grassin, Jean-Fran\c{c}ois and Chevalier, Dominique},
   title = {G\'{e}oMobiles : Une plateforme pour la visualisation et l'analyse exploratoire de donn\'{e}es g\'{e}ospatiales participatives},
   year = {2025},
   note = {Software},
@@ -416,7 +433,7 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item" id="sadallah2024outiller">
-<p><strong>Sadallah, M., &amp; Gilliot, J-M.</strong> (2024). Modéliser et outiller la conception participative et générative de tableaux de bord d'apprentissage soutenant la création de sens. <em>Sciences et Technologies de l'Information et de la Communication pour l'Education et la Formation (STICEF)</em>, 31(1). <a href="https://doi.org/10.23709/sticef.31.1.3">doi:10.23709/sticef.31.1.3</a></p>
+<p><strong>Sadallah, M., &amp; Gilliot, J-M.</strong> (2024). Modéliser et outiller la conception participative et générative de tableaux de bord d'apprentissage soutenant la création de sens. <em>Sciences et Technologies de l'Information et de la Communication pour l'Education et la Formation (STICEF)</em>, 31(1). <a href="https://doi.org/10.23709/sticef.31.1.3">doi:10.23709/sticef.31.1.3</a> — <a href="https://hal.science/hal-04788876">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2024outiller_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2024outiller.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2024outiller_abstract" style="display:none;" class="publication-abstract">
@@ -438,7 +455,7 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item" id="gilliot2024">
-<p><strong>Gilliot, J-M., &amp; Sadallah, M.</strong> (2024). A framework for co-designing effective LADs supporting sensemaking and decision making. <em>International Journal of Learning Technology</em>, 19(1), 109-130. <a href="https://doi.org/10.1504/IJLT.2024.137899">doi:10.1504/IJLT.2024.137899</a></p>
+<p><strong>Gilliot, J-M., &amp; Sadallah, M.</strong> (2024). A framework for co-designing effective LADs supporting sensemaking and decision making. <em>International Journal of Learning Technology</em>, 19(1), 109-130. <a href="https://doi.org/10.1504/IJLT.2024.137899">doi:10.1504/IJLT.2024.137899</a> — <a href="https://hal.science/hal-04070529">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('gilliot2024_abstract');" class="btn btn--primary">Abstract</a>
 <div id="gilliot2024_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> Learning Analytics Dashboards (LAD) deserve increasing attention, yet their adoption remains limited. Designing effective LAD is a difficult process, and LADs often fail in turning insights into action. We argue that providing explicit decision-making features in a participatory design process may help to develop LADs supporting action. We first examine how the decision-making process is reflected on LADs. Second, we review the literature to identify major design space dimensions and examine how to include decision-making features. Third, we propose the DEFLAD design framework to synthesise this review which provides explicit decision-making features in three dimensions: goal expression as a situation awareness level, visualisation and related interactions, as support of decision-making process. Fourth, we consider how this framework is involved through every stage of a human-centred design (HCD) process to express and manage such features. The main contribution of this paper is to provide a framework integrating the decision-making features in a participatory design process of LADs. Furthermore, we demonstrate the implementation of our proposals through the development of a card-based toolkit to assist in the ideation phase of participatory design, and present feedback from participants of a workshop utilising this tool as a proof of concept.</p>
@@ -459,10 +476,10 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item" id="maredj2024">
-<p><strong>Maredj, A-E., Sadallah, M., &amp; Tonkin, N.</strong> (2024). Enhancing Multimedia Document Modeling through Extended Orbits-Based Rhetorical Structure. <em>Knowledge and Information Systems</em>, 66(3), 1683-1707. Springer. <a href="http://doi.org/10.1007/s10115-023-01984-6">doi:10.1007/s10115-023-01984-6</a></p>
+<p><strong>Maredj, A-E., Sadallah, M., &amp; Tonkin, N.</strong> (2024). Enhancing Multimedia Document Modeling through Extended Orbits-Based Rhetorical Structure: An Approach to Media Weighting for Importance Determination. <em>Knowledge and Information Systems</em>, 66(3), 1683-1707. Springer. <a href="https://doi.org/10.1007/s10115-023-01984-6">doi:10.1007/s10115-023-01984-6</a> — <a href="https://hal.science/hal-04195555">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2024_abstract');" class="btn btn--primary">Abstract</a>
 <div id="maredj2024_abstract" style="display:none;" class="publication-abstract">
-<p><strong>Abstract.</strong> This paper proposes a graph-based approach to determine the importance of each media in a multimedia document by expanding the traditional four-dimensional model with a dimension that captures the rhetorical relations between different media types. The proposed approach utilizes an algorithm to weight the media types based on their significance. The use of rhetorical structure theory enables the determination of the significance of each media type, making it useful for document adaptation, automatic composition, and automatic generation of summaries. The approach utilizes an extended orbits-based rhetorical structure that is a novel method for determining the importance of media types in multimedia documents. The proposed approach is effective in capturing the importance of each media type and can be utilized in a wide range of applications, making it a potential solution to the limitations of the traditional model. This research has implications for a range of applications, including document adaptation, automatic composition, and automatic generation of summaries.</p>
+<p><strong>Abstract.</strong> This paper proposes a graph-based approach to determine the importance of each media in a multimedia document by expanding the traditional four-dimensional model with a dimension that captures the rhetorical relations between different media types. The proposed approach utilizes an algorithm to weight the media types based on their significance. The use of rhetorical structure theory enables the determination of the significance of each media type, making it useful for document adaptation, automatic composition, and automatic generation of summaries. The approach utilizes an extended orbits-based rhetorical structure that is a novel method for determining the importance of media types in multimedia documents.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2024_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="maredj2024_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@article{maredj2024,
@@ -497,7 +514,7 @@ series = {CHI EA '26}
 <div class="publication-year">2023</div>
 
 <div class="publication-item" id="sadallah2023learning">
-<p><strong>Sadallah, M., &amp; Smits, G.</strong> (2023). Learning Path Recommendation from an Inferred Learning Space. In <em>EC-TEL 2023. Lecture Notes in Computer Science</em>, vol 14200, pp. 630-635. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-42682-7_53">doi:10.1007/978-3-031-42682-7_53</a></p>
+<p><strong>Sadallah, M., &amp; Smits, G.</strong> (2023). Learning Path Recommendation from an Inferred Learning Space. In <em>EC-TEL 2023. Lecture Notes in Computer Science</em>, vol 14200, pp. 630-635. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-42682-7_53">doi:10.1007/978-3-031-42682-7_53</a> — <a href="https://hal.science/hal-04108625">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023learning_abstract');" class="btn btn--primary">Abstract</a>
 <div id="sadallah2023learning_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> Learning path recommendation systems typically rely on predefined knowledge structures, limiting their adaptability to learners' actual needs. In this work, we propose an approach that infers a learning space from learners' interaction data and uses it to produce learning path recommendations. Building on Knowledge Space Theory (KST), the inferred learning space encodes prerequisite relationships among learning objects, enabling structured and personalised guidance. The inferred structure is exploited to recommend next learning steps that are both coherent with the learner's current knowledge state and aligned with the overall learning objectives. We evaluate the proposed approach and discuss its potential to improve the relevance and adaptability of learning path recommendations.</p>
@@ -520,7 +537,7 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item" id="sadallah2023edarxiv">
-<p><strong>Sadallah, M., &amp; Gilliot, J-M.</strong> (2023). Fostering Collaborative and Creative Design of Learning Dashboards: An Empowered Participatory Approach and Tools. <em>EdArXiv</em>. <a href="https://doi.org/10.35542/osf.io/q78yn">doi:10.35542/osf.io/q78yn</a></p>
+<p><strong>Sadallah, M., &amp; Gilliot, J-M.</strong> (2023). Fostering Collaborative and Creative Design of Learning Dashboards: An Empowered Participatory Approach and Tools. <em>EdArXiv</em>. <a href="https://doi.org/10.35542/osf.io/q78yn">doi:10.35542/osf.io/q78yn</a> — <a href="https://hal.science/hal-04199628">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023edarxiv_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/padlad_ladstudio_arxiv.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2023edarxiv_abstract" style="display:none;" class="publication-abstract">
@@ -539,7 +556,7 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item" id="sadallah2023outiller">
-<p><strong>Sadallah, M., &amp; Gilliot, J-M.</strong> (2023). Outiller la conception participative et générative de tableaux de bord d'apprentissage. In <em>Actes de la 11e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain (EIAH 2023)</em>.</p>
+<p><strong>Sadallah, M., &amp; Gilliot, J-M.</strong> (2023). Outiller la conception participative et générative de tableaux de bord d'apprentissage. In <em>Actes de la 11e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain (EIAH 2023)</em>, pp. 56-67, Brest, France. <a href="https://hal.science/hal-04100921">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023outiller_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2023outiller.pdf" style="color:white" class="btn btn--warning">Pre-print</a>
 <div id="sadallah2023outiller_abstract" style="display:none;" class="publication-abstract">
@@ -559,12 +576,11 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item" id="sadallah2023dispositif">
-<p><strong>Sadallah, M., Segarra, M.T., Gilliot, J-M., &amp; Rebai, I.</strong> (2023). Un dispositif de suivi des apprentissages pour soutenir l'orchestration de la classe. In <em>Actes de la 11e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain (EIAH 2023)</em>, pp. 356-359.</p>
+<p><strong>Sadallah, M., Segarra, M.T., Gilliot, J-M., &amp; Rebai, I.</strong> (2023). Un dispositif de suivi des apprentissages pour soutenir l'orchestration de la classe. In <em>Actes de la 11e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain (EIAH 2023)</em>, pp. 356-359, Brest, France. <a href="https://hal.science/hal-04100923">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023dispositif_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2023dispositif.pdf" style="color:white" class="btn btn--warning">Pre-print</a>
 <div id="sadallah2023dispositif_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> Le concept d'orchestration de la classe vise à saisir la complexité associée à la gestion des activités d'apprentissage synchrones (où apprenants et enseignants se retrouvent pour réaliser les activités). Notre objectif est de construire un dispositif permettant d'assister l'enseignant dans ses tâches d'orchestration, en explorant les notions de scénarisation, de suivi et de rétroaction. Dans cet article, nous présentons SAVAStudio, un outil permettant à l'enseignant de planifier le déroulement d'activités synchrones et de récupérer les traces du déroulement réel de celles-ci.</p>
-<p><em>English abstract.</em> Classroom orchestration aims at capturing the complexity associated with managing synchronous learning activities (where learners and teachers work together to complete activities). Our goal is to build a tool to support the teacher in his orchestration tasks, by exploring the notions of scripting, monitoring and feedback. In this article, we present SAVAStudio, a tool that allows the teacher to plan the conduct of synchronous activities and to retrieve traces of their actual execution.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023dispositif_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="sadallah2023dispositif_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{sadallah2023dispositif,
@@ -580,7 +596,7 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item" id="sadallah2023generating">
-<p><strong>Sadallah, M., &amp; Gilliot, J-M.</strong> (2023). Generating LADs that make sense. In <em>Proceedings of the 15th International Conference on Computer Supported Education (CSEDU 2023)</em>, pages 35-46. <a href="https://doi.org/10.5220/0011839800003470">doi:10.5220/0011839800003470</a></p>
+<p><strong>Sadallah, M., &amp; Gilliot, J-M.</strong> (2023). Generating LADs that make sense. In <em>Proceedings of the 15th International Conference on Computer Supported Education (CSEDU 2023)</em>, Vol. 1, pages 35-46, Prague, Czech Republic. <a href="https://doi.org/10.5220/0011839800003470">doi:10.5220/0011839800003470</a> — <a href="https://hal.science/hal-04070168">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023generating_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2023generating.pdf" style="color:white" class="btn btn--warning">Pre-print</a>
 <div id="sadallah2023generating_abstract" style="display:none;" class="publication-abstract">
@@ -601,10 +617,10 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item" id="maredj2023set">
-<p><strong>Maredj, A-E., &amp; Sadallah, M.</strong> (2023). A set of rhetorical relationships for educational multimedia document. <em>Revue de l'Information Scientifique et Technique</em>, 27(1), 1-7.</p>
+<p><strong>Maredj, A-E., &amp; Sadallah, M.</strong> (2023). A set of rhetorical relationships for educational multimedia document. <em>Revue de l'Information Scientifique et Technique</em>, 27(1), 1-7. <a href="https://hal.science/hal-04076634">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2023set_abstract');" class="btn btn--primary">Abstract</a>
 <div id="maredj2023set_abstract" style="display:none;" class="publication-abstract">
-<p><strong>Abstract.</strong> In this paper, we propose a set of rhetorical relations to support applications such as automatic summary generation and content adaptation of a multimedia document. These relations have been proposed in the context of an educational environment. These rhetorical relations are integrated and handled as part of the logical dimension of the multimedia document. The proposal of these relations is motivated by the need to take into account the particularities inherent to: (1) the composition, editing and presentation of a multimedia document and (2) the educational context. Indeed, multimedia documents in an educational context are very different from textual documents, for which automatic analysis and generation have led to the proposal of a set of commonly used rhetorical relations, as described in the work of Mann and Thompson. The study of this now more common context allowed us to go beyond the body of existing work to develop a more appropriate set of rhetorical relationships related to educational multimedia documents.</p>
+<p><strong>Abstract.</strong> In this paper, we propose a set of rhetorical relations to support applications such as automatic summary generation and content adaptation of a multimedia document. These relations have been proposed in the context of an educational environment. These rhetorical relations are integrated and handled as part of the logical dimension of the multimedia document. The proposal of these relations is motivated by the need to take into account the particularities inherent to: (1) the composition, editing and presentation of a multimedia document and (2) the educational context.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2023set_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="maredj2023set_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@article{maredj2023set,
@@ -617,6 +633,20 @@ series = {CHI EA '26}
   pages = {1--7}
 }</code></pre>
 </div>
+</div>
+</div>
+
+<div class="publication-item" id="scheffler2023cartotete">
+<p><strong>Scheffler, C., Danos, F., Grassin, J-F., Cunty, C., Mathian, H., Joliveau, T., Chevalier, D., Lefevre, M., &amp; Sadallah, M.</strong> (2023). Questionner le rapport entre socialisation langagière et représentations spatiales : l'expérience d'ateliers cartographiques avec des étudiant×es internationaux×ales. In <em>Cartotête 2023 "Représentations socio-spatiales et rapport à l'autre, aux autres"</em>. Lyon, France. <a href="https://hal.science/hal-05480583">HAL</a></p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('scheffler2023cartotete_bibtex');" class="btn btn--info">Bibtex</a>
+<div id="scheffler2023cartotete_bibtex" style="display:none;" class="publication-bibtex">
+<pre><code>@inproceedings{scheffler2023cartotete,
+  author = {Scheffler, Camille and Danos, F\'{e}lix and Grassin, Jean-Fran\c{c}ois and Cunty, Claire and Mathian, H\'{e}l\`{e}ne and Joliveau, Thierry and Chevalier, Dominique and Lefevre, Marie and Sadallah, Madjid},
+  title = {Questionner le rapport entre socialisation langagi\`{e}re et repr\'{e}sentations spatiales : l'exp\'{e}rience d'ateliers cartographiques avec des \'{e}tudiant$\times$es internationaux$\times$ales},
+  year = {2023},
+  booktitle = {Cartot\^{e}te 2023},
+  address = {Lyon, France}
+}</code></pre>
 </div>
 </div>
 
@@ -651,7 +681,7 @@ series = {CHI EA '26}
 <div class="publication-year">2022</div>
 
 <div class="publication-item" id="sadallah2022designing">
-<p><strong>Sadallah, M., Gilliot, J-M., Iksal, S., Quelennec, K., Vermeulen, M., Neyssensas, L., Aubert, O., &amp; Venant, R.</strong> (2022). Designing LADs That Promote Sensemaking: A Participatory Tool. In <em>17th European Conference on Technology Enhanced Learning (EC-TEL 2022)</em>, pp. 587-593. Springer. <a href="https://doi.org/10.1007/978-3-031-16290-9_54">doi:10.1007/978-3-031-16290-9_54</a></p>
+<p><strong>Sadallah, M., Gilliot, J-M., Iksal, S., Quelennec, K., Vermeulen, M., Neyssensas, L., Aubert, O., &amp; Venant, R.</strong> (2022). Designing LADs That Promote Sensemaking: A Participatory Tool. In <em>17th European Conference on Technology Enhanced Learning (EC-TEL 2022)</em>, pp. 587-593. Springer. <a href="https://doi.org/10.1007/978-3-031-16290-9_54">doi:10.1007/978-3-031-16290-9_54</a> — <a href="https://hal.science/hal-03783674">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2022designing_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2022designing.pdf" style="color:white" class="btn btn--warning">Accepted version</a>
 <div id="sadallah2022designing_abstract" style="display:none;" class="publication-abstract">
@@ -673,7 +703,7 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item" id="sadallah2022user">
-<p><strong>Sadallah, M.</strong> (2022). User-Centered Course Reengineering: An Analytical Approach to Enhancing Reading Comprehension in Educational Content. <em>PhD Research Report</em>.</p>
+<p><strong>Sadallah, M.</strong> (2022). User-Centered Course Reengineering: An Analytical Approach to Enhancing Reading Comprehension in Educational Content. <em>PhD Research Report</em>. (See also arXiv:2505.12064, 2025)</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2022user_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2022user.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2022user_abstract" style="display:none;" class="publication-abstract">
@@ -693,7 +723,7 @@ series = {CHI EA '26}
 <div class="publication-year">2021</div>
 
 <div class="publication-item" id="maredj2021">
-<p><strong>Maredj, A-E., Sadallah, M., &amp; Hamouche, L.</strong> (2021). Une cinquième dimension pour les documents multimédia: La dimension annotation. <em>Revue de l'Information Scientifique et Technique</em>, 24(1), 12-20.</p>
+<p><strong>Maredj, A-E., Sadallah, M., &amp; Hamouche, L.</strong> (2021). Une cinquième dimension pour les documents multimédia: La dimension annotation. <em>Revue de l'Information Scientifique et Technique</em>, 24(1), 12-20. <a href="https://hal.science/hal-03689026">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2021_abstract');" class="btn btn--primary">Abstract</a>
 <div id="maredj2021_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> Un document multimédia intègre des entités de base de nature statique (texte, images, graphiques et tableaux) et de nature dynamique (vidéo, sons et animations), qui suivent une certaine organisation temporelle et spatiale. Ces documents sont généralement modélisés par quatre dimensions : la dimension logique, la dimension temporelle, la dimension spatiale et la dimension hypermédia. Avec le temps, de nouveaux besoins sont apparus dans l'utilisation des documents multimédia, notamment l'adaptation des documents, la composition, la recomposition, et la génération de résumé automatique. Les informations contenues dans ces quatre dimensions se révèlent insuffisantes pour répondre à ces besoins. Dans ce travail, nous proposons d'étendre ce modèle à cinq dimensions, en définissant une nouvelle dimension : la dimension annotation. Cette dernière comportera des informations sur le document, ses entités, son auteur et ses lecteurs, qui contribueront à la prise en charge des applications précitées.</p>
@@ -715,7 +745,7 @@ series = {CHI EA '26}
 <div class="publication-year">2020</div>
 
 <div class="publication-item" id="sadallah2020leveraging">
-<p><strong>Sadallah, M., Encelle, B., Maredj, A-E., &amp; Prié, Y.</strong> (2020). Leveraging Learners' Activity Logs for Course Reading Analytics Using Session-Based Indicators. <em>International Journal of Technology Enhanced Learning (IJTEL)</em>, 12(1), 53-78.</p>
+<p><strong>Sadallah, M., Encelle, B., Maredj, A-E., &amp; Prié, Y.</strong> (2020). Leveraging Learners' Activity Logs for Course Reading Analytics Using Session-Based Indicators. <em>International Journal of Technology Enhanced Learning (IJTEL)</em>, 12(1), 53-78. <a href="https://doi.org/10.1504/IJTEL.2020.103815">doi:10.1504/IJTEL.2020.103815</a> — <a href="https://hal.science/hal-01984011">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2020leveraging_abstract');" class="btn btn--primary">Abstract</a>
 <div id="sadallah2020leveraging_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> A challenge that course authors face when reviewing their contents is to detect how to improve their courses in order to meet the expectations of their learners. In this paper, we propose an analytical approach that exploits learners' logs of reading to provide authors with insightful data about the consumption of their courses. We first model reading activity using the concept of reading-session and propose a new and efficient session identification. We then elaborate a list of indicators computed using learners' reading sessions that allow to represent their behaviour and to infer their needs. We evaluate our proposals with course authors and learners using logs from a major e-learning platform. Interesting results were found. This demonstrates the effectiveness of the approach in identifying aspects and parts of a course that may prevent it from being easily read and understood, and for guiding the authors through the analysis and review tasks.</p>
@@ -736,7 +766,7 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item" id="sadallah2020towards">
-<p><strong>Sadallah, M., Encelle, B., Maredj, A-E., &amp; Prié, Y.</strong> (2020). Towards fine-grained reading dashboards for online course revision. <em>Educational Technology Research and Development</em>, 68, 3165-3186.</p>
+<p><strong>Sadallah, M., Encelle, B., Maredj, A-E., &amp; Prié, Y.</strong> (2020). Towards fine-grained reading dashboards for online course revision. <em>Educational Technology Research and Development</em>, 68, 3165-3186. <a href="https://doi.org/10.1007/s11423-020-09814-0">doi:10.1007/s11423-020-09814-0</a> — <a href="https://hal.science/hal-02911561">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2020towards_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2020towards.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2020towards_abstract" style="display:none;" class="publication-abstract">
@@ -757,14 +787,15 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item" id="sadallah2020coreada">
-<p><strong>Sadallah, M.</strong> (2020). Enhancing Course Revision: Introducing CoReaDa - an Advanced Reading Analytics Dashboard. <em>CERIST Research Report</em>.</p>
+<p><strong>Sadallah, M.</strong> (2020). Enhancing Course Revision: Introducing CoReaDa - an Advanced Reading Analytics Dashboard. <em>CERIST Research Report</em>. <a href="https://doi.org/10.35542/osf.io/9bkad">doi:10.35542/osf.io/9bkad</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2020coreada_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="sadallah2020coreada_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@techreport{sadallah2020coreada,
   author = {Sadallah, Madjid},
   title = {Enhancing Course Revision: Introducing CoReaDa - an Advanced Reading Analytics Dashboard},
   year = {2020},
-  institution = {CERIST}
+  institution = {CERIST},
+  doi = {10.35542/osf.io/9bkad}
 }</code></pre>
 </div>
 </div>
@@ -772,7 +803,7 @@ series = {CHI EA '26}
 <div class="publication-year">2019</div>
 
 <div class="publication-item" id="sadallah2019models">
-<p><strong>Sadallah, M.</strong> (2019). <em>Models and Tools for Usage-based e-Learning Documents Reengineering</em>. PhD thesis, University of Bejaia - Algeria.</p>
+<p><strong>Sadallah, M.</strong> (2019). <em>Models and Tools for Usage-based e-Learning Documents Reengineering</em>. PhD thesis, University of Bejaia - Algeria. <a href="https://theses.hal.science/tel-02911978">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2019models_abstract');" class="btn btn--primary">Abstract</a>
 <div id="sadallah2019models_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> Providing high-quality content is of utmost importance to drive successful reading. Besides, designing documents that are received the way the author wishes has always been difficult, and the digital world increases this difficulty by multiplying the possibilities related to mixed medias and interactivity. This compels authors to continuously review the delivered content to meet readers' needs. Yet it remains challenging for them to detect the comprehension barriers that may exist within their documents, and to identify how these latter can be improved accordingly. In this thesis, we focus on an educational context, where reading is a fundamental activity and the basis of many other learning activities. We propose a learning analytics approach for assisting course authors to maintain their courses to sustain learning. The proposals are based on theoretical background originated from research on learning analytics, reading comprehension and content revision. We advocate "usage-based document reengineering", a process defined as a kind of reengineering that changes document content and structures based on the analysis of readers' usages as recorded in their reading traces.</p>
@@ -791,10 +822,10 @@ series = {CHI EA '26}
 <div class="publication-year">2015</div>
 
 <div class="publication-item" id="sadallah2015towards">
-<p><strong>Sadallah, M., Encelle, B., Maredj, A-E., &amp; Prié, Y.</strong> (2015). Towards reading session-based indicators in educational reading analytics. In <em>10th European Conference on Technology Enhanced Learning (EC-TEL 2015)</em>, pages 297-310. Springer. <a href="https://doi.org/10.1007/978-3-319-24258-3_22">doi:10.1007/978-3-319-24258-3_22</a></p>
+<p><strong>Sadallah, M., Encelle, B., Maredj, A-E., &amp; Prié, Y.</strong> (2015). Towards reading session-based indicators in educational reading analytics. In <em>10th European Conference on Technology Enhanced Learning (EC-TEL 2015)</em>, pages 297-310. Springer. <a href="https://doi.org/10.1007/978-3-319-24258-3_22">doi:10.1007/978-3-319-24258-3_22</a> — <a href="https://hal.science/hal-01157183">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2015towards_abstract');" class="btn btn--primary">Abstract</a>
 <div id="sadallah2015towards_abstract" style="display:none;" class="publication-abstract">
-<p><strong>Abstract.</strong> It is a challenging task to identify eLearning courses parts that have to be revised to best suit learners' requirements. Reading being one of the most salient learning activities, one way of doing so is to study how learners consume courses. We intend to support course authors (e.g. teachers) during courses revision by providing them with reading indicators. We use the concept of reading session to denote a learner's active reading period, and we provide several associated reading indicators. In our server-side approach, reading sessions and indicators are calculated using web server logs. We evaluate the relevance of our proposals using logs from a major French eLearning platform. Results are promising: calculated reading sessions are theoretically more precise than other best applicable approaches, and course authors consider suggested indicators to be appropriate to courses revision. Using reading sessions and associated indicators could facilitate authors' work of course reengineering.</p>
+<p><strong>Abstract.</strong> It is a challenging task to identify eLearning courses parts that have to be revised to best suit learners' requirements. Reading being one of the most salient learning activities, one way of doing so is to study how learners consume courses. We intend to support course authors (e.g. teachers) during courses revision by providing them with reading indicators. We use the concept of reading session to denote a learner's active reading period, and we provide several associated reading indicators. In our server-side approach, reading sessions and indicators are calculated using web server logs. We evaluate the relevance of our proposals using logs from a major French eLearning platform. Results are promising: calculated reading sessions are theoretically more precise than other best applicable approaches, and course authors consider suggested indicators to be appropriate to courses revision.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2015towards_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="sadallah2015towards_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{sadallah2015towards,
@@ -814,11 +845,11 @@ series = {CHI EA '26}
 <div class="publication-year">2014</div>
 
 <div class="publication-item" id="sadallah2014chm">
-<p><strong>Sadallah, M., Aubert, O., &amp; Prié, Y.</strong> (2014). CHM: an annotation-and component-based hypervideo model for the Web. <em>Multimedia tools and applications</em>, 70, 869-903. <a href="https://doi.org/10.1007/s11042-012-1177-y">doi:10.1007/s11042-012-1177-y</a></p>
+<p><strong>Sadallah, M., Aubert, O., &amp; Prié, Y.</strong> (2014). CHM: an annotation-and component-based hypervideo model for the Web. <em>Multimedia Tools and Applications</em>, 70, 869-903. <a href="https://doi.org/10.1007/s11042-012-1177-y">doi:10.1007/s11042-012-1177-y</a> — <a href="https://hal.science/hal-01353043">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2014chm_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2014chm.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2014chm_abstract" style="display:none;" class="publication-abstract">
-<p><strong>Abstract.</strong> Hypervideos are hypermedia documents that focus on video content. While they have long been deployed using specialized software or even hardware, the Web now offers a ground for them to fit into standardized languages and implementations. However, hypervideo design also currently uses very specific models limited to a single class of documents, or very generic hypermedia models that may not appropriately express their specific features. In this article we describe such features, and we introduce CHM, an annotation-driven and component-based model to conceptualize hypervideos through a high level operational specification. An extensible set of high level components is defined to emphasize the presentation and interaction features modeling, while lower level components offer more flexibility and customization opportunities. Being annotation-based, the model promotes a clear separation between video content/metadata and their various potential presentations. We also describe WebCHM, an implementation of CHM with standard Web technologies that provides a general framework to experiment with hypervideos on the Web. Two examples are provided as well as a preliminary usage study of the model and its implementation to validate our claims and proposals.</p>
+<p><strong>Abstract.</strong> Hypervideos are hypermedia documents that focus on video content. While they have long been deployed using specialized software or even hardware, the Web now offers a ground for them to fit into standardized languages and implementations. However, hypervideo design also currently uses very specific models limited to a single class of documents, or very generic hypermedia models that may not appropriately express their specific features. In this article we describe such features, and we introduce CHM, an annotation-driven and component-based model to conceptualize hypervideos through a high level operational specification.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2014chm_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="sadallah2014chm_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@article{sadallah2014chm,
@@ -837,7 +868,7 @@ series = {CHI EA '26}
 <div class="publication-year">2013</div>
 
 <div class="publication-item" id="sadallah2013framework">
-<p><strong>Sadallah, M., Encelle, B., Maredj, A-E., &amp; Prié, Y.</strong> (2013). A framework for usage-based document reengineering. In <em>Proceedings of the 2013 ACM symposium on Document engineering</em>, pages 99-102. <a href="https://doi.org/10.1145/2494266.2494290">doi:10.1145/2494266.2494290</a></p>
+<p><strong>Sadallah, M., Encelle, B., Maredj, A-E., &amp; Prié, Y.</strong> (2013). A framework for usage-based document reengineering. In <em>Proceedings of the 2013 ACM symposium on Document engineering</em>, pages 99-102. <a href="https://doi.org/10.1145/2494266.2494290">doi:10.1145/2494266.2494290</a> — <a href="https://hal.science/hal-00984767">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2013framework_abstract');" class="btn btn--primary">Abstract</a>
 <div id="sadallah2013framework_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> This ongoing work investigates usage-based document reengineering as a means to support authors in modifying their documents. Document usages (i.e. usage feedbacks) cover readers' explicit annotations and their reading traces. We first describe a conceptual framework with various levels of assistance for document reengineering: indications on reading, problem detection, reconception suggestions and automatic reconception propositions, taking our example in e-learning document management. We then present a technical framework for usage-based document reengineering and its associated models for documents, annotations and traces representation.</p>
@@ -858,12 +889,12 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item" id="sadallah2013audiovisuelle">
-<p><strong>Sadallah, M., Maredj, A-E., Encelle, B., &amp; Prié, Y.</strong> (2013). Vers une Expérience Audiovisuelle Interactive sur le Web. <em>CERIST Research Report</em>.</p>
+<p><strong>Sadallah, M., Maredj, A-E., Aubert, O., &amp; Prié, Y.</strong> (2013). Vers une Expérience Audiovisuelle Interactive sur le Web : Un Modèle à Base de Composants et un Langage de Spécification Déclaratif pour l'Hypervidéo. <em>CERIST Research Report</em>.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2013audiovisuelle_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="sadallah2013audiovisuelle_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@techreport{sadallah2013audiovisuelle,
-  author = {Sadallah, Madjid and Maredj, Azze-Eddine and Encelle, Beno\^{\i}t and Pri\'{e}, Yannick},
-  title = {Vers une Exp\'{e}rience Audiovisuelle Interactive sur le Web},
+  author = {Sadallah, Madjid and Maredj, Azze-Eddine and Aubert, Olivier and Pri\'{e}, Yannick},
+  title = {Vers une Exp\'{e}rience Audiovisuelle Interactive sur le Web : Un Mod\`{e}le \`{a} Base de Composants et un Langage de Sp\'{e}cification D\'{e}claratif pour l'Hypervid\'{e}o},
   year = {2013},
   institution = {CERIST}
 }</code></pre>
@@ -873,10 +904,10 @@ series = {CHI EA '26}
 <div class="publication-year">2011</div>
 
 <div class="publication-item" id="sadallah2011component">
-<p><strong>Sadallah, M., Aubert, O., &amp; Prié, Y.</strong> (2011). Component-based hypervideo model: high-level operational specification of hypervideos. In <em>Proceedings of the 11th ACM symposium on Document engineering</em>, pages 53-56. <a href="https://doi.org/10.1145/2034691.2034700">doi:10.1145/2034691.2034700</a></p>
+<p><strong>Sadallah, M., Aubert, O., &amp; Prié, Y.</strong> (2011). Component-based hypervideo model: high-level operational specification of hypervideos. In <em>Proceedings of the 11th ACM symposium on Document engineering</em>, pages 53-56. <a href="https://doi.org/10.1145/2034691.2034701">doi:10.1145/2034691.2034701</a> — <a href="https://hal.science/hal-01354518">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2011component_abstract');" class="btn btn--primary">Abstract</a>
 <div id="sadallah2011component_abstract" style="display:none;" class="publication-abstract">
-<p><strong>Abstract.</strong> Hypervideo offers enhanced video-centric experiences. Usually defined from a hypermedia perspective, the lack of a dedicated specification hampers hypervideo domain and concepts from being broadly investigated. This article proposes a specialized hypervideo model that addresses hypervideo specificities. Following the principles of component-based modeling and annotation-driven content abstracting, the Component-based Hypervideo Model (CHM) that we propose is a high level representation of hypervideos that intends to provide a general and dedicated hypervideo data model. Considered as a video-centric interactive document, the CHM hypervideo presentation and interaction features are expressed through a high level operational specification. Our annotation-driven approach promotes a clear separation of data from video content and document visualizations. The model serves as a basis for a Web-oriented implementation that provides a declarative syntax and accompanying tools for hypervideo document design in a Web standards-compliant manner.</p>
+<p><strong>Abstract.</strong> Hypervideo offers enhanced video-centric experiences. Usually defined from a hypermedia perspective, the lack of a dedicated specification hampers hypervideo domain and concepts from being broadly investigated. This article proposes a specialized hypervideo model that addresses hypervideo specificities. Following the principles of component-based modeling and annotation-driven content abstracting, the Component-based Hypervideo Model (CHM) that we propose is a high level representation of hypervideos that intends to provide a general and dedicated hypervideo data model.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2011component_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="sadallah2011component_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{sadallah2011component,
@@ -887,14 +918,14 @@ series = {CHI EA '26}
   pages = {53--56},
   publisher = {ACM},
   address = {Mountain View, CA, USA},
-  doi = {10.1145/2034691.2034700}
+  doi = {10.1145/2034691.2034701}
 }</code></pre>
 </div>
 </div>
 </div>
 
 <div class="publication-item" id="sadallah2011hypervideo">
-<p><strong>Sadallah, M., Aubert, O., &amp; Prié, Y.</strong> (2011). Hypervideo and Annotations on the Web. In <em>2011 Workshop on Multimedia on the Web</em>, pages 10-15. IEEE.</p>
+<p><strong>Sadallah, M., Aubert, O., &amp; Prié, Y.</strong> (2011). Hypervideo and Annotations on the Web. In <em>2011 Workshop on Multimedia on the Web</em>, pages 10-15. IEEE. <a href="https://doi.org/10.1109/MMWeb.2011.14">doi:10.1109/MMWeb.2011.14</a> — <a href="https://hal.science/hal-01354517">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2011hypervideo_abstract');" class="btn btn--primary">Abstract</a>
 <div id="sadallah2011hypervideo_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> Effective video-based Web information system deployment is still challenging, while the recent widespread of multimedia further raises the demand for new online audiovisual document edition and presentation alternatives. Hypervideo, a specialization of hypermedia focusing on video, can be used on the Web to provide a basis for video-centric documents and to allow more elaborated practices of online video. In this paper, we propose an annotation-driven model to conceptualize hypervideos, promoting a clear separation between video content/metadata and their various potential presentations. Using the proposed model, features of hypervideo are grafted to wider video-based Web documents in a Web standards-compliant manner.</p>
@@ -917,10 +948,10 @@ series = {CHI EA '26}
 <div class="publication-year">2010</div>
 
 <div class="publication-item" id="maredj2010">
-<p><strong>Maredj, A-E., Tonkin, N., &amp; Sadallah, M.</strong> (2010). MediaStudio: Un système d'édition et de présentation de documents multimédias interactifs. <em>Revue d'Information Scientifique &amp; Technique</em>, 18, 25-47.</p>
+<p><strong>Maredj, A-E., Tonkin, N., &amp; Sadallah, M.</strong> (2010). MediaStudio: Un système d'édition et de présentation de documents multimédias interactifs. <em>Revue d'Information Scientifique &amp; Technique</em>, 18, 25-47. <a href="https://hal.science/hal-02912179">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2010_abstract');" class="btn btn--primary">Abstract</a>
 <div id="maredj2010_abstract" style="display:none;" class="publication-abstract">
-<p><strong>Abstract.</strong> Dans les standards et les systèmes multimédia actuels, le document est le plus souvent décrit selon une approche événementielle, d'où l'inadaptation de la programmation à la nature incrémentale du processus d'édition, la difficulté de la maintenance des documents ainsi produits et enfin les problèmes qu'ont les auteurs non-informaticiens pour les maîtriser. De plus, les travaux menés dans ce domaine se sont essentiellement focalisés sur la dimension temporelle, alors que le développement de tels systèmes devrait d'emblée considérer les quatre dimensions du document afin de mutualiser au mieux leur conception et leur implémentation. Par ailleurs, l'adaptation des documents à des profils de lecture particuliers n'est pas considérée, alors que pour certains domaines d'application, l'apprentissage par exemple, ceci reste un besoin important. En partant de ce constat, MediaStudio se veut une contribution au domaine de l'édition et de la présentation de documents multimédia interactifs à travers un ensemble de propositions pour pallier les insuffisances mentionnées.</p>
+<p><strong>Abstract.</strong> Dans les standards et les systèmes multimédia actuels, le document est le plus souvent décrit selon une approche événementielle, d'où l'inadaptation de la programmation à la nature incrémentale du processus d'édition, la difficulté de la maintenance des documents ainsi produits et enfin les problèmes qu'ont les auteurs non-informaticiens pour les maîtriser. De plus, les travaux menés dans ce domaine se sont essentiellement focalisés sur la dimension temporelle, alors que le développement de tels systèmes devrait d'emblée considérer les quatre dimensions du document afin de mutualiser au mieux leur conception et leur implémentation. MediaStudio se veut une contribution au domaine de l'édition et de la présentation de documents multimédia interactifs à travers un ensemble de propositions pour pallier les insuffisances mentionnées.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2010_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="maredj2010_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@article{maredj2010,
@@ -938,7 +969,7 @@ series = {CHI EA '26}
 <div class="publication-year">2008</div>
 
 <div class="publication-item" id="maredj2008flexible">
-<p><strong>Maredj, A-E., Tonkin, N., Sadallah, M., &amp; Alimazighi, Z.</strong> (2008). A flexible distance for the spatial placement in a multimedia document. In <em>ICTTA 2008</em>, pages 1-4. IEEE.</p>
+<p><strong>Maredj, A-E., Tonkin, N., Sadallah, M., &amp; Alimazighi, Z.</strong> (2008). A flexible distance for the spatial placement in a multimedia document. In <em>ICTTA 2008</em>, pages 1-4. IEEE. <a href="https://doi.org/10.1109/ICTTA.2008.4530102">doi:10.1109/ICTTA.2008.4530102</a> — <a href="https://hal.science/hal-02912372">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2008flexible_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="maredj2008flexible_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{maredj2008flexible,
@@ -950,6 +981,20 @@ series = {CHI EA '26}
   publisher = {IEEE},
   address = {Damascus, Syria},
   doi = {10.1109/ICTTA.2008.4530102}
+}</code></pre>
+</div>
+</div>
+
+<div class="publication-item" id="maredj2008logique">
+<p><strong>Maredj, A-E., Alimazighi, Z., Tonkin, N., &amp; Sadallah, M.</strong> (2008). Un modèle logique de documents pour les interactions multimédia. In <em>JTEA'08</em>, pp. 1635-1639.</p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2008logique_bibtex');" class="btn btn--info">Bibtex</a>
+<div id="maredj2008logique_bibtex" style="display:none;" class="publication-bibtex">
+<pre><code>@inproceedings{maredj2008logique,
+  author = {Maredj, Azze-Eddine and Alimazighi, Zaia and Tonkin, Nourreddine and Sadallah, Madjid},
+  title = {Un mod\`{e}le logique de documents pour les interactions multim\'{e}dia},
+  year = {2008},
+  booktitle = {JTEA'08},
+  pages = {1635--1639}
 }</code></pre>
 </div>
 </div>
