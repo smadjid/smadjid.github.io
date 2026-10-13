@@ -10,13 +10,6 @@ permalink: /publications/
 
 <p>For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=A8So5p8AAAAJ" itemprop="sameAs">Google Scholar</a>.</p>
 
-<h2 class="projects-section-title">Highlights</h2>
-<ul class="link-list" style="flex-direction:column;gap:0.5rem;margin-bottom:2rem;">
-  <li><a href="#sadallah2026chi">Beyond Additive Design: An Empirical Taxonomy of Multimodal STEM Accessibility Systems</a> — CHI EA 2026</li>
-  <li><a href="#sadallah2024outiller">Modéliser et outiller la conception participative et générative de tableaux de bord d'apprentissage soutenant la création de sens</a> — STICEF 2024</li>
-  <li><a href="#sadallah2019models">Models and Tools for Usage-based e-Learning Documents Reengineering</a> — PhD thesis, 2019</li>
-  <li><a href="#sadallah2015towards">Towards reading session-based indicators in educational reading analytics</a> — EC-TEL 2015</li>
-</ul>
 
 <hr>
 
@@ -102,6 +95,7 @@ series = {CHI EA '26}
 <div class="publication-item" id="sadallah2026w4a">
 <p><strong>Sadallah, M., &amp; Encelle, B.</strong> (2026). The verification gap in AI accessibility: A meta-analysis of architectural paradigms and agency deficits. In <em>Proceedings of the 23rd International Web for All Conference (W4A '26)</em>, pages 211-221. Dubai, United Arab Emirates: ACM. <a href="https://doi.org/10.1145/3800424.3800451">doi:10.1145/3800424.3800451</a> — <a href="https://hal.science/hal-05530676">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026w4a_abstract');" class="btn btn--primary">Abstract</a>
+<a href="/media/papers/sadallah2026w4a.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026w4a_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="sadallah2026w4a_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> AI-powered accessibility systems have shifted from transcription to interpretation, creating a verification paradox: blind and low-vision (BLV) users, who most rely on AI-generated narratives, lack perceptual redundancy to detect errors such as hallucinations or semantic drift, resulting in an agency deficit. Through a systematic meta-analysis of 17 empirically evaluated AI accessibility systems (2019-2025), we examine how architectural choices shape verification affordances. We introduce the Verification-Cognition Balance Index (VCBI), a composite metric quantifying trade-offs between validation rigor, user agency, complexity, and risk. Our analysis uncovers weak overall balance across the field, with transformer-based systems showing higher risk density than classical computer vision despite negligible validation improvements. Only hybrid specialized architectures-constraining AI to narrow semantic subtasks-achieve good balance. We argue for a necessary paradigm shift in evaluation from system accuracy to user verifiability.</p>
