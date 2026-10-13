@@ -8,11 +8,6 @@ permalink: /publications/
 <h1>Publications</h1>
 <p><a href="../publications_by_type" class="btn btn--outline">Display by type</a></p>
 
-<p>For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=A8So5p8AAAAJ" itemprop="sameAs">Google Scholar</a>.</p>
-
-
-<hr>
-
 <div class="publication-container">
 
 <div class="publication-year">2026</div>
