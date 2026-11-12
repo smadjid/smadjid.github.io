@@ -18,20 +18,13 @@ permalink: /projects/coobra/
 
   <h2>My Role</h2>
 
-  <p>As a researcher within this project, I contribute to advancing the understanding of human-computer interaction (HCI) and computer-supported collaborative work/learning (CSCW/CSCL) to enhance access to scientific content for visually impaired individuals. My efforts focus on:</p>
+  <p>I am a postdoctoral researcher at LIRIS (SICAL team) and a member of the project's steering team. My work combines HCI, accessibility and computer-supported collaborative work/learning, and covers four areas:</p>
 
   <ul>
-    <li>Investigating effective methods to support VI users in interacting with two-dimensional structures (e.g., equations, tables, graphs), drawing on my experience in digital accessibility and document engineering.</li>
-    <li>Collaborating on the design and refinement of tools that enable productive interaction between VI and sighted individuals, emphasizing equitable participation in scientific document editing.</li>
-    <li>Engaging with a diverse group of stakeholders, including researchers, VI experts, and developers, to ensure our solutions are informed by practical needs and expert knowledge.</li>
-  </ul>
-
-  <p>This work builds on my background in educational technologies and aims to address significant inclusion challenges, supporting the project's mission to improve opportunities for VI individuals in education and employment.</p>
-
-  <ul>
-    <li><strong>Research Focus:</strong> Exploring innovative approaches to VI interaction with complex scientific content.</li>
-    <li><strong>Tool Development:</strong> Contributing to the creation of inclusive, user-informed collaborative tools.</li>
-    <li><strong>Team Collaboration:</strong> Working closely with stakeholders to ground research in real-world contexts.</li>
+    <li><strong>Systematic review and evaluation.</strong> A preregistered PRISMA review of non-visual access to two-dimensional STEM content (protocol on OSF and Zenodo), a taxonomy of 66 multimodal systems, and a comparative meta-analysis of 17 AI-based accessibility systems.</li>
+    <li><strong>Conceptual frameworks and measures.</strong> The ARC diagnostic framework, the Differential Cognitive Yield hypothesis, the Verification-Cognition Balance Index (VCBI), and the Ancre et Flux model of braille–AI complementarity.</li>
+    <li><strong>Tools.</strong> ARCKit, FOCAL and CoobraTAB, designed with the project's partners and Braille and VI experts.</li>
+    <li><strong>Participatory partnership.</strong> Together with the other members of the steering team, I help run a collective of about 30 people (researchers, VI experts, developers) with accessible documents and tools, governance by non-dissensus, and lived awareness difficulties turned into technical specifications.</li>
   </ul>
 
   <h2>Tools &amp; Instruments</h2>
@@ -64,19 +57,24 @@ permalink: /projects/coobra/
   <h2>Other Contributions</h2>
 
   <div class="activity-entry">
-    <div class="activity-entry__title">A taxonomy of multimodal braille-content systems</div>
-    <p class="activity-entry__desc">A structured review of existing systems supporting braille access to two-dimensional content, used to identify recurring design choices and gaps that motivate the project's own tools — and forming the reference benchmark behind ARCKit.</p>
+    <div class="activity-entry__title">A taxonomy of multimodal STEM accessibility systems</div>
+    <p class="activity-entry__desc">An analysis of 66 non-visual STEM interfaces (2015–2025) that identifies three design regimes (additive, augmentative, integrative) and a decoupling between architectural quality and task performance. It is the reference benchmark behind ARC and ARCKit. <em>(CHI EA '26; IHM '26)</em></p>
   </div>
 
   <div class="activity-entry">
-    <div class="activity-entry__title">VCBI — a comparison indicator for braille-content systems</div>
-    <p class="activity-entry__desc">A composite indicator for comparing how well different systems support braille access to structured content, applied across the surveyed corpus to situate existing approaches and highlight where multimodal designs outperform classical ones.</p>
+    <div class="activity-entry__title">VCBI — Verification-Cognition Balance Index</div>
+    <p class="activity-entry__desc">A composite indicator of how well an AI-based accessibility system balances two enablers of verification (validation rigor and user epistemic agency) against two sources of verification burden (architectural complexity and documented risk density). Applied to 17 empirically evaluated systems (2019–2025), it shows that transformer-based systems carry higher documented risk than classical vision pipelines without a better verification balance, and that specialized hybrid architectures reach the best balance. <em>(W4A '26; IHM '26)</em></p>
   </div>
 
   <div class="activity-entry">
-    <div class="activity-entry__title">Ancre et Flux — a model of epistemic partnership</div>
-    <p class="activity-entry__desc">A conceptual model of how sighted and visually impaired collaborators can build shared understanding of two-dimensional content together, anchoring exploration around stable reference points while allowing flexible, negotiated interpretation.</p>
+    <div class="activity-entry__title">Ancre et Flux — braille and AI audio as complementary</div>
+    <p class="activity-entry__desc">A conceptual model of the cognitive complementarity between braille (the Anchor: cognitive stabilization and epistemic audit) and AI-driven audio interfaces (the Flow: contextual exploration and fluid interaction) in formal domains such as mathematics, programming and science. It sets out four design principles and treats braille as independent verification infrastructure in the face of AI hallucination. <em>(Handicap 2026)</em></p>
   </div>
 
-  <p class="text-muted mt-2">Related publications (CHI EA 2026, W4A, CSEDU, Handicap 2026) are listed on the <a href="/publications/">Publications</a> page.</p>
+  <div class="activity-entry">
+    <div class="activity-entry__title">Epistemic partnership as a research method</div>
+    <p class="activity-entry__desc">A participatory methodology that treats visually impaired participants as co-researchers: a parity collective, governance by non-dissensus, a fully accessible research set-up, and awareness difficulties turned into technical specifications. <em>(Handicap 2026)</em></p>
+  </div>
+
+  <p class="text-muted mt-2">Related publications (CHI EA '26, W4A '26, IHM '26, CSEDU 2026, Handicap 2026) are listed on the <a href="/publications/">Publications</a> page.</p>
 </div>

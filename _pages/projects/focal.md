@@ -25,7 +25,7 @@ permalink: /projects/focal/
   </ul>
 
   <h2>Status</h2>
-  <p>Version 1.0 is publicly available. The tool was calibrated on the four illustrative cases from <em>From Diagnosis to Instrument</em> (Sadallah &amp; Encelle, 2026). A phase 2, pending ethical approval, plans anonymous telemetry to empirically validate the matrix's theoretical [T] cells.</p>
+  <p>Version 1.0 (MIT license) is publicly available: <a href="https://gitlab.liris.cnrs.fr/coobra/focal">source code on GitLab</a> and <a href="https://hal.science/hal-05754052">archived record on HAL</a>. The tool was calibrated on the four illustrative cases from <em>From Diagnosis to Instrument</em> (Sadallah &amp; Encelle, 2026). A phase 2, pending ethical approval, plans anonymous telemetry to empirically validate the matrix's theoretical [T] cells.</p>
 
   <p class="mt-2"><a href="/publications/#sadallah2026csedu" class="btn btn--outline">Related publication (CSEDU 2026) →</a></p>
 </div>

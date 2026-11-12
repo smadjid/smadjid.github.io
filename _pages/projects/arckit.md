@@ -18,13 +18,13 @@ permalink: /projects/arckit/
   <p>The platform is designed for both non-specialist consultation and research use.</p>
   <ul>
     <li><strong>Finding suitable tools</strong> — a simple rating distinguishes <em>integrative</em> systems (smooth to use, low cognitive load) from <em>additive</em> ones (basic features, potentially more fatiguing), with plain-language summaries for each entry.</li>
-    <li><strong>Evaluation and comparison</strong> — a diagnostic grid lets designers position their own system against the 66-system reference benchmark (2025 study), with results visualized as radar charts.</li>
+    <li><strong>Evaluation and comparison</strong> — a diagnostic grid lets designers position their own system against the 66-system reference benchmark (2015–2025 corpus), with results visualized as radar charts.</li>
     <li><strong>Corpus exploration</strong> — a searchable database with filters (domain, platform, study type) covering the full set of evaluated systems.</li>
     <li><strong>Accessibility</strong> — the interface is screen-reader compatible (ARIA tags, high contrast, textual descriptions of visual elements).</li>
   </ul>
 
   <h2>Status</h2>
-  <p>ARCKit is an instrument of the ANR COOBRA project, documented in Sadallah &amp; Encelle (CHI EA '26, W4A '26). Online platform and source repository links are forthcoming.</p>
+  <p>ARCKit is an instrument of the ANR COOBRA project, documented in Sadallah &amp; Encelle (CHI EA '26, IHM '26). Online platform and source repository links are forthcoming.</p>
 
   <p class="mt-2">
     <a href="/projects/coobra/" class="btn btn--outline">Part of ANR COOBRA →</a>
