@@ -92,6 +92,7 @@ series = {CHI EA '26}
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026w4a_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2026w4a.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026w4a_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/sadallah2026w4a.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2026w4a_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> AI-powered accessibility systems have shifted from transcription to interpretation, creating a verification paradox: blind and low-vision (BLV) users, who most rely on AI-generated narratives, lack perceptual redundancy to detect errors such as hallucinations or semantic drift, resulting in an agency deficit. Through a systematic meta-analysis of 17 empirically evaluated AI accessibility systems (2019-2025), we examine how architectural choices shape verification affordances. We introduce the Verification-Cognition Balance Index (VCBI), a composite metric quantifying trade-offs between validation rigor, user agency, complexity, and risk. Our analysis uncovers weak overall balance across the field, with transformer-based systems showing higher risk density than classical computer vision despite negligible validation improvements. Only hybrid specialized architectures-constraining AI to narrow semantic subtasks-achieve good balance. We argue for a necessary paradigm shift in evaluation from system accuracy to user verifiability.</p>
 </div>
@@ -113,6 +114,7 @@ doi = {10.1145/3800424.3800451}
 <p><strong>Sadallah, M., &amp; Encelle, B.</strong> (2026). The Technical Capability Fallacy: A Case for Pedagogy-Centered Design in Assistive STEM Education. In <em>18th International Conference on Computer Supported Education (CSEDU 2026)</em>. Benidorm, Spain, May 18-20, 2026. <a href="https://hal.science/hal-05571785">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026csedu_abstract');" class="btn btn--primary">Abstract</a>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026csedu_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/sadallah2026csedu.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2026csedu_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> Assistive educational technologies for blind and visually impaired STEM learners perform well in controlled studies yet fail to achieve sustained classroom adoption. Analysis of 25 empirical studies reveals the cause: tools are designed and evaluated against technical metrics that do not predict pedagogical success. We term this the technical capability fallacy: the assumption that technical capability ensures pedagogical utility. To address this, we propose FOCAL (Framework for Objective-Context ALignment), which specifies what a tool must provide for each combination of learning objective and educational context.</p>
 </div>
@@ -131,6 +133,7 @@ address = {Benidorm, Spain}
 <p><strong>Sadallah, M., Encelle, B., Mille, A., &amp; Guillet, V.</strong> (2026). L'Ancre et le Flux : complémentarité cognitive entre braille et interfaces interprétatives dans les domaines formels. In <em>14ème édition de la conférence sur les recherches pluridisciplinaires pour l'autonomie des personnes en situation de handicap</em>. Aubervilliers &amp; Paris, France : IFRATH. <a href="https://hal.science/hal-05581093">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ancree_abstract');" class="btn btn--primary">Abstract</a>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026ancree_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/sadallah2026ancree.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2026ancree_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> La marginalisation du braille dans l'accessibilité numérique repose sur un paradigme de substitution modale postulant l'équivalence cognitive entre audio et accès tactile. Or, dans les domaines formels (mathématiques, programmation, sciences), cette équivalence s'effondre : les exigences de navigation non linéaire, de vérification syntaxique et de manipulation symbolique révèlent une complémentarité structurelle irréductible. Nous développons le modèle de l'Ancre et du Flux : l'Ancre (braille) assure stabilisation cognitive et audit épistémique, tandis que le Flux (audio-IA) permet exploration contextuelle et interaction fluide. Face aux hallucinations des IA génératives, le braille s'impose comme infrastructure critique de vérification indépendante. Nous établissons quatre principes normatifs de conception d'interfaces accessibles et soutenons que cette complémentarité constitue une nécessité architecturale de la cognition distribuée. Le droit à l'audit épistémique, matérialisé par l'accès braille, fonde ainsi la souveraineté cognitive à l'ère algorithmique.</p>
 </div>
@@ -150,6 +153,7 @@ address = {Aubervilliers \& Paris, France}
 <p><strong>Sadallah, M., Encelle, B., Mille, A., Guillet, V., &amp; Virgo, J.</strong> (2026). Partenariat épistémique et recherche participative : le projet COOBRA comme démonstrateur méthodologique. In <em>14ème édition de la conférence sur les recherches pluridisciplinaires pour l'autonomie des personnes en situation de handicap</em>. Aubervilliers &amp; Paris, France : IFRATH, Jun 2026. <a href="https://hal.science/hal-05581094">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026coobra_abstract');" class="btn btn--primary">Abstract</a>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026coobra_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/sadallah2026coobra.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2026coobra_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> Les personnes déficientes visuelles (DV) restent marginalisées dans les parcours scientifiques, freinées par l'inaccessibilité des documents techniques et par l'absence de collaboration "équitable" avec les voyants. Si la conception participative est désormais une pratique courante, elle n'engage pas les utilisateurs DV comme co-chercheurs. Cet article présente l'application du partenariat épistémique (co-construction de savoirs) dans le cadre d'un projet ANR SAPS (Science Avec et Pour la Société) lié à l'accessibilité numérique. Notre contribution est méthodologique : nous opérationnalisons ce partenariat avec un niveau élevé d'exigence (constitution d'un collectif paritaire, gouvernance par non-dissensus, accessibilité intégrale du dispositif de recherche) ; nous démontrons la faisabilité de travaux empiriques rigoureux entièrement co-construits ; nous exploitons la réflexivité comme levier de conception, en transformant les difficultés d'awareness vécues dans le collectif en spécifications techniques. Cette approche renouvelle ainsi la recherche en accessibilité en répondant à l'ambition d'une science avec et pour la société.</p>
 </div>
@@ -210,6 +214,7 @@ address = {Aubervilliers \& Paris, France}
 <div class="publication-item" id="sadallah2026constraint">
 <p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2026). A Constraint-First Framework for Ethical Location-Based Recommender Systems in Technology-Enhanced Learning. <em>Preprint</em>. <a href="https://hal.science/hal-05716768">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026constraint_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/sadallah2026constraint.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2026constraint_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@misc{sadallah2026constraint,
   author = {Sadallah, Madjid and Lefevre, Marie},
@@ -224,6 +229,7 @@ address = {Aubervilliers \& Paris, France}
 <div class="publication-item" id="sadallah2026viewing">
 <p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2026). The Viewing-Response Gap: Sequential Behavioral Trace Evidence for Social Scaffolding Failure in Technology-Enhanced Learning. <em>Preprint</em>. <a href="https://hal.science/hal-05716764">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026viewing_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/sadallah2026viewing.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2026viewing_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@misc{sadallah2026viewing,
   author = {Sadallah, Madjid and Lefevre, Marie},
@@ -237,6 +243,7 @@ address = {Aubervilliers \& Paris, France}
 
 <div class="publication-item" id="sadallah2026focal">
 <p><strong>Sadallah, M., &amp; Encelle, B.</strong> (2026). FOCAL: a scored web application for objective–context alignment in assistive STEM technology. <em>Software</em>, version 1.0.0. <a href="https://hal.science/hal-05754052">HAL</a> — Repository: <a href="https://gitlab.liris.cnrs.fr/coobra/focal">GitLab LIRIS</a> (MIT License)</p>
+<p class="publication-abstract" style="margin-top:0.5rem;"><strong>Description.</strong> A scored web application supporting the Framework for Objective-Context ALignment (FOCAL) in assistive STEM education, providing an evaluation protocol for objective-context alignment across assistive technologies.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026focal_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="sadallah2026focal_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@softwareversion{sadallah2026focal,
@@ -258,9 +265,10 @@ address = {Aubervilliers \& Paris, France}
 <p><strong>Grassin, J-F., Chevalier, D., Cunty, C., Mathian, H., Scheffler, C., Lefevre, M., &amp; Sadallah, M.</strong> (2025). Mobiles: cartographie sensible et récits multimodaux. In <em>Des images et des mots, des mots sur les images de la mobilité académique</em>. Université de Fribourg, Suisse. <a href="https://hal.science/hal-05488824">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('grassin2025_abstract');" class="btn btn--primary">Abstract</a>
 <div id="grassin2025_abstract" style="display:none;" class="publication-abstract">
-<p><strong>Abstract.</strong> Notre proposition s'appuie sur le projet Mobiles qui s'attache à analyser la socialisation langagière d'étudiants internationaux en séjour d'immersion en France. L'hypothèse forte de cette recherche est qu'il convient de s'intéresser à l'hétérogénéité des pratiques socio-spatiales urbaines pour comprendre les processus de socialisation langagière. La socialisation des étudiants internationaux, immergés dans un nouveau contexte à la fois social et langagier est au cœur de notre problématique et nous cherchons à comprendre et analyser la matérialité et la spatialité de ces divers processus. La socialité s'instaure à travers les expériences partagées par les individus au sein d'espaces communs (Lussault, 2007), de communautés discursives et de pratiques (Duff, 2007). Considérant que l'espace est une performance collective (Besse, 2018), nous avons mis en place des formes et des situations collectives d'enquête pour comprendre les expériences des lieux et la manière dont la socialisation y était liée (Danos &amp; Grassin, 2024). De plus, tout espace est l'espace d'une enaction identitaire (Moje, 2004) et celui d'un apprentissage expérientiel (Lovett, 2020). Ces situations d'enquête nous ont permis de recueillir des « small stories » (Bamberg &amp; Georgakopoulou, 2008), récits courts, fragmentés et interactifs, qui mettent en évidence des orientations narratives vers le monde sensibles aux interactions avec l'environnement.</p>
+<p><strong>Abstract.</strong> Notre proposition s'appuie sur le projet Mobiles qui s'attache à analyser la socialisation langagière d'étudiants internationaux en séjour d'immersion en France. L'hypothèse forte de cette recherche est qu'il convient de s'intéresser à l'hétérogénéité des pratiques socio-spatiales urbaines pour comprendre les processus de socialisation langagière. La socialisation des étudiants internationaux, immergés dans un nouveau contexte à la fois social et langagier est au cœur de notre problématique et nous cherchons à comprendre et analyser la matérialité et la spatialité de ces divers processus. La socialité s'instaure à travers les expériences partagées par les individus au sein d'espaces communs (Lussault, 2007), de communautés discursives et de pratiques (Duff, 2007). Considérant que l'espace est une performance collective (Besse, 2018), nous avons mis en place des formes et des situations collectives d'enquête pour comprendre les expériences des lieux et la manière dont la socialisation y était liée (Danos &amp; Grassin, 2024). De plus, tout espace est l'espace d'une enaction identitaire (Moje, 2004) et celui d'un apprentissage expérientiel (Lovett, 2020). Ces situations d'enquête nous ont permis de recueillir des « small stories » (Bamberg &amp; Georgakopoulou, 2008), récits courts, fragmentés et interactifs, qui mettent en évidence des orientations narratives vers le monde sensibles aux interactions avec l'environnement. Après avoir présenté ces situations d'enquête socio-spatiale, nous présentons les ressources pédagogiques créées par le projet : 1/ des ateliers de cartographie ont été conçus pour la classe de langue autour de grandes cartes de la ville de Lyon (format A1) ; 2/ une application de cartographie participative fonctionnant comme un architexte propice au récit multimodal, permettant l'écriture de l'expérience entre un « montrer » et un « raconter » (Grassin &amp; Danos, 2024). En s'appuyant sur la participation et sur la dimension expérientielle de l'apprentissage, le dispositif relève d'une écologisation du design pédagogique (Paquelin, 2020) cherchant à favoriser l'engagement des sujets dans leur environnement et leur agentivité.</p>
 </div>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('grassin2025_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/grassin2025.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="grassin2025_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{grassin2025,
   author = {Grassin, Jean-Fran\c{c}ois and Chevalier, Dominique and Cunty, Claire and Mathian, H\'{e}l\`{e}ne and Scheffler, Camille and Lefevre, Marie and Sadallah, Madjid},
@@ -356,7 +364,13 @@ address = {Aubervilliers \& Paris, France}
 
 <div class="publication-item" id="sadallah2025usercentered">
 <p><strong>Sadallah, M.</strong> (2025). User-Centered Course Reengineering: An Analytical Approach to Enhancing Reading Comprehension in Educational Content. <em>ArXiv</em>. <a href="https://doi.org/10.48550/arXiv.2505.12064">doi:10.48550/arXiv.2505.12064</a></p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2025usercentered_abstract');" class="btn btn--primary">Abstract</a>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2025usercentered_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/sadallah2025usercentered.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<!-- TODO (Madjid): résumé reconstruit à partir de résumés tiers du papier, à vérifier/remplacer par le texte exact de l'abstract arXiv -->
+<div id="sadallah2025usercentered_abstract" style="display:none;" class="publication-abstract">
+<p><strong>Abstract.</strong> Course authors often struggle to detect where educational content hampers reading comprehension and how to revise it accordingly. This report proposes an analytical, user-centered approach to course reengineering that builds on an adaptive understanding framework combining situational awareness, sensemaking strategies, and metacognitive support. The approach leverages learning analytics and session-based indicators derived from learners' reading activity logs to help authors identify comprehension barriers and prioritize actionable revisions to their educational content.</p>
+</div>
 <div id="sadallah2025usercentered_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@misc{sadallah2025usercentered,
   author = {Sadallah, Madjid},
@@ -371,6 +385,7 @@ address = {Aubervilliers \& Paris, France}
 
 <div class="publication-item" id="garcia2025geomobiles">
 <p><strong>Garcia, C., Sadallah, M., Scheffler, C., Mathian, H., Cunty, C., Lefevre, M., Delianov, C., Bouamama, Y., Joliveau, T., Grassin, J-F., &amp; Chevalier, D.</strong> (2025). GéoMobiles : Une plateforme pour la visualisation et l'analyse exploratoire de données géospatiales participatives. <em>Software</em>. <a href="https://hal.science/hal-05127583">HAL</a></p>
+<p class="publication-abstract" style="margin-top:0.5rem;"><strong>Description.</strong> A software platform for the visualization and exploratory analysis of participatory geospatial data collected within the MOBILES project, developed to help researchers browse and interpret students' geolocated annotations.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('garcia2025geomobiles_bibtex');" class="btn btn--info">Bibtex</a>
 <div id="garcia2025geomobiles_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@misc{garcia2025geomobiles,
@@ -449,6 +464,7 @@ address = {Aubervilliers \& Paris, France}
 <div id="gilliot2024_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> Learning Analytics Dashboards (LAD) deserve increasing attention, yet their adoption remains limited. Designing effective LAD is a difficult process, and LADs often fail in turning insights into action. We argue that providing explicit decision-making features in a participatory design process may help to develop LADs supporting action. We first examine how the decision-making process is reflected on LADs. Second, we review the literature to identify major design space dimensions and examine how to include decision-making features. Third, we propose the DEFLAD design framework to synthesise this review which provides explicit decision-making features in three dimensions: goal expression as a situation awareness level, visualisation and related interactions, as support of decision-making process. Fourth, we consider how this framework is involved through every stage of a human-centred design (HCD) process to express and manage such features. The main contribution of this paper is to provide a framework integrating the decision-making features in a participatory design process of LADs. Furthermore, we demonstrate the implementation of our proposals through the development of a card-based toolkit to assist in the ideation phase of participatory design, and present feedback from participants of a workshop utilising this tool as a proof of concept.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('gilliot2024_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/gilliot2024.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="gilliot2024_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@article{gilliot2024,
   author = {Gilliot, Jean-Marie and Sadallah, Madjid},
@@ -470,6 +486,7 @@ address = {Aubervilliers \& Paris, France}
 <div id="maredj2024_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> This paper proposes a graph-based approach to determine the importance of each media in a multimedia document by expanding the traditional four-dimensional model with a dimension that captures the rhetorical relations between different media types. The proposed approach utilizes an algorithm to weight the media types based on their significance. The use of rhetorical structure theory enables the determination of the significance of each media type, making it useful for document adaptation, automatic composition, and automatic generation of summaries. The approach utilizes an extended orbits-based rhetorical structure that is a novel method for determining the importance of media types in multimedia documents.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2024_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/maredj2024.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="maredj2024_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@article{maredj2024,
   author = {Maredj, Azze-Eddine and Sadallah, Madjid and Tonkin, Nourreddine},
@@ -489,6 +506,7 @@ address = {Aubervilliers \& Paris, France}
 <div class="publication-item" id="sadallah2024personnalisation">
 <p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2024). Personnalisation de l'expérience dans MOBILES : approche systématique et indicateurs de performance des recommandations. <em>Research Report</em>, LIRIS UMR 5205 CNRS/INSA de Lyon/Université Claude Bernard Lyon 1/Université Lumière Lyon 2/École Centrale de Lyon. <a href="https://hal.science/hal-05129483">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2024personnalisation_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/sadallah2024personnalisation.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2024personnalisation_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@techreport{sadallah2024personnalisation,
   author = {Sadallah, Madjid and Lefevre, Marie},
@@ -508,6 +526,7 @@ address = {Aubervilliers \& Paris, France}
 <div id="sadallah2023learning_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> Learning path recommendation systems typically rely on predefined knowledge structures, limiting their adaptability to learners' actual needs. In this work, we propose an approach that infers a learning space from learners' interaction data and uses it to produce learning path recommendations. Building on Knowledge Space Theory (KST), the inferred learning space encodes prerequisite relationships among learning objects, enabling structured and personalised guidance. The inferred structure is exploited to recommend next learning steps that are both coherent with the learner's current knowledge state and aligned with the overall learning objectives. We evaluate the proposed approach and discuss its potential to improve the relevance and adaptability of learning path recommendations.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023learning_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/sadallah2023learning.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2023learning_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{sadallah2023learning,
   author = {Sadallah, Madjid and Smits, Gr\'{e}gory},
@@ -611,6 +630,7 @@ address = {Aubervilliers \& Paris, France}
 <div id="maredj2023set_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> In this paper, we propose a set of rhetorical relations to support applications such as automatic summary generation and content adaptation of a multimedia document. These relations have been proposed in the context of an educational environment. These rhetorical relations are integrated and handled as part of the logical dimension of the multimedia document. The proposal of these relations is motivated by the need to take into account the particularities inherent to: (1) the composition, editing and presentation of a multimedia document and (2) the educational context.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2023set_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/maredj2023set.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="maredj2023set_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@article{maredj2023set,
   author = {Maredj, Azze-Eddine and Sadallah, Madjid},
@@ -628,6 +648,7 @@ address = {Aubervilliers \& Paris, France}
 <div class="publication-item" id="scheffler2023cartotete">
 <p><strong>Scheffler, C., Danos, F., Grassin, J-F., Cunty, C., Mathian, H., Joliveau, T., Chevalier, D., Lefevre, M., &amp; Sadallah, M.</strong> (2023). Questionner le rapport entre socialisation langagière et représentations spatiales : l'expérience d'ateliers cartographiques avec des étudiant×es internationaux×ales. In <em>Cartotête 2023 "Représentations socio-spatiales et rapport à l'autre, aux autres"</em>. Lyon, France. <a href="https://hal.science/hal-05480583">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('scheffler2023cartotete_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/scheffler2023cartotete.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="scheffler2023cartotete_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{scheffler2023cartotete,
   author = {Scheffler, Camille and Danos, F\'{e}lix and Grassin, Jean-Fran\c{c}ois and Cunty, Claire and Mathian, H\'{e}l\`{e}ne and Joliveau, Thierry and Chevalier, Dominique and Lefevre, Marie and Sadallah, Madjid},
@@ -642,6 +663,7 @@ address = {Aubervilliers \& Paris, France}
 <div class="publication-item" id="sadallah2023metriques">
 <p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2023). Analyse exploratoire des métriques d'annotations dans MOBILES. <em>Research Report</em>, LIRIS UMR 5205 CNRS/INSA de Lyon/Université Claude Bernard Lyon 1/Université Lumière Lyon 2/École Centrale de Lyon. <a href="https://hal.science/hal-05129539">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023metriques_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/sadallah2023metriques.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2023metriques_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@techreport{sadallah2023metriques,
   author = {Sadallah, Madjid and Lefevre, Marie},
@@ -656,6 +678,7 @@ address = {Aubervilliers \& Paris, France}
 <div class="publication-item" id="sadallah2023traces">
 <p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2023). Définition et caractérisation du modèle de traces utilisateur pour l'application d'exploration urbaine MOBILES. <em>Research Report</em>, LIRIS UMR 5205 CNRS/INSA de Lyon/Université Claude Bernard Lyon 1/Université Lumière Lyon 2/École Centrale de Lyon. <a href="https://hal.science/hal-05120659">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023traces_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/sadallah2023traces.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2023traces_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@techreport{sadallah2023traces,
   author = {Sadallah, Madjid and Lefevre, Marie},
@@ -717,6 +740,7 @@ address = {Aubervilliers \& Paris, France}
 <div id="maredj2021_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> Un document multimédia intègre des entités de base de nature statique (texte, images, graphiques et tableaux) et de nature dynamique (vidéo, sons et animations), qui suivent une certaine organisation temporelle et spatiale. Ces documents sont généralement modélisés par quatre dimensions : la dimension logique, la dimension temporelle, la dimension spatiale et la dimension hypermédia. Avec le temps, de nouveaux besoins sont apparus dans l'utilisation des documents multimédia, notamment l'adaptation des documents, la composition, la recomposition, et la génération de résumé automatique. Les informations contenues dans ces quatre dimensions se révèlent insuffisantes pour répondre à ces besoins. Dans ce travail, nous proposons d'étendre ce modèle à cinq dimensions, en définissant une nouvelle dimension : la dimension annotation. Cette dernière comportera des informations sur le document, ses entités, son auteur et ses lecteurs, qui contribueront à la prise en charge des applications précitées.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2021_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/maredj2021cinquieme.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="maredj2021_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@article{maredj2021,
   author = {Maredj, Azze-Eddine and Sadallah, Madjid and Hamouche, Lamia},
@@ -736,6 +760,7 @@ address = {Aubervilliers \& Paris, France}
 <div class="publication-item" id="sadallah2020leveraging">
 <p><strong>Sadallah, M., Encelle, B., Maredj, A-E., &amp; Prié, Y.</strong> (2020). Leveraging Learners' Activity Logs for Course Reading Analytics Using Session-Based Indicators. <em>International Journal of Technology Enhanced Learning (IJTEL)</em>, 12(1), 53-78. <a href="https://doi.org/10.1504/IJTEL.2020.103815">doi:10.1504/IJTEL.2020.103815</a> — <a href="https://hal.science/hal-01984011">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2020leveraging_abstract');" class="btn btn--primary">Abstract</a>
+<a href="/media/papers/sadallah2020laveraging.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2020leveraging_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> A challenge that course authors face when reviewing their contents is to detect how to improve their courses in order to meet the expectations of their learners. In this paper, we propose an analytical approach that exploits learners' logs of reading to provide authors with insightful data about the consumption of their courses. We first model reading activity using the concept of reading-session and propose a new and efficient session identification. We then elaborate a list of indicators computed using learners' reading sessions that allow to represent their behaviour and to infer their needs. We evaluate our proposals with course authors and learners using logs from a major e-learning platform. Interesting results were found. This demonstrates the effectiveness of the approach in identifying aspects and parts of a course that may prevent it from being easily read and understood, and for guiding the authors through the analysis and review tasks.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2020leveraging_bibtex');" class="btn btn--info">Bibtex</a>
@@ -777,7 +802,12 @@ address = {Aubervilliers \& Paris, France}
 
 <div class="publication-item" id="sadallah2020coreada">
 <p><strong>Sadallah, M.</strong> (2020). Enhancing Course Revision: Introducing CoReaDa - an Advanced Reading Analytics Dashboard. <em>CERIST Research Report</em>. <a href="https://doi.org/10.35542/osf.io/9bkad">doi:10.35542/osf.io/9bkad</a></p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2020coreada_abstract');" class="btn btn--primary">Abstract</a>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2020coreada_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/coreada_arxiv.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<div id="sadallah2020coreada_abstract" style="display:none;" class="publication-abstract">
+<p><strong>Abstract.</strong> This report proposes a learning analytics approach to help course authors revise online courses. Learners' activity logs are analyzed to compute reading-session indicators that reveal potential comprehension barriers and suggest where content should be revised. These indicators are presented to authors through CoReaDa, a reading analytics dashboard with assistive visualization features. The approach was tested using logs from a major European e-learning platform, and results indicate that it improves authors' awareness of their courses' weak points and supports targeted content improvements that better fit learners' needs.</p>
+</div>
 <div id="sadallah2020coreada_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@techreport{sadallah2020coreada,
   author = {Sadallah, Madjid},
@@ -797,6 +827,7 @@ address = {Aubervilliers \& Paris, France}
 <div id="sadallah2019models_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> Providing high-quality content is of utmost importance to drive successful reading. Besides, designing documents that are received the way the author wishes has always been difficult, and the digital world increases this difficulty by multiplying the possibilities related to mixed medias and interactivity. This compels authors to continuously review the delivered content to meet readers' needs. Yet it remains challenging for them to detect the comprehension barriers that may exist within their documents, and to identify how these latter can be improved accordingly. In this thesis, we focus on an educational context, where reading is a fundamental activity and the basis of many other learning activities. We propose a learning analytics approach for assisting course authors to maintain their courses to sustain learning. The proposals are based on theoretical background originated from research on learning analytics, reading comprehension and content revision. We advocate "usage-based document reengineering", a process defined as a kind of reengineering that changes document content and structures based on the analysis of readers' usages as recorded in their reading traces.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2019models_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/sadallah2019phd.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2019models_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@phdthesis{sadallah2019models,
   author = {Sadallah, Madjid},
@@ -813,6 +844,7 @@ address = {Aubervilliers \& Paris, France}
 <div class="publication-item" id="sadallah2015towards">
 <p><strong>Sadallah, M., Encelle, B., Maredj, A-E., &amp; Prié, Y.</strong> (2015). Towards reading session-based indicators in educational reading analytics. In <em>10th European Conference on Technology Enhanced Learning (EC-TEL 2015)</em>, pages 297-310. Springer. <a href="https://doi.org/10.1007/978-3-319-24258-3_22">doi:10.1007/978-3-319-24258-3_22</a> — <a href="https://hal.science/hal-01157183">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2015towards_abstract');" class="btn btn--primary">Abstract</a>
+<a href="/media/papers/sadallah2015towards.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2015towards_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> It is a challenging task to identify eLearning courses parts that have to be revised to best suit learners' requirements. Reading being one of the most salient learning activities, one way of doing so is to study how learners consume courses. We intend to support course authors (e.g. teachers) during courses revision by providing them with reading indicators. We use the concept of reading session to denote a learner's active reading period, and we provide several associated reading indicators. In our server-side approach, reading sessions and indicators are calculated using web server logs. We evaluate the relevance of our proposals using logs from a major French eLearning platform. Results are promising: calculated reading sessions are theoretically more precise than other best applicable approaches, and course authors consider suggested indicators to be appropriate to courses revision.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2015towards_bibtex');" class="btn btn--info">Bibtex</a>
@@ -862,6 +894,7 @@ address = {Aubervilliers \& Paris, France}
 <div id="sadallah2013framework_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> This ongoing work investigates usage-based document reengineering as a means to support authors in modifying their documents. Document usages (i.e. usage feedbacks) cover readers' explicit annotations and their reading traces. We first describe a conceptual framework with various levels of assistance for document reengineering: indications on reading, problem detection, reconception suggestions and automatic reconception propositions, taking our example in e-learning document management. We then present a technical framework for usage-based document reengineering and its associated models for documents, annotations and traces representation.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2013framework_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/sadallah2013framework.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2013framework_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{sadallah2013framework,
   author = {Sadallah, Madjid and Encelle, Beno\^{\i}t and Maredj, Azze-Eddine and Pri\'{e}, Yannick},
@@ -879,7 +912,12 @@ address = {Aubervilliers \& Paris, France}
 
 <div class="publication-item" id="sadallah2013audiovisuelle">
 <p><strong>Sadallah, M., Maredj, A-E., Aubert, O., &amp; Prié, Y.</strong> (2013). Vers une Expérience Audiovisuelle Interactive sur le Web : Un Modèle à Base de Composants et un Langage de Spécification Déclaratif pour l'Hypervidéo. <em>CERIST Research Report</em>.</p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2013audiovisuelle_abstract');" class="btn btn--primary">Abstract</a>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2013audiovisuelle_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/sadallah2013chm_rist.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<div id="sadallah2013audiovisuelle_abstract" style="display:none;" class="publication-abstract">
+<p><strong>Abstract.</strong> Hypervideo, a form of hypermedia centered on interactive video, lacks a dedicated theoretical foundation: general hypermedia models are too broad to properly capture its specific features. This report proposes CHM (Component-based Hypervideo Model), a formal data model grounded in component-based modeling and annotation-driven content description, intended as a general and dedicated hypervideo data model. The report presents a Web-oriented implementation of CHM that serves as a proof of concept, showing how hypervideo features can be grafted onto video-based Web documents using standard, declarative Web technologies.</p>
+</div>
 <div id="sadallah2013audiovisuelle_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@techreport{sadallah2013audiovisuelle,
   author = {Sadallah, Madjid and Maredj, Azze-Eddine and Aubert, Olivier and Pri\'{e}, Yannick},
@@ -898,6 +936,7 @@ address = {Aubervilliers \& Paris, France}
 <div id="sadallah2011component_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> Hypervideo offers enhanced video-centric experiences. Usually defined from a hypermedia perspective, the lack of a dedicated specification hampers hypervideo domain and concepts from being broadly investigated. This article proposes a specialized hypervideo model that addresses hypervideo specificities. Following the principles of component-based modeling and annotation-driven content abstracting, the Component-based Hypervideo Model (CHM) that we propose is a high level representation of hypervideos that intends to provide a general and dedicated hypervideo data model.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2011component_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/sadallah2011component.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2011component_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{sadallah2011component,
   author = {Sadallah, Madjid and Aubert, Olivier and Pri\'{e}, Yannick},
@@ -919,6 +958,7 @@ address = {Aubervilliers \& Paris, France}
 <div id="sadallah2011hypervideo_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> Effective video-based Web information system deployment is still challenging, while the recent widespread of multimedia further raises the demand for new online audiovisual document edition and presentation alternatives. Hypervideo, a specialization of hypermedia focusing on video, can be used on the Web to provide a basis for video-centric documents and to allow more elaborated practices of online video. In this paper, we propose an annotation-driven model to conceptualize hypervideos, promoting a clear separation between video content/metadata and their various potential presentations. Using the proposed model, features of hypervideo are grafted to wider video-based Web documents in a Web standards-compliant manner.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2011hypervideo_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/sadallah2011hypervideo.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2011hypervideo_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{sadallah2011hypervideo,
   author = {Sadallah, Madjid and Aubert, Olivier and Pri\'{e}, Yannick},
@@ -942,6 +982,7 @@ address = {Aubervilliers \& Paris, France}
 <div id="maredj2010_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> Dans les standards et les systèmes multimédia actuels, le document est le plus souvent décrit selon une approche événementielle, d'où l'inadaptation de la programmation à la nature incrémentale du processus d'édition, la difficulté de la maintenance des documents ainsi produits et enfin les problèmes qu'ont les auteurs non-informaticiens pour les maîtriser. De plus, les travaux menés dans ce domaine se sont essentiellement focalisés sur la dimension temporelle, alors que le développement de tels systèmes devrait d'emblée considérer les quatre dimensions du document afin de mutualiser au mieux leur conception et leur implémentation. MediaStudio se veut une contribution au domaine de l'édition et de la présentation de documents multimédia interactifs à travers un ensemble de propositions pour pallier les insuffisances mentionnées.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2010_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/maredj2010mediastudio.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="maredj2010_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@article{maredj2010,
   author = {Maredj, Azze-Eddine and Tonkin, Nourreddine and Sadallah, Madjid},
@@ -960,6 +1001,7 @@ address = {Aubervilliers \& Paris, France}
 <div class="publication-item" id="maredj2008flexible">
 <p><strong>Maredj, A-E., Tonkin, N., Sadallah, M., &amp; Alimazighi, Z.</strong> (2008). A flexible distance for the spatial placement in a multimedia document. In <em>ICTTA 2008</em>, pages 1-4. IEEE. <a href="https://doi.org/10.1109/ICTTA.2008.4530102">doi:10.1109/ICTTA.2008.4530102</a> — <a href="https://hal.science/hal-02912372">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2008flexible_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/maredj2008flexible.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="maredj2008flexible_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{maredj2008flexible,
   author = {Maredj, Azze-Eddine and Tonkin, Nourreddine and Sadallah, Madjid and Alimazighi, Zaia},
@@ -977,6 +1019,7 @@ address = {Aubervilliers \& Paris, France}
 <div class="publication-item" id="maredj2008logique">
 <p><strong>Maredj, A-E., Alimazighi, Z., Tonkin, N., &amp; Sadallah, M.</strong> (2008). Un modèle logique de documents pour les interactions multimédia. In <em>JTEA'08</em>, pp. 1635-1639.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2008logique_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/maredj2008logique.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="maredj2008logique_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{maredj2008logique,
   author = {Maredj, Azze-Eddine and Alimazighi, Zaia and Tonkin, Nourreddine and Sadallah, Madjid},
@@ -992,7 +1035,12 @@ address = {Aubervilliers \& Paris, France}
 
 <div class="publication-item" id="maredj2007wahlrothermel">
 <p><strong>Maredj, A-E., Alimazighi, Z., &amp; Sadallah, M.</strong> (2007). Extension of the Wahl-Rothermel temporal model for the multimedia documents. In <em>ICTA 2007</em>, pages 257-261.</p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2007wahlrothermel_abstract');" class="btn btn--primary">Abstract</a>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2007wahlrothermel_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/maredj2007extension.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<div id="maredj2007wahlrothermel_abstract" style="display:none;" class="publication-abstract">
+<p><strong>Abstract.</strong> Multimedia presentations combine media with heterogeneous intrinsic or assigned timing behavior (text, images, animation, audio, video), and temporal composition is arguably their most important feature since it governs the overall scheduling of events. This paper extends the Wahl-Rothermel temporal model to express a richer set of temporal relationships between media objects, notably by proposing a new, more general definition of delay between synchronized elements.</p>
+</div>
 <div id="maredj2007wahlrothermel_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{maredj2007wahlrothermel,
   author = {Maredj, Azze-Eddine and Alimazighi, Zaia and Sadallah, Madjid},
