@@ -2,7 +2,7 @@
 title: Madjid Sadallah
 tagline: Ph.D., Researcher — AI & Education
 description: Research website of Madjid Sadallah — AI in Education, HCI, Learning Analytics, Accessibility
-url: "https://smadjid.github.io"
+url: "https://www.madjidsadallah.net"
 
 # Author
 author:
@@ -44,3 +44,7 @@ defaults:
       type: pages
     values:
       layout: page
+  - scope:
+      path: "media"
+    values:
+      sitemap: false
