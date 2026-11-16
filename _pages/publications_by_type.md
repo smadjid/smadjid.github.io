@@ -77,7 +77,7 @@ permalink: /publications_by_type/
 <p><strong>Abstract.</strong> This paper proposes a graph-based approach to determine the importance of each media in a multimedia document by expanding the traditional four-dimensional model with a dimension that captures the rhetorical relations between different media types. The proposed approach utilizes an algorithm to weight the media types based on their significance. The use of rhetorical structure theory enables the determination of the significance of each media type, making it useful for document adaptation, automatic composition, and automatic generation of summaries. The approach utilizes an extended orbits-based rhetorical structure that is a novel method for determining the importance of media types in multimedia documents. The proposed approach is effective in capturing the importance of each media type and can be utilized in a wide range of applications, making it a potential solution to the limitations of the traditional model. This research has implications for a range of applications, including document adaptation, automatic composition, and automatic generation of summaries.</p>
 </div>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2024_bibtex');" class="btn btn--info">Bibtex</a>
-<a href="/media/papers/maredj2024.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<a href="https://doi.org/10.1007/s10115-023-01984-6" target="_blank" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="maredj2024_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@article{maredj2024,
   author = {Maredj, Azze-Eddine and Sadallah, Madjid and Tonkin, Nourreddine},
@@ -325,6 +325,9 @@ series = {CHI EA '26}
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026csedu_bibtex');" class="btn btn--info">Bibtex</a>
 <a href="/media/papers/sadallah2026csedu.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2026csedu_abstract" style="display:none;" class="publication-abstract">
+<p><strong>Abstract.</strong> Assistive technologies for blind and visually impaired STEM learners often perform well in controlled studies but rarely reach sustained classroom use. Reviewing 25 empirical studies, this paper attributes the gap to tools being designed and judged by technical metrics that do not predict teaching success, identifying three recurring patterns: evaluation favoring technical performance over learning outcomes, research clustering around a narrow set of objectives, and designs that ignore the institutional settings where tools must be deployed. The authors name this the "technical capability fallacy" — the assumption that technical capability ensures pedagogical usefulness — and propose FOCAL, a corrective heuristic specifying what a tool must offer for each learning objective and educational context, starting with pedagogical diagnosis before technical development. They argue that success should be measured by fit with instructional, evaluative, and institutional constraints rather than by technical accessibility alone.</p>
+</div>
+<div id="sadallah2026csedu_abstract" style="display:none;" class="publication-abstract">
 <p><strong>Abstract.</strong> Assistive educational technologies for blind and visually impaired STEM learners perform well in controlled studies yet fail to achieve sustained classroom adoption. Analysis of 25 empirical studies reveals the cause: tools are designed and evaluated against technical metrics that do not predict pedagogical success. We term this the technical capability fallacy: the assumption that technical capability ensures pedagogical utility. To address this, we propose FOCAL (Framework for Objective-Context ALignment), which specifies what a tool must provide for each combination of learning objective and educational context.</p>
 </div>
 <div id="sadallah2026csedu_bibtex" style="display:none;" class="publication-bibtex">
@@ -399,7 +402,6 @@ series = {CHI EA '26}
 <p><strong>Abstract.</strong> Notre proposition s'appuie sur le projet Mobiles qui s'attache à analyser la socialisation langagière d'étudiants internationaux en séjour d'immersion en France. L'hypothèse forte de cette recherche est qu'il convient de s'intéresser à l'hétérogénéité des pratiques socio-spatiales urbaines pour comprendre les processus de socialisation langagière. La socialisation des étudiants internationaux, immergés dans un nouveau contexte à la fois social et langagier est au cœur de notre problématique et nous cherchons à comprendre et analyser la matérialité et la spatialité de ces divers processus. La socialité s'instaure à travers les expériences partagées par les individus au sein d'espaces communs (Lussault, 2007), de communautés discursives et de pratiques (Duff, 2007). Considérant que l'espace est une performance collective (Besse, 2018), nous avons mis en place des formes et des situations collectives d'enquête pour comprendre les expériences des lieux et la manière dont la socialisation y était liée (Danos &amp; Grassin, 2024). De plus, tout espace est l'espace d'une enaction identitaire (Moje, 2004) et celui d'un apprentissage expérientiel (Lovett, 2020). Ces situations d'enquête nous ont permis de recueillir des « small stories » (Bamberg &amp; Georgakopoulou, 2008), récits courts, fragmentés et interactifs, qui mettent en évidence des orientations narratives vers le monde sensibles aux interactions avec l'environnement. Après avoir présenté ces situations d'enquête socio-spatiale, nous présentons les ressources pédagogiques créées par le projet : 1/ des ateliers de cartographie ont été conçus pour la classe de langue autour de grandes cartes de la ville de Lyon (format A1) ; 2/ une application de cartographie participative fonctionnant comme un architexte propice au récit multimodal, permettant l'écriture de l'expérience entre un « montrer » et un « raconter » (Grassin &amp; Danos, 2024). En s'appuyant sur la participation et sur la dimension expérientielle de l'apprentissage, le dispositif relève d'une écologisation du design pédagogique (Paquelin, 2020) cherchant à favoriser l'engagement des sujets dans leur environnement et leur agentivité.</p>
 </div>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('grassin2025_bibtex');" class="btn btn--info">Bibtex</a>
-<a href="/media/papers/grassin2025.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="grassin2025_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{grassin2025,
   author = {Grassin, Jean-Fran\c{c}ois and Chevalier, Dominique and Cunty, Claire and Mathian, H\'{e}l\`{e}ne and Scheffler, Camille and Lefevre, Marie and Sadallah, Madjid},
@@ -500,7 +502,7 @@ series = {CHI EA '26}
 <p><strong>Abstract.</strong> Learning path recommendation systems typically rely on predefined knowledge structures, limiting their adaptability to learners' actual needs. In this work, we propose an approach that infers a learning space from learners' interaction data and uses it to produce learning path recommendations. Building on Knowledge Space Theory (KST), the inferred learning space encodes prerequisite relationships among learning objects, enabling structured and personalised guidance. The inferred structure is exploited to recommend next learning steps that are both coherent with the learner's current knowledge state and aligned with the overall learning objectives. We evaluate the proposed approach and discuss its potential to improve the relevance and adaptability of learning path recommendations.</p>
 </div>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023learning_bibtex');" class="btn btn--info">Bibtex</a>
-<a href="/media/papers/sadallah2023learning.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<a href="/media/papers/gilliot2024.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2023learning_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{sadallah2023learning,
   author = {Sadallah, Madjid and Smits, Gr\'{e}gory},
@@ -582,7 +584,6 @@ series = {CHI EA '26}
 <div class="publication-item" id="scheffler2023cartotete">
 <p><strong>Scheffler, C., Danos, F., Grassin, J-F., Cunty, C., Mathian, H., Joliveau, T., Chevalier, D., Lefevre, M., &amp; Sadallah, M.</strong> (2023). Questionner le rapport entre socialisation langagière et représentations spatiales : l'expérience d'ateliers cartographiques avec des étudiant×es internationaux×ales. In <em>Cartotête 2023 "Représentations socio-spatiales et rapport à l'autre, aux autres"</em>. Lyon, France. <a href="https://hal.science/hal-05480583">HAL</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('scheffler2023cartotete_bibtex');" class="btn btn--info">Bibtex</a>
-<a href="/media/papers/scheffler2023cartotete.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="scheffler2023cartotete_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{scheffler2023cartotete,
   author = {Scheffler, Camille and Danos, F\'{e}lix and Grassin, Jean-Fran\c{c}ois and Cunty, Claire and Mathian, H\'{e}l\`{e}ne and Joliveau, Thierry and Chevalier, Dominique and Lefevre, Marie and Sadallah, Madjid},
@@ -725,7 +726,6 @@ series = {CHI EA '26}
 <div class="publication-item" id="maredj2008logique">
 <p><strong>Maredj, A-E., Alimazighi, Z., Tonkin, N., &amp; Sadallah, M.</strong> (2008). Un modèle logique de documents pour les interactions multimédia. In <em>JTEA'08</em>, pp. 1635-1639.</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('maredj2008logique_bibtex');" class="btn btn--info">Bibtex</a>
-<a href="/media/papers/maredj2008logique.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="maredj2008logique_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@inproceedings{maredj2008logique,
   author = {Maredj, Azze-Eddine and Alimazighi, Zaia and Tonkin, Nourreddine and Sadallah, Madjid},
@@ -803,8 +803,12 @@ series = {CHI EA '26}
 
 <div class="publication-item" id="sadallah2026constraint">
 <p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2026). A Constraint-First Framework for Ethical Location-Based Recommender Systems in Technology-Enhanced Learning. <em>Preprint</em>. <a href="https://hal.science/hal-05716768">HAL</a></p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026constraint_abstract');" class="btn btn--primary">Abstract</a>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2026constraint_bibtex');" class="btn btn--info">Bibtex</a>
 <a href="/media/papers/sadallah2026constraint.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<div id="sadallah2026constraint_abstract" style="display:none;" class="publication-abstract">
+<p><strong>Abstract.</strong> Location-based recommender systems are increasingly used to support learning in physical settings, but their commercial design goals — maximizing engagement, efficiency, and data collection — can create pedagogical, ethical, and accessibility risks. This paper argues that educational validity, equity, and learner protection should be built into a system's structure before any algorithmic optimization occurs. Drawing on situated, embodied, and connectivist learning theories and on Universal Design for Learning, the authors compare educational and commercial recommender architectures to identify structural mismatches, from which they synthesize a normative framework. They identify five tensions — directive scripting versus learner agency, proximity optimization versus pedagogical relevance, algorithmic opacity versus pedagogical explainability, popularity bias versus equitable access, and surveillance versus learner protection — and propose a "constraint-first" processing hierarchy in which pedagogical validity, accessibility, fairness, and transparency act as non-negotiable gates defining the set of permissible recommendations before personalization and ranking take place. The paper offers an implementable architectural hypothesis that embeds ethical and pedagogical commitments by design rather than correcting for them afterward.</p>
+</div>
 <div id="sadallah2026constraint_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@misc{sadallah2026constraint,
   author = {Sadallah, Madjid and Lefevre, Marie},
@@ -831,23 +835,42 @@ series = {CHI EA '26}
 </div>
 </div>
 
+<div class="publication-item" id="sadallah2025auf">
+<p><strong>Sadallah, M.</strong> (2025). From Data to Actionable Understanding: A Learner-Centered Framework for Dynamic Learning Analytics. <em>ArXiv</em>. <a href="https://doi.org/10.48550/arXiv.2505.12064">doi:10.48550/arXiv.2505.12064</a></p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2025auf_abstract');" class="btn btn--primary">Abstract</a>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2025auf_bibtex');" class="btn btn--info">Bibtex</a>
+<a href="/media/papers/sadallah2025auf.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<div id="sadallah2025auf_abstract" style="display:none;" class="publication-abstract">
+<p><strong>Abstract.</strong> Learning Analytics Dashboards (LADs) often fall short of their potential to empower learners, frequently prioritizing data visualization over the cognitive processes crucial for translating data into actionable learning strategies. This represents a significant gap in the field: while much research has focused on data collection and presentation, there is a lack of comprehensive models for how LADs can actively support learners' sensemaking and self-regulation. This paper introduces the Adaptive Understanding Framework (AUF), a novel conceptual model for learner-centered LAD design. The AUF seeks to address this limitation by integrating a multi-dimensional model of situational awareness, dynamic sensemaking strategies, adaptive mechanisms, and metacognitive support, transforming LADs into dynamic learning partners that actively scaffold learners' sensemaking. Unlike existing frameworks that tend to treat these aspects in isolation, the AUF emphasizes their dynamic and intertwined relationships, creating a personalized and adaptive learning ecosystem that responds to individual needs and evolving understanding. The paper details the AUF's core principles and key components, and suggests a research agenda for future empirical validation. By fostering a deeper, more actionable understanding of learning data, AUF-inspired LADs have the potential to promote more effective, equitable, and engaging learning experiences.</p>
+</div>
+<div id="sadallah2025auf_bibtex" style="display:none;" class="publication-bibtex">
+<pre><code>@misc{sadallah2025auf,
+  author = {Sadallah, Madjid},
+  title = {From Data to Actionable Understanding: A Learner-Centered Framework for Dynamic Learning Analytics},
+  year = {2025},
+  eprint = {2505.12064},
+  archivePrefix = {arXiv},
+  doi = {10.48550/arXiv.2505.12064}
+}</code></pre>
+</div>
+</div>
+
 <div class="publication-item" id="sadallah2025usercentered">
-<p><strong>Sadallah, M.</strong> (2025). User-Centered Course Reengineering: An Analytical Approach to Enhancing Reading Comprehension in Educational Content. <em>ArXiv</em>. <a href="https://doi.org/10.48550/arXiv.2505.12064">doi:10.48550/arXiv.2505.12064</a></p>
+<p><strong>Sadallah, M.</strong> (2025). User-Centered Course Reengineering: An Analytical Approach to Enhancing Reading Comprehension in Educational Content. <em>ArXiv</em>. <a href="https://doi.org/10.48550/arXiv.2412.11944">doi:10.48550/arXiv.2412.11944</a></p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2025usercentered_abstract');" class="btn btn--primary">Abstract</a>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2025usercentered_bibtex');" class="btn btn--info">Bibtex</a>
 <a href="/media/papers/sadallah2025usercentered.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
-<!-- TODO (Madjid): résumé reconstruit à partir de résumés tiers du papier, à vérifier/remplacer par le texte exact de l'abstract arXiv -->
 <div id="sadallah2025usercentered_abstract" style="display:none;" class="publication-abstract">
-<p><strong>Abstract.</strong> Course authors often struggle to detect where educational content hampers reading comprehension and how to revise it accordingly. This report proposes an analytical, user-centered approach to course reengineering that builds on an adaptive understanding framework combining situational awareness, sensemaking strategies, and metacognitive support. The approach leverages learning analytics and session-based indicators derived from learners' reading activity logs to help authors identify comprehension barriers and prioritize actionable revisions to their educational content.</p>
+<p><strong>Abstract.</strong> High-quality educational content is essential for learners to understand material and succeed, yet ensuring that readers interpret content as intended by its authors remains difficult, especially with multimedia and interactive elements. Authors must continually revise their materials, but identifying comprehension barriers and deciding what to fix is challenging, particularly in education where reading is central. This work proposes an analytical framework to help course designers improve content, drawing on learning analytics, reading comprehension research, and content revision theory to introduce a usage-based document reengineering approach that adjusts a document's content and structure based on how readers actually interact with it. The approach defines reading sessions from digital reading traces and computes indicators that flag comprehension problems, surfaced through an interactive dashboard, CoReaDa, which gives authors tailored revision recommendations. The framework was implemented and evaluated using data from a European e-learning platform, with results suggesting it helps authors make targeted, data-driven revisions that better fit learners' needs.</p>
 </div>
 <div id="sadallah2025usercentered_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@misc{sadallah2025usercentered,
   author = {Sadallah, Madjid},
   title = {User-Centered Course Reengineering: An Analytical Approach to Enhancing Reading Comprehension in Educational Content},
   year = {2025},
-  eprint = {2505.12064},
+  eprint = {2412.11944},
   archivePrefix = {arXiv},
-  doi = {10.48550/arXiv.2505.12064}
+  doi = {10.48550/arXiv.2412.11944}
 }</code></pre>
 </div>
 </div>
@@ -965,7 +988,7 @@ series = {CHI EA '26}
 </div>
 
 <div class="publication-item" id="sadallah2022user">
-<p><strong>Sadallah, M.</strong> (2022). User-Centered Course Reengineering: An Analytical Approach to Enhancing Reading Comprehension in Educational Content. <em>PhD Research Report</em>. (See also arXiv:2505.12064, 2025)</p>
+<p><strong>Sadallah, M.</strong> (2022). User-Centered Course Reengineering: An Analytical Approach to Enhancing Reading Comprehension in Educational Content. <em>PhD Research Report</em>. (See also arXiv:2412.11944, 2025)</p>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2022user_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2022user.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 <div id="sadallah2022user_abstract" style="display:none;" class="publication-abstract">
@@ -1003,8 +1026,12 @@ series = {CHI EA '26}
 
 <div class="publication-item" id="sadallah2024personnalisation">
 <p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2024). Personnalisation de l'expérience dans MOBILES : approche systématique et indicateurs de performance des recommandations. <em>Research Report</em>, LIRIS UMR 5205 CNRS/INSA de Lyon/Université Claude Bernard Lyon 1/Université Lumière Lyon 2/École Centrale de Lyon. <a href="https://hal.science/hal-05129483">HAL</a></p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2024personnalisation_abstract');" class="btn btn--primary">Abstract</a>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2024personnalisation_bibtex');" class="btn btn--info">Bibtex</a>
 <a href="/media/papers/sadallah2024personnalisation.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<div id="sadallah2024personnalisation_abstract" style="display:none;" class="publication-abstract">
+<p><strong>Abstract.</strong> This report describes a systematic approach to improving user experience in MOBILES, a mobile application that helps international students explore and document their urban surroundings, through personalized recommendations based on the content users consume and how they interact with the app. The recommendations are organized into six strategic categories targeting different stages of the user journey: onboarding and integration of new users, sustained engagement, quality of contributions, urban discovery, interaction and reflection, and continuous improvement of app performance and recommendation algorithms. Each strategy comes with quantitative indicators, activation conditions, sample recommendation messages, and impact-evaluation methods, so that each interaction point feels smoother and more relevant to the individual learner.</p>
+</div>
 <div id="sadallah2024personnalisation_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@techreport{sadallah2024personnalisation,
   author = {Sadallah, Madjid and Lefevre, Marie},
@@ -1018,8 +1045,12 @@ series = {CHI EA '26}
 
 <div class="publication-item" id="sadallah2023metriques">
 <p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2023). Analyse exploratoire des métriques d'annotations dans MOBILES. <em>Research Report</em>, LIRIS UMR 5205 CNRS/INSA de Lyon/Université Claude Bernard Lyon 1/Université Lumière Lyon 2/École Centrale de Lyon. <a href="https://hal.science/hal-05129539">HAL</a></p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023metriques_abstract');" class="btn btn--primary">Abstract</a>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023metriques_bibtex');" class="btn btn--info">Bibtex</a>
 <a href="/media/papers/sadallah2023metriques.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<div id="sadallah2023metriques_abstract" style="display:none;" class="publication-abstract">
+<p><strong>Abstract.</strong> This report characterizes user-generated annotations (posts) in MOBILES, an urban exploration app for international students, through a multidimensional set of metrics covering text (volume, lexical diversity, richness, syntactic complexity), icons (diversity, social emphasis, activity dynamics), tags (influence, sentiment, aesthetics), and context/expressiveness (emotional and graphical cues). The analyses combine descriptive statistics, correlation studies, multiple linear regressions, predictive models for lexical volume (linear regression, decision trees, random forests, gradient boosting, neural networks), and K-Means clustering. Key findings show that syntactic depth negatively affects lexico-syntactic harmony, that tag aesthetics strongly predicts positive sentiment, and that linear regression and random forests perform best at predicting lexical volume, while clustering is only weakly separated, with spatial and temporal context as the strongest discriminators. The authors conclude that these metrics provide a useful basis for understanding user behavior and improving MOBILES, while noting limitations such as sample size, proxy-based metric definitions, and the inability to infer causality.</p>
+</div>
 <div id="sadallah2023metriques_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@techreport{sadallah2023metriques,
   author = {Sadallah, Madjid and Lefevre, Marie},
@@ -1033,8 +1064,12 @@ series = {CHI EA '26}
 
 <div class="publication-item" id="sadallah2023traces">
 <p><strong>Sadallah, M., &amp; Lefevre, M.</strong> (2023). Définition et caractérisation du modèle de traces utilisateur pour l'application d'exploration urbaine MOBILES. <em>Research Report</em>, LIRIS UMR 5205 CNRS/INSA de Lyon/Université Claude Bernard Lyon 1/Université Lumière Lyon 2/École Centrale de Lyon. <a href="https://hal.science/hal-05120659">HAL</a></p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023traces_abstract');" class="btn btn--primary">Abstract</a>
 <a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2023traces_bibtex');" class="btn btn--info">Bibtex</a>
 <a href="/media/papers/sadallah2023traces.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<div id="sadallah2023traces_abstract" style="display:none;" class="publication-abstract">
+<p><strong>Abstract.</strong> This report specifies the trace model for MOBILES, an application that helps international students explore cities. Built on the KTBS (Knowledge Trace Base System) framework, the model formally defines how user interactions are recorded, cataloging the observation types for key app actions and the attributes of each, from spatial coordinates to personal information. The goal is to produce consistent, standardized, and semantically rich activity traces that provide a solid basis for analyzing user behavior and managing the application's data.</p>
+</div>
 <div id="sadallah2023traces_bibtex" style="display:none;" class="publication-bibtex">
 <pre><code>@techreport{sadallah2023traces,
   author = {Sadallah, Madjid and Lefevre, Marie},
@@ -1062,6 +1097,11 @@ series = {CHI EA '26}
   institution = {CERIST}
 }</code></pre>
 </div>
+</div>
+
+<div class="publication-item" id="sadallah2011magister">
+<p><strong>Sadallah, M.</strong> (2011). Models and Documentary Tools for Hypervideos on the Web. <em>Magister Thesis</em>, CERIST / USTHB.</p>
+<a href="/media/papers/sadallah2011magister.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
 </div>
 
 </div>
