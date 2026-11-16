@@ -44,7 +44,3 @@ defaults:
       type: pages
     values:
       layout: page
-  - scope:
-      path: "media"
-    values:
-      sitemap: false
