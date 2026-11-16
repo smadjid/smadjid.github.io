@@ -1011,8 +1011,12 @@ address = {Aubervilliers \& Paris, France}
 </div>
 
 <div class="publication-item" id="sadallah2011magister">
-<p><strong>Sadallah, M.</strong> (2011). Models and Documentary Tools for Hypervideos on the Web. <em>Magister Thesis</em>, CERIST / USTHB.</p>
+<p><strong>Sadallah, M.</strong> (2011). Models and Documentary Tools for Hypervideos on the Web. <em>Magister Thesis</em>, Université de Bejaia, Algeria.</p>
+<a style="cursor:pointer;cursor:hand;" onclick="toggle_visibility('sadallah2011magister_abstract');" class="btn btn--primary">Abstract</a>
 <a href="/media/papers/sadallah2011magister.pdf" style="color:white" class="btn btn--warning">Fulltext</a>
+<div id="sadallah2011magister_abstract" style="display:none;" class="publication-abstract">
+<p><strong>Abstract.</strong> This Magister thesis addresses hypervideo on the Web, proposing CHM (Component-based Hypervideo Model), a generic, component-based document model that uses annotations as the foundation for structuring video and integrating it into hypermedia spaces. The model is validated through WebCHM, a Web-based prototype built on the Advene annotation platform, demonstrating how hypervideo features can be grafted onto video-based Web documents using standard, declarative Web technologies.</p>
+</div>
 </div>
 
 <div class="publication-year">2010</div>
